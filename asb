@@ -2,13 +2,13 @@
 "name": "asb",
 "author": "asb",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deporte     s_por_Movistar_Plus%2B_2022_logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
-"url": "http://192.168.1.20/asb.w3u",
+"url": "https:///raw.githubusercontent.com/asanber/diabluras/main/asb",
 "telegram": "@asb",
 "info":"@asb",
 "groups":
     [
         {
-         "name": "GEN_Sun22Oct_202310221557",
+         "name": "GEN_Sun22Oct_202310221558",
          "info": "",
          "stations": [{}] 
         },
@@ -20,35 +20,35 @@
         {
          "name": "caza",
          "image": "https://static.epg.best/es/CazaPesca.es.png",
-         "url": "http://192.168.1.20/caza.m3u",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/caza",
          "info":"caza",
          "import": true
         },
         {
          "name": "golf",
          "image": "https://docdog.top/Logotv/countries/spain/movistar-golf-es.png",
-         "url": "http://192.168.1.20/golf.m3u",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/golf",
          "info":"golf",
          "import": true
         },
         {
          "name": "hunt",
          "image": "https://static.epg.best/es/CazaPesca.es.png",
-         "url": "http://192.168.1.20/hunt.m3u",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/hunt",
          "info":"hunt",
          "import": true
         },
         {
          "name": "laliga",
          "image": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
-         "url": "http://192.168.1.20/laliga.m3u",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/laliga",
          "info":"laliga",
          "import": true
         },
         {
          "name": "docu",
          "image": "http://ceoapps.org/logos/natgeo.png",
-         "url": "http://192.168.1.20/docu.m3u",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/docu",
          "info":"docu",
          "import": true
         }
