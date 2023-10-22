@@ -8,7 +8,7 @@
 "groups":
     [
         {
-         "name": "GEN_Sun22Oct_202310221606",
+         "name": "GEN_Sun22Oct_202310221622",
          "info": "",
          "stations": [{}] 
         },
@@ -50,6 +50,13 @@
          "image": "http://ceoapps.org/logos/natgeo.png",
          "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/docu",
          "info":"docu",
+         "import": true
+        },
+        {
+         "name": "toros",
+         "image": "https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/toros",
+         "info":"toros",
          "import": true
         }
     ]
