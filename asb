@@ -8,7 +8,7 @@
 "groups":
     [
         {
-         "name": "GEN_Sun22Oct_202310221906",
+         "name": "GEN_Sun22Oct_202310222016",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -60,6 +60,33 @@
          "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/toros",
          "info":"toros",
          "import": true
+        },
+        {
+         "name": "Listas",
+         "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
+         "info": "",
+         "groups": [
+             {
+             "name": "Chuky deporte",
+             "url": "https://pastebin.com/raw/FQyBFGjR"
+             },
+             {
+             "name": "Chuky cine",
+             "url": "https://pastebin.com/raw/fLchA7yv"
+             },
+             {
+             "name": "TiriStar",
+             "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
+             },
+             {
+             "name": "Megalista",
+             "url": "https://megalistawiseplay.vercel.app/megalista.w3u"
+             },
+             {
+             "name": "TDTChannels",
+             "url": "https://www.tdtchannels.com/lists/tv.w3u"
+             }
+             ] 
         }
     ]
 }
