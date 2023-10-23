@@ -11,7 +11,7 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2100018
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
 http://185.155.103.50:8080/UzielLCH/UzielLCH/10948
 --
-#EXTINF:-1 tvg-id="" tvg-name="S | The Golf Channel" tvg-logo="http://viperos.net:8080/images/1f27135c1fbab7ed6325f8722a716be3.png" group-title="TV | USA Sports",S | The Golf Channel
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="S | The Golf Channel" tvg-logo="http://ceoapps.org/logos/golfchannel.png" group-title="TV | USA Sports",S | The Golf Channel
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2100017
 --
 #EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
@@ -57,12 +57,6 @@ http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/276042
 #EXTINF:-1 tvg-id="" tvg-name="41 | Golf Network" tvg-logo="https://i.imgur.com/KARkvfS.png" group-title="DEPORTES PREMIUM | HD",41 | Golf Network
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/318934
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf"  "Eventos 2023-10-21 05:30:00"  Golf"  Eventos 2023-10-21 05:30:00"  Golf"  "Eventos 2023-10-21 05:30:00"  Golf" tvg-logo="https://panamericanworld.com/wp-content/uploads/2023/01/calendario-deportivo.jpg?ezimgfmt=ng:webp/ngcb1/rs:device/rscb1-2" group-title="EVENTOS DIARIOS",Golf"  "Eventos 2023-10-21 05:30:00"  Golf"  Eventos 2023-10-21 05:30:00"  Golf"  "Eventos 2023-10-21 05:30:00"  Golf
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/319029
---
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf" tvg-logo="https://panamericanworld.com/wp-content/uploads/2023/01/calendario-deportivo.jpg?ezimgfmt=ng:webp/ngcb1/rs:device/rscb1-2" group-title="EVENTOS DIARIOS",PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/319037
---
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL USA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s65385_ll_h3_aa.png" group-title="USA | SPORTS ᴴᴰ",GOLF CHANNEL USA FHD
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/319226
 --
@@ -95,12 +89,6 @@ http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/276042
 #EXTINF:-1 tvg-id="" tvg-name="41 | Golf Network" tvg-logo="https://i.imgur.com/KARkvfS.png" group-title="DEPORTES PREMIUM | HD",41 | Golf Network
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/318934
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf"  "Eventos 2023-10-21 05:30:00"  Golf"  Eventos 2023-10-21 05:30:00"  Golf"  "Eventos 2023-10-21 05:30:00"  Golf" tvg-logo="https://panamericanworld.com/wp-content/uploads/2023/01/calendario-deportivo.jpg?ezimgfmt=ng:webp/ngcb1/rs:device/rscb1-2" group-title="EVENTOS DIARIOS",Golf"  "Eventos 2023-10-21 05:30:00"  Golf"  Eventos 2023-10-21 05:30:00"  Golf"  "Eventos 2023-10-21 05:30:00"  Golf
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/319029
---
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf" tvg-logo="https://panamericanworld.com/wp-content/uploads/2023/01/calendario-deportivo.jpg?ezimgfmt=ng:webp/ngcb1/rs:device/rscb1-2" group-title="EVENTOS DIARIOS",PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/319037
---
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL USA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s65385_ll_h3_aa.png" group-title="USA | SPORTS ᴴᴰ",GOLF CHANNEL USA FHD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/319226
 --
@@ -129,12 +117,6 @@ http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/276042
 --
 #EXTINF:-1,41 | Golf Network
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/318934
---
-#EXTINF:-1,Golf"  "Eventos 2023-10-21 05:30:00"  Golf"  Eventos 2023-10-21 05:30:00"  Golf"  "Eventos 2023-10-21 05:30:00"  Golf
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/319029
---
-#EXTINF:-1,PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/319037
 --
 #EXTINF:-1,GOLF CHANNEL USA FHD
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/319226
@@ -357,11 +339,6 @@ http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/213753
 #EXTINF:-1 tvg-id="" tvg-name="GOLF por M+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1280px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",GOLF por M+ FHD
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/213754
 --
-#EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",27- MOVISTAR GOLF EXTRA
-http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/219130
-#EXTINF:-1 tvg-id="" tvg-name="26- MOVISTAR GOLF" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",26- MOVISTAR GOLF
-http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/219131
---
 #EXTINF:-1 tvg-id="" tvg-name="|US| GOLF CHANNEL HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| GOLF CHANNEL HD
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/220264
 --
@@ -369,6 +346,19 @@ http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/220264
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/220344
 #EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF PASS FHD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| NBC GOLF PASS FHD
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/220345
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf SD
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233298
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf HD
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233299
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf FHD
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233300
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 SD
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233301
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 HD
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233302
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 FHD
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233303
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: GOLF Channel HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="││TV││ ⛹️CANADA SPORTS ⛹️",CA: GOLF Channel HD
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/30671
@@ -384,11 +374,6 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/213753
 #EXTINF:-1 tvg-id="" tvg-name="GOLF por M+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1280px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",GOLF por M+ FHD
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/213754
 --
-#EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",27- MOVISTAR GOLF EXTRA
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219130
-#EXTINF:-1 tvg-id="" tvg-name="26- MOVISTAR GOLF" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",26- MOVISTAR GOLF
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219131
---
 #EXTINF:-1 tvg-id="" tvg-name="|US| GOLF CHANNEL HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| GOLF CHANNEL HD
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/220264
 --
@@ -396,6 +381,24 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/220264
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/220344
 #EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF PASS FHD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| NBC GOLF PASS FHD
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/220345
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf SD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233298
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233299
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233300
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 SD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233301
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233302
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233303
+--
+#EXTINF:-1 tvg-id="M+ GOLF" tvg-name="ES : M+ GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png" group-title="ZAPEANDO MOVISTAR",ES : M+ GOLF
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46542
+#EXTINF:-1 tvg-id="M. GOLF 2" tvg-name="ES : M+ GOLF 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ZAPEANDO MOVISTAR",ES : M+ GOLF 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46543
 --
 #EXTINF:-1 tvg-id="" tvg-name="M+ GOLF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/277
@@ -475,12 +478,6 @@ http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/276042
 --
 #EXTINF:-1 tvg-id="" tvg-name="41 | Golf Network" tvg-logo="https://i.imgur.com/KARkvfS.png" group-title="DEPORTES PREMIUM | HD",41 | Golf Network
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/318934
---
-#EXTINF:-1 tvg-id="" tvg-name="Golf"  "Eventos 2023-10-21 05:30:00"  Golf"  Eventos 2023-10-21 05:30:00"  Golf"  "Eventos 2023-10-21 05:30:00"  Golf" tvg-logo="https://panamericanworld.com/wp-content/uploads/2023/01/calendario-deportivo.jpg?ezimgfmt=ng:webp/ngcb1/rs:device/rscb1-2" group-title="EVENTOS DIARIOS",Golf"  "Eventos 2023-10-21 05:30:00"  Golf"  Eventos 2023-10-21 05:30:00"  Golf"  "Eventos 2023-10-21 05:30:00"  Golf
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/319029
---
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf" tvg-logo="https://panamericanworld.com/wp-content/uploads/2023/01/calendario-deportivo.jpg?ezimgfmt=ng:webp/ngcb1/rs:device/rscb1-2" group-title="EVENTOS DIARIOS",PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  Eventos 2023-10-21 21:00:00"  PGA Tour Golf"  "Eventos 2023-10-21 21:00:00"  PGA Tour Golf
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/319037
 --
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL USA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s65385_ll_h3_aa.png" group-title="USA | SPORTS ᴴᴰ",GOLF CHANNEL USA FHD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/319226

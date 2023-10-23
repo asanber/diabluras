@@ -24,9 +24,6 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2168355
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:00 PM | NHL | Tampa Bay Lightning vs Toronto Maple Leafs" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nhl-1-logo-black-and-white.png" group-title="TV | PPV NHL",05:00 PM | NHL | Tampa Bay Lightning vs Toronto Maple Leafs
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2189992
---
 #EXTINF:-1 tvg-id="" tvg-name="ES |  TOROS SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANA_DOCUMENTALES/TOROS_SD.png" group-title=" ES | ESPAÑA DOCUMENTALES",ES |  TOROS SD
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96424
 #EXTINF:-1 tvg-id="" tvg-name="ES |  TOROS HD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANA_DOCUMENTALES/TOROS_HD.png" group-title=" ES | ESPAÑA DOCUMENTALES",ES |  TOROS HD
@@ -101,9 +98,6 @@ http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/292016
 #EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN|  CBC TORONTO HD" tvg-logo="" group-title="CANADA",(VIP) CAN|  CBC TORONTO HD
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/292018
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="EVENTOS DIARIOS",USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/319070
---
 #EXTINF:-1 tvg-id="" tvg-name="||PT|| Toros TV" tvg-logo="" group-title="PORTUGAL",||PT|| Toros TV
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284663
 --
@@ -134,9 +128,6 @@ http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/292016
 #EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN|  CBC TORONTO HD" tvg-logo="" group-title="CANADA",(VIP) CAN|  CBC TORONTO HD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/292018
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="EVENTOS DIARIOS",USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/319070
---
 #EXTINF:-1 tvg-id="" tvg-name="||PT|| Toros TV" tvg-logo="" group-title="PORTUGAL",||PT|| Toros TV
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284663
 --
@@ -166,9 +157,6 @@ http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/292016
 --
 #EXTINF:-1,(VIP) CAN|  CBC TORONTO HD
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/292018
---
-#EXTINF:-1,USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/319070
 --
 #EXTINF:-1,||PT|| Toros TV
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284663
@@ -242,9 +230,6 @@ http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/138340
 #EXTINF:-1,MLB| Toronto-BlueJays
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162964
 --
-#EXTINF:-1,MLS 8 Toronto vs. Orlando
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/188472
---
 #EXTINF:-1,ESP-4: ONETORO TV FULL HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4362
 --
@@ -298,8 +283,8 @@ http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/30754
 #EXTINF:-1 tvg-id="" tvg-name="CA: BBC Toronto Gaunda Punjab" tvg-logo="http://tvstar.cc:8880/chimg/5521059770.png" group-title="││TV││CANADA",CA: BBC Toronto Gaunda Punjab
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/30780
 --
-#EXTINF:-1 tvg-id="" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="││TV││ TDT ESPAÑA",31- EL TORO TV
-http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/219051
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="││TV││ TDT ESPAÑA",EL TORO TV
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233225
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/213774
@@ -324,11 +309,14 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/30754
 #EXTINF:-1 tvg-id="" tvg-name="CA: BBC Toronto Gaunda Punjab" tvg-logo="http://tvstar.cc:8880/chimg/5521059770.png" group-title="││TV││CANADA",CA: BBC Toronto Gaunda Punjab
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/30780
 --
-#EXTINF:-1 tvg-id="" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="││TV││ TDT ESPAÑA",31- EL TORO TV
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219051
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="││TV││ TDT ESPAÑA",EL TORO TV
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233225
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/213774
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46601
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/347
@@ -396,9 +384,6 @@ http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/292016
 --
 #EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN|  CBC TORONTO HD" tvg-logo="" group-title="CANADA",(VIP) CAN|  CBC TORONTO HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/292018
---
-#EXTINF:-1 tvg-id="" tvg-name="USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="EVENTOS DIARIOS",USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/319070
 --
 #EXTINF:-1 tvg-id="" tvg-name="||PT|| Toros TV" tvg-logo="" group-title="PORTUGAL",||PT|| Toros TV
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284663
@@ -484,7 +469,7 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/126151
 --
-#EXTINF:-1 tvg-id="ext" tvg-name="SP: La Liga: Barça TV" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Barça TV
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="D| beIN Sports USA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV  | Beins Sports",D| beIN Sports USA
 --
 #EXTINF:-1 tvg-id="ext" tvg-name="MLS 5 | October 7 4:30 pm | New York vs. Toronto" tvg-logo="http://live.detodotvplay.com:8080/images/af7fee747519edcd4dbeb6b8f5c72fed.png" group-title="TV | PPV MLS",MLS 5 | October 7 4:30 pm | New York vs. Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2189214
@@ -574,24 +559,6 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/31440
 #EXTINF:-1,NHL Toronto Maple Leafs
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/31472
 --
-#EXTINF:-1,NHL 06 | Tampa Bay Lightning Vs Toronto Maple Leafs | 7.00PM ET | SAT
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45423
---
-#EXTINF:-1,NHL 06: Toronto Maple Leafs vs Tampa Bay Lightning - 07:00 PM ET
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45439
---
-#EXTINF:-1,NHL 06: Toronto Maple Leafs vs Tampa Bay Lightning - 07:00 PM ET
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45455
---
-#EXTINF:-1,USA Real NHL 10: Toronto Maple Leafs VS Tampa Bay Lightning (NHLN Feed ) @ 19:00
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45476
-#EXTINF:-1,USA Real NHL 11: Toronto Maple Leafs VS Tampa Bay Lightning (SNW Feed ) @ 19:00
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45477
-#EXTINF:-1,USA Real NHL 12: Toronto Maple Leafs VS Tampa Bay Lightning (BSSUN Feed ) @ 19:00
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45478
-#EXTINF:-1,USA Real NHL 13: Toronto Maple Leafs VS Tampa Bay Lightning (Toronto Feed ) @ 19:00
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45479
---
 #EXTINF:-1,USA: MLB TORONTO BLUE JAYS
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/31287
 --
@@ -606,9 +573,6 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/31406
 --
 #EXTINF:-1,USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
---
-#EXTINF:-1,USA | NHL Game 05ⓧ: Toronto @ Tampa Bay | Sat Oct 21st 07:00 PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/737
 --
 #EXTINF:-1,USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -668,9 +632,6 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 05ⓧ: Toronto @ Tampa Bay | Sat Oct 21st 07:00 PM ET" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 05ⓧ: Toronto @ Tampa Bay | Sat Oct 21st 07:00 PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/737
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -773,11 +734,6 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/572239
 --
 #EXTINF:-1 tvg-id="" tvg-name="NBA_04 | 17:30 Washington Wizards Toronto Raptors" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdnHXBOq_R2VDvdaud-bHp7gWWXcuENrYqwXLujK9aOJRt_GG2fbqBXzzhMf-ut4cxw.png" group-title="▶️ | NBA ( SOLO EVENTOS)",NBA_04 | 17:30 Washington Wizards Toronto Raptors
 http://zona593ec.online:8080/Jhontv/Jhon20231@/572273
---
-#EXTINF:-1 tvg-id="" tvg-name="MLS 7 | October 21 2:30 pm | Toronto vs. Orlando" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKibmUjKFjYpmlYD9B1CkVur.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",MLS 7 | October 21 2:30 pm | Toronto vs. Orlando
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572411
-#EXTINF:-1 tvg-id="" tvg-name="MLS 7 | October 21 2:30 pm | Toronto vs. Orlando" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKibmUjKFjYpmlYD9B1CkVur.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",MLS 7 | October 21 2:30 pm | Toronto vs. Orlando
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572412
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
