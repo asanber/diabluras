@@ -75,25 +75,13 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://185.155.103.50:8080/UzielLCH/UzielLCH/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:50 AM | LAS PALMAS VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",05:50 AM | LAS PALMAS VS RAYO VALLECANO (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190142
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - LAS PALMAS VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",05:55 AM | EN ESPAñOL - LAS PALMAS VS RAYO VALLECANO (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190143
+#EXTINF:-1 tvg-id="" tvg-name="12:50 PM | VALENCIA VS CADIZ (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",12:50 PM | VALENCIA VS CADIZ (LALIGA)
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2190202
+#EXTINF:-1 tvg-id="" tvg-name="12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/ccbc7e6d769a1729e2e3beb4a615f0c0.png" group-title="TV | PPV La Liga",12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2190203
 --
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - GIRONA VS ALMERíA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:00 AM | EN ESPAñOL - GIRONA VS ALMERíA (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190146
-#EXTINF:-1 tvg-id="" tvg-name="08:05 AM | GIRONA VS ALMERíA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:05 AM | GIRONA VS ALMERíA (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190147
---
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - VILLARREAL VS ALAVéS (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",10:15 AM | EN ESPAñOL - VILLARREAL VS ALAVéS (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190149
-#EXTINF:-1 tvg-id="" tvg-name="10:20 AM | VILLARREAL VS ALAVéS (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",10:20 AM | VILLARREAL VS ALAVéS (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190150
---
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | FC BARCELONA VS ATHLETIC CLUB (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",12:30 PM | FC BARCELONA VS ATHLETIC CLUB (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190152
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - FC BARCELONA VS ATHLETIC CLUB (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",12:30 PM | EN ESPAñOL - FC BARCELONA VS ATHLETIC CLUB (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190153
+#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento" tvg-logo="" group-title="TV | EVENTOS",Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2190219
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES |  DAZN LA LIGA SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_DEPORTES/SD_DAZN_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES |  DAZN LA LIGA SD
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151335
@@ -421,148 +409,6 @@ http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/453253
 #EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 3 FHD" tvg-logo="https://i.postimg.cc/qvCnSyGF/HYPERMOTION.png" group-title="LA LIGA HYPERMOTION",HYPERMOTION 3 FHD
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/453254
 --
-#EXTINF:-1 tvg-id="" tvg-name="05 | MOVISTAR LA LIGA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/175px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="DEPORTES PREMIUM | HD",05 | MOVISTAR LA LIGA | HD
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/2690
---
-#EXTINF:-1 tvg-id="" tvg-name="07 | DAZN LIGA 1 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="DAZN",07 | DAZN LIGA 1 HD
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/282090
---
-#EXTINF:-1 tvg-id="" tvg-name="09 | DAZN LIGA 2" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",09 | DAZN LIGA 2
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/282092
-#EXTINF:-1 tvg-id="" tvg-name="10 | DAZN LIGA 2 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",10 | DAZN LIGA 2 HD
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/282093
---
-#EXTINF:-1 tvg-id="" tvg-name="⚽M + BARCA TV |" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽M + BARCA TV |
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284066
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquMe6NG6YWOPNF8t4AanDi7h_56Y0KUbySw&usqp=CAU" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LA LIGA
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284067
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA ᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA ᴴᴰ
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284068
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA  Fᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA  Fᴴᴰ
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284069
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA HD  2 OPCION" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA HD  2 OPCION
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284070
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA 4K   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA 4K   (solo eventos )
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284071
-#EXTINF:-1 tvg-id="" tvg-name="M+  LALIGA 2 SD" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",M+  LALIGA 2 SD
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284072
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 3  (solo eventos )
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284073
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 3 Fᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 3 Fᴴᴰ
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284074
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 4   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 4   (solo eventos )
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284075
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 6   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 6   (solo eventos )
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284076
-#EXTINF:-1 tvg-id="" tvg-name="⚽ DAN LIGA 4  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ DAN LIGA 4  (solo eventos )
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284077
-#EXTINF:-1 tvg-id="" tvg-name="⚽ dazn liga 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ dazn liga 3  (solo eventos )
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284078
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LALIGA TV BAR ᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LALIGA TV BAR ᴴᴰ
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284079
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 5   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 5   (solo eventos )
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/284080
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305926
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305927
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION  (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION  (1080P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305928
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305929
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305930
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305931
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305932
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)" tvg-logo="http://teamzz.net:8080/images/lzPinbFIQB_Bd6LG4LrxCsndKpuR3zaI4uu08onHqGLFS6EYtPccyDyuVrNW4FxGucx0wibo2VdKbfjC3yCZtacOMeQtdIeJlYRYgiKo93A-gfrv0PNRvL4ZYX8P5OhP60YAfIrKf-_Fm26E3LJYpuySTr-ofN_flpOO0AUBxGo.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305933
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305934
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305935
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305936
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305937
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305938
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/305939
---
-#EXTINF:-1 tvg-id="" tvg-name="05 | MOVISTAR LA LIGA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/175px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="DEPORTES PREMIUM | HD",05 | MOVISTAR LA LIGA | HD
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/2690
---
-#EXTINF:-1 tvg-id="" tvg-name="07 | DAZN LIGA 1 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="DAZN",07 | DAZN LIGA 1 HD
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/282090
---
-#EXTINF:-1 tvg-id="" tvg-name="09 | DAZN LIGA 2" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",09 | DAZN LIGA 2
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/282092
-#EXTINF:-1 tvg-id="" tvg-name="10 | DAZN LIGA 2 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",10 | DAZN LIGA 2 HD
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/282093
---
-#EXTINF:-1 tvg-id="" tvg-name="⚽M + BARCA TV |" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽M + BARCA TV |
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284066
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquMe6NG6YWOPNF8t4AanDi7h_56Y0KUbySw&usqp=CAU" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LA LIGA
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284067
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA ᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA ᴴᴰ
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284068
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA  Fᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA  Fᴴᴰ
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284069
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA HD  2 OPCION" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA HD  2 OPCION
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284070
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA 4K   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA 4K   (solo eventos )
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284071
-#EXTINF:-1 tvg-id="" tvg-name="M+  LALIGA 2 SD" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",M+  LALIGA 2 SD
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284072
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 3  (solo eventos )
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284073
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 3 Fᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 3 Fᴴᴰ
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284074
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 4   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 4   (solo eventos )
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284075
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 6   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 6   (solo eventos )
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284076
-#EXTINF:-1 tvg-id="" tvg-name="⚽ DAN LIGA 4  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ DAN LIGA 4  (solo eventos )
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284077
-#EXTINF:-1 tvg-id="" tvg-name="⚽ dazn liga 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ dazn liga 3  (solo eventos )
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284078
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LALIGA TV BAR ᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LALIGA TV BAR ᴴᴰ
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284079
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 5   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 5   (solo eventos )
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284080
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305926
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305927
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION  (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION  (1080P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305928
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305929
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305930
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305931
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305932
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)" tvg-logo="http://teamzz.net:8080/images/lzPinbFIQB_Bd6LG4LrxCsndKpuR3zaI4uu08onHqGLFS6EYtPccyDyuVrNW4FxGucx0wibo2VdKbfjC3yCZtacOMeQtdIeJlYRYgiKo93A-gfrv0PNRvL4ZYX8P5OhP60YAfIrKf-_Fm26E3LJYpuySTr-ofN_flpOO0AUBxGo.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305933
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305934
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305935
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305936
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305937
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305938
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3
-http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305939
---
 #EXTINF:-1,05 | MOVISTAR LA LIGA | HD
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/2690
 --
@@ -713,26 +559,6 @@ http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162334
 #EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TV en VIVO (La Liga) MX® 
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162516
 --
-#EXTINF:-1,La Liga 10ⓧ: Valencia CF vs. Cadiz CF | Monday 23 October 2023 20:00
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/187528
---
-#EXTINF:-1,La Liga 01ⓧ: 14:00 Osasuna vs Granada
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/187625
---
-#EXTINF:-1,La Liga 06ⓧ: 7:00 Las Palmas vs Rayo Vallecano
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/188699
-#EXTINF:-1,La Liga 07ⓧ: 9:15 Girona vs Almería
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/188700
-#EXTINF:-1,La Liga 09ⓧ: 14:00 Barcelona vs Athletic Club --
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/188702
-#EXTINF:-1,La Liga 09ⓧ: 14:00 Barcelona vs Athletic Club -
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/188703
-#EXTINF:-1,La Liga 09ⓧ: 14:00 Barcelona vs Athletic Club
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/188704
---
-#EXTINF:-1,La Liga 08ⓧ:  11:30 Villarreal vs Deportivo Alavés
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/188837
---
 #EXTINF:-1,ESP-4: LALIGA TV  ᴸᵃᴸᶦᵍᵃ HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4297
 --
@@ -848,6 +674,9 @@ http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/222435
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/2560px-DAZN_LaLiga_2023_Logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 4 HD 720P
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/222436
 --
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Valencia vs. Cadiz  LALIGA" tvg-logo="https://i.ibb.co/bXnYzR1/EVENTOSPPV.jpg" group-title="℗EVENTOS DEL DIA℗",EVENTOS 2 Valencia vs. Cadiz  LALIGA
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233403
+--
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA HD*
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/191052
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA SD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/800px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LIGA SD+
@@ -894,6 +723,9 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222434
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222435
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/2560px-DAZN_LaLiga_2023_Logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 4 HD 720P
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222436
+--
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Valencia vs. Cadiz  LALIGA" tvg-logo="https://i.ibb.co/bXnYzR1/EVENTOSPPV.jpg" group-title="℗EVENTOS DEL DIA℗",EVENTOS 2 Valencia vs. Cadiz  LALIGA
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233403
 --
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-name="ES : M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46529
@@ -1142,77 +974,6 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1500
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA: bEIN SPORTS LA LIGA" tvg-logo="" group-title="U.S.A",USA: bEIN SPORTS LA LIGA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4741
---
-#EXTINF:-1 tvg-id="" tvg-name="05 | MOVISTAR LA LIGA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/175px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="DEPORTES PREMIUM | HD",05 | MOVISTAR LA LIGA | HD
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/2690
---
-#EXTINF:-1 tvg-id="" tvg-name="07 | DAZN LIGA 1 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="DAZN",07 | DAZN LIGA 1 HD
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/282090
---
-#EXTINF:-1 tvg-id="" tvg-name="09 | DAZN LIGA 2" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",09 | DAZN LIGA 2
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/282092
-#EXTINF:-1 tvg-id="" tvg-name="10 | DAZN LIGA 2 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",10 | DAZN LIGA 2 HD
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/282093
---
-#EXTINF:-1 tvg-id="" tvg-name="⚽M + BARCA TV |" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽M + BARCA TV |
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284066
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquMe6NG6YWOPNF8t4AanDi7h_56Y0KUbySw&usqp=CAU" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LA LIGA
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284067
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA ᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA ᴴᴰ
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284068
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA  Fᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA  Fᴴᴰ
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284069
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA HD  2 OPCION" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA HD  2 OPCION
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284070
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA 4K   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA 4K   (solo eventos )
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284071
-#EXTINF:-1 tvg-id="" tvg-name="M+  LALIGA 2 SD" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",M+  LALIGA 2 SD
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284072
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 3  (solo eventos )
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284073
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 3 Fᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 3 Fᴴᴰ
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284074
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 4   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 4   (solo eventos )
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284075
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 6   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 6   (solo eventos )
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284076
-#EXTINF:-1 tvg-id="" tvg-name="⚽ DAN LIGA 4  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ DAN LIGA 4  (solo eventos )
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284077
-#EXTINF:-1 tvg-id="" tvg-name="⚽ dazn liga 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ dazn liga 3  (solo eventos )
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284078
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LALIGA TV BAR ᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LALIGA TV BAR ᴴᴰ
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284079
-#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 5   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 5   (solo eventos )
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284080
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305926
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305927
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION  (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION  (1080P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305928
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305929
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305930
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305931
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305932
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)" tvg-logo="http://teamzz.net:8080/images/lzPinbFIQB_Bd6LG4LrxCsndKpuR3zaI4uu08onHqGLFS6EYtPccyDyuVrNW4FxGucx0wibo2VdKbfjC3yCZtacOMeQtdIeJlYRYgiKo93A-gfrv0PNRvL4ZYX8P5OhP60YAfIrKf-_Fm26E3LJYpuySTr-ofN_flpOO0AUBxGo.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305933
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305934
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305935
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305936
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305937
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305938
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/305939
 --
 #EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN LaLiga" tvg-logo="" group-title="ESP-1",ES: DAZN LaLiga
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297787
@@ -1868,22 +1629,15 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/565883
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV por M+ 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV por M+ 1 HD
 http://zona593ec.online:8080/Jhontv/Jhon20231@/565884
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:50 AM | LAS PALMAS VS RAYO VALLECANO (LALIGA)" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43t0NZmHWfHwy4nTtv2WawVxNcbLssrH8IeJdexVfxq2Gy5TdggVqJ2yJ181SFjIM9kVLRbXjlqbo14QjCbgupGozMcbSxlFK8BUW-ZqXRGH9RCHW1fDqyEbjz2WuzbB20w.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",05:50 AM | LAS PALMAS VS RAYO VALLECANO (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572430
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - LAS PALMAS VS RAYO VALLECANO (LALIGA)" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43t0NZmHWfHwy4nTtv2WawVxNcbLssrH8IeJdexVfxq2Gy5TdggVqJ2yJ181SFjIM9kVLRbXjlqbo14QjCbgupGozMcbSxlFK8BUW-ZqXRGH9RCHW1fDqyEbjz2WuzbB20w.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",05:55 AM | EN ESPAñOL - LAS PALMAS VS RAYO VALLECANO (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572431
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - GIRONA VS ALMERíA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43t0NZmHWfHwy4nTtv2WawVxNcbLssrH8IeJdexVfxq2Gy5TdggVqJ2yJ181SFjIM9kVLRbXjlqbo14QjCbgupGozMcbSxlFK8BUW-ZqXRGH9RCHW1fDqyEbjz2WuzbB20w.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",08:00 AM | EN ESPAñOL - GIRONA VS ALMERíA (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572432
-#EXTINF:-1 tvg-id="" tvg-name="08:05 AM | GIRONA VS ALMERíA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43t0NZmHWfHwy4nTtv2WawVxNcbLssrH8IeJdexVfxq2Gy5TdggVqJ2yJ181SFjIM9kVLRbXjlqbo14QjCbgupGozMcbSxlFK8BUW-ZqXRGH9RCHW1fDqyEbjz2WuzbB20w.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",08:05 AM | GIRONA VS ALMERíA (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572433
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - VILLARREAL VS ALAVéS (LALIGA)" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43t0NZmHWfHwy4nTtv2WawVxNcbLssrH8IeJdexVfxq2Gy5TdggVqJ2yJ181SFjIM9kVLRbXjlqbo14QjCbgupGozMcbSxlFK8BUW-ZqXRGH9RCHW1fDqyEbjz2WuzbB20w.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",10:15 AM | EN ESPAñOL - VILLARREAL VS ALAVéS (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572434
-#EXTINF:-1 tvg-id="" tvg-name="10:20 AM | VILLARREAL VS ALAVéS (LALIGA)" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMgcT7IjseW83_UTNB4OCBT7oWS0XdRZYELktjbltOM7fxmLHRv5J-x1WYhwzk5FELy1zu0LxA592dTJU9Y87wGyIiYNZcCN7UWNDvw09y94nA.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",10:20 AM | VILLARREAL VS ALAVéS (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572435
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | FC BARCELONA VS ATHLETIC CLUB (LALIGA)" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58x5aW3ODPWVrEUxpMEfeeWKK6w9QIxfsDRC1lj7sjJDDRDB-4zbEb1R1l-LlD156_Y2gG38jWGekptvbRvnaw25D9MrnI5xxqgFv19sr6FrjcmVE_OjsOVfSNGp7-qP1JA.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",12:30 PM | FC BARCELONA VS ATHLETIC CLUB (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572436
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - FC BARCELONA VS ATHLETIC CLUB (LALIGA)" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMgcT7IjseW83_UTNB4OCBT7oWS0XdRZYELktjbltOM7fxmLHRv5J-x1WYhwzk5FELy1zu0LxA592dTJU9Y87wGyIiYNZcCN7UWNDvw09y94nA.png" group-title="⭐ FUTBOL EUROPEO EVENTOS ⭐",12:30 PM | EN ESPAñOL - FC BARCELONA VS ATHLETIC CLUB (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572437
+#EXTINF:-1 tvg-id="" tvg-name="12:50 PM | VALENCIA VS CADIZ (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",12:50 PM | VALENCIA VS CADIZ (LALIGA)
+http://zona593ec.online:8080/Jhontv/Jhon20231@/572638
+#EXTINF:-1 tvg-id="" tvg-name="12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)
+http://zona593ec.online:8080/Jhontv/Jhon20231@/572639
+--
+#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdrBcmIWaCBj_kxesp7i0zflfwY6ITt-ABP9HU9dfXEpyegn8XlLBC8mY2IMYbPlJIQU2TkU0YdmtxzNgBb_p4hI.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento
+http://zona593ec.online:8080/Jhontv/Jhon20231@/572664
+#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdrBcmIWaCBj_kxesp7i0zflfwY6ITt-ABP9HU9dfXEpyegn8XlLBC8mY2IMYbPlJIQU2TkU0YdmtxzNgBb_p4hI.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento
+http://zona593ec.online:8080/Jhontv/Jhon20231@/572665
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
