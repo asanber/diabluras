@@ -533,6 +533,7 @@ http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336479
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336319
 --
 #EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="05 | AMC " tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="CINE & SERIES",05 | AMC 
+<<<<<<< HEAD
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/139465
 #EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="06 | AMC MX ᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="CINE & SERIES",06 | AMC MX ᴴᴰ
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/139466
@@ -746,6 +747,8 @@ http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/235798
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/235815
 --
 #EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="05 | AMC " tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="CINE & SERIES",05 | AMC 
+=======
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/139465
 #EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="06 | AMC MX ᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="CINE & SERIES",06 | AMC MX ᴴᴰ
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/139466
@@ -787,17 +790,27 @@ http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/222641
 #EXTINF:-1 tvg-id="I611.90653.schedulesdirect.org" tvg-name="25 | AMC ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="PREMIUM ᴴᴰ",25 | AMC ᴴᴰ
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/226711
 --
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="I178.96307.schedulesdirect.org" tvg-name="55 | DISCOVERY CHANNEL HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="PREMIUM ᴴᴰ",55 | DISCOVERY CHANNEL HD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/228172
 #EXTINF:-1 tvg-id="" tvg-name="56 | NATGEO MUNDO HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_mundo-mediano.png" group-title="PREMIUM ᴴᴰ",56 | NATGEO MUNDO HD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/228173
 --
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="65 | NATGEO | HD" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" group-title="PREMIUM ᴴᴰ",65 | NATGEO | HD
+=======
+#EXTINF:-1 tvg-id="I178.96307.schedulesdirect.org" tvg-name="51 | DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="PREMIUM ᴴᴰ",51 | DISCOVERY CHANNEL ᴴᴰ
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/228172
+#EXTINF:-1 tvg-id="" tvg-name="52 | NATGEO MUNDO ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_mundo-mediano.png" group-title="PREMIUM ᴴᴰ",52 | NATGEO MUNDO ᴴᴰ
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/228173
+--
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="61 | NATGEO ᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" group-title="PREMIUM ᴴᴰ",61 | NATGEO ᴴᴰ
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/228182
 --
 #EXTINF:-1 tvg-id="" tvg-name="Por Siempre Jamás: Una Historia de Cenicienta (1998)" tvg-logo="http://streamingprotv.com:8000/images/2c5168d1f822bfe507c182eb3c3fab00.jpg" group-title="DRAMA-THRILLER-ROMANCE",Por Siempre Jamás: Una Historia de Cenicienta (1998)
 http://samuraitv.online:8000/movie/JoseMoreno/uQlBbM2wKV/240994.mkv
 --
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="02 | AMC | HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="SAT. 70W HD",02 | AMC | HD²
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/236017
 --
@@ -805,6 +818,15 @@ http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/236017
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/236032
 --
 #EXTINF:-1 tvg-id="" tvg-name="46 | NATIONAL GEOGRAPHIC | HD²" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" group-title="SAT. 70W HD",46 | NATIONAL GEOGRAPHIC | HD²
+=======
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="02 | AMC | HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="SAT. 70W",02 | AMC | HD²
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/236017
+--
+#EXTINF:-1 tvg-id="I178.96307.schedulesdirect.org" tvg-name="17 | DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="SAT. 70W",17 | DISCOVERY CHANNEL ᴴᴰ
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/236032
+--
+#EXTINF:-1 tvg-id="" tvg-name="46 | NATIONAL GEOGRAPHIC | HD²" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" group-title="SAT. 70W",46 | NATIONAL GEOGRAPHIC | HD²
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/236063
 --
 #EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="12 | AMC | CO" tvg-logo="" group-title="SAT. STAR ONE C4 ",12 | AMC | CO
@@ -831,6 +853,12 @@ http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/319140
 #EXTINF:-1 tvg-id="" tvg-name="STORIES BY AMC USA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s64831_ll_h3_ac.png" group-title="USA | MOVIES ᴴᴰ",STORIES BY AMC USA FHD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/319174
 --
+<<<<<<< HEAD
+=======
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC Lubbock Texas KAMC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ef6a8582c34a486da417e4b60530f5f0.png" group-title="USA | NEWS ᴴᴰ",US: ABC Lubbock Texas KAMC TV
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/319367
+--
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 #EXTINF:-1 tvg-id="" tvg-name="M+ AMC FHD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="SPAIN | M+ SERIES	",M+ AMC FHD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/283970
 #EXTINF:-1 tvg-id="" tvg-name="M+ AMC SD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="SPAIN | M+ SERIES	",M+ AMC SD
@@ -952,6 +980,7 @@ http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284814
 #EXTINF:-1 tvg-id="" tvg-name="|FR| NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="FRANCIA",|FR| NATIONAL GEOGRAPHIC HD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/285031
 --
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HQ" tvg-name="06 | DISCOVERY CHANNEL | SD" tvg-logo="" group-title="SAT. 61W SD",06 | DISCOVERY CHANNEL | SD
 http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/235798
 --
@@ -1352,6 +1381,13 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/43878
 --
 #EXTINF:-1,AE: NAT GEO Wild
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3704
+=======
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HQ" tvg-name="06 | DISCOVERY CHANNEL" tvg-logo="" group-title="SAT. 61W SD",06 | DISCOVERY CHANNEL
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/235798
+--
+#EXTINF:-1 tvg-id="NAT GEO *HQ" tvg-name="22 | NATGEO" tvg-logo="" group-title="SAT. 61W SD",22 | NATGEO
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/235815
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 --
 #EXTINF:-1,Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | NATGEO®
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/2799
@@ -2108,402 +2144,432 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/221617
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219562
 --
 #EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",ENFAMILIA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/59
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/59
 #EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",ENFAMILIA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/60
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/60
 #EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",ENFAMILIA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/61
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/61
 #EXTINF:-1 tvg-id="" tvg-name="BUEN VIAJE! SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/62
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/62
 #EXTINF:-1 tvg-id="" tvg-name="BUEN VIAJE! HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/63
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/63
 #EXTINF:-1 tvg-id="" tvg-name="BUEN VIAJE! FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/64
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/64
 #EXTINF:-1 tvg-id="" tvg-name="SELEKT FHD" tvg-logo="https://selekt.in/img/selekt_black.png" group-title="AMC SELEKT ESPAÑA",SELEKT FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/102
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/102
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD SD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/131
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/131
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="http://xtitan.xyz:2082/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/132
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/132
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/133
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/133
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD (FIBRA)" tvg-logo="" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/702
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/702
 #EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="AMC SELEKT ESPAÑA",AMC SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/145
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/145
 #EXTINF:-1 tvg-id="" tvg-name="ES : AMC HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",ES : AMC HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6167
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/6167
 #EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="AMC SELEKT ESPAÑA",AMC FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/146
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/146
 #EXTINF:-1 tvg-id="" tvg-name="AMC BREAK SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="AMC SELEKT ESPAÑA",AMC BREAK SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/147
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/147
 #EXTINF:-1 tvg-id="" tvg-name="AMC BREAK HD" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/10e60a090de0a23e85b3d4a880b22d9c.png" group-title="AMC SELEKT ESPAÑA",AMC BREAK HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/148
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/148
 #EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FHD" tvg-logo="http://xtitan.xyz:2082/images/10e60a090de0a23e85b3d4a880b22d9c.png" group-title="AMC SELEKT ESPAÑA",AMC BREAK FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/149
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/149
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",AMC CRIME SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/150
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/150
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",AMC CRIME HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11773
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/11773
 #EXTINF:-1 tvg-id="" tvg-name="AMC  CRIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="AMC SELEKT ESPAÑA",AMC  CRIME FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/151
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/151
 #EXTINF:-1 tvg-id="" tvg-name="DARK SD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="AMC SELEKT ESPAÑA",DARK SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/152
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/152
 #EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="AMC SELEKT ESPAÑA",DARK HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/153
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/153
 #EXTINF:-1 tvg-id="" tvg-name="DARK FHD" tvg-logo="http://lara.iptvland.nl/images/8e7f8342bb004b5f026497be5dab8c1e.png" group-title="AMC SELEKT ESPAÑA",DARK FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/154
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/154
 #EXTINF:-1 tvg-id="" tvg-name="DARK RED  FHD" tvg-logo="http://lara.iptvland.nl/images/8e7f8342bb004b5f026497be5dab8c1e.png" group-title="AMC SELEKT ESPAÑA",DARK RED  FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/155
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/155
 #EXTINF:-1 tvg-id="" tvg-name="SOMOS SD" tvg-logo="http://xtitan.xyz:2082/images/44c68d5df74f953e5809606bc542a90a.png" group-title="AMC SELEKT ESPAÑA",SOMOS SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/156
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/156
 #EXTINF:-1 tvg-id="" tvg-name="SOMOS HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",SOMOS HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/157
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/157
 #EXTINF:-1 tvg-id="" tvg-name="XTRM SD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",XTRM SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6229
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/6229
 #EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="http://xtitan.xyz:2082/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="AMC SELEKT ESPAÑA",XTRM HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/158
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/158
 #EXTINF:-1 tvg-id="" tvg-name="XTRM FHD" tvg-logo="http://xtitan.xyz:2082/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="AMC SELEKT ESPAÑA",XTRM FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/159
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/159
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA SD" tvg-logo="https://www.pngitem.com/pimgs/m/80-800250_canal-cocina-hd-png-download.png" group-title="AMC SELEKT ESPAÑA",CANAL COCINA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/317
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/317
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="http://xtitan.xyz:2082/images/3041b87f49c9700bb3b929c737953f71.png" group-title="AMC SELEKT ESPAÑA",CANAL COCINA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/318
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/318
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FHD" tvg-logo="https://www.pngitem.com/pimgs/m/80-800250_canal-cocina-hd-png-download.png" group-title="AMC SELEKT ESPAÑA",CANAL COCINA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/319
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/319
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FHD (FIBRA)" tvg-logo="" group-title="AMC SELEKT ESPAÑA",CANAL COCINA FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/721
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/721
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA 4K UHD" tvg-logo="http://lara.iptvland.nl/images/f911786e222eccc68f052892b9f6d141.png" group-title="AMC SELEKT ESPAÑA",CANAL COCINA 4K UHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/320
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/320
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="AMC SELEKT ESPAÑA",CANAL DECASA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/321
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/321
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="AMC SELEKT ESPAÑA",CANAL DECASA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/322
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/322
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="AMC SELEKT ESPAÑA",CANAL DECASA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/323
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/323
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE CASA 4K UHD" tvg-logo="http://edge.iptvland.nl:8080/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="AMC SELEKT ESPAÑA",CANAL DE CASA 4K UHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/324
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/324
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="AMC SELEKT ESPAÑA",HISTORIA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/325
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/325
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="AMC SELEKT ESPAÑA",HISTORIA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/326
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/326
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="AMC SELEKT ESPAÑA",HISTORIA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/327
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/327
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD (FIBRA)" tvg-logo="" group-title="AMC SELEKT ESPAÑA",HISTORIA FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/720
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/720
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="AMC SELEKT ESPAÑA",ODISEA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/339
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/339
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="AMC SELEKT ESPAÑA",ODISEA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/340
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/340
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="AMC SELEKT ESPAÑA",ODISEA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/341
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/341
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA 4K UHD" tvg-logo="http://edge.iptvland.nl:8080/images/831576acd585fbe847690893b643f0db.png" group-title="AMC SELEKT ESPAÑA",ODISEA 4K UHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/342
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/342
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png" group-title="AMC SELEKT ESPAÑA",SUNDANCE SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/405
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/405
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD" tvg-logo="http://xtitan.xyz:2082/images/2a337c96b389f45830cd9609bbfc08b9.png" group-title="AMC SELEKT ESPAÑA",SUNDANCE HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/406
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/406
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png" group-title="AMC SELEKT ESPAÑA",SUNDANCE FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/407
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/407
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV FHD (FIBRA)" tvg-logo="" group-title="AMC SELEKT ESPAÑA",SUNDANCE TV FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/703
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/703
 --
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="" tvg-name="DMAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="DOCUMENTALES ESPAÑA",DMAX SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/53
+=======
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="DOCUMENTALES ESPAÑA",DMAX SD
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/53
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 #EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="DOCUMENTALES ESPAÑA",DMAX HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/54
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/54
 #EXTINF:-1 tvg-id="" tvg-name="DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="DOCUMENTALES ESPAÑA",DMAX FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/55
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/55
 #EXTINF:-1 tvg-id="" tvg-name="M+ NEGOCIOS SD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="DOCUMENTALES ESPAÑA",M+ NEGOCIOS SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/67
 #EXTINF:-1 tvg-id="" tvg-name="M+ NEGOCIOS HD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="DOCUMENTALES ESPAÑA",M+ NEGOCIOS HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/68
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/68
 #EXTINF:-1 tvg-id="" tvg-name="M+ NEGOCIOS FHD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="DOCUMENTALES ESPAÑA",M+ NEGOCIOS FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/69
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/69
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/328
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/328
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/329
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/329
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/330
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/330
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD (FIBRA)" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/718
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/718
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/331
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/331
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/332
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/332
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/333
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/333
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD (FIBRA)" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",NAT GEO WILD FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/719
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/719
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/334
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/334
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL  HD" tvg-logo="http://xtitan.xyz:2082/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL  HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/335
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/335
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://xtitan.xyz:2082/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/336
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/336
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/350
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/350
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/351
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/351
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/352
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/352
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tF8B1ZxJI5RDIMzBqrnoJg-g.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% PESCA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/353
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/353
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV SD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0H6ys0Q5qP2eE7mtm-aX_f.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/354
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/354
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV HD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/355
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/355
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/356
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/356
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tFuFURkdXMRX2c894GJEzo5w.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% CAZA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/357
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/357
 #EXTINF:-1 tvg-id="" tvg-name="CAZAVISION SD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/358
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/358
 #EXTINF:-1 tvg-id="" tvg-name="CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/359
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/359
 #EXTINF:-1 tvg-id="" tvg-name="ESCAPA TV FHD" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",ESCAPA TV FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/364
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/364
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/1280px-Canal_Orbe_21_logo.svg.png" group-title="DOCUMENTALES ESPAÑA",CANAL ORBE 21
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/410
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/410
 #EXTINF:-1 tvg-id="" tvg-name="Documentales Putin/Rusia" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales Putin/Rusia
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4200
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4200
 #EXTINF:-1 tvg-id="" tvg-name="Documentales Ucrania" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales Ucrania
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4201
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4201
 #EXTINF:-1 tvg-id="" tvg-name="Documentales de Futbol" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de Futbol
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4202
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4202
 #EXTINF:-1 tvg-id="" tvg-name="Documentales de F1" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de F1
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4203
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4203
 #EXTINF:-1 tvg-id="" tvg-name="Documentales de MotoGP" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de MotoGP
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4204
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4204
 #EXTINF:-1 tvg-id="" tvg-name="Documentales sobre Egipto" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales sobre Egipto
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4205
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4205
 #EXTINF:-1 tvg-id="" tvg-name="Documentales sobre Redes sociales" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales sobre Redes sociales
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4206
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4206
 #EXTINF:-1 tvg-id="" tvg-name="Documentales sobre Animales" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales sobre Animales
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4207
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4207
 #EXTINF:-1 tvg-id="" tvg-name="Documentales de historias" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de historias
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4208
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4208
 #EXTINF:-1 tvg-id="" tvg-name="Documentales de España" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de España
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4209
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4209
 #EXTINF:-1 tvg-id="" tvg-name="NATURE TIME FHD" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/NatureTime_Samsung_1000x1000_circle.png" group-title="DOCUMENTALES ESPAÑA",NATURE TIME FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4439
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4439
 #EXTINF:-1 tvg-id="" tvg-name="NAUTICAL SD" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",NAUTICAL SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6226
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/6226
 #EXTINF:-1 tvg-id="" tvg-name="M+ Documentales SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",M+ Documentales SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12107
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/12107
 #EXTINF:-1 tvg-id="" tvg-name="M+ Documentales HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",M+ Documentales HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/14126
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/14126
 #EXTINF:-1 tvg-id="" tvg-name="M+ Documentales FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",M+ Documentales FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/14131
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/14131
 --
+<<<<<<< HEAD
+=======
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES : M+ DOCUMENTALES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="ZAPEANDO MOVISTAR",ES : M+ DOCUMENTALES
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46497
+--
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES : AMC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png" group-title="ZAPEANDO MOVISTAR",ES : AMC
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46522
+--
+#EXTINF:-1 tvg-id="NAT GEOGRAPH" tvg-name="ES : NATIONAL GEOGRAPHIC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="ZAPEANDO MOVISTAR",ES : NATIONAL GEOGRAPHIC
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46564
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES : NAT GEO WILD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png" group-title="ZAPEANDO MOVISTAR",ES : NAT GEO WILD
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46565
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES : HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png" group-title="ZAPEANDO MOVISTAR",ES : HISTORIA
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46566
+--
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES : ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png" group-title="ZAPEANDO MOVISTAR",ES : ODISEA
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46568
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES : AMC BREAK" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ZAPEANDO MOVISTAR",ES : AMC BREAK
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46569
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES : DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png" group-title="ZAPEANDO MOVISTAR",ES : DMAX
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46570
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES : AMC CRIME" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png" group-title="ZAPEANDO MOVISTAR",ES : AMC CRIME
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46571
+--
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 #EXTINF:-1 tvg-id="" tvg-name="||AFR|| National Geographic" tvg-logo="" group-title="AFRICA",||AFR|| National Geographic
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/15033
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/15033
 #EXTINF:-1 tvg-id="" tvg-name="||AFR|| Nat Geo Wild" tvg-logo="" group-title="AFRICA",||AFR|| Nat Geo Wild
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/15034
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/15034
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC [RAW]" tvg-logo="" group-title="ALEMANIA - RAW",DE: NATIONAL GEOGRAPHIC [RAW]
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44279
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/44279
 --
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DMAX FHD" tvg-logo="" group-title="ALEMANIA",|DE| DMAX FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44434
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/44434
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DMAX HD" tvg-logo="" group-title="ALEMANIA",|DE| DMAX HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44435
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/44435
 --
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DISCOVERY CHANNEL FHD" tvg-logo="" group-title="ALEMANIA",|DE| DISCOVERY CHANNEL FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44551
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/44551
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DISCOVERY CHANNEL HD" tvg-logo="" group-title="ALEMANIA",|DE| DISCOVERY CHANNEL HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44552
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/44552
 --
 #EXTINF:-1 tvg-id="" tvg-name="|DE| NAT GEO WILD HD" tvg-logo="" group-title="ALEMANIA",|DE| NAT GEO WILD HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44555
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/44555
 --
 #EXTINF:-1 tvg-id="" tvg-name="|DE| NAT GEO WILD FHD" tvg-logo="" group-title="ALEMANIA",|DE| NAT GEO WILD FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44557
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/44557
 --
 #EXTINF:-1 tvg-id="" tvg-name="BOL: Red Uno" tvg-logo="data:image/png;base64,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" group-title="BOLÍVIA",BOL: Red Uno
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1786
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1786
 --
 #EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL HD" tvg-logo="http://i.imgur.com/kpeMjrn.png" group-title="BRASIL",BR: DISCOVERY CHANNEL HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/15159
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/15159
 --
 #EXTINF:-1 tvg-id="" tvg-name="BR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://i.imgur.com/Jx7AFvA.png" group-title="BRASIL",BR: NATIONAL GEOGRAPHIC HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/15170
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/15170
 --
 #EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="http://i.imgur.com/wMh8fkU.png" group-title="BRASIL",BR: AMC HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/15193
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/15193
 --
 #EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO KIDS HD" tvg-logo="https://i.imgur.com/rLXEOnr.png" group-title="BRASIL",BR: NATGEO KIDS HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/15236
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/15236
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: AMC HD" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="CANADA",CA: AMC HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1195
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1195
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO HD" tvg-logo="https://static.epg.best/ca/NatGeo.ca.png" group-title="CANADA",CA: NAT GEO HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1315
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1315
 #EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO WILD HD" tvg-logo="https://static.epg.best/ca/NatGeoWild.ca.png" group-title="CANADA",CA: NAT GEO WILD HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1316
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1316
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: FR: HISTORIO" tvg-logo="http://mrrobottv.xyz/logo/new%20logos/HISTORIA.png" group-title="CANADA",CA: FR: HISTORIO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1360
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1360
 --
 #EXTINF:-1 tvg-id="" tvg-name="C/S• AMC (HD) »1«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="CINE LATINO",C/S• AMC (HD) »1«
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7170
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7170
 #EXTINF:-1 tvg-id="" tvg-name="C/S• AMC (HD) »2«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="CINE LATINO",C/S• AMC (HD) »2«
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7171
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7171
 #EXTINF:-1 tvg-id="" tvg-name="C/S• AMC (HD) »3«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="CINE LATINO",C/S• AMC (HD) »3«
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7172
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7172
 --
 #EXTINF:-1 tvg-id="" tvg-name="CUL| DISCOVERY CHANNEL (CO)(P)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA LATINO",CUL| DISCOVERY CHANNEL (CO)(P)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7378
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7378
 #EXTINF:-1 tvg-id="" tvg-name="CUL| DISCOVERY CHANNEL FHD2" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA LATINO",CUL| DISCOVERY CHANNEL FHD2
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7379
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7379
 #EXTINF:-1 tvg-id="" tvg-name="CUL| DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA LATINO",CUL| DISCOVERY CHANNEL FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7380
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7380
 --
 #EXTINF:-1 tvg-id="" tvg-name="CUL| NAT GEO WILD (ec)" tvg-logo="https://1.bp.blogspot.com/-FhNEkhNUM58/Xaukf7PCtkI/AAAAAAAAAgQ/azD1CxOYTugM3KsRnyICXyCVweXcKp1_gCLcBGAsYHQ/s200/5.png" group-title="CULTURA LATINO",CUL| NAT GEO WILD (ec)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7414
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7414
 #EXTINF:-1 tvg-id="" tvg-name="CUL| Nat Geo Wild FHD" tvg-logo="https://1.bp.blogspot.com/-FhNEkhNUM58/Xaukf7PCtkI/AAAAAAAAAgQ/azD1CxOYTugM3KsRnyICXyCVweXcKp1_gCLcBGAsYHQ/s200/5.png" group-title="CULTURA LATINO",CUL| Nat Geo Wild FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7415
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7415
 #EXTINF:-1 tvg-id="" tvg-name="CUL| National Geographic  MX (ec)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CULTURA LATINO",CUL| National Geographic  MX (ec)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7416
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7416
 #EXTINF:-1 tvg-id="" tvg-name="CUL| National Geographic FHD" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CULTURA LATINO",CUL| National Geographic FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7417
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7417
 #EXTINF:-1 tvg-id="" tvg-name="CUL| National Geographic SD" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CULTURA LATINO",CUL| National Geographic SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7418
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/7418
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://xtitan.xyz:2082/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="FRANCIA",FR: NATIONAL GEOGRAPHIC HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1937
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1937
 #EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://xtitan.xyz:2082/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="FRANCIA",FR: NATIONAL GEOGRAPHIC WILD HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1938
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1938
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="FRANCIA",FR: NATIONAL GEOGRAPHIC FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2078
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/2078
 #EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="FRANCIA",FR: NATIONAL GEOGRAPHIC WILD FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2079
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/2079
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC H.265" tvg-logo="http://xtitan.xyz:2082/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="FRANCIA",FR: NATIONAL GEOGRAPHIC H.265
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2271
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/2271
 #EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD H.265" tvg-logo="http://xtitan.xyz:2082/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="FRANCIA",FR: NATIONAL GEOGRAPHIC WILD H.265
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2272
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/2272
 --
 #EXTINF:-1 tvg-id="" tvg-name="GR: Discovery Channel HD" tvg-logo="" group-title="GRECIA",GR: Discovery Channel HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/3545
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/3545
 --
 #EXTINF:-1 tvg-id="" tvg-name="||NL|| National Geographic HD" tvg-logo="" group-title="HOLANDA",||NL|| National Geographic HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17521
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17521
 #EXTINF:-1 tvg-id="" tvg-name="||NL|| Nat Geo Wild HD" tvg-logo="" group-title="HOLANDA",||NL|| Nat Geo Wild HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17522
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17522
 --
 #EXTINF:-1 tvg-id="" tvg-name="||NL|| Discovery Channel HD" tvg-logo="" group-title="HOLANDA",||NL|| Discovery Channel HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17547
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17547
 --
 #EXTINF:-1 tvg-id="" tvg-name="IT: DMAX HD" tvg-logo="http://fanc.tmsimg.com/assets/s98967_ll_h3_aa.png" group-title="ITALIA",IT: DMAX HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17654
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17654
 #EXTINF:-1 tvg-id="" tvg-name="IT: DMAX SD" tvg-logo="http://fanc.tmsimg.com/assets/s90601_ll_h3_aa.png" group-title="ITALIA",IT: DMAX SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17655
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17655
 --
 #EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Channel FHD" tvg-logo="http://fanc.tmsimg.com/assets/s85650_ll_h3_aa.png" group-title="ITALIA",IT: Discovery Channel FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17659
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17659
 #EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY DMAX" tvg-logo="http://fanc.tmsimg.com/assets/s90601_ll_h3_aa.png" group-title="ITALIA",IT: DISCOVERY DMAX
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17660
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17660
 #EXTINF:-1 tvg-id="" tvg-name="IT: NATGEO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="ITALIA",IT: NATGEO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17661
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17661
 --
 #EXTINF:-1 tvg-id="" tvg-name="IT: National Geographic Wild FHD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0a/Nat_Geo_Wild_2007.png/revision/latest?cb=20190804145551" group-title="ITALIA",IT: National Geographic Wild FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17665
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17665
 --
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="PORTUGAL",AMC
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/982
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/982
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="PORTUGAL",AMC HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/983
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/983
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD ᴴᵉᵛᶜ" tvg-logo="http://media.c-x-c.media/picons/PT/amchd.png" group-title="PORTUGAL",AMC HD ᴴᵉᵛᶜ
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/984
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/984
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME." tvg-logo="https://i.imgur.com/cfaKMWY.png" group-title="PORTUGAL",AMC CRIME.
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/985
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/985
 #EXTINF:-1 tvg-id="" tvg-name="AMC BREAK." tvg-logo="https://i.imgur.com/fJJPc9F.png" group-title="PORTUGAL",AMC BREAK.
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/986
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/986
 --
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic wild" tvg-logo="http://media.c-x-c.media/picons/PT/natgeowildhd_B.png" group-title="PORTUGAL",National Geographic wild
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1036
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1036
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic wild HD" tvg-logo="http://media.c-x-c.media/picons/PT/natgeohd.png" group-title="PORTUGAL",National Geographic wild HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1037
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1037
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://media.c-x-c.media/picons/PT/natgeohd.png" group-title="PORTUGAL",National Geographic
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1038
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1038
 #EXTINF:-1 tvg-id="" tvg-name="National geographic HD" tvg-logo="http://media.c-x-c.media/picons/PT/natgeohd.png" group-title="PORTUGAL",National geographic HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1039
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1039
 #EXTINF:-1 tvg-id="" tvg-name="National geographic ᴴᵉᵛᶜ" tvg-logo="http://media.c-x-c.media/picons/PT/natgeohd.png" group-title="PORTUGAL",National geographic ᴴᵉᵛᶜ
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1040
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1040
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://media.c-x-c.media/picons/PL/discoveryhd.png" group-title="PORTUGAL",Discovery Channel
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1041
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1041
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://media.c-x-c.media/picons/PL/discoveryhd.png" group-title="PORTUGAL",DISCOVERY CHANNEL HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1042
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1042
 --
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://media.c-x-c.media/picons/PT/historia.png" group-title="PORTUGAL",HISTORIA
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1048
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1048
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="http://media.c-x-c.media/picons/PT/historia.png" group-title="PORTUGAL",HISTORIA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1049
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1049
 --
 #EXTINF:-1 tvg-id="" tvg-name="National geographic FHD." tvg-logo="https://i.imgur.com/UVy9TEI.png" group-title="PORTUGAL",National geographic FHD.
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1135
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1135
 --
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="RUMANIA",AMC
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9154
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9154
 --
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="RUMANIA",Discovery Channel
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9344
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9344
 --
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="RUMANIA",National Geographic
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9361
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9361
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="RUMANIA",Nat Geo People
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9362
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9362
 --
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="RUMANIA",Nat Geo Wild
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9364
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9364
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="RUMANIA",Nat Geo Wild FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9365
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9365
 --
 #EXTINF:-1 tvg-id="" tvg-name="|US| AMC FHD" tvg-logo="http://unlock-pro.biz:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="U.S.A",|US| AMC FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4483
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4483
 --
 #EXTINF:-1 tvg-id="" tvg-name="|US| DISCOVERY CHANNEL HD" tvg-logo="" group-title="U.S.A",|US| DISCOVERY CHANNEL HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4687
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4687
 --
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD (US LAT)" tvg-logo="" group-title="U.S.A",NatGeo Mundo HD (US LAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4734
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4734
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK : AMCⓧ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/5-usa-plus-uk.png?raw=true" group-title="UK",UK : AMCⓧ FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23915
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/23915
 #EXTINF:-1 tvg-id="" tvg-name="UK : AMCⓧ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/5-usa-plus-uk.png?raw=true" group-title="UK",UK : AMCⓧ HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23916
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/23916
 #EXTINF:-1 tvg-id="" tvg-name="UK : AMCⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/5-usa-plus-uk.png?raw=true" group-title="UK",UK : AMCⓧ SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23917
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/23917
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK : Discovery Channelⓧ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-channel-uk.png?raw=true" group-title="UK",UK : Discovery Channelⓧ FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24025
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24025
 #EXTINF:-1 tvg-id="" tvg-name="UK : Discovery Channelⓧ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-channel-uk.png?raw=true" group-title="UK",UK : Discovery Channelⓧ HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24026
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24026
 #EXTINF:-1 tvg-id="" tvg-name="UK : Discovery Channelⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-channel-uk.png?raw=true" group-title="UK",UK : Discovery Channelⓧ SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24027
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24027
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK : DMAXⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-channel-uk.png?raw=true" group-title="UK",UK : DMAXⓧ SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24032
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24032
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK : Docubox: Nat Geo Wildⓧ" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVMSYYYG8FagYHVyo9x68co2ty_37Ng-tv6E9hEV41lc6zuGHInQEIKBwtlO1HMozIvzVtewHqXVj3LYkG3v3eqcyok4X1nl8SeN7qpDaldnKf9WOvtoK55Olh1aPdm1CriSQ-czH41zjA72yOZ6c7wqggmmraIYRasYDVriFIzy4w.png" group-title="UK",UK : Docubox: Nat Geo Wildⓧ
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24039
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24039
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK : Nat Geo Wildⓧ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-90s-uk.png?raw=true" group-title="UK",UK : Nat Geo Wildⓧ FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24109
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24109
 #EXTINF:-1 tvg-id="" tvg-name="UK : Nat Geo Wildⓧ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-90s-uk.png?raw=true" group-title="UK",UK : Nat Geo Wildⓧ HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24110
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24110
 #EXTINF:-1 tvg-id="" tvg-name="UK : Nat Geo Wildⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-90s-uk.png?raw=true" group-title="UK",UK : Nat Geo Wildⓧ SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24111
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24111
 #EXTINF:-1 tvg-id="" tvg-name="UK : National Geographicⓧ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/national-geographic-uk.png?raw=true" group-title="UK",UK : National Geographicⓧ FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24112
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24112
 #EXTINF:-1 tvg-id="" tvg-name="UK : National Geographicⓧ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/national-geographic-uk.png?raw=true" group-title="UK",UK : National Geographicⓧ HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24113
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24113
 #EXTINF:-1 tvg-id="" tvg-name="UK : National Geographicⓧ SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/national-geographic-uk.png?raw=true" group-title="UK",UK : National Geographicⓧ SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/24114
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/24114
 --
 #EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="05 | AMC " tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="CINE & SERIES",05 | AMC 
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/139465
@@ -3064,6 +3130,7 @@ http://iptvtree.net:8080/i4stream/SDMsxnDpQC5kc9GK/1604
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/525fe2486b5af4891ec9a91dd826290d.png" group-title="UK",UK: NAT GEO
 http://iptvtree.net:8080/i4stream/SDMsxnDpQC5kc9GK/1101
 --
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ext" tvg-name="SP: La Liga: Barça TV" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Barça TV
 --
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2133230
@@ -3107,6 +3174,51 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2133213
 #EXTINF:-1 tvg-id="ext" tvg-name="SP: La Liga: M. LaLiga 4" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: M. LaLiga 4
 --
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2133214
+=======
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144812
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN SPORTS 5" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 5
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144813
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN SPORTS 6" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 6
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144814
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN SPORTS 7" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 7
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144815
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN SPORTS 8" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 8
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144816
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN SPORTS CANADA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS CANADA
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144817
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN SPORTS EN ESPAÑOL" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS EN ESPAÑOL
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144818
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D| BEIN SPORTS" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D| BEIN SPORTS
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144810
+--
+#EXTINF:-1 tvg-id="ext" tvg-name="D| BEIN SPORTS 4" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D| BEIN SPORTS 4
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144811
+--
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="D| beIN Sports en Español  HD" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV  | Beins Sports",D| beIN Sports en Español  HD
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/167174
+--
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="D| beIN Sports en Español FHD" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV  | Beins Sports",D| beIN Sports en Español FHD
+--
+http://185.155.103.50:8080/UzielLCH/UzielLCH/10929
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 --
 #EXTINF:-1 tvg-id="amc.mx" tvg-name="E | AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | Entretenimiento",E | AMC
 http://185.155.103.50:8080/UzielLCH/UzielLCH/10547
@@ -4266,6 +4378,7 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/7986
 #EXTINF:-1,TH | DMAXⓧ OFFLINE
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/96439
 --
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-name="USA | AMC Presentsⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="|USA| MOVIES",USA | AMC Presentsⓧ FHD
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/93036
 #EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC+ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f0e96e7638ae7d2c1c690b8c2b169e34.png" group-title="|USA| MOVIES",USA | AMC+ⓧ HD
@@ -5264,6 +5377,8 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/555648
 #EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d5b282a5217e4a6c42bdc7221f5687f6.png" group-title="⏩ TV ITALIA",IT: NAT GEO Wild
 http://zona593ec.online:8080/Jhontv/Jhon20231@/555700
 --
+=======
+>>>>>>> 71ae2df (Wed25Oct_202310250303)
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/iMAWgK9Z3C2L0MaI17VqwdZi8bJ.jpg" group-title="2022",Devotion: Historia de honor (2022)
 http://144.217.180.205/Peliculas/Aventura/Ver%20Devotion.%20Una%20historia%20de%20h%c3%a9roes%20(2022)%20Online%20Cuevana%203.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/ntD0ieBgZ1AlV0tAam3aeFDH6k7.jpg" group-title="2022",Dig (2022) SUB
