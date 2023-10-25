@@ -75,13 +75,11 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://185.155.103.50:8080/UzielLCH/UzielLCH/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="12:50 PM | VALENCIA VS CADIZ (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",12:50 PM | VALENCIA VS CADIZ (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190202
-#EXTINF:-1 tvg-id="" tvg-name="12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/ccbc7e6d769a1729e2e3beb4a615f0c0.png" group-title="TV | PPV La Liga",12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190203
+#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 03:45 PM CST | Racing Club vs. Boca Juniors" tvg-logo="http://live.detodotvplay.com:8080/images/9abe495e7e1ee1c2ecbbb50ec2054399.png" group-title="TV | EVENTOS",Argentine Copa de la Liga Profesional | 03:45 PM CST | Racing Club vs. Boca Juniors
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2190271
 --
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento" tvg-logo="" group-title="TV | EVENTOS",Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190219
+#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 05:55 PM CST | Instituto vs. Rosario Central" tvg-logo="http://live.detodotvplay.com:8080/images/9abe495e7e1ee1c2ecbbb50ec2054399.png" group-title="TV | EVENTOS",Argentine Copa de la Liga Profesional | 05:55 PM CST | Instituto vs. Rosario Central
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2190274
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES |  DAZN LA LIGA SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_DEPORTES/SD_DAZN_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES |  DAZN LA LIGA SD
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151335
@@ -409,87 +407,76 @@ http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/453253
 #EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 3 FHD" tvg-logo="https://i.postimg.cc/qvCnSyGF/HYPERMOTION.png" group-title="LA LIGA HYPERMOTION",HYPERMOTION 3 FHD
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/453254
 --
-#EXTINF:-1,05 | MOVISTAR LA LIGA | HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/2690
+#EXTINF:-1 tvg-id="" tvg-name="05 | MOVISTAR LA LIGA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/175px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="DEPORTES PREMIUM | HD",05 | MOVISTAR LA LIGA | HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/2690
 --
-#EXTINF:-1,⚽ M+ LA LIGA
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284067
-#EXTINF:-1,⚽ M+  LALIGA ᴴᴰ
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284068
-#EXTINF:-1,⚽ M+  LALIGA  Fᴴᴰ
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284069
+#EXTINF:-1 tvg-id="" tvg-name="07 | DAZN LIGA 1 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="DAZN",07 | DAZN LIGA 1 HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/282090
 --
-#EXTINF:-1,M+  LALIGA 2 SD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284072
-#EXTINF:-1,⚽ M+  LA LIGA 3  (solo eventos )
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284073
+#EXTINF:-1 tvg-id="" tvg-name="09 | DAZN LIGA 2" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",09 | DAZN LIGA 2
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/282092
+#EXTINF:-1 tvg-id="" tvg-name="10 | DAZN LIGA 2 HD" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="DAZN",10 | DAZN LIGA 2 HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/282093
 --
-#EXTINF:-1,⚽ M+  LA LIGA 4   (solo eventos )
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284075
+#EXTINF:-1 tvg-id="" tvg-name="⚽M + BARCA TV |" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽M + BARCA TV |
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284066
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquMe6NG6YWOPNF8t4AanDi7h_56Y0KUbySw&usqp=CAU" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LA LIGA
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284067
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA ᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA ᴴᴰ
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284068
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LALIGA  Fᴴᴰ" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LALIGA  Fᴴᴰ
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284069
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA HD  2 OPCION" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA HD  2 OPCION
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284070
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LIGA 4K   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LIGA 4K   (solo eventos )
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284071
+#EXTINF:-1 tvg-id="" tvg-name="M+  LALIGA 2 SD" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",M+  LALIGA 2 SD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284072
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 3  (solo eventos )
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284073
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 3 Fᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 3 Fᴴᴰ
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284074
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 4   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 4   (solo eventos )
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284075
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LIGA 6   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LIGA 6   (solo eventos )
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284076
+#EXTINF:-1 tvg-id="" tvg-name="⚽ DAN LIGA 4  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ DAN LIGA 4  (solo eventos )
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284077
+#EXTINF:-1 tvg-id="" tvg-name="⚽ dazn liga 3  (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ dazn liga 3  (solo eventos )
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284078
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+ LALIGA TV BAR ᴴᴰ" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+ LALIGA TV BAR ᴴᴰ
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284079
+#EXTINF:-1 tvg-id="" tvg-name="⚽ M+  LA LIGA 5   (solo eventos )" tvg-logo="" group-title="SPAIN | M+ LA LIGA	",⚽ M+  LA LIGA 5   (solo eventos )
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284080
 --
-#EXTINF:-1,⚽ M+ LALIGA TV BAR ᴴᴰ
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284079
-#EXTINF:-1,⚽ M+  LA LIGA 5   (solo eventos )
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284080
---
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION ORANGE
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305926
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305927
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION  (1080P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305928
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 2
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305929
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305930
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305931
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305932
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305933
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305934
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305935
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305936
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305937
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305938
-#EXTINF:-1,ESPAÑA | LALIGA TV HYPERMOTION 3
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/305939
---
-#EXTINF:-1,ES: DAZN LaLiga
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297787
-#EXTINF:-1,ES: DAZN LaLiga 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298745
---
-#EXTINF:-1,ES: Laliga Smartbank TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297788
-#EXTINF:-1,ES: Laliga Smartbank TV 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297791
-#EXTINF:-1,ES: Laliga Smartbank TV 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297790
-#EXTINF:-1,ES: Laliga Smartbank TV 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297789
-#EXTINF:-1,ES: LaLiga TV Bar
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197711
---
-#EXTINF:-1,ES: MOVISTAR LaLiga
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1141
-#EXTINF:-1,ES: MOVISTAR LaLiga 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5311
-#EXTINF:-1,ES: MOVISTAR LaLiga 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281772
-#EXTINF:-1,ES: MOVISTAR LaLiga 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269466
-#EXTINF:-1,ES: MOVISTAR LaLiga 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281792
---
-#EXTINF:-1,ZA: SuperSport LaLiga
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/194358
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305926
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305927
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION  (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION  (1080P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305928
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305929
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (1080P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305930
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 (1080P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305931
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE (720P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305932
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)" tvg-logo="http://teamzz.net:8080/images/lzPinbFIQB_Bd6LG4LrxCsndKpuR3zaI4uu08onHqGLFS6EYtPccyDyuVrNW4FxGucx0wibo2VdKbfjC3yCZtacOMeQtdIeJlYRYgiKo93A-gfrv0PNRvL4ZYX8P5OhP60YAfIrKf-_Fm26E3LJYpuySTr-ofN_flpOO0AUBxGo.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE (720P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305933
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305934
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (720P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305935
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE (1080P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305936
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 (1080P)
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305937
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305938
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="SPAIN | LA LIGA HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/305939
 --
 #EXTINF:-1,ESP-4: LALIGA TV  ᴸᵃᴸᶦᵍᵃ HD
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/4297
@@ -558,6 +545,11 @@ http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162334
 --
 #EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TV en VIVO (La Liga) MX® 
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162516
+--
+#EXTINF:-1,Argentine Copa de la Liga Profesional | 03:45 PM CST | Racing Club vs. Boca Juniors
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/189228
+#EXTINF:-1,Argentine Copa de la Liga Profesional | 05:55 PM CST | Instituto vs. Rosario Central
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/189229
 --
 #EXTINF:-1,ESP-4: LALIGA TV  ᴸᵃᴸᶦᵍᵃ HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4297
@@ -674,9 +666,6 @@ http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/222435
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/2560px-DAZN_LaLiga_2023_Logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 4 HD 720P
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/222436
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Valencia vs. Cadiz  LALIGA" tvg-logo="https://i.ibb.co/bXnYzR1/EVENTOSPPV.jpg" group-title="℗EVENTOS DEL DIA℗",EVENTOS 2 Valencia vs. Cadiz  LALIGA
-http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233403
---
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA HD*
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/191052
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA SD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/800px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LIGA SD+
@@ -724,256 +713,253 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222435
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/2560px-DAZN_LaLiga_2023_Logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 4 HD 720P
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222436
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Valencia vs. Cadiz  LALIGA" tvg-logo="https://i.ibb.co/bXnYzR1/EVENTOSPPV.jpg" group-title="℗EVENTOS DEL DIA℗",EVENTOS 2 Valencia vs. Cadiz  LALIGA
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233403
---
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-name="ES : M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46529
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46529
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="ES : DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="ZAPEANDO MOVISTAR",ES : DAZN LALIGA
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46530
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46530
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES : LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="ZAPEANDO MOVISTAR",ES : LALIGA TV HYPERMOTION
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46531
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46531
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" tvg-name="ES : M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV 2
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46532
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46532
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES : DAZN LALIGA 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="ZAPEANDO MOVISTAR",ES : DAZN LALIGA 2
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46533
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46533
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES : LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="ZAPEANDO MOVISTAR",ES : LALIGA TV HYPERMOTION 2
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46534
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46534
 --
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3" tvg-name="ES : M+ LALIGA TV 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV 3
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46624
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46624
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="ES : M+ LALIGA TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV 4
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46625
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46625
 --
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="ES : LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="ZAPEANDO MOVISTAR",ES : LALIGA TV HYPERMOTION 3
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46627
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46627
 --
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA SD (D.ULT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA SD (D.ULT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37388
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37388
 #EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/169
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/169
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV (ORANGE)" tvg-logo="http://prox2.gotdns.ch:8080/images/nKwXtk4cKqi_wg8Ca4ZdCvEQ6Gok7cmQ3dwBBny45Enpk_VNBnoBclfnY527FldzcB0EvO-kSGsC9syNuh7tgl-J3-2tc6YdBXSZUxCmuDWjeMUf6HOYU4UsJWHJ6jfhRPfMRjyis7uDjCUyA47qFw.jpg" group-title="ESPAÑA LALIGA",M+ LaLigaTV (ORANGE)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37171
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37171
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LA LIGA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27744
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27744
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV (ORANGE) (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/nKwXtk4cKqi_wg8Ca4ZdCvEQ6Gok7cmQ3dwBBny45Enpk_VNBnoBclfnY527FldzcB0EvO-kSGsC9syNuh7tgl-J3-2tc6YdBXSZUxCmuDWjeMUf6HOYU4UsJWHJ6jfhRPfMRjyis7uDjCUyA47qFw.jpg" group-title="ESPAÑA LALIGA",M+ LaLigaTV (ORANGE) (720P)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37172
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37172
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA HD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27746
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27746
 #EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/173
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/173
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA FHD (ORANGE)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LALIGA FHD (ORANGE)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/200
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/200
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD (H.265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA FHD (H.265)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/177
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/177
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD  (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",M+ LA LIGA FHD  (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/175
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/175
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA FHD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27745
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27745
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="ESPAÑA LALIGA",M+ LA LIGA 4K
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/180
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/180
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD (D.ULT)" tvg-logo="" group-title="ESPAÑA LALIGA",DAZN LALIGA SD (D.ULT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37389
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37389
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/195
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/195
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/196
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/196
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD (H.265)" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA HD (H.265)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/198
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/198
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA LALIGA",DAZN LA LIGA HD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27750
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27750
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",DAZN LALIGA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/178
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/178
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA LALIGA",DAZN LA LIGA FHD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27749
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27749
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA LALIGA",DAZN LA LIGA UHD 4K
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/199
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/199
 #EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LA LIGA TV BAR FHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logosminiatura/laligatvbarm1.png?w=72&h=54&tok=3ab0a8" group-title="ESPAÑA LALIGA",LA LIGA TV BAR FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/41083
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/41083
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 SD" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LaLiga 2 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27743
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27743
 #EXTINF:-1 tvg-id="" tvg-name="ES : 	M+ Laliga 2 HD" tvg-logo="" group-title="ESPAÑA LALIGA",ES : 	M+ Laliga 2 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6169
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/6169
 #EXTINF:-1 tvg-id="" tvg-name="M+ Laliga 2 Fhd" tvg-logo="" group-title="ESPAÑA LALIGA",M+ Laliga 2 Fhd
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5771
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/5771
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 2 FHD (FIBRA)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LA LIGA 2 FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/669
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/669
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 SD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA 2 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/201
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/201
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA 2 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/202
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/202
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA 2 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/203
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/203
 #EXTINF:-1 tvg-id="LALIGATVBAR2" tvg-name="LALIGA TV BAR 2 FHD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WUQQe4cMSvDXfMhN-W_rSiA.png" group-title="ESPAÑA LALIGA",LALIGA TV BAR 2 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/41084
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/41084
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA 3 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/184
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/184
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LALIGA 3 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/185
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/185
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LALIGA 3 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/186
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/186
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 3 FHD (FIBRA)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LA LIGA 3 FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/670
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/670
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" group-title="ESPAÑA LALIGA",DAZN LA LIGA 3 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/204
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/204
 #EXTINF:-1 tvg-id="LALIGATVBAR3" tvg-name="LALIGA TV BAR 3 HD 720P" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WbCXBBze5YlpEGSXM1w263g.png" group-title="ESPAÑA LALIGA",LALIGA TV BAR 3 HD 720P
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/41085
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/41085
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 4 SD" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LA LIGA 4 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6214
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/6214
 #EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA 4 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/187
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/187
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LALIGA 4 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/188
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/188
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" group-title="ESPAÑA LALIGA",DAZN LA LIGA 4 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/205
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/205
 #EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA 5 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/189
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/189
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LALIGA 5 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/190
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/190
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LALIGA 5 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/191
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/191
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" group-title="ESPAÑA LALIGA",DAZN LA LIGA 5 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/206
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/206
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA 6 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/192
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/192
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 7 SD-B (EVENTO)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LALIGA 7 SD-B (EVENTO)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/194
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/194
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 8 SD (EVENTOS)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LALIGA 8 SD (EVENTOS)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9415
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9415
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 9 SD (EVENTOS)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LALIGA 9 SD (EVENTOS)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9416
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9416
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="" group-title="ESPAÑA LALIGA",LA LIGA TV BAR HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46406
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46406
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 2 HD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WUQQe4cMSvDXfMhN-W_rSiA.png" group-title="ESPAÑA LALIGA",LALIGA TV BAR 2 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46407
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46407
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 3 FHD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WbCXBBze5YlpEGSXM1w263g.png" group-title="ESPAÑA LALIGA",LALIGA TV BAR 3 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46408
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46408
 --
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION  SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LA LIGA TV HYPERMOTION",LA LIGA TV HYPERMOTION  SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/243
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/243
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="LA LIGA TV HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37173
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37173
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION  HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LA LIGA TV HYPERMOTION",LA LIGA TV HYPERMOTION  HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/244
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/244
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION ORANGE HD" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W08f3mj7t6zvvtOCM7vRllQ.png" group-title="LA LIGA TV HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION ORANGE HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37174
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37174
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION HD (SAT)" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="LA LIGA TV HYPERMOTION",LALIGA TV HYPERMOTION HD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27777
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27777
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LA LIGA TV HYPERMOTION",LALIGA TV HYPERMOTION FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/245
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/245
 #EXTINF:-1 tvg-id="" tvg-name="M+  LALIGA  HYPERMOTION TV FHD (FIBRA)" tvg-logo="" group-title="LA LIGA TV HYPERMOTION",M+  LALIGA  HYPERMOTION TV FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/671
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/671
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION FHD (SAT)" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="LA LIGA TV HYPERMOTION",LALIGA TV HYPERMOTION FHD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27776
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27776
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION M2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="LA LIGA TV HYPERMOTION",LA LIGA TV HYPERMOTION M2 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/248
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/248
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="LA LIGA TV HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37175
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37175
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION M2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="LA LIGA TV HYPERMOTION",LA LIGA TV HYPERMOTION M2 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/249
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/249
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION M2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="LA LIGA TV HYPERMOTION",LALIGA TV HYPERMOTION M2 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/250
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/250
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE FHD" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WzU-BlKIQNuhQxmbxBo-y-A.png" group-title="LA LIGA TV HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 2 ORANGE FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37176
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37176
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA HYPERMOTION M2 FHD (FIBRA)" tvg-logo="" group-title="LA LIGA TV HYPERMOTION",M+ LALIGA HYPERMOTION M2 FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/672
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/672
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION M2 FHD (SAT)" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="LA LIGA TV HYPERMOTION",LALIGA TV HYPERMOTION M2 FHD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27778
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/27778
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION M3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="LA LIGA TV HYPERMOTION",LA LIGA TV HYPERMOTION M3 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/251
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/251
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="LA LIGA TV HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37177
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37177
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION M3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="LA LIGA TV HYPERMOTION",LA LIGA TV HYPERMOTION M3 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/14124
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/14124
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE HD" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="LA LIGA TV HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37178
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37178
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HYPERMOTION M3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="LA LIGA TV HYPERMOTION",LA LIGA TV HYPERMOTION M3 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/252
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/252
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE FHD" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="LA LIGA TV HYPERMOTION",ESPAÑA | LALIGA TV HYPERMOTION 3 ORANGE FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37179
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37179
 --
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/226
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/226
 --
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA INFORMACION" tvg-logo="" group-title="REPLAY LA LIGA",REPLAY LA LIGA INFORMACION
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/13145
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/13145
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 1" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 1
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9405
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9405
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 2" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 2
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9406
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9406
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 3" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 3
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9407
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9407
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 4" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 4
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9408
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9408
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 5" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 5
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9409
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9409
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 6" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 6
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9410
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9410
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 7" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 7
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9411
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9411
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 8" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 8
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9412
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9412
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 9" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 9
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9413
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9413
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 10" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 10
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9414
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/9414
 --
 #EXTINF:-1 tvg-id="" tvg-name="bEINSPORTS LA LIGA" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="BEIN SPORTS",bEINSPORTS LA LIGA
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/3716
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/3716
 --
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA." tvg-logo="" group-title="BEIN SPORTS LATINO",BEIN SPORTS LA LIGA.
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10387
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10387
 --
 #EXTINF:-1 tvg-id="" tvg-name="Liga Sports TV FHD" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1-ff.png" group-title="LALIGA SPORTS",Liga Sports TV FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17341
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17341
 #EXTINF:-1 tvg-id="" tvg-name="La Liga Sports TV Corporate FHD" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1-ff.png" group-title="LALIGA SPORTS",La Liga Sports TV Corporate FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17342
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/17342
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 1" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1-ff.png" group-title="LALIGA SPORTS",LaLiga Sports TV 1
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10369
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10369
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 2" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400_1.png" group-title="LALIGA SPORTS",LaLiga Sports TV 2
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10370
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10370
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 3" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1.png" group-title="LALIGA SPORTS",LaLiga Sports TV 3
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10371
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10371
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 4" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-2.png" group-title="LALIGA SPORTS",LaLiga Sports TV 4
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10372
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10372
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 5" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-copia.png" group-title="LALIGA SPORTS",LaLiga Sports TV 5
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10373
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10373
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 6" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1-copia_1.png" group-title="LALIGA SPORTS",LaLiga Sports TV 6
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10374
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10374
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 7" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-2-copia.png" group-title="LALIGA SPORTS",LaLiga Sports TV 7
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10375
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10375
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 8" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-3.png" group-title="LALIGA SPORTS",LaLiga Sports TV 8
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10376
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10376
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 9" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-4.png" group-title="LALIGA SPORTS",LaLiga Sports TV 9
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10377
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10377
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 10" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-5.png" group-title="LALIGA SPORTS",LaLiga Sports TV 10
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10378
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10378
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 11" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-6.png" group-title="LALIGA SPORTS",LaLiga Sports TV 11
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10379
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10379
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 12" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-7.png" group-title="LALIGA SPORTS",LaLiga Sports TV 12
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10380
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10380
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 13" tvg-logo="https://www.linkpicture.com/q/13_45.png" group-title="LALIGA SPORTS",LaLiga Sports TV 13
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10381
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10381
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 14" tvg-logo="https://www.linkpicture.com/q/14_55.png" group-title="LALIGA SPORTS",LaLiga Sports TV 14
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10382
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10382
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 15" tvg-logo="https://www.linkpicture.com/q/15_107.png" group-title="LALIGA SPORTS",LaLiga Sports TV 15
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10383
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/10383
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SPORT TV 16" tvg-logo="" group-title="LALIGA SPORTS",LIGA SPORT TV 16
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37099
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37099
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SPORT TV 17" tvg-logo="" group-title="LALIGA SPORTS",LIGA SPORT TV 17
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37100
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37100
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SPORT TV 18" tvg-logo="" group-title="LALIGA SPORTS",LIGA SPORT TV 18
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37101
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37101
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SPORT TV 19" tvg-logo="" group-title="LALIGA SPORTS",LIGA SPORT TV 19
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37102
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37102
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA SPORT TV 20" tvg-logo="" group-title="LALIGA SPORTS",LALIGA SPORT TV 20
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37103
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/37103
 --
 #EXTINF:-1 tvg-id="" tvg-name="MX: SKY SPORTS LA LIGA HD" tvg-logo="" group-title="MEXICO",MX: SKY SPORTS LA LIGA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1500
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1500
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA: bEIN SPORTS LA LIGA" tvg-logo="" group-title="U.S.A",USA: bEIN SPORTS LA LIGA
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4741
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/4741
 --
 #EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN LaLiga" tvg-logo="" group-title="ESP-1",ES: DAZN LaLiga
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297787
@@ -1376,29 +1362,26 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/44319
 #EXTINF:-1,beIN SPORTS La Liga
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/13474
 --
-#EXTINF:-1,La Liga 01ⓧ: CA Osasuna vs. Granada CF | Friday, 20 October 2023 20:00
+#EXTINF:-1,La Liga 01ⓧ: Girona FC vs. RC Celta de Vigo | Friday, 27 October 2023 20:00
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111015
-#EXTINF:-1,La Liga 02ⓧ: Real Sociedad San Sebastian vs. RCD Mallorca | Saturday, 21 October 2023 13:00
+#EXTINF:-1,La Liga 02ⓧ: UD Almeria vs. UD Las Palmas | Saturday, 28 October 2023 13:00
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111016
-#EXTINF:-1,La Liga 03ⓧ: Getafe CF vs. Real Betis | Saturday, 21 October 2023 15:15
+#EXTINF:-1,La Liga 03ⓧ: FC Barcelona vs. Real Madrid | Saturday, 28 October 2023 15:15
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111017
-#EXTINF:-1,La Liga 04ⓧ: Sevilla FC vs. Real Madrid | Saturday, 21 October 2023 17:30
+#EXTINF:-1,La Liga 04ⓧ: RCD Mallorca vs. Getafe CF | Saturday, 28 October 2023 17:30
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111018
-#EXTINF:-1,La Liga 05ⓧ: RC Celta de Vigo vs. Atletico Madrid | Saturday, 21 October 2023 20:00
+#EXTINF:-1,La Liga 05ⓧ: Cadiz CF vs. Sevilla FC | Saturday, 28 October 2023 20:00
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111019
-#EXTINF:-1,La Liga 06ⓧ: UD Las Palmas vs. Rayo Vallecano | Sunday, 22 October 2023 13:00
+#EXTINF:-1,La Liga 06ⓧ: Real Betis vs. CA Osasuna | Sunday, 29 October 2023 13:00
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111020
-#EXTINF:-1,La Liga 07ⓧ: Girona FC vs. UD Almeria | Sunday, 22 October 2023 15:15
+#EXTINF:-1,La Liga 07ⓧ: Rayo Vallecano vs. Real Sociedad San Sebastian | Sunday, 29 October 2023 15:15
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111021
-#EXTINF:-1,La Liga 08ⓧ: Villarreal vs. Deportivo Alavés | Sunday, 22 October 2023 17:30
+#EXTINF:-1,La Liga 08ⓧ: Athletic Bilbao vs. Valencia CF | Sunday, 29 October 2023 17:30
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111022
-#EXTINF:-1,La Liga 09ⓧ: FC Barcelona vs. Athletic Bilbao | Sunday, 22 October 2023 20:00
+#EXTINF:-1,La Liga 09ⓧ: Atlético Madrid vs. Deportivo Alavés | Sunday, 29 October 2023 20:00
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111023
-#EXTINF:-1,La Liga 10ⓧ: Valencia CF vs. Cadiz CF | Monday, 23 October 2023 20:00
+#EXTINF:-1,La Liga 10ⓧ: Granada CF vs. Villarreal | Monday, 30 October 2023 20:00
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111024
---
-#EXTINF:-1,Football Event 22ⓧ: Spain, LaLiga 2 | AD Alcorcon vs. FC Cartagena | Monday, 23 October 2023 20:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/27582
 --
 #EXTINF:-1,USA | LaLiga TV en Españolⓧ FHD
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/98854
@@ -1472,172 +1455,6 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/62657
 --
 #EXTINF:-1,DStv | SuperSport La Ligaⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/63682
---
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 01ⓧ: CA Osasuna vs. Granada CF | Friday, 20 October 2023 20:00" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 01ⓧ: CA Osasuna vs. Granada CF | Friday, 20 October 2023 20:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111015
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 02ⓧ: Real Sociedad San Sebastian vs. RCD Mallorca | Saturday, 21 October 2023 13:00" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 02ⓧ: Real Sociedad San Sebastian vs. RCD Mallorca | Saturday, 21 October 2023 13:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111016
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 03ⓧ: Getafe CF vs. Real Betis | Saturday, 21 October 2023 15:15" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 03ⓧ: Getafe CF vs. Real Betis | Saturday, 21 October 2023 15:15
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111017
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 04ⓧ: Sevilla FC vs. Real Madrid | Saturday, 21 October 2023 17:30" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 04ⓧ: Sevilla FC vs. Real Madrid | Saturday, 21 October 2023 17:30
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111018
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 05ⓧ: RC Celta de Vigo vs. Atletico Madrid | Saturday, 21 October 2023 20:00" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 05ⓧ: RC Celta de Vigo vs. Atletico Madrid | Saturday, 21 October 2023 20:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111019
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 06ⓧ: UD Las Palmas vs. Rayo Vallecano | Sunday, 22 October 2023 13:00" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 06ⓧ: UD Las Palmas vs. Rayo Vallecano | Sunday, 22 October 2023 13:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111020
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 07ⓧ: Girona FC vs. UD Almeria | Sunday, 22 October 2023 15:15" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 07ⓧ: Girona FC vs. UD Almeria | Sunday, 22 October 2023 15:15
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111021
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 08ⓧ: Villarreal vs. Deportivo Alavés | Sunday, 22 October 2023 17:30" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 08ⓧ: Villarreal vs. Deportivo Alavés | Sunday, 22 October 2023 17:30
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111022
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 09ⓧ: FC Barcelona vs. Athletic Bilbao | Sunday, 22 October 2023 20:00" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 09ⓧ: FC Barcelona vs. Athletic Bilbao | Sunday, 22 October 2023 20:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111023
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 10ⓧ: Valencia CF vs. Cadiz CF | Monday, 23 October 2023 20:00" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="La Liga",La Liga 10ⓧ: Valencia CF vs. Cadiz CF | Monday, 23 October 2023 20:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/111024
---
-#EXTINF:-1 tvg-id="" tvg-name="Football Event 22ⓧ: Spain, LaLiga 2 | AD Alcorcon vs. FC Cartagena | Monday, 23 October 2023 20:00" tvg-logo="http://xplatinmedia.com:8080/images/836b75cfe266fa40acc2ffa3888e1abf.png" group-title="Football Events",Football Event 22ⓧ: Spain, LaLiga 2 | AD Alcorcon vs. FC Cartagena | Monday, 23 October 2023 20:00
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/27582
---
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="USA | LaLiga TV en Españolⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/542e56446000fce5f5948051042de58b.png" group-title="|USA| SPORT",USA | LaLiga TV en Españolⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/98854
---
-#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK | LaLiga TVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/ce171747005b5ac6477921ddccfd44eb.png" group-title="|UK| SPORTS",UK | LaLiga TVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/172
---
-#EXTINF:-1 tvg-id="" tvg-name="MX | Sky Sports LaLigaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dae0b03a8eb86a4636837a4f4a0f0670.png" group-title="|MX| MEXICO",MX | Sky Sports LaLigaⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/102386
---
-#EXTINF:-1 tvg-id="" tvg-name="LAT 24/7ⓧ |La Liga del Dragon VHSRip" tvg-logo="" group-title="|LAT| 24/7 LATINO CANALES",LAT 24/7ⓧ |La Liga del Dragon VHSRip
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/120477
---
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | LaLiga TV Barⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/49230
-#EXTINF:-1 tvg-id="324.es" tvg-name="ES | LaLiga TV Barⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/514
---
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 01ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/31f6eb3a5398a104957e3f0a563ccea3.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 01ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48855
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 02ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/a9c47a801a657f5daa6322cb7fb02845.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 02ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48829
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 03ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/4ff1c4cbc82c40d9ecac06cbaff2968c.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 03ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/74444
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 04ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/9ab32b2f32e6a9d7cd59f74603ccc0e4.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 04ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/74445
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 05ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/a84ef0e53d736b32dad5911513bd4a25.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 05ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/74446
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 06ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/a01ad4a591cedea4cc3e3420f60ee42d.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 06ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/74447
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 07ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/d57e2b7b331c604041ae7337feebe440.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 07ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/74448
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 08ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/39b15c903f2681ae39898fa3b1b0fef3.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 08ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/74449
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 09ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/eb4c3b2409368731c7243c72e5da5afd.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 09ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/99093
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 10ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/e680e4c6a32582012efc03a289fb1f72.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 10ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/99094
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48853
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ Full HD HEVC
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/93133
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48854
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/494
---
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/104713
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="|ES| DEPORTES",ES | DAZN LaLiga 2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/104712
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/104711
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/104710
---
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga HYPERMOTION 1ⓧ FHD " tvg-logo="http://xplatinmedia.com:8080/images/49309791955849c59786b9493138f71f.png" group-title="|ES| DEPORTES",ES | LaLiga HYPERMOTION 1ⓧ FHD 
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/141655
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga HYPERMOTION 2ⓧ FHD " tvg-logo="http://xplatinmedia.com:8080/images/49309791955849c59786b9493138f71f.png" group-title="|ES| DEPORTES",ES | LaLiga HYPERMOTION 2ⓧ FHD 
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/141656
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga HYPERMOTION 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/49309791955849c59786b9493138f71f.png" group-title="|ES| DEPORTES",ES | LaLiga HYPERMOTION 1ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/141657
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga HYPERMOTION 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/49309791955849c59786b9493138f71f.png" group-title="|ES| DEPORTES",ES | LaLiga HYPERMOTION 2ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/141658
---
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ 4K" tvg-logo="http://xplatinmedia.com:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ 4K
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/169927
---
-#EXTINF:-1 tvg-id="beIN MOVIES FAMILY HD" tvg-name="ES | LaLiga HYPERMOTION 3ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/49309791955849c59786b9493138f71f.png" group-title="|ES| DEPORTES",ES | LaLiga HYPERMOTION 3ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/62657
---
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="DStv | SuperSport La Ligaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cc810e55a04124d9bcfd78e12f29bf1d.png" group-title="|DSTV| SUPER SPORT",DStv | SuperSport La Ligaⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/63682
---
-#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor De La Liga MX" tvg-logo="http://127.0.0.1/" group-title="TV MEXICO",Lo Mejor De La Liga MX
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410220
---
-#EXTINF:-1 tvg-id="" tvg-name="DEU | SKY SPORTS LA LIGA HD" tvg-logo="http://svtv.xyz:8000/images/c3b7c24e4b2684e2072e003bb4866520.png" group-title="⚽ PACK SKY SPORTS ⚽",DEU | SKY SPORTS LA LIGA HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410740
-#EXTINF:-1 tvg-id="" tvg-name="DEU | SKY SPORTS LA LIGA HD*" tvg-logo="http://svtv.xyz:8000/images/c3b7c24e4b2684e2072e003bb4866520.png" group-title="⚽ PACK SKY SPORTS ⚽",DEU | SKY SPORTS LA LIGA HD*
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410741
---
-#EXTINF:-1 tvg-id="" tvg-name="REPLAYS LA LIGA" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="⚽ EVENTOS LA LIGA ⚽",REPLAYS LA LIGA
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560988
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA V.I.P** HD" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA V.I.P** HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560989
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA V.I.P** FHD" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA V.I.P** FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560990
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA V.I.P. HD" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA V.I.P. HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560991
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA V.I.P. FHD" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA V.I.P. FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560992
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA (SKY SPORTS)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA (SKY SPORTS)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560993
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA V.I.P** FHD" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA V.I.P** FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560994
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA V.I.P. HD" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA V.I.P. HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560995
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA (DAZN LA LIGA)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA (DAZN LA LIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560996
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA (ESPN +) HD" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA (ESPN +) HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560997
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA (DAZN OP2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="⚽ EVENTOS LA LIGA ⚽",LA LIGA (DAZN OP2)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/560998
---
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="▶️ DEPORTES PREMIUM",DAZN LA LIGA 2 ESPAÑA FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565856
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="▶️ DEPORTES PREMIUM",DAZN LA LIGA ESPAÑA FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565857
---
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 1 ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="▶️ DEPORTES PREMIUM",LALIGA TV HYPERMOTION 1 ESPAÑA FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565874
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="▶️ DEPORTES PREMIUM",LALIGA TV HYPERMOTION 3 ESPAÑA FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565875
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="▶️ DEPORTES PREMIUM",LALIGA TV HYPERMOTION 2 ESPAÑA FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565876
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 2 por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV 2 por M+ FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565877
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 3 por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV 3 por M+ FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565878
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 4 por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV 4 por M+ FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565879
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 5 por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV 5 por M+ FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565880
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 6 por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV 6 por M+ FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565881
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 7 por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV 7 por M+ FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565882
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV por M+ 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV por M+ 1 FHD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565883
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV por M+ 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="▶️ DEPORTES PREMIUM",LA LIGA TV por M+ 1 HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565884
---
-#EXTINF:-1 tvg-id="" tvg-name="12:50 PM | VALENCIA VS CADIZ (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",12:50 PM | VALENCIA VS CADIZ (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572638
-#EXTINF:-1 tvg-id="" tvg-name="12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",12:55 PM | EN ESPAñOL - VALENCIA VS CADIZ (LALIGA)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572639
---
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdrBcmIWaCBj_kxesp7i0zflfwY6ITt-ABP9HU9dfXEpyegn8XlLBC8mY2IMYbPlJIQU2TkU0YdmtxzNgBb_p4hI.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572664
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdrBcmIWaCBj_kxesp7i0zflfwY6ITt-ABP9HU9dfXEpyegn8XlLBC8mY2IMYbPlJIQU2TkU0YdmtxzNgBb_p4hI.png" group-title="⭐ OTROS EVENTOS DEL DIA⭐",Argentine Copa de la Liga Profesional | 03:45 PM CST | Estudiantes de La Plata vs. Sarmiento
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572665
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv

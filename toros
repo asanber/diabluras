@@ -24,6 +24,9 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="04:00 PM | NHL | Washington Capitals vs Toronto Maple Leafs" tvg-logo="http://live.detodotvplay.com:8080/images/b58d595b9b76f20d2a125c32cb593a02.png" group-title="TV | PPV NHL",04:00 PM | NHL | Washington Capitals vs Toronto Maple Leafs
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2190278
+--
 #EXTINF:-1 tvg-id="" tvg-name="ES |  TOROS SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANA_DOCUMENTALES/TOROS_SD.png" group-title=" ES | ESPAÑA DOCUMENTALES",ES |  TOROS SD
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96424
 #EXTINF:-1 tvg-id="" tvg-name="ES |  TOROS HD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANA_DOCUMENTALES/TOROS_HD.png" group-title=" ES | ESPAÑA DOCUMENTALES",ES |  TOROS HD
@@ -77,65 +80,35 @@ http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/440714
 #EXTINF:-1 tvg-id="" tvg-name="TOROLE hd" tvg-logo="https://i.postimg.cc/13xMW5Mf/TOROLE.png" group-title="ENTRETENIMIENTO",TOROLE hd
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/443089
 --
-#EXTINF:-1,12 | TORO TV | HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/144290
+#EXTINF:-1 tvg-id="" tvg-name="12 | TORO TV | HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2fec82&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ftorole.png" group-title="DEPORTES PREMIUM | HD",12 | TORO TV | HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/144290
 --
-#EXTINF:-1,Global Toronto
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/144246
+#EXTINF:-1 tvg-id="" tvg-name="Global Toronto" tvg-logo="https://d3tibl45x65nxk.cloudfront.net/tg_medialibrary/assets2/images/toronto-global-logo.png" group-title="LOCAL CANADA",Global Toronto
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/144246
 --
-#EXTINF:-1,36 | MUNDO TORO | HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/272258
+#EXTINF:-1 tvg-id="" tvg-name="36 | MUNDO TORO | HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="DEPORTES PREMIUM | HD",36 | MUNDO TORO | HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/272258
 --
-#EXTINF:-1,40 | EL TORO TV | HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/286471
+#EXTINF:-1 tvg-id="" tvg-name="40 | EL TORO TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="DEPORTES PREMIUM | HD",40 | EL TORO TV | HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/286471
 --
-#EXTINF:-1,(VIP) CAN| GLOBAL TORONTO HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/291991
+#EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN| GLOBAL TORONTO HD" tvg-logo="http://www.skytvpluzz.online:8000/images/b41d384d4481993837fd6b6206104442.png" group-title="CANADA",(VIP) CAN| GLOBAL TORONTO HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/291991
 --
-#EXTINF:-1,(VIP) CA|  CITY TORONTO HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/292016
+#EXTINF:-1 tvg-id="" tvg-name="(VIP) CA|  CITY TORONTO HD" tvg-logo="http://www.skytvpluzz.online:8000/images/9718554ba0d789738c4c39c2526fbc49.png" group-title="CANADA",(VIP) CA|  CITY TORONTO HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/292016
 --
-#EXTINF:-1,(VIP) CAN|  CBC TORONTO HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/292018
+#EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN|  CBC TORONTO HD" tvg-logo="" group-title="CANADA",(VIP) CAN|  CBC TORONTO HD
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/292018
 --
-#EXTINF:-1,||PT|| Toros TV
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284663
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| Toros TV" tvg-logo="" group-title="PORTUGAL",||PT|| Toros TV
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284663
 --
-#EXTINF:-1,||PT|| TOROS TV
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284738
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| TOROS TV" tvg-logo="" group-title="PORTUGAL",||PT|| TOROS TV
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284738
 --
-#EXTINF:-1,||PT|| Mundotoro TV [low]
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/284807
---
-#EXTINF:-1,CA: CBC Toronto CBLT DT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/429
---
-#EXTINF:-1,CA: CityNews Toronto
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296809
---
-#EXTINF:-1,CA: CTV Toronto
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298187
---
-#EXTINF:-1,CA: Global TV Toronto
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/465
---
-#EXTINF:-1,IN: BBC Toronto
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49640
---
-#EXTINF:-1,IN: TV 16 Toronto
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/147414
---
-#EXTINF:-1,PK: Toronto 360 TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49513
---
-#EXTINF:-1,ES: El Toro TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/201928
---
-#EXTINF:-1,ES: Mundotoro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298810
---
-#EXTINF:-1,ES: Toros TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1132
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| Mundotoro TV [low]" tvg-logo="" group-title="PORTUGAL",||PT|| Mundotoro TV [low]
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/284807
 --
 #EXTINF:-1,ESP-4: ONETORO TV FULL HD
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/4362
@@ -229,6 +202,9 @@ http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233225
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/213774
 --
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 12 En Español-Toronto Maple Leafs vs. Washington Capitals  National Hockey League" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="℗EVENTOS DEL DIA℗",EVENTOS 12 En Español-Toronto Maple Leafs vs. Washington Capitals  National Hockey League
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233471
+--
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/30596
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
@@ -255,54 +231,57 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233225
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/213774
 --
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 12 En Español-Toronto Maple Leafs vs. Washington Capitals  National Hockey League" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="℗EVENTOS DEL DIA℗",EVENTOS 12 En Español-Toronto Maple Leafs vs. Washington Capitals  National Hockey League
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233471
+--
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46601
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/46601
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/347
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/347
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/344
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/344
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO FHD" tvg-logo="" group-title="TOROS ESP",MUNDOTORO FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/348
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/348
 #EXTINF:-1 tvg-id="" tvg-name="TOROLÉ T.V." tvg-logo="" group-title="TOROS ESP",TOROLÉ T.V.
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/349
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/349
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO TV SD" tvg-logo="" group-title="TOROS ESP",EL TORO TV SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6551
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/6551
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO TV HD" tvg-logo="" group-title="TOROS ESP",EL TORO TV HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6552
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/6552
 #EXTINF:-1 tvg-id="" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12113
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/12113
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="CANADA",CA: CBC TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1215
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1215
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="CANADA",CA: CBC TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1216
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1216
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://logovtor.com/wp-content/uploads/2020/02/city-of-toronto-logo-vector.png" group-title="CANADA",CA: CITY TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1225
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1225
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png" group-title="CANADA",CA: CTV TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1251
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1251
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://static.epg.best/ca/GlobalHalifaxCIHF.ca.png" group-title="CANADA",CA: GLOBAL TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1281
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1281
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLB TORONTO BLUE JAYS" tvg-logo="https://loodibee.com/wp-content/uploads/mlb-toronto-blue-jays-logo-480x480.png" group-title="NHL & MLB",MLB TORONTO BLUE JAYS
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/659
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/659
 --
 #EXTINF:-1 tvg-id="" tvg-name="NHL 1 | 7:30 PM ET | Florida at Toronto" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="NHL & MLB",NHL 1 | 7:30 PM ET | Florida at Toronto
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/630
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/630
 --
 #EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="http://media.c-x-c.media/picons/PT/torostv.png" group-title="PORTUGAL",TOROS TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1069
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1069
 #EXTINF:-1 tvg-id="" tvg-name="Toros TV HD" tvg-logo="http://media.c-x-c.media/picons/PT/torostv.png" group-title="PORTUGAL",Toros TV HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1070
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1070
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDO TOURO TV" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="PORTUGAL",MUNDO TOURO TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1157
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/1157
 --
 #EXTINF:-1 tvg-id="" tvg-name="RD: TOROS" tvg-logo="http://visi4k.site:8080/images/4381aebacee4423f0cc76d2bfbe58331.png" group-title="REPUBLICA DOMINICANA",RD: TOROS
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/22014
+http://remix.pinals.xyz:8080/JoseWeib-TV/A5wjQDud0T/22014
 --
 #EXTINF:-1 tvg-id="ext" tvg-name="ES: El Toro TV" tvg-logo="" group-title="ESP-1",ES: El Toro TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/201928
@@ -379,7 +358,7 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/126151
 --
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2100541
+#EXTINF:-1 tvg-id="ext" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 --
 #EXTINF:-1 tvg-id="ext" tvg-name="MLS 5 | October 7 4:30 pm | New York vs. Toronto" tvg-logo="http://live.detodotvplay.com:8080/images/af7fee747519edcd4dbeb6b8f5c72fed.png" group-title="TV | PPV MLS",MLS 5 | October 7 4:30 pm | New York vs. Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2189214
@@ -448,15 +427,6 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/34518
 #EXTINF:-1,MLB Toronto Blue Jays (TOR) (D)
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/34576
 --
-#EXTINF:-1,NBA 03 |  Washington   @    Toronto | 7.30PM ET | FRI
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45542
---
-#EXTINF:-1,USA Real NBA 04: Washington Wizards vs Toronto Raptors @ 07:30 PM
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45560
---
-#EXTINF:-1,NBA 03: Washington Wizards vs Toronto Raptors Oct 20 7:30PM
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/45580
---
 #EXTINF:-1,NHL TORONTO MAPLE LEAFS
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/30792
 --
@@ -468,6 +438,18 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/31440
 --
 #EXTINF:-1,NHL Toronto Maple Leafs
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/31472
+--
+#EXTINF:-1,NHL 01 |  Toronto   @    Washington  | 6:00PM ET | TUE
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45418
+--
+#EXTINF:-1,NHL 01: Toronto Maple Leafs vs Washington Capitals - 06:00 PM ET
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45434
+--
+#EXTINF:-1,NHL 01: Toronto Maple Leafs vs Washington Capitals - 06:00 PM ET
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45450
+--
+#EXTINF:-1,USA Real NHL 01: Toronto Maple Leafs VS Washington Capitals (Toronto Feed ) @ 18:00
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45467
 --
 #EXTINF:-1,USA: MLB TORONTO BLUE JAYS
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/31287
@@ -483,6 +465,9 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/31406
 --
 #EXTINF:-1,USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1,USA | NHL Game 00ⓧ:  Toronto @ Washington | Tue Oct 24th 6:00 PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/732
 --
 #EXTINF:-1,USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -539,111 +524,6 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/53462
 --
 #EXTINF:-1,PK | Toronto 360 TVⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | MLB | Toronto Blue Jaysⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8fccf27b66d61083f4b5fcbd4cd3d7f8.png" group-title="|USA| MLB",USA | MLB | Toronto Blue Jaysⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/77675
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | MLS 07ⓧ: Toronto FC vs Orlando City SC | Sat 21st Oct 6:00PM ET" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="|USA| MLS",USA | MLS 07ⓧ: Toronto FC vs Orlando City SC | Sat 21st Oct 6:00PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/93255
---
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CA | CBC Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1ac03d9c8efa4b3623898025c2707d67.png" group-title="|CA| CANADA",CA | CBC Torontoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/126033
---
-#EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="CA | City TV Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1e1f9ac8dfe4fed1053ab914dbd23596.png" group-title="|CA| CANADA",CA | City TV Torontoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1405
---
-#EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="CA | CityNews Toronto ONⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bc5a03011d818568c4da639dcddb59bf.png" group-title="|CA| CANADA",CA | CityNews Toronto ONⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/131169
---
-#EXTINF:-1 tvg-id="CFPLDT.ca" tvg-name="CA | CTV 2 Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/cc88d9d6582d4856e1c91ff50bd9227a.png" group-title="|CA| CANADA",CA | CTV 2 Torontoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/109241
---
-#EXTINF:-1 tvg-id="CFTODT.ca" tvg-name="CA | CTV Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/d3b64bd58fe6500aa97a1ed6c0103cb1.png" group-title="|CA| CANADA",CA | CTV Torontoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1331
---
-#EXTINF:-1 tvg-id="" tvg-name="CA | Global News Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1830b5884b6e78ff474c40794eb70120.png" group-title="|CA| CANADA",CA | Global News Torontoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1353
---
-#EXTINF:-1 tvg-id="" tvg-name="CA | Urdu TV Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/003751be034e9875aa046f8be31f9b2d.jpg" group-title="|CA| CANADA",CA | Urdu TV Torontoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1300
---
-#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="PT | Toros TVⓧ FHD OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|PT| DESPORTO",PT | Toros TVⓧ FHD OFFLINE
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/9817
-#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="PT | Toros TVⓧ HD OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|PT| DESPORTO",PT | Toros TVⓧ HD OFFLINE
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/9585
-#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="PT | Toros TVⓧ SD OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|PT| DESPORTO",PT | Toros TVⓧ SD OFFLINE
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/9584
---
-#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro TVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/ba00459282887ab668d85adbe624e13d.png" group-title="|ES| ENTRETENIMIENTO",ES | El Toro TVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/93292
-#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/ba00459282887ab668d85adbe624e13d.png" group-title="|ES| ENTRETENIMIENTO",ES | El Toro TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48688
-#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro Valencia TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/58d6031e51f5ee7d35a9d9500f6831d5.png" group-title="|ES| CANALES REGIONALES",ES | El Toro Valencia TVⓧ OFFLINE
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/93874
---
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Golf 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/903d94d5eb5bf067dd3db08109cd9f53.png" group-title="|ES| DEPORTES",ES | Movistar Golf 2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48843
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Deportes 6ⓧ (Solo Eventos)" tvg-logo="http://xplatinmedia.com:8080/images/e63ba5d943cffc3f5591ddf25799f236.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 6ⓧ (Solo Eventos)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48816
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Golf 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/903d94d5eb5bf067dd3db08109cd9f53.png" group-title="|ES| DEPORTES",ES | Movistar Golf 2ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48844
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Golf 2ⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/903d94d5eb5bf067dd3db08109cd9f53.png" group-title="|ES| DEPORTES",ES | Movistar Golf 2ⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/2447
---
-#EXTINF:-1 tvg-id="" tvg-name="ES | Mundotoro TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/2b35811f82f0a075388eabb40a1ec664.png" group-title="|ES| DEPORTES",ES | Mundotoro TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/163063
---
-#EXTINF:-1 tvg-id="" tvg-name="GR | NET TV Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f8f1d66cc9655c6a0a323826d071ad61.png" group-title="|GR| GREECE",GR | NET TV Torontoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/5490
---
-#EXTINF:-1 tvg-id="" tvg-name="IN | BBC Toronto Gaunda Punjabⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9798959dc1e856b23f58b1f2a527e556.png" group-title="|IN| INDIA",IN | BBC Toronto Gaunda Punjabⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/53462
---
-#EXTINF:-1 tvg-id="" tvg-name="PK | Toronto 360 TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/394c53645da1787a30c5a69a072b8fef.png" group-title="|PK| PAKISTAN",PK | Toronto 360 TVⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EL TORO TV" tvg-logo="http://svtv.xyz:8000/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="▶️ TV ESPAÑA ▶️",ESP | EL TORO TV
-http://zona593ec.online:8080/Jhontv/Jhon20231@/409012
---
-#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="http://127.0.0.1/" group-title="▶️ TV ESPAÑA ▶️",TOROS TV
-http://zona593ec.online:8080/Jhontv/Jhon20231@/409028
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: GLOBAL TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410307
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CBC TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410311
-#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TV TORONTO HD" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CITY TV TORONTO HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410312
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CTV TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410320
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2 TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CTV 2 TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410386
---
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTOROS" tvg-logo="https://mundotoro.tv/assets/images/player/player_thumb.png" group-title="EVENTOS ESPAÑA",MUNDOTOROS
-http://zona593ec.online:8080/Jhontv/Jhon20231@/428925
---
-#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="http://51.222.43.170:36995/images/88a7653c97c1fa7974b78d137fe20672.png" group-title="▶️ DEPORTES PREMIUM",TOROS
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565940
---
-#EXTINF:-1 tvg-id="" tvg-name="TOROS HD (OP B)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="▶️ DEPORTES PREMIUM",TOROS HD (OP B)
-http://zona593ec.online:8080/Jhontv/Jhon20231@/565973
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mundo Toro" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg" group-title="▶️ ESPAÑA | DEPORTES",ES: Mundo Toro
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572238
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mundo Toro" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg" group-title="▶️ ESPAÑA | DEPORTES",ES: Mundo Toro
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572239
---
-#EXTINF:-1 tvg-id="" tvg-name="NBA_04 | 17:30 Washington Wizards Toronto Raptors" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdnHXBOq_R2VDvdaud-bHp7gWWXcuENrYqwXLujK9aOJRt_GG2fbqBXzzhMf-ut4cxw.png" group-title="▶️ | NBA ( SOLO EVENTOS)",NBA_04 | 17:30 Washington Wizards Toronto Raptors
-http://zona593ec.online:8080/Jhontv/Jhon20231@/572273
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
