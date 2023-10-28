@@ -8,13 +8,13 @@
 "groups":
     [
         {
-         "name": "GEN_Fri27Oct_202310270303",
+         "name": "GEN_Sat28Oct_202310280303",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "data27Oct0021",
+         "name": "data28Oct0011",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -59,6 +59,12 @@
          "image": "https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",
          "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/toros",
          "info":"toros",
+         "import": true
+        },
+        {
+         "name": "rugby",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/rugby",
+         "info":"rugby",
          "import": true
         },
         {
