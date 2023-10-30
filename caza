@@ -102,22 +102,6 @@ http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96455
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96456
 --
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336458
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZA Y PESCA HD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336457
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION" tvg-logo="https://i.postimg.cc/zvSwxSQX/canal-cazavision-removebg-preview.png" group-title="ENTRETENIMIENTO",CAZAVISION
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336460
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="22- IBERALIA FHD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",22- IBERALIA FHD
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336475
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",IBERALIA HD
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336476
-#EXTINF:-1 tvg-id="" tvg-name="23- IBERALIA 100% CAZA" tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",23- IBERALIA 100% CAZA
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336895
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA " tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA 
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336896
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336458
 #EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZA Y PESCA HD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336457
@@ -352,7 +336,7 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/319242
 #EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKyUetcDB6ayUqQGfeQOC8LW0aj.jpg" group-title="DRAMA-THRILLER-ROMANCE",El indomable Will Hunting (1997)
 http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/179408.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="MOVIES GENERAL",El indomable Will Hunting (1997)
+#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="http://streamingprotv.com:8000/images/858d0527911ce2722735d49b435b54f1.jpg" group-title="MOVIES GENERAL",El indomable Will Hunting (1997)
 http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/244278.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/01/sexto-sentido.jpg?tf=3840x" group-title="MOVIES GENERAL",El indomable Will Hunting (1997)
@@ -367,7 +351,7 @@ http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/250061.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlk5MeGlNSiy773SWot9dGAQ2as.jpg" group-title="MOVIES GENERAL 2",El indomable Will Hunting (1997)
 http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/253970.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="Hunting Ava Bravo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7Lnz3ayJyW9IWmbA0M19vpBbu4.jpg" group-title="MOVIES GENERAL 2",Hunting Ava Bravo (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Hunting Ava Bravo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlk5MeGlNSiy773SWot9dGAQ2as.jpg" group-title="MOVIES GENERAL 2",Hunting Ava Bravo (2022)
 http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/254636.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frqcLA5IavOPKr5cHzJqEtqte2t.jpg" group-title="MOVIES GENERAL 2",El indomable Will Hunting (1997)
@@ -438,9 +422,9 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/158478
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca FHD" tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/158477
 --
-#EXTINF:-1 tvg-id="ext" tvg-name="D| Espn 2 | BR HD" tvg-logo="http://mastvplus.ddns.net:80/images/4362a60a6393d774132d83ea6ae905c7.png" group-title="TV | Deportes",D| Espn 2 | BR HD
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2113511
 --
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2167443
+#EXTINF:-1 tvg-id="ext" tvg-name="CA | TSN SPORTS 4" tvg-logo="http://l3d.us:25461/images/06307c61c6134686ec199342a7ff423f.png" group-title="TV | USA Sports",CA | TSN SPORTS 4
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: Iberalia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" group-title="|ESP| Documental",ES: Iberalia TV
 http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/2793
@@ -534,6 +518,84 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/440
 --
 #EXTINF:-1,SPORTSMAN CHANNEL
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/37174
+--
+#EXTINF:-1,USA | CBS Huntington, WV WOWKⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11856
+--
+#EXTINF:-1,USA | Hunt Channelⓧ FHD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/107261
+--
+#EXTINF:-1,USA | NBC Huntington, WV WSAZⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/14697
+--
+#EXTINF:-1,CA | Sportsman Channelⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11597
+--
+#EXTINF:-1,ES | Caza y Pescaⓧ FHD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48665
+#EXTINF:-1,ES | Caza y Pescaⓧ Full HD HEVC
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/513
+#EXTINF:-1,ES | Caza y Pescaⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48752
+#EXTINF:-1,ES | Caza y Pescaⓧ SD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48753
+#EXTINF:-1,ES | Cazavision PTⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48801
+--
+#EXTINF:-1,ES | Iberalia TVⓧ SD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48691
+#EXTINF:-1,ES | Iberalia TVⓧ SD HEVC
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/527
+--
+#EXTINF:-1,CZ | Fishing & Huntingⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/6977
+--
+#EXTINF:-1,HU | The Fishing & Huntingⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/7798
+#EXTINF:-1,HU | The Fishing & Huntingⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/7797
+--
+#EXTINF:-1,RO | Fishing & Huntingⓧ SD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/85676
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Huntington, WV WOWKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5ef12cf30271a43be834217c2b8d01de.png" group-title="|USA| CBS REGIONALS",USA | CBS Huntington, WV WOWKⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11856
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hunt Channelⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/9f73e91b470a14f1722cbc449f8b3882.png" group-title="|USA| DOCUMENTARY",USA | Hunt Channelⓧ FHD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/107261
+--
+#EXTINF:-1 tvg-id="nbcwsaz.us" tvg-name="USA | NBC Huntington, WV WSAZⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d4aa267da970753f41d74bf555c7cd5b.png" group-title="|USA| NBC REGIONALS",USA | NBC Huntington, WV WSAZⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/14697
+--
+#EXTINF:-1 tvg-id="SportsmanChannelCanada.ca" tvg-name="CA | Sportsman Channelⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/0bfd726763893981a76c24a508018076.png" group-title="|CA| SPORT",CA | Sportsman Channelⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11597
+--
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ FHD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48665
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ Full HD HEVC
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/513
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48752
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ SD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48753
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="ES | Cazavision PTⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9171edb1dfbb72ea571c307beb5a3b31.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Cazavision PTⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48801
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia TVⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/9c09b2eba258fc8a0fd8cffdf9bdde0f.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Iberalia TVⓧ SD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48691
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia TVⓧ SD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/9c09b2eba258fc8a0fd8cffdf9bdde0f.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Iberalia TVⓧ SD HEVC
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/527
+--
+#EXTINF:-1 tvg-id="" tvg-name="CZ | Fishing & Huntingⓧ" tvg-logo="http://xplatinmedia.com:8080/images/65dbefd89cf89e2b96d9dad18621a8f8.png" group-title="|CZ| CZECHIA AND SLOVAKIA",CZ | Fishing & Huntingⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/6977
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU | The Fishing & Huntingⓧ" tvg-logo="http://xplatinmedia.com:8080/images/65dbefd89cf89e2b96d9dad18621a8f8.png" group-title="|HU| HUNGARY",HU | The Fishing & Huntingⓧ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/7798
+#EXTINF:-1 tvg-id="" tvg-name="HU | The Fishing & Huntingⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/65dbefd89cf89e2b96d9dad18621a8f8.png" group-title="|HU| HUNGARY",HU | The Fishing & Huntingⓧ HD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/7797
+--
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="RO | Fishing & Huntingⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/0ab4c1abf49ceb23ccd643c0182bebd5.png" group-title="|RO| LIFESTYLE",RO | Fishing & Huntingⓧ SD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/85676
 --
 #EXTINF:-1 tvg-id="" tvg-name="US : Sportsman Channel" tvg-logo="https://th.bing.com/th/id/OIP.SyMdsn_R3Lqt_gtmly_GfgHaCU?w=311&h=109&c=7&r=0&o=5&dpr=1.3&pid=1.7" group-title="⚽ USA SPORTS ⚽",US : Sportsman Channel
 http://zona593ec.online:8080/Jhontv/Jhon20231@/545310
