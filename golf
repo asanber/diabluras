@@ -229,11 +229,6 @@ http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151450
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151451
 --
 #EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",27- MOVISTAR GOLF EXTRA 
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336415
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336416
---
-#EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",27- MOVISTAR GOLF EXTRA 
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336415
 #EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336416
@@ -458,6 +453,9 @@ http://my-chplus.net:8080/web24/RdFhH3gDRk/28744
 --
 #EXTINF:-1 tvg-id="" tvg-name="US:The Golf Channel" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/golf.png" group-title="USA",US:The Golf Channel
 http://my-chplus.net:8080/web24/RdFhH3gDRk/28796
+--
+#EXTINF:-1 tvg-id="" tvg-name="First Round 03:00 PM EST (Golf)" tvg-logo="https://pbs.twimg.com/profile_images/922534670709002240/GLndcSQl_400x400.jpg",PPV || Golf (Pro) College Golf: East Lake Cup, First Round 03:00 PM EST (Golf)" tvg-logo="https://pbs.twimg.com/profile_images/922534670709002240/GLndcSQl_400x400.jpg" group-title="PPV - Eventos Diarios",First Round 03:00 PM EST (Golf)" tvg-logo="https://pbs.twimg.com/profile_images/922534670709002240/GLndcSQl_400x400.jpg",PPV || Golf (Pro) College Golf: East Lake Cup, First Round 03:00 PM EST (Golf)
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1529032
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA: GOLF CHANNEL" tvg-logo="https://tinyurl.com/y3hvndcd" group-title="PPV Sports - Beta",USA: GOLF CHANNEL
 http://my-chplus.net:8080/web24/RdFhH3gDRk/1174836
@@ -910,6 +908,49 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/37204
 --
 #EXTINF:-1,Golf Latin
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/13457
+--
+#EXTINF:-1,|CA| GOLF
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/141301.ts
+--
+#EXTINF:-1,|US| The Golf Channel
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/141709.ts
+--
+#EXTINF:-1,|.UK.| SKY SPORTS GOLF HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/31087.ts
+#EXTINF:-1,|.UK.| SKY SPORTS GOLF 
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/30942.ts
+--
+#EXTINF:-1,|.ES.D.| M GOLF
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/59819.ts
+#EXTINF:-1,|.ES.| M GOLF FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/59820.ts
+--
+#EXTINF:-1,|SP-M+| M+ GOLF HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/139297.ts
+#EXTINF:-1,|SP-M+| M+ GOLF FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/139298.ts
+--
+#EXTINF:-1,|.ES.D.| MOVISTAR GOLF HD IG
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/66033.ts
+--
+#EXTINF:-1,|.LATIN.| GOLF CH
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78464.ts
+#EXTINF:-1,|.LATIN.|D GOLF CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78465.ts
+#EXTINF:-1,|.LATIN.|D GOLF LATIN AMERICA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78466.ts
+--
+#EXTINF:-1,|.LATIN.|D NBC GOLF FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78500.ts
+--
+#EXTINF:-1,|.LATINO.| GOLF CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67382.ts
+--
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT GOLF HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/62970.ts
+--
+#EXTINF:-1,|.NL.S.| ZIGGO GOLF
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/63954.ts
 --
 #EXTINF:-1,USA | Golf Channelⓧ FHD
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1053

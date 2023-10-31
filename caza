@@ -102,22 +102,6 @@ http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96455
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96456
 --
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336458
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZA Y PESCA HD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336457
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION" tvg-logo="https://i.postimg.cc/zvSwxSQX/canal-cazavision-removebg-preview.png" group-title="ENTRETENIMIENTO",CAZAVISION
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336460
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="22- IBERALIA FHD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",22- IBERALIA FHD
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336475
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",IBERALIA HD
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336476
-#EXTINF:-1 tvg-id="" tvg-name="23- IBERALIA 100% CAZA" tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",23- IBERALIA 100% CAZA
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336895
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA " tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA 
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336896
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336458
 #EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZA Y PESCA HD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336457
@@ -422,9 +406,8 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/158478
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca FHD" tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca FHD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/158477
 --
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2113511
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| Liga de Campeones" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| Liga de Campeones
 --
-#EXTINF:-1 tvg-id="ext" tvg-name="CA | TSN SPORTS 4" tvg-logo="http://l3d.us:25461/images/06307c61c6134686ec199342a7ff423f.png" group-title="TV | USA Sports",CA | TSN SPORTS 4
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: Iberalia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" group-title="|ESP| Documental",ES: Iberalia TV
 http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/2793
@@ -518,6 +501,25 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/440
 --
 #EXTINF:-1,SPORTSMAN CHANNEL
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/37174
+--
+#EXTINF:-1,|CA| SPORTSMAN CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/141278.ts
+--
+#EXTINF:-1,|.ES.| IBERALIA TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/59756.ts
+--
+#EXTINF:-1,|.ES.| CAZA Y PESCA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/59860.ts
+#EXTINF:-1,|.ES.| CAZA Y PESCA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/59862.ts
+--
+#EXTINF:-1,|SP+| IBERALIA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/139135.ts
+#EXTINF:-1,|SP+| IBERALIA 100% PESCA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/139136.ts
+--
+#EXTINF:-1,|SP+| IBERALIA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/139138.ts
 --
 #EXTINF:-1,USA | CBS Huntington, WV WOWKⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11856
