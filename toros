@@ -101,8 +101,8 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2168355
 --
-#EXTINF:-1 tvg-id="" tvg-name="NBA_05 | 1930 Hrs | Portland Trail Blazers at Toronto Raptors" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="TV | PPV NBA",NBA_05 | 1930 Hrs | Portland Trail Blazers at Toronto Raptors
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2190762
+#EXTINF:-1 tvg-id="" tvg-name="06:00 PM | NHL | Toronto Maple Leafs vs Los Angeles Kings" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nhl-1-logo-black-and-white.png" group-title="TV | PPV NHL",06:00 PM | NHL | Toronto Maple Leafs vs Los Angeles Kings
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2190846
 --
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/4362
@@ -150,6 +150,19 @@ http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96430
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96431
 #EXTINF:-1 tvg-id="" tvg-name="ES |  MUNDO TORO FHD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANA_DOCUMENTALES/EL_TORO_FHD.png" group-title=" ES | ESPAÑA DOCUMENTALES",ES |  MUNDO TORO FHD
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96432
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336207
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB TORONTO BLUE JAYS" tvg-logo="https://i.postimg.cc/fyD59sFS/mlb-toronto-blue-jays-logo-480x480.png" group-title="MLB",MLB TORONTO BLUE JAYS
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/460060
+--
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES) " tvg-logo="https://i.postimg.cc/dVrFX3YX/MUNDO-TORO.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV HD (ES) 
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/440715
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV SD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV SD (ES)
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/440714
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE hd" tvg-logo="https://i.postimg.cc/13xMW5Mf/TOROLE.png" group-title="ENTRETENIMIENTO",TOROLE hd
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/443089
 --
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
 http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336207
@@ -248,11 +261,16 @@ http://my-chplus.net:8080/lu1s3cuapla72@/ah33gzCNqm/15573
 #EXTINF:-1 tvg-id="" tvg-name="(PT) TOROS TV" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="PORTUGAL",(PT) TOROS TV
 http://my-chplus.net:8080/web24/RdFhH3gDRk/15573
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV || NBA 05 | PORTLAND TRAIL BLAZERS @ TORONTO RAPTORS | 10/30-07:30PM | ROOT SPORTS PLUS TSN4 TSN TSN 4K" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5dce510e3d7ef.png?fit=900" group-title="PPV - Eventos Diarios",PPV || NBA 05 | PORTLAND TRAIL BLAZERS @ TORONTO RAPTORS | 10/30-07:30PM | ROOT SPORTS PLUS TSN4 TSN TSN 4K
-http://my-chplus.net:8080/web24/RdFhH3gDRk/1529083
+#EXTINF:-1 tvg-id="" tvg-name="PPV || 06:00:pm Los Angeles Kings Vs Toronto Maple Leafs | Espaool" tvg-logo="http://miarea.vip:8080/images/356ef8cc35afeb71e1a6515c2ffdd3d9.jpg" group-title="PPV - Eventos Diarios",PPV || 06:00:pm Los Angeles Kings Vs Toronto Maple Leafs | Espaool
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1529466
+#EXTINF:-1 tvg-id="" tvg-name="PPV || 06:00:pm Los Angeles Kings Vs Toronto Maple Leafs" tvg-logo="http://miarea.vip:8080/images/356ef8cc35afeb71e1a6515c2ffdd3d9.jpg" group-title="PPV - Eventos Diarios",PPV || 06:00:pm Los Angeles Kings Vs Toronto Maple Leafs
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1529465
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV || Basketball (NBA) Toronto Raptors vs Portland Trail Blazers 07:30 PM EST (NBA)" tvg-logo="https://pbs.twimg.com/profile_images/1392258537993211905/kYxkTjiE_400x400.jpg" group-title="PPV - Eventos Diarios",PPV || Basketball (NBA) Toronto Raptors vs Portland Trail Blazers 07:30 PM EST (NBA)
-http://my-chplus.net:8080/web24/RdFhH3gDRk/1529045
+#EXTINF:-1 tvg-id="" tvg-name="PPV || Hockey (NHL) Toronto Maple Leafs vs Los Angeles Kings 08:00 PM EST (ESPN)" tvg-logo="https://pbs.twimg.com/profile_images/1598320510869307394/SxDFkE8W_400x400.jpg" group-title="PPV - Eventos Diarios",PPV || Hockey (NHL) Toronto Maple Leafs vs Los Angeles Kings 08:00 PM EST (ESPN)
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1529426
+--
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NHL 01 | LOS ANGELES KINGS @ TORONTO MAPLE LEAFS | 10/31-08:00PM | ESPN ESPN APP ESPN DEPORTES SN NOW+ TVA SPORTS 2" tvg-logo="https://i.ibb.co/Wp8NHzf/nhl-center-ice-us.png" group-title="PPV - Eventos Diarios",NHL 01 | LOS ANGELES KINGS @ TORONTO MAPLE LEAFS | 10/31-08:00PM | ESPN ESPN APP ESPN DEPORTES SN NOW+ TVA SPORTS 2
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1529412
 --
 #EXTINF:-1 tvg-id="Toros TV ES" tvg-name="||ES3|| C TOROS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/canal+.png" group-title="ESPAÑA 3",||ES3|| C TOROS HD
 http://my-chplus.net:8080/web24/RdFhH3gDRk/1123695
@@ -618,7 +636,7 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
 http://185.155.103.50:8080/UzielLCH/UzielLCH/126151
 --
-#EXTINF:-1 tvg-id="ext" tvg-name="CA | TSN SPORTS 5" tvg-logo="http://l3d.us:25461/images/1ad19be89a6ed3a66a7050db2d47a0f0.png" group-title="TV | USA Sports",CA | TSN SPORTS 5
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2113582
 --
 #EXTINF:-1 tvg-id="ext" tvg-name="MLS 5 | October 7 4:30 pm | New York vs. Toronto" tvg-logo="http://live.detodotvplay.com:8080/images/af7fee747519edcd4dbeb6b8f5c72fed.png" group-title="TV | PPV MLS",MLS 5 | October 7 4:30 pm | New York vs. Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2189214
@@ -753,9 +771,6 @@ http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/66037.ts
 #EXTINF:-1,|.PT.S.O| TOROS TV
 http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/58874.ts
 --
-#EXTINF:-1,USA | NBA 05ⓧ: Portland Trail Blazers v Toronto Raptors | Mon 30th Oct 7:30PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11548
---
 #EXTINF:-1,USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
 --
@@ -811,9 +826,6 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/53462
 --
 #EXTINF:-1,PK | Toronto 360 TVⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
---
-#EXTINF:-1 tvg-id="NBALeaguePass5.us" tvg-name="USA | NBA 05ⓧ: Portland Trail Blazers v Toronto Raptors | Mon 30th Oct 7:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 05ⓧ: Portland Trail Blazers v Toronto Raptors | Mon 30th Oct 7:30PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11548
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
@@ -914,5 +926,5 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/572238
 #EXTINF:-1 tvg-id="" tvg-name="ES: Mundo Toro" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg" group-title="▶️ ESPAÑA | DEPORTES",ES: Mundo Toro
 http://zona593ec.online:8080/Jhontv/Jhon20231@/572239
 --
-#EXTINF:-1 tvg-id="" tvg-name="NBA_05 | 1930 Hrs | Portland Trail Blazers at Toronto Raptors" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMjmd6kAEZg51vDSkBYREBxrR46XSXgWzo4-51IDAnsiUo_9KAqTDqdsRzgic0wOTMmYEbkmdIv-fS8LhebMOa01YnzeyJBTrXf6sNdUoErgoA.png" group-title="⭐ | OTROS EVENTOS DEL DIA",NBA_05 | 1930 Hrs | Portland Trail Blazers at Toronto Raptors
-http://zona593ec.online:8080/Jhontv/Jhon20231@/574928
+#EXTINF:-1 tvg-id="" tvg-name="06:00 PM | NHL | Toronto Maple Leafs vs Los Angeles Kings" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfdIm7epTjJXFaBhibmMBtIBkkUUMn26ISSbP87mgRNAIFmVcjSyXYq0128mbYRa93g.png" group-title="⭐ | OTROS EVENTOS DEL DIA",06:00 PM | NHL | Toronto Maple Leafs vs Los Angeles Kings
+http://zona593ec.online:8080/Jhontv/Jhon20231@/575045
