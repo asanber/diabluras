@@ -101,8 +101,8 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2168355
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:00 PM | NHL | Toronto Maple Leafs vs Buffalo Sabres" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nhl-1-logo-black-and-white.png" group-title="TV | PPV NHL",05:00 PM | NHL | Toronto Maple Leafs vs Buffalo Sabres
-http://185.155.103.50:8080/UzielLCH/UzielLCH/2191089
+#EXTINF:-1 tvg-id="" tvg-name="NBA_02 | 13:30 Hrs | Toronto Raptors at San Antonio Spurs" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="TV | PPV NBA",NBA_02 | 13:30 Hrs | Toronto Raptors at San Antonio Spurs
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2191161
 --
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/4362
@@ -261,11 +261,14 @@ http://my-chplus.net:8080/lu1s3cuapla72@/ah33gzCNqm/15573
 #EXTINF:-1 tvg-id="" tvg-name="(PT) TOROS TV" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="PORTUGAL",(PT) TOROS TV
 http://my-chplus.net:8080/web24/RdFhH3gDRk/15573
 --
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="PPV || NHL 06 | BUFFALO SABRES @ TORONTO MAPLE LEAFS | 11/04-07:00PM | MSGSN MSGSN 2 NHL NETWORK SPORTSNET" tvg-logo="https://i.ibb.co/Wp8NHzf/nhl-center-ice-us.png" group-title="PPV - Eventos Diarios",PPV || NHL 06 | BUFFALO SABRES @ TORONTO MAPLE LEAFS | 11/04-07:00PM | MSGSN MSGSN 2 NHL NETWORK SPORTSNET
-http://my-chplus.net:8080/web24/RdFhH3gDRk/1531926
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | TORONTO RAPTORS @ SAN ANTONIO SPURS | 11/05-03:30PM | BALLY SOUTHWEST SPORTSNET SN EAST SN ONE SN ONTARIO" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5dce510e3d7ef.png?fit=900" group-title="PPV - Eventos Diarios",NBA 02 | TORONTO RAPTORS @ SAN ANTONIO SPURS | 11/05-03:30PM | BALLY SOUTHWEST SPORTSNET SN EAST SN ONE SN ONTARIO
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1532329
 --
-#EXTINF:-1 tvg-id="" tvg-name="Hockey (NHL) Toronto Maple Leafs vs Buffalo Sabres 07:00 PM EST (NHL)" tvg-logo="https://pbs.twimg.com/profile_images/1598320510869307394/SxDFkE8W_400x400.jpg" group-title="PPV - Eventos Diarios",Hockey (NHL) Toronto Maple Leafs vs Buffalo Sabres 07:00 PM EST (NHL)
-http://my-chplus.net:8080/web24/RdFhH3gDRk/1531744
+#EXTINF:-1 tvg-id="" tvg-name="PPV || Toronto Raptors Vs San Antonio Spurs" tvg-logo="http://miarea.vip:8080/images/979b9ea1f97f40962680400598d1047a.png" group-title="PPV - Eventos Diarios",PPV || Toronto Raptors Vs San Antonio Spurs
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1532100
+--
+#EXTINF:-1 tvg-id="" tvg-name="Basketball (NBA) San Antonio Spurs vs Toronto Raptors 04:30 PM EST (NBA)" tvg-logo="https://pbs.twimg.com/profile_images/1392258537993211905/kYxkTjiE_400x400.jpg" group-title="PPV - Eventos Diarios",Basketball (NBA) San Antonio Spurs vs Toronto Raptors 04:30 PM EST (NBA)
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1532060
 --
 #EXTINF:-1 tvg-id="Toros TV ES" tvg-name="||ES3|| C TOROS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/canal+.png" group-title="ESPAÑA 3",||ES3|| C TOROS HD
 http://my-chplus.net:8080/web24/RdFhH3gDRk/1123695
@@ -328,32 +331,6 @@ http://pinkpanther.uk:8080/movie/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EA
 http://pinkpanther.uk:8080/movie/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/58037.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30596
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30597
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CITY Toronto" tvg-logo="http://tvstar.cc:8880/chimg/7821008370.png" group-title="││TV││CANADA",CA: CITY Toronto
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30605
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO | SD" tvg-logo="http://tvstar.cc:8880/chimg/4209190347.png" group-title="││TV││CANADA",CA: CTV TORONTO | SD
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30607
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="http://tvstar.cc:8880/chimg/9176430691.png" group-title="││TV││CANADA",CA: GLOBAL TORONTO
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30670
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: TV 16 Toronto" tvg-logo="http://tvstar.cc:8880/chimg/1965488706.png" group-title="││TV││CANADA",CA: TV 16 Toronto
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30754
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: BBC Toronto Gaunda Punjab" tvg-logo="http://tvstar.cc:8880/chimg/5521059770.png" group-title="││TV││CANADA",CA: BBC Toronto Gaunda Punjab
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30780
---
-#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="││TV││ TDT ESPAÑA",EL TORO TV
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/233225
---
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
-http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/213774
---
-#EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/30596
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/30597
@@ -378,6 +355,9 @@ http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/233225
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/213774
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA TORONTO RAPTORS" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="││TV││PPV NBA",NBA TORONTO RAPTORS
+http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/234181
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/30596
@@ -404,6 +384,9 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233225
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/213774
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA TORONTO RAPTORS" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="││TV││PPV NBA",NBA TORONTO RAPTORS
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/234181
 --
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46601
@@ -639,11 +622,11 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/31440
 #EXTINF:-1,NHL Toronto Maple Leafs
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/31472
 --
+#EXTINF:-1,USA | NBA 02ⓧ: Toronto Raptors v San Antonio Spurs | Sun 5th Nov 3:30PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11545
+--
 #EXTINF:-1,USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
---
-#EXTINF:-1,USA | NHL Game 05ⓧ: Buffalo @ Toronto | Sat Nov 4th 7:00 PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/738
 --
 #EXTINF:-1,USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -698,11 +681,11 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/53462
 #EXTINF:-1,PK | Toronto 360 TVⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
 --
+#EXTINF:-1 tvg-id="NBALeaguePass2.us" tvg-name="USA | NBA 02ⓧ: Toronto Raptors v San Antonio Spurs | Sun 5th Nov 3:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 02ⓧ: Toronto Raptors v San Antonio Spurs | Sun 5th Nov 3:30PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11545
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 05ⓧ: Buffalo @ Toronto | Sat Nov 4th 7:00 PM ET" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 05ⓧ: Buffalo @ Toronto | Sat Nov 4th 7:00 PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/738
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -804,3 +787,6 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/572239
 http://zona593ec.online:8080/Jhontv/Jhon20231@/575139
 #EXTINF:-1 tvg-id="" tvg-name="Toros del Este - Tvo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Liga_de_B%C3%A9isbol_Profesional_de_la_Rep%C3%BAblica_Dominicana.jpg" group-title="LIGA DE BEISBOL RD (SOLO EVENTOS)",Toros del Este - Tvo
 http://zona593ec.online:8080/Jhontv/Jhon20231@/575140
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA_02 | 13:30 Hrs | Toronto Raptors at San Antonio Spurs" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43s3haL-YjS-4h4nfcfg4CvQh-qWO9BhFYnDp8SiIVjf6bdx4ModTjTMEWtdUuB4-bDK3fZmJ1DCWbZ-0kcDYvpH-JERJTJGtTPGZe0bGEd46v6DOXbog_fh_opq3F2wGn6QCHTzfi88l7P5leS9z76imO0BkpRL7lrXL3exZBXV3.png" group-title="⭐ | OTROS EVENTOS DEL DIA",NBA_02 | 13:30 Hrs | Toronto Raptors at San Antonio Spurs
+http://zona593ec.online:8080/Jhontv/Jhon20231@/575742
