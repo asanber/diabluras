@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/ydUhcaO8MFrlakuAdNBxmjVBEcq.jpg" group-title="2022",Elige o muere (2022)
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="2022",Pinocho de Guillermo del Toro (2022)
 http://vod.tuxchannel.mx/peliculas/720/guillermo%20del%20toros%20pinocchio%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/3xdPntWgSjAbHY1OYhRkEt2s6tl.jpg" group-title="2022",Pipa (2022)
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg" group-title="2022",Tiburón toro (2022)
 http://vod.tuxchannel.mx/peliculas/720/bull%20shark%202022.mkv
@@ -43,8 +41,20 @@ http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/162964
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 9 Tampa Bay Lightning vs. Toronto Maple Leafs" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 9 Tampa Bay Lightning vs. Toronto Maple Leafs
-http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/190761
+#EXTINF:-1 tvg-id="" tvg-name="8/11 06:00:pm � Ottawa Senators Vs Toronto Maple Leafs" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",8/11 06:00:pm � Ottawa Senators Vs Toronto Maple Leafs
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/190889
+--
+#EXTINF:-1 tvg-id="" tvg-name="8/11 07:30:pm � Toronto Raptors Vs Dallas Mavericks" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",8/11 07:30:pm � Toronto Raptors Vs Dallas Mavericks
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/190904
+--
+#EXTINF:-1 tvg-id="" tvg-name="05:30 PM | OTTAWA SENATORS VS TORONTO MAPLE LEAFS" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",05:30 PM | OTTAWA SENATORS VS TORONTO MAPLE LEAFS
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/190916
+--
+#EXTINF:-1 tvg-id="" tvg-name="National Hockey League | 06:30 PM CST | Ottawa Senators vs. Toronto Maple Leafs" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",National Hockey League | 06:30 PM CST | Ottawa Senators vs. Toronto Maple Leafs
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/190936
+--
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/190961
 --
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://00322.xyz:8000/VoDLatiecu/X4PFWWVSX8/4362
@@ -104,6 +114,9 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="05:30 PM | NHL | OTTAWA SENATORS VS TORONTO MAPLE LEAFS" tvg-logo="http://live.detodotvplay.com:8080/images/8ee2d8186b767d2502c555d15269fe87.png" group-title="TV | PPV NHL",05:30 PM | NHL | OTTAWA SENATORS VS TORONTO MAPLE LEAFS
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2191386
+--
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/4362
 --
@@ -137,8 +150,20 @@ http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/162964
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 9 Tampa Bay Lightning vs. Toronto Maple Leafs" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 9 Tampa Bay Lightning vs. Toronto Maple Leafs
-http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/190761
+#EXTINF:-1 tvg-id="" tvg-name="8/11 06:00:pm � Ottawa Senators Vs Toronto Maple Leafs" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",8/11 06:00:pm � Ottawa Senators Vs Toronto Maple Leafs
+http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/190889
+--
+#EXTINF:-1 tvg-id="" tvg-name="8/11 07:30:pm � Toronto Raptors Vs Dallas Mavericks" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",8/11 07:30:pm � Toronto Raptors Vs Dallas Mavericks
+http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/190904
+--
+#EXTINF:-1 tvg-id="" tvg-name="05:30 PM | OTTAWA SENATORS VS TORONTO MAPLE LEAFS" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",05:30 PM | OTTAWA SENATORS VS TORONTO MAPLE LEAFS
+http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/190916
+--
+#EXTINF:-1 tvg-id="" tvg-name="National Hockey League | 06:30 PM CST | Ottawa Senators vs. Toronto Maple Leafs" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",National Hockey League | 06:30 PM CST | Ottawa Senators vs. Toronto Maple Leafs
+http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/190936
+--
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League
+http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/190961
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES |  TOROS SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANA_DOCUMENTALES/TOROS_SD.png" group-title=" ES | ESPAÑA DOCUMENTALES",ES |  TOROS SD
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96424
@@ -213,8 +238,20 @@ http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/138340
 #EXTINF:-1,MLB| Toronto-BlueJays
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162964
 --
-#EXTINF:-1,EVENTOS 9 Tampa Bay Lightning vs. Toronto Maple Leafs
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/190761
+#EXTINF:-1,8/11 06:00:pm � Ottawa Senators Vs Toronto Maple Leafs
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/190889
+--
+#EXTINF:-1,8/11 07:30:pm � Toronto Raptors Vs Dallas Mavericks
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/190904
+--
+#EXTINF:-1,05:30 PM | OTTAWA SENATORS VS TORONTO MAPLE LEAFS
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/190916
+--
+#EXTINF:-1,National Hockey League | 06:30 PM CST | Ottawa Senators vs. Toronto Maple Leafs
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/190936
+--
+#EXTINF:-1,EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/190961
 --
 #EXTINF:-1,ESP-4: ONETORO TV FULL HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4362
@@ -251,6 +288,18 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/162964
 --
 #EXTINF:-1 tvg-id="" tvg-name="(PT) TOROS TV" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="PORTUGAL",(PT) TOROS TV
 http://my-chplus.net:8080/web24/RdFhH3gDRk/15573
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 12 | TORONTO RAPTORS @ DALLAS MAVERICKS | 11/08-08:30PM | BALLY SOUTHWEST RDS TSN3 TSN4 TSN" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5dce510e3d7ef.png?fit=900" group-title="PPV - Eventos Diarios",NBA 12 | TORONTO RAPTORS @ DALLAS MAVERICKS | 11/08-08:30PM | BALLY SOUTHWEST RDS TSN3 TSN4 TSN
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1534963
+--
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | OTTAWA SENATORS @ TORONTO MAPLE LEAFS | 11/08-07:00PM | ESPN APP ESPN+ SPORTSNET SN EAST SN ONTARIO" tvg-logo="https://i.ibb.co/Wp8NHzf/nhl-center-ice-us.png" group-title="PPV - Eventos Diarios",NHL 01 | OTTAWA SENATORS @ TORONTO MAPLE LEAFS | 11/08-07:00PM | ESPN APP ESPN+ SPORTSNET SN EAST SN ONTARIO
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1534949
+--
+#EXTINF:-1 tvg-id="" tvg-name="Basketball (NBA) Dallas Mavericks vs Toronto Raptors 08:30 PM EST (NBA)" tvg-logo="https://pbs.twimg.com/profile_images/1392258537993211905/kYxkTjiE_400x400.jpg" group-title="PPV - Eventos Diarios",Basketball (NBA) Dallas Mavericks vs Toronto Raptors 08:30 PM EST (NBA)
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1534944
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hockey (NHL) Toronto Maple Leafs vs Ottawa Senators 07:00 PM EST (NHL)" tvg-logo="https://pbs.twimg.com/profile_images/1598320510869307394/SxDFkE8W_400x400.jpg" group-title="PPV - Eventos Diarios",Hockey (NHL) Toronto Maple Leafs vs Ottawa Senators 07:00 PM EST (NHL)
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1534929
 --
 #EXTINF:-1 tvg-id="Toros TV ES" tvg-name="||ES3|| C TOROS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/canal+.png" group-title="ESPAÑA 3",||ES3|| C TOROS HD
 http://my-chplus.net:8080/web24/RdFhH3gDRk/1123695
@@ -310,6 +359,35 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/46
 http://pinkpanther.uk:8080/movie/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/60839.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30596
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30597
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY Toronto" tvg-logo="http://tvstar.cc:8880/chimg/7821008370.png" group-title="││TV││CANADA",CA: CITY Toronto
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30605
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO | SD" tvg-logo="http://tvstar.cc:8880/chimg/4209190347.png" group-title="││TV││CANADA",CA: CTV TORONTO | SD
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30607
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="http://tvstar.cc:8880/chimg/9176430691.png" group-title="││TV││CANADA",CA: GLOBAL TORONTO
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30670
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: TV 16 Toronto" tvg-logo="http://tvstar.cc:8880/chimg/1965488706.png" group-title="││TV││CANADA",CA: TV 16 Toronto
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30754
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: BBC Toronto Gaunda Punjab" tvg-logo="http://tvstar.cc:8880/chimg/5521059770.png" group-title="││TV││CANADA",CA: BBC Toronto Gaunda Punjab
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/30780
+--
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="││TV││ TDT ESPAÑA",EL TORO TV
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/233225
+--
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/213774
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA TORONTO RAPTORS" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="││TV││PPV NBA",NBA TORONTO RAPTORS
+http://proiptvdigic.com:8080/go69chia/HswnrKHfN35v/234181
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/30596
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
 http://proiptvdigic.com:8080/mlml2022/2X8t783vmdnt/30597
@@ -367,7 +445,7 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/213774
 #EXTINF:-1 tvg-id="" tvg-name="NBA TORONTO RAPTORS" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="││TV││PPV NBA",NBA TORONTO RAPTORS
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/234181
 --
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="(CARPETA EN MANTENIMIENTO ZAPEANDO MOVISTAR)",ES : EL TORO TV
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46601
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO SD
@@ -607,8 +685,26 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/31440
 #EXTINF:-1,NHL Toronto Maple Leafs
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/31472
 --
+#EXTINF:-1,NHL 01 | Ottawa   @    Toronto | 7.00PM ET | WED
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45418
+--
+#EXTINF:-1,NHL 01: Ottawa Senators vs Toronto Maple Leafs Nov 8 7:00pm
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45434
+--
+#EXTINF:-1,NHL 01: Ottawa Senators vs Toronto Maple Leafs Nov 8 7:00pm
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45450
+--
+#EXTINF:-1,USA Real NHL 01: Ottawa vs Toronto @ 07:00 PM
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45467
+--
+#EXTINF:-1,USA | NBA 12ⓧ: Toronto Raptors v Dallas Mavericks | Wed 8th Nov 8:30PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11555
+--
 #EXTINF:-1,USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1,USA | NHL Game 00ⓧ: OTTAWA SENATORS @ TORONTO MAPLE LEAFS | Wed Nov 8th 7:00 PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/732
 --
 #EXTINF:-1,USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -663,8 +759,14 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/53462
 #EXTINF:-1,PK | Toronto 360 TVⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
 --
+#EXTINF:-1 tvg-id="3230.stations.xmltv.tvmedia.ca" tvg-name="USA | NBA 12ⓧ: Toronto Raptors v Dallas Mavericks | Wed 8th Nov 8:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 12ⓧ: Toronto Raptors v Dallas Mavericks | Wed 8th Nov 8:30PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11555
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 00ⓧ: OTTAWA SENATORS @ TORONTO MAPLE LEAFS | Wed Nov 8th 7:00 PM ET" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 00ⓧ: OTTAWA SENATORS @ TORONTO MAPLE LEAFS | Wed Nov 8th 7:00 PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/732
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -734,20 +836,6 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/409012
 #EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="http://127.0.0.1/" group-title="▶️ TV ESPAÑA ▶️",TOROS TV
 http://zona593ec.online:8080/Jhontv/Jhon20231@/409028
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: GLOBAL TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410307
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CBC TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410311
-#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TV TORONTO HD" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CITY TV TORONTO HD
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410312
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CTV TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410320
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2 TORONTO" tvg-logo="http://svtv.xyz/nologo.png" group-title="TV CANADA",CA: CTV 2 TORONTO
-http://zona593ec.online:8080/Jhontv/Jhon20231@/410386
---
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTOROS" tvg-logo="https://mundotoro.tv/assets/images/player/player_thumb.png" group-title="EVENTOS ESPAÑA",MUNDOTOROS
 http://zona593ec.online:8080/Jhontv/Jhon20231@/428925
 --
@@ -766,3 +854,11 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/572239
 http://zona593ec.online:8080/Jhontv/Jhon20231@/575139
 #EXTINF:-1 tvg-id="" tvg-name="Toros del Este - Tvo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Liga_de_B%C3%A9isbol_Profesional_de_la_Rep%C3%BAblica_Dominicana.jpg" group-title="LIGA DE BEISBOL RD (SOLO EVENTOS)",Toros del Este - Tvo
 http://zona593ec.online:8080/Jhontv/Jhon20231@/575140
+--
+#EXTINF:-1 tvg-id="" tvg-name="Global News Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/01e04fae-bc84-4e0b-a412-9ac1d22098cd.jpg" group-title="TV CANADA",Global News Toronto - CA
+http://zona593ec.online:8080/Jhontv/Jhon20231@/576290
+#EXTINF:-1 tvg-id="" tvg-name="CTV Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/79d8cd15-61b6-4065-8409-ce9751bf8aad.jpg" group-title="TV CANADA",CTV Toronto - CA
+http://zona593ec.online:8080/Jhontv/Jhon20231@/576291
+--
+#EXTINF:-1 tvg-id="" tvg-name="05:30 PM | OTTAWA SENATORS VS TORONTO MAPLE LEAFS" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMjmd6kAEZg51vDSkBYREBxrR46XSXgWzo4-51IDAnsiUldGyPzRWkLOS_06knsW-XB8jtFnGFCpyGGyN_1gi1yIQWiL6LZBRZOezdjzchG_vw.png" group-title="⭐ | OTROS EVENTOS DEL DIA",05:30 PM | OTTAWA SENATORS VS TORONTO MAPLE LEAFS
+http://zona593ec.online:8080/Jhontv/Jhon20231@/577027

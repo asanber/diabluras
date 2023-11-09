@@ -8,13 +8,13 @@
 "groups":
     [
         {
-         "name": "GEN_Wed08Nov_202311080303",
+         "name": "GEN_Thu09Nov_202311090303",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "data8Nov",
+         "name": "data9Nov",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -27,31 +27,17 @@
          "import": true
         },
         {
-         "name": "golf",
-         "image": "https://docdog.top/Logotv/countries/spain/movistar-golf-es.png",
-         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/golf",
-         "info":"golf",
-         "import": true
-        },
-        {
          "name": "hunt",
-         "image": "https://static.epg.best/es/CazaPesca.es.png",
+         "image": "http://xplatinmedia.com:8080/images/9f73e91b470a14f1722cbc449f8b3882.png",
          "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/hunt",
          "info":"hunt",
          "import": true
         },
         {
-         "name": "laliga",
-         "image": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
-         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/laliga",
-         "info":"laliga",
-         "import": true
-        },
-        {
-         "name": "docu",
-         "image": "http://ceoapps.org/logos/natgeo.png",
-         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/docu",
-         "info":"docu",
+         "name": "golf",
+         "image": "https://docdog.top/Logotv/countries/spain/movistar-golf-es.png",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/golf",
+         "info":"golf",
          "import": true
         },
         {
@@ -62,7 +48,29 @@
          "import": true
         },
         {
+         "name": "laliga",
+         "image": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/laliga",
+         "info":"laliga",
+         "import": true
+        },
+        {
+         "name": "champions",
+         "image": "https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/champions",
+         "info":"champions",
+         "import": true
+        },
+        {
+         "name": "docu",
+         "image": "http://ceoapps.org/logos/natgeo.png",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/docu",
+         "info":"docu",
+         "import": true
+        },
+        {
          "name": "rugby",
+         "image": "http://xplatinmedia.com:8080/images/f3151d23f9c88ea74e0229bcdd321cde.png",
          "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/rugby",
          "info":"rugby",
          "import": true
