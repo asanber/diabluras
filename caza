@@ -47,6 +47,15 @@ http://00322.xyz:8000/VoDLatiecu/X4PFWWVSX8/162914
 #EXTINF:-1 tvg-id="8335" tvg-name="ᴜsᴀ Spᴏʀᴛs ᴴᴰ | SPORTSMAN CHANNEL" tvg-logo="" group-title="USA: Sports Excitement⚽",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | SPORTSMAN CHANNEL
 http://00322.xyz:8000/VoDLatiecu/X4PFWWVSX8/140796
 --
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca " tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca 
+http://185.155.103.50:8080/UzielLCH/UzielLCH/158478
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cazavision SD" tvg-logo="http://l3d.us:25461/images/f21a9236373afe20f8fca55b0c7aa3c6.png" group-title="TV | España",ES: Cazavision SD
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2100614
+--
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca FHD" tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca FHD
+http://185.155.103.50:8080/UzielLCH/UzielLCH/158477
+--
 #EXTINF:-1 tvg-id="" tvg-name="WORLD |Hunt Channel" tvg-logo="" group-title="WORLD: ✨Contenido Global ✨",WORLD |Hunt Channel
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/6551
 --
@@ -70,6 +79,22 @@ http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/162914
 --
 #EXTINF:-1 tvg-id="8335" tvg-name="ᴜsᴀ Spᴏʀᴛs ᴴᴰ | SPORTSMAN CHANNEL" tvg-logo="" group-title="USA: Sports Excitement⚽",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | SPORTSMAN CHANNEL
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/140796
+--
+#EXTINF:-1,CAZA Y PESCA FHD
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336458
+#EXTINF:-1,CAZA Y PESCA HD
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336457
+#EXTINF:-1,CAZAVISION
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336460
+--
+#EXTINF:-1,22- IBERALIA FHD
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336475
+#EXTINF:-1,IBERALIA HD
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336476
+#EXTINF:-1,23- IBERALIA 100% CAZA
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336895
+#EXTINF:-1,IBERALIA 100% PESCA 
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336896
 --
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336458
@@ -277,84 +302,13 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233313
 #EXTINF:-1 tvg-id="" tvg-name="SP: ES: Cazavision FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Cazavision FHD
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233314
 --
-#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="(CARPETA EN MANTENIMIENTO ZAPEANDO MOVISTAR)",ES : CAZA Y PESCA
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46560
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="(CARPETA EN MANTENIMIENTO ZAPEANDO MOVISTAR)",ES : IBERALIA TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46561
+#EXTINF:-1,ES| CAZA Y PESCA
+http://mangomedia.vip:80/4670115788/5623525065/922
+#EXTINF:-1,ES| CAZA Y PESCA FHD
+http://mangomedia.vip:80/4670115788/5623525065/921
 --
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/350
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/351
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/352
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tF8B1ZxJI5RDIMzBqrnoJg-g.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% PESCA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/353
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV SD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0H6ys0Q5qP2eE7mtm-aX_f.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/354
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV HD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/355
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/356
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tFuFURkdXMRX2c894GJEzo5w.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% CAZA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/357
-#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION SD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/358
-#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/359
---
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="ENTRETENIMIENTO LATINO",ENT| Caza y Pesca HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7349
---
-#EXTINF:-1 tvg-id="" tvg-name="FISHING AND HUNTING" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the_fishing_hunting_channel_se_eu.png" group-title="RUMANIA",FISHING AND HUNTING
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9337
-#EXTINF:-1 tvg-id="" tvg-name="Fishing & Hunting Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the_fishing_hunting_channel_se_eu.png" group-title="RUMANIA",Fishing & Hunting Channel
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9338
---
-#EXTINF:-1 tvg-id="" tvg-name="|US| SPORTSMAN CHANNEL FHD" tvg-logo="" group-title="U.S.A",|US| SPORTSMAN CHANNEL FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4588
---
-#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKyUetcDB6ayUqQGfeQOC8LW0aj.jpg" group-title="DRAMA-THRILLER-ROMANCE",El indomable Will Hunting (1997)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/179408.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="http://streamingprotv.com:8000/images/858d0527911ce2722735d49b435b54f1.jpg" group-title="MOVIES GENERAL",El indomable Will Hunting (1997)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/244278.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/01/sexto-sentido.jpg?tf=3840x" group-title="MOVIES GENERAL",El indomable Will Hunting (1997)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/246128.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Hunting Souls (2022)" tvg-logo="http://streamingprotv.com:8000/images/7c9dc8a979e3881dc4adf032f4864b3e.jpg" group-title="MOVIES GENERAL",Hunting Souls (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/247621.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Project Wolf Hunting (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKxphQBjYiMfbNqnE5AJ7r8ps1X.jpg" group-title="MOVIES GENERAL",Project Wolf Hunting (2023)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/250061.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlk5MeGlNSiy773SWot9dGAQ2as.jpg" group-title="MOVIES GENERAL 2",El indomable Will Hunting (1997)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/253970.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Hunting Ava Bravo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlk5MeGlNSiy773SWot9dGAQ2as.jpg" group-title="MOVIES GENERAL 2",Hunting Ava Bravo (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/254636.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frqcLA5IavOPKr5cHzJqEtqte2t.jpg" group-title="MOVIES GENERAL 2",El indomable Will Hunting (1997)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/257858.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El indomable Will Hunting (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fkROBkc3zHVRbmf65A4V46pznD.jpg" group-title="MOVIES GENERAL 2",El indomable Will Hunting (1997)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/259708.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Hunting Souls (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg" group-title="MOVIES GENERAL 2",Hunting Souls (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/261201.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="M+ CAZA Y PESCA FHD" tvg-logo="" group-title="SPAIN | DOCUMENTALES",M+ CAZA Y PESCA FHD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284100
---
-#EXTINF:-1 tvg-id="" tvg-name="M+ IBERALIA 100% CAZA HD" tvg-logo="" group-title="SPAIN | DOCUMENTALES",M+ IBERALIA 100% CAZA HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284102
---
-#EXTINF:-1 tvg-id="" tvg-name="||RO|| Fishing & Hunting" tvg-logo="" group-title="RUMANIA",||RO|| Fishing & Hunting
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284304
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | IBERALIA TV" tvg-logo="" group-title="SPAIN | AUTONOMICOS",ESPAÑA | IBERALIA TV
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/298714
+#EXTINF:-1,ES| IBERALIA TV
+http://mangomedia.vip:80/4670115788/5623525065/928
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES - IBERALIA TV" tvg-logo="http://descargas.podzone.net/logos/-IBERALIA.png" group-title="ESPAÑA",ES - IBERALIA TV
 http://tv.fullytv.com:8080/ViPstre@mer/@u4uhdiQW456/1156023

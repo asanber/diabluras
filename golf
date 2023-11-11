@@ -142,6 +142,24 @@ http://00322.xyz:8000/VoDLatiecu/X4PFWWVSX8/140775
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="DEPORTES",Golf Channel
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/66
 --
+#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Golf FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: M. Golf FHD
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2133235
+--
+#EXTINF:-1 tvg-id="" tvg-name="D | MOVISTAR GOLF" tvg-logo="http://ceoapps.org/logos/mgolf.png" group-title="TV | Deportes",D | MOVISTAR GOLF
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2100018
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
+http://185.155.103.50:8080/UzielLCH/UzielLCH/10948
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="S | The Golf Channel" tvg-logo="http://ceoapps.org/logos/golfchannel.png" group-title="TV | USA Sports",S | The Golf Channel
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2100017
+--
+#EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2145544
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2168357
+--
 #EXTINF:-1 tvg-id="8335" tvg-name="Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | GOLF CHANNEL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="⭐️CANALES: PREMIUM UHD⭐️ ",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | GOLF CHANNEL ®
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/3030
 --
@@ -211,6 +229,11 @@ http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/189929
 --
 #EXTINF:-1 tvg-id="" tvg-name="ᴜsᴀ Spᴏʀᴛs ᴴᴰ | GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="USA: Sports Excitement⚽",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | GOLF CHANNEL
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/140775
+--
+#EXTINF:-1,27- MOVISTAR GOLF EXTRA 
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336415
+#EXTINF:-1,26- MOVISTAR GOLF 
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336416
 --
 #EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",27- MOVISTAR GOLF EXTRA 
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336415
@@ -549,135 +572,27 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233302
 #EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 FHD
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/233303
 --
-#EXTINF:-1 tvg-id="M+ GOLF" tvg-name="ES : M+ GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png" group-title="(CARPETA EN MANTENIMIENTO ZAPEANDO MOVISTAR)",ES : M+ GOLF
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46542
-#EXTINF:-1 tvg-id="M. GOLF 2" tvg-name="ES : M+ GOLF 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="(CARPETA EN MANTENIMIENTO ZAPEANDO MOVISTAR)",ES : M+ GOLF 2
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46543
+#EXTINF:-1,FR | GOLF CHANNEL FHD
+http://mangomedia.vip:80/4670115788/5623525065/630
+#EXTINF:-1,FR | GOLF CHANNEL HD
+http://mangomedia.vip:80/4670115788/5623525065/631
+#EXTINF:-1,FR | GOLF+ FHD
+http://mangomedia.vip:80/4670115788/5623525065/632
+#EXTINF:-1,FR | GOLF+ HD
+http://mangomedia.vip:80/4670115788/5623525065/633
 --
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/277
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/278
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD (SAT)" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF HD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27795
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/279
-#EXTINF:-1 tvg-id="" tvg-name="M+  GOLF FHD (FIBRA)" tvg-logo="" group-title="MULTIDEPORTES ESP",M+  GOLF FHD (FIBRA)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/678
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF FHD (SAT)" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF FHD (SAT)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27794
-#EXTINF:-1 tvg-id="" tvg-name="M+  GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+  GOLF 2 SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/280
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+ GOLF 2 HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/281
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+ GOLF 2 FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/282
+#EXTINF:-1,ES| M+ Golf
+http://mangomedia.vip:80/4670115788/5623525065/893
+#EXTINF:-1,ES| M+ GOLF FHD
+http://mangomedia.vip:80/4670115788/5623525065/892
 --
-#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT GOLF FHD" tvg-logo="" group-title="ALEMANIA",|DE| SKY SPORT GOLF FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44573
-#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT GOLF HD" tvg-logo="" group-title="ALEMANIA",|DE| SKY SPORT GOLF HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44574
+#EXTINF:-1,NL| Ziggo Sport Golf HD
+http://mangomedia.vip:80/4670115788/5623525065/982
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL" tvg-logo="https://tinyurl.com/y3hvndcd" group-title="CANADA",CA: GOLF CHANNEL
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1283
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="FRANCIA",FR: GOLF+ HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2114
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CH HD" tvg-logo="" group-title="FRANCIA",FR: GOLF CH HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2115
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ FHD" tvg-logo="http://xtitan.xyz:2082/images/a6057a0585099d04a210f79432e1730e.png" group-title="FRANCIA",FR: GOLF+ FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2148
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="FRANCIA",FR: GOLF CH FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2154
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ H.265" tvg-logo="http://xtitan.xyz:2082/images/a5abee548a057e37869dd3aa1c5b64be.png" group-title="FRANCIA",FR: GOLF+ H.265
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2314
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL H.265" tvg-logo="http://xtitan.xyz:2082/images/2fb6ffa35b57bf015b3ab48c30aaa405.png" group-title="FRANCIA",FR: GOLF CHANNEL H.265
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/2315
---
-#EXTINF:-1 tvg-id="" tvg-name="||NL|| ZIGGO SPORT Golf HD" tvg-logo="" group-title="HOLANDA",||NL|| ZIGGO SPORT Golf HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/17488
---
-#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF PASS FHD" tvg-logo="" group-title="U.S.A",|US| NBC GOLF PASS FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4630
-#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF CHANNEL HD" tvg-logo="" group-title="U.S.A",|US| NBC GOLF CHANNEL HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4631
---
-#EXTINF:-1 tvg-id="" tvg-name="|US| Sky Sports Golf HQ" tvg-logo="" group-title="U.S.A",|US| Sky Sports Golf HQ
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4675
---
-#EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Golfⓧ FHD" tvg-logo="" group-title="UK",UK : Sky Sports Golfⓧ FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23873
-#EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Golfⓧ HD" tvg-logo="" group-title="UK",UK : Sky Sports Golfⓧ HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23874
-#EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Golfⓧ SD" tvg-logo="" group-title="UK",UK : Sky Sports Golfⓧ SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23875
---
-#EXTINF:-1 tvg-id="" tvg-name="148 | WCNC Breaking News" tvg-logo="https://png.pngitem.com/pimgs/s/433-4332300_wcnc-logo-golf-channel-hd-png-download.png" group-title="USA | LOCAL",148 | WCNC Breaking News
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/222818
---
-#EXTINF:-1 tvg-id="I218.61854.zap2it.com" tvg-name="32 | GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="USA | SPORTS",32 | GOLF CHANNEL
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/222271
---
-#EXTINF:-1 tvg-id="" tvg-name="147 | NBC Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="USA | SPORTS",147 | NBC Golf HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/222341
---
-#EXTINF:-1 tvg-id="I401.61854.schedulesdirect.org" tvg-name="37 | GOLF CHANNEL | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golf_channel-mediano.png" group-title="DEPORTES PREMIUM | HD",37 | GOLF CHANNEL | HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/276042
---
-#EXTINF:-1 tvg-id="" tvg-name="41 | Golf Network" tvg-logo="https://i.imgur.com/KARkvfS.png" group-title="DEPORTES PREMIUM | HD",41 | Golf Network
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/318934
---
-#EXTINF:-1 tvg-id="" tvg-name="Golfus de Roma (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKhrHvzQDUHQP5zd5HFeqF2BCN.jpg" group-title="MOVIES GENERAL",Golfus de Roma (1966)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/242992.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Golfus de Roma (1966)" tvg-logo="https://futboleroonline.com/wp-content/uploads/2022/11/ecuador-vs-paises-bajos.jpg" group-title="MOVIES GENERAL",Golfus de Roma (1966)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/249504.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Golfus de Roma (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi4Z8qxzlPkw6VDFP1DAtn2fkCY.jpg" group-title="MOVIES GENERAL 2",Golfus de Roma (1966)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/252651.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Golfus de Roma (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ard0NMZRApYZdLKaamMBhaIuhwR.jpg" group-title="MOVIES GENERAL 2",Golfus de Roma (1966)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/256572.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Golfus de Roma (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rcPUwkY51UL4f2JAzcKV1Ny8Oy.jpg" group-title="MOVIES GENERAL 2",Golfus de Roma (1966)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/263084.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="||NL|| ZIGGO SPORT Golf HD" tvg-logo="" group-title="HOLANDA",||NL|| ZIGGO SPORT Golf HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284136
---
-#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf+.svg/1200px-Golf+.svg.png" group-title="FRANCIA",|FR| GOLF+  HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/285010
---
-#EXTINF:-1 tvg-id="" tvg-name="FR_Golf + HD" tvg-logo="" group-title="FRANCIA",FR_Golf + HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/285194
---
-#EXTINF:-1 tvg-id="" tvg-name="M+   GOLF" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF+" group-title="SPAIN | DEPORTES M+",M+   GOLF
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302263
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FHD" tvg-logo="http://46.21.250.55:8080/images/f69ad7f8dd1a994959de699f92d5027b.png" group-title="SPAIN | DEPORTES M+",M+ GOLF FHD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302264
---
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᶠᴴᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="ESPANA ᴴᴰ",Movistar Golf ᶠᴴᴰ
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/323132
---
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᔆᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="ESPANA ᴴᴰ",Movistar Golf ᔆᴰ
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/323150
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᴴᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="ESPANA ᴴᴰ",Movistar Golf ᴴᴰ
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/323151
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf2 ᔆᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPANA ᴴᴰ",Movistar Golf2 ᔆᴰ
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/323152
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf2 ᴴᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPANA ᴴᴰ",Movistar Golf2 ᴴᴰ
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/323153
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf2 ᶠᴴᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPANA ᴴᴰ",Movistar Golf2 ᶠᴴᴰ
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/323154
---
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S09 E20" tvg-logo="https://image.tmdb.org/t/p/w300/xHbJW7Kbg8C5TF8Ke6TL8goLFPe.jpg" group-title="ANIME",Naruto Shippuden S09 E20
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/189142.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El Dragón: El regreso de un guerrero S01 E35" tvg-logo="https://image.tmdb.org/t/p/w300/ltXNdh3k94dCOBGolfOExDC2RTO.jpg" group-title="NETFLIX",El Dragón: El regreso de un guerrero S01 E35
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/275390.mp4
+#EXTINF:-1,Sky Sport Golf FHD DE
+http://mangomedia.vip:80/4670115788/5623525065/184302
+#EXTINF:-1,Sky Sport Golf DE
+http://mangomedia.vip:80/4670115788/5623525065/184303
 --
 #EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="LD - GOLF LATIN AMERICA" tvg-logo="http://descargas.podzone.net/logos/-golf-latin-america.png" group-title="• LATINO DEPORTES •",LD - GOLF LATIN AMERICA
 http://tv.fullytv.com:8080/ViPstre@mer/@u4uhdiQW456/33363

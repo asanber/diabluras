@@ -41,8 +41,8 @@ http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/162964
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League
-http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/190961
+#EXTINF:-1 tvg-id="" tvg-name="NHL | 06:00 PM | CALGARY FLAMES VS TORONTO MAPLE LEAFS" tvg-logo="https://i.ibb.co/hLCBT19/EVENTOS.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",NHL | 06:00 PM | CALGARY FLAMES VS TORONTO MAPLE LEAFS
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/191144
 --
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://00322.xyz:8000/VoDLatiecu/X4PFWWVSX8/4362
@@ -77,6 +77,34 @@ http://00322.xyz:8000/VoDLatiecu/X4PFWWVSX8/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://00322.xyz:8000/VoDLatiecu/X4PFWWVSX8/162964
 --
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144844
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2144846
+--
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
+http://185.155.103.50:8080/UzielLCH/UzielLCH/126152
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
+http://185.155.103.50:8080/UzielLCH/UzielLCH/126151
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581432928232-cbc-toronto.png" group-title="TV | Canada",CA | CBC Toronto
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2168281
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jo3mMNT6kLCMfF80nhlZ2EIaa1aHtTXn80wzGKTJdMi7_o51r_ftr4eBYUI_M9BMumA&usqp=CAU" group-title="TV | Canada",CA: CBC Toronto
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2168304
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: City Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvo16Q2gKzEDJEUuFRsrG86Zc2pkfWqxEooX5YWKeMB7CUfv3NbfwSoN2Q8ZNjIvOxsI&usqp=CAU" group-title="TV | Canada",CA: City Toronto
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2168312
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuh_Ty1xtoaoI6ORnMNcuJh3mQ4MR9_hK6sSAaDr9kRQtkt5CdxyOPfOZDap3er5DnrY4&usqp=CAU" group-title="TV | Canada",CA: CTV Toronto
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2168330
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2168355
+--
+#EXTINF:-1 tvg-id="" tvg-name="10/Nov | 18:00 | Calgary Flames vs Toronto Maple Leafs" tvg-logo="http://51.222.152.107:81/posters/1632618036335.jpg" group-title="TV | PPV NHL",10/Nov | 18:00 | Calgary Flames vs Toronto Maple Leafs
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2191559
+--
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/4362
 --
@@ -110,8 +138,21 @@ http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/162964
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League
-http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/190961
+#EXTINF:-1 tvg-id="" tvg-name="NHL | 06:00 PM | CALGARY FLAMES VS TORONTO MAPLE LEAFS" tvg-logo="https://i.ibb.co/hLCBT19/EVENTOS.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",NHL | 06:00 PM | CALGARY FLAMES VS TORONTO MAPLE LEAFS
+http://2.magmas5.com:8000/StratusTV/3PXZ2K5ECT/191144
+--
+#EXTINF:-1,31- EL TORO TV
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336207
+--
+#EXTINF:-1,MUNDOTORO TV HD (ES) 
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/440715
+#EXTINF:-1,MUNDOTORO TV SD (ES)
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/440714
+#EXTINF:-1,TOROLE hd
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/443089
+--
+#EXTINF:-1,MLB TORONTO BLUE JAYS
+http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/460060
 --
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336207
@@ -172,8 +213,8 @@ http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/138340
 #EXTINF:-1,MLB| Toronto-BlueJays
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162964
 --
-#EXTINF:-1,EVENTOS 2 Ottawa Senators vs. Toronto Maple Leafs  National Hockey League
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/190961
+#EXTINF:-1,NHL | 06:00 PM | CALGARY FLAMES VS TORONTO MAPLE LEAFS
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/191144
 --
 #EXTINF:-1,ESP-4: ONETORO TV FULL HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4362
@@ -210,6 +251,15 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/162964
 --
 #EXTINF:-1 tvg-id="" tvg-name="(PT) TOROS TV" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="PORTUGAL",(PT) TOROS TV
 http://my-chplus.net:8080/web24/RdFhH3gDRk/15573
+--
+#EXTINF:-1 tvg-id="" tvg-name="PPV || NHL 04 | CALGARY FLAMES @ TORONTO MAPLE LEAFS | 11/10-07:00PM | ESPN+ SN WEST SN NOW SN NOW+" tvg-logo="https://i.ibb.co/Wp8NHzf/nhl-center-ice-us.png" group-title="PPV - Eventos Diarios",PPV || NHL 04 | CALGARY FLAMES @ TORONTO MAPLE LEAFS | 11/10-07:00PM | ESPN+ SN WEST SN NOW SN NOW+
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1537085
+--
+#EXTINF:-1 tvg-id="" tvg-name="AHL 05 | 11/10 7PM GRAND RAPIDS GRIFFINS VS TORONTO MARLIES" tvg-logo="https://i.ibb.co/wwYt2RM/ahl-us.png" group-title="PPV - Eventos Diarios",AHL 05 | 11/10 7PM GRAND RAPIDS GRIFFINS VS TORONTO MARLIES
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1537065
+--
+#EXTINF:-1 tvg-id="" tvg-name="PPV || Hockey (NHL) Toronto Maple Leafs vs Calgary Flames 07:00 PM EST (NHL)" tvg-logo="https://pbs.twimg.com/profile_images/1598320510869307394/SxDFkE8W_400x400.jpg" group-title="PPV - Eventos Diarios",PPV || Hockey (NHL) Toronto Maple Leafs vs Calgary Flames 07:00 PM EST (NHL)
+http://my-chplus.net:8080/web24/RdFhH3gDRk/1536979
 --
 #EXTINF:-1 tvg-id="Toros TV ES" tvg-name="||ES3|| C TOROS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/canal+.png" group-title="ESPAÑA 3",||ES3|| C TOROS HD
 http://my-chplus.net:8080/web24/RdFhH3gDRk/1123695
@@ -358,182 +408,13 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/213774
 #EXTINF:-1 tvg-id="" tvg-name="NBA TORONTO RAPTORS" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="││TV││PPV NBA",NBA TORONTO RAPTORS
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/234181
 --
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="(CARPETA EN MANTENIMIENTO ZAPEANDO MOVISTAR)",ES : EL TORO TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46601
+#EXTINF:-1,ES| TOROS TV
+http://mangomedia.vip:80/4670115788/5623525065/874
+#EXTINF:-1,ES| TOROS FHD
+http://mangomedia.vip:80/4670115788/5623525065/873
 --
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/347
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/344
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO FHD" tvg-logo="" group-title="TOROS ESP",MUNDOTORO FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/348
-#EXTINF:-1 tvg-id="Torole TV" tvg-name="TOROLÉ T.V." tvg-logo="" group-title="TOROS ESP",TOROLÉ T.V.
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/349
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="EL TORO TV SD" tvg-logo="" group-title="TOROS ESP",EL TORO TV SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6551
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD" tvg-logo="" group-title="TOROS ESP",EL TORO TV HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6552
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12113
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="CANADA",CA: CBC TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1215
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="CANADA",CA: CBC TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1216
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://logovtor.com/wp-content/uploads/2020/02/city-of-toronto-logo-vector.png" group-title="CANADA",CA: CITY TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1225
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png" group-title="CANADA",CA: CTV TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1251
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://static.epg.best/ca/GlobalHalifaxCIHF.ca.png" group-title="CANADA",CA: GLOBAL TORONTO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1281
---
-#EXTINF:-1 tvg-id="" tvg-name="MLB TORONTO BLUE JAYS" tvg-logo="https://loodibee.com/wp-content/uploads/mlb-toronto-blue-jays-logo-480x480.png" group-title="NHL & MLB",MLB TORONTO BLUE JAYS
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/659
---
-#EXTINF:-1 tvg-id="" tvg-name="NHL 1 | 7:30 PM ET | Florida at Toronto" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="NHL & MLB",NHL 1 | 7:30 PM ET | Florida at Toronto
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/630
---
-#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="http://media.c-x-c.media/picons/PT/torostv.png" group-title="PORTUGAL",TOROS TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1069
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV HD" tvg-logo="http://media.c-x-c.media/picons/PT/torostv.png" group-title="PORTUGAL",Toros TV HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1070
---
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO TOURO TV" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="PORTUGAL",MUNDO TOURO TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1157
---
-#EXTINF:-1 tvg-id="" tvg-name="RD: TOROS" tvg-logo="http://visi4k.site:8080/images/4381aebacee4423f0cc76d2bfbe58331.png" group-title="REPUBLICA DOMINICANA",RD: TOROS
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/22014
---
-#EXTINF:-1 tvg-id="" tvg-name="12 | TORO TV | HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2fec82&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ftorole.png" group-title="DEPORTES PREMIUM | HD",12 | TORO TV | HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/144290
---
-#EXTINF:-1 tvg-id="" tvg-name="Global Toronto" tvg-logo="https://d3tibl45x65nxk.cloudfront.net/tg_medialibrary/assets2/images/toronto-global-logo.png" group-title="LOCAL CANADA",Global Toronto
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/144246
---
-#EXTINF:-1 tvg-id="" tvg-name="36 | MUNDO TORO | HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="DEPORTES PREMIUM | HD",36 | MUNDO TORO | HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/272258
---
-#EXTINF:-1 tvg-id="" tvg-name="40 | EL TORO TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="DEPORTES PREMIUM | HD",40 | EL TORO TV | HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/286471
---
-#EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN| GLOBAL TORONTO HD" tvg-logo="http://www.skytvpluzz.online:8000/images/b41d384d4481993837fd6b6206104442.png" group-title="CANADA",(VIP) CAN| GLOBAL TORONTO HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/291991
---
-#EXTINF:-1 tvg-id="" tvg-name="(VIP) CA|  CITY TORONTO HD" tvg-logo="http://www.skytvpluzz.online:8000/images/9718554ba0d789738c4c39c2526fbc49.png" group-title="CANADA",(VIP) CA|  CITY TORONTO HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/292016
---
-#EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN|  CBC TORONTO HD" tvg-logo="" group-title="CANADA",(VIP) CAN|  CBC TORONTO HD
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/292018
---
-#EXTINF:-1 tvg-id="" tvg-name="US NBA Toronto Raptors (HD)" tvg-logo="http://samu5tv.com:8000/images/a16b0e0aad4f02de87e841d1b741d798.png" group-title="NBA PPV",US NBA Toronto Raptors (HD)
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/319926
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6RaEAfkIQaolf20axWaRU4h3w.jpg" group-title="INFANTIL",Mi vecino Totoro (1988)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/144507.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Hombre de Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="NETFLIX",El Hombre de Toronto (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/211259.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="NETFLIX",Pinocho de Guillermo del Toro (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/233001.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsc0JFdXrLMWAyQsDAGFPnwmLtf.jpg" group-title="MOVIES GENERAL",Mi vecino Totoro (1988)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/243324.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Toro salvaje (1980)" tvg-logo="http://streamingprotv.com:8000/images/7c9dc8a979e3881dc4adf032f4864b3e.jpg" group-title="MOVIES GENERAL",Toro salvaje (1980)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/247798.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El Hombre De Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQA2UtzZVFkqEKvZAdhKlVkEJYY.jpg" group-title="MOVIES GENERAL",El Hombre De Toronto (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/248084.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://futboleroonline.com/wp-content/uploads/2022/11/ecuador-vs-paises-bajos.jpg" group-title="MOVIES GENERAL",Pinocho de Guillermo del Toro (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/249565.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="http://streamingprotv.com:8000/images/32c8f1e880b9a019f05e98b99b005662.jpg" group-title="MOVIES GENERAL 2",Mi vecino Totoro (1988)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/251493.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Hombre De Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlk5MeGlNSiy773SWot9dGAQ2as.jpg" group-title="MOVIES GENERAL 2",El Hombre De Toronto (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/254523.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlk5MeGlNSiy773SWot9dGAQ2as.jpg" group-title="MOVIES GENERAL 2",Pinocho de Guillermo del Toro (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/254963.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ard0NMZRApYZdLKaamMBhaIuhwR.jpg" group-title="MOVIES GENERAL 2",Mi vecino Totoro (1988)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/256904.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Toro salvaje (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg" group-title="MOVIES GENERAL 2",Toro salvaje (1980)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/261378.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El Hombre De Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg" group-title="MOVIES GENERAL 2",El Hombre De Toronto (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/261664.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rcPUwkY51UL4f2JAzcKV1Ny8Oy.jpg" group-title="MOVIES GENERAL 2",Pinocho de Guillermo del Toro (2022)
-http://samuraitv.online:8000/movie/DanielCompitv/RPpCPKV4av/263145.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="||PT|| Toros TV" tvg-logo="" group-title="PORTUGAL",||PT|| Toros TV
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284663
---
-#EXTINF:-1 tvg-id="" tvg-name="||PT|| TOROS TV" tvg-logo="" group-title="PORTUGAL",||PT|| TOROS TV
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284738
---
-#EXTINF:-1 tvg-id="" tvg-name="||PT|| Mundotoro TV [low]" tvg-logo="" group-title="PORTUGAL",||PT|| Mundotoro TV [low]
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284807
---
-#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6br33VonYKPwpLY51v0ZTOrOXLF.jpg" group-title="AMAZON PRIME",Hanna S01 E03
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/173268.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/9BaI9NeywOr6Ryr8kKSJmAOc47.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E01
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7r8bRcrf80yYsYN2ULpwXgiV4RN.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E02
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/bcahKugkhxhXno6gUvOMZ4NhAA3.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E03
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6Og8wdSUf2AWGkxPcVgT9HV6eLK.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E04
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2bLiL38YD0olc0aYyEf4gYeYodV.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E05
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233895.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/182bbFIeiRSIgU6QyEE8Ua5x38Z.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E06
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/eHjG00GZHynWcYWMa8q02jx9zve.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E07
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/686Nn6vzOSovfUvv9vqLwH0VvEF.jpg" group-title="NETFLIX",El Gabinete de Curiosidades de Guillermo del Toro S01 E08
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/233898.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Sakura Card Captor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/uKX3aUITe4iwL4y1wqfvToRoqGP.jpg" group-title="ANIME",Sakura Card Captor S01 E05
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/273098.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gPHmaJaPjum8p0EQJUEAODCocSU.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E01
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285881.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rGUUwTuO421vefYBHHAk25r6QNA.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E02
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6JcFHxIYzPR9Tm3w6SOvGSdRbK.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E03
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eMfl56ApbnjWVJnG88L2cNJZcox.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E04
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285884.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/47NkwjIufJlpvwoIMWutY6ouYQY.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E05
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285885.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/fNcqar5vwNnm4UTARcocf5VpX8i.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E06
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285886.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yV7mud2kHcHwHdYMefXcjfY1hMF.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E07
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285887.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/b6F3yTWXHgPFtIZ1uNIDEHu9XsA.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E08
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/rnACjMCqIePsuIxUVSHYsp8RLvH.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E09
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285889.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/4dtTGRJknmac8LCJD5DcA3kye6o.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E10
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/foge2rHwne6PGSgmzBt7j8OKbe9.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E11
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/lJYv3eVHRJ8zBH8BGg5J2z6DdrQ.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S01 E12
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Toy With Me, Miss Nagatoro S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jWypcc7ZMNcH9TFl88KNpLDJ2d8.jpg" group-title="ANIME",Don't Toy With Me, Miss Nagatoro S02 E01
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/285893.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Miami Vice S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNOKTRIV0TORO3bcitKsCqiLXM2.jpg" group-title="CRIMEN",Miami Vice S04 E02
-http://samuraitv.online:8000/series/DanielCompitv/RPpCPKV4av/309841.mp4
+#EXTINF:-1,|ES| EL TORO TV HD
+http://mangomedia.vip:80/4670115788/5623525065/184293
 --
 #EXTINF:-1,ES : TOROS
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/7438
@@ -592,8 +473,20 @@ http://ufospeeds.com:2095/Blockchain/Blockchain6969/31440
 #EXTINF:-1,NHL Toronto Maple Leafs
 http://ufospeeds.com:2095/Blockchain/Blockchain6969/31472
 --
+#EXTINF:-1,NHL 02 |  Calgary   @    Toronto | 7.00PM ET | FRI
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45419
+--
+#EXTINF:-1,NHL 03: Calgary Flames vs Toronto Maple Leafs Nov 10 7:00pm
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45436
+--
+#EXTINF:-1,USA Real NHL 01: Toronto vs Calgary @ 07:00 PM
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/45467
+--
 #EXTINF:-1,USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1,USA | NHL Game 03ⓧ: Calgary Flames @ Toronto Maple Leafs | Fri Nov 10th 7:00 PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/736
 --
 #EXTINF:-1,USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -601,7 +494,7 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
 #EXTINF:-1,USA | MLB | Toronto Blue Jaysⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/77675
 --
-#EXTINF:-1,CA | CBC Torontoⓧ HD
+#EXTINF:-1,CA | CBC Torontoⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/126033
 --
 #EXTINF:-1,CA | City TV Torontoⓧ HD
@@ -610,10 +503,10 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1405
 #EXTINF:-1,CA | CityNews Toronto ONⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/131169
 --
-#EXTINF:-1,CA | CTV 2 Torontoⓧ HD
+#EXTINF:-1,CA | CTV 2 Torontoⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/109241
 --
-#EXTINF:-1,CA | CTV Torontoⓧ HD
+#EXTINF:-1,CA | CTV Torontoⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1331
 --
 #EXTINF:-1,CA | Global News Torontoⓧ HD
@@ -651,13 +544,16 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
 --
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 03ⓧ: Calgary Flames @ Toronto Maple Leafs | Fri Nov 10th 7:00 PM ET" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 03ⓧ: Calgary Flames @ Toronto Maple Leafs | Fri Nov 10th 7:00 PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/736
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | MLB | Toronto Blue Jaysⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8fccf27b66d61083f4b5fcbd4cd3d7f8.png" group-title="|USA| MLB",USA | MLB | Toronto Blue Jaysⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/77675
 --
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CA | CBC Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1ac03d9c8efa4b3623898025c2707d67.png" group-title="|CA| CANADA",CA | CBC Torontoⓧ HD
+#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CA | CBC Torontoⓧ" tvg-logo="http://xplatinmedia.com:8080/images/672dbb23eb20f097c24919846b9c1a99.png" group-title="|CA| CANADA",CA | CBC Torontoⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/126033
 --
 #EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="CA | City TV Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1e1f9ac8dfe4fed1053ab914dbd23596.png" group-title="|CA| CANADA",CA | City TV Torontoⓧ HD
@@ -666,10 +562,10 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1405
 #EXTINF:-1 tvg-id="CITYDT.ca" tvg-name="CA | CityNews Toronto ONⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bc5a03011d818568c4da639dcddb59bf.png" group-title="|CA| CANADA",CA | CityNews Toronto ONⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/131169
 --
-#EXTINF:-1 tvg-id="CFPLDT.ca" tvg-name="CA | CTV 2 Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/cc88d9d6582d4856e1c91ff50bd9227a.png" group-title="|CA| CANADA",CA | CTV 2 Torontoⓧ HD
+#EXTINF:-1 tvg-id="CFPLDT.ca" tvg-name="CA | CTV 2 Torontoⓧ" tvg-logo="http://xplatinmedia.com:8080/images/78a4b4e9140cdb004ea425b6b0ba4c5b.png" group-title="|CA| CANADA",CA | CTV 2 Torontoⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/109241
 --
-#EXTINF:-1 tvg-id="CFTODT.ca" tvg-name="CA | CTV Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/d3b64bd58fe6500aa97a1ed6c0103cb1.png" group-title="|CA| CANADA",CA | CTV Torontoⓧ HD
+#EXTINF:-1 tvg-id="CFTODT.ca" tvg-name="CA | CTV Torontoⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d3b64bd58fe6500aa97a1ed6c0103cb1.png" group-title="|CA| CANADA",CA | CTV Torontoⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/1331
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA | Global News Torontoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1830b5884b6e78ff474c40794eb70120.png" group-title="|CA| CANADA",CA | Global News Torontoⓧ HD
@@ -742,3 +638,6 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/575140
 http://zona593ec.online:8080/Jhontv/Jhon20231@/576290
 #EXTINF:-1 tvg-id="" tvg-name="CTV Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/79d8cd15-61b6-4065-8409-ce9751bf8aad.jpg" group-title="TV CANADA",CTV Toronto - CA
 http://zona593ec.online:8080/Jhontv/Jhon20231@/576291
+--
+#EXTINF:-1 tvg-id="" tvg-name="NHL | 06:00 PM | CALGARY FLAMES VS TORONTO MAPLE LEAFS" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMjmd6kAEZg51vDSkBYREBxrR46XSXgWzo4-51IDAnsiUldGyPzRWkLOS_06knsW-XB8jtFnGFCpyGGyN_1gi1yIQWiL6LZBRZOezdjzchG_vw.png" group-title="⭐ | OTROS EVENTOS DEL DIA",NHL | 06:00 PM | CALGARY FLAMES VS TORONTO MAPLE LEAFS
+http://zona593ec.online:8080/Jhontv/Jhon20231@/577289
