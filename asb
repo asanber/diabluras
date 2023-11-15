@@ -8,7 +8,7 @@
 "groups":
     [
         {
-         "name": "GEN_Wed15Nov_202311150303",
+         "name": "GEN_Wed15Nov_202311151154",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -73,6 +73,13 @@
          "image": "http://xplatinmedia.com:8080/images/f3151d23f9c88ea74e0229bcdd321cde.png",
          "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/rugby",
          "info":"rugby",
+         "import": true
+        },
+        {
+         "name": "nfl",
+         "image": "http://xplatinmedia.com:8080/images/6e60cf89e27d9f42a96128ababb32cb6.png",
+         "url": "https:///raw.githubusercontent.com/asanber/diabluras/main/nfl",
+         "info":"nfl",
          "import": true
         },
         {
