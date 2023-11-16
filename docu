@@ -570,6 +570,9 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2171018
 #EXTINF:-1 tvg-id="" tvg-name="BR | NAT GEO" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Brasil",BR | NAT GEO
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2171104
 --
+#EXTINF:-1 tvg-id="" tvg-name="C | Filmex Documentales" tvg-logo="http://ceoapps.org/logos/filmex.png" group-title="TV | Cultura",C | Filmex Documentales
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2192020
+--
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-name="Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | NATGEO®" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="⭐️CANALES: PREMIUM UHD⭐️ ",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | NATGEO®
 http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/2799
 --
@@ -2100,31 +2103,31 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/131
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/132
 #EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/133
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD (FIBRA)" tvg-logo="" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD FHD (FIBRA)
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="HOLLYWOOD FHD (FIBRA)" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD FHD (FIBRA)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/702
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="AMC SELEKT ESPAÑA",AMC SD
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="AMC SELEKT ESPAÑA",AMC SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/145
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES : AMC HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",ES : AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES : AMC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="AMC SELEKT ESPAÑA",ES : AMC HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6167
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="AMC SELEKT ESPAÑA",AMC FHD
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="AMC SELEKT ESPAÑA",AMC FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/146
-#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="AMC SELEKT ESPAÑA",AMC BREAK SD
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK SD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2022/04/Logo-AMC-Break.jpg" group-title="AMC SELEKT ESPAÑA",AMC BREAK SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/147
-#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK HD" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/10e60a090de0a23e85b3d4a880b22d9c.png" group-title="AMC SELEKT ESPAÑA",AMC BREAK HD
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK HD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2022/04/Logo-AMC-Break.jpg" group-title="AMC SELEKT ESPAÑA",AMC BREAK HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/148
-#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FHD" tvg-logo="http://xtitan.xyz:2082/images/10e60a090de0a23e85b3d4a880b22d9c.png" group-title="AMC SELEKT ESPAÑA",AMC BREAK FHD
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK FHD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2022/04/Logo-AMC-Break.jpg" group-title="AMC SELEKT ESPAÑA",AMC BREAK FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/149
-#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",AMC CRIME SD
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="AMC SELEKT ESPAÑA",AMC CRIME SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/150
 #EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",AMC CRIME HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11773
-#EXTINF:-1 tvg-id="" tvg-name="AMC  CRIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="AMC SELEKT ESPAÑA",AMC  CRIME FHD
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC  CRIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="AMC SELEKT ESPAÑA",AMC  CRIME FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/151
-#EXTINF:-1 tvg-id="" tvg-name="DARK SD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="AMC SELEKT ESPAÑA",DARK SD
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK SD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="AMC SELEKT ESPAÑA",DARK SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/152
-#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="AMC SELEKT ESPAÑA",DARK HD
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK HD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="AMC SELEKT ESPAÑA",DARK HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/153
-#EXTINF:-1 tvg-id="" tvg-name="DARK FHD" tvg-logo="http://lara.iptvland.nl/images/8e7f8342bb004b5f026497be5dab8c1e.png" group-title="AMC SELEKT ESPAÑA",DARK FHD
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://1.bp.blogspot.com/-j-JnVb0WOOg/X-URZWU73JI/AAAAAAAAPxA/rc7PkmIt3Z0btGAlnx1tGe7nVbFdQC6sACLcBGAsYHQ/w1200-h630-p-k-no-nu/dark.png" group-title="AMC SELEKT ESPAÑA",DARK FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/154
 #EXTINF:-1 tvg-id="" tvg-name="DARK RED  FHD" tvg-logo="http://lara.iptvland.nl/images/8e7f8342bb004b5f026497be5dab8c1e.png" group-title="AMC SELEKT ESPAÑA",DARK RED  FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/155
