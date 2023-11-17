@@ -95,6 +95,16 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2168289
 #EXTINF:-1 tvg-id="" tvg-name="CA: History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH9isrxYOEGr8-SLqG_0RZJWnvmfrBKbqCym_B0NfLyMylYWlfWLTErTULQhTrOUpXEc&usqp=CAU" group-title="TV | Canada",CA: History
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2168363
 --
+#EXTINF:-1 tvg-id="" tvg-name="16/Nov | 19:15 | Cincinnati Bengals vs Baltimore Ravens" tvg-logo="http://51.222.152.107:81/posters/1673203989250.png" group-title="TV | PPV NFL",16/Nov | 19:15 | Cincinnati Bengals vs Baltimore Ravens
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2192132
+#EXTINF:-1 tvg-id="" tvg-name="16/Nov | 19:15 | Cincinnati Bengals vs Baltimore Ravens | FSP" tvg-logo="http://51.222.152.107:81/posters/1673203999368.png" group-title="TV | PPV NFL",16/Nov | 19:15 | Cincinnati Bengals vs Baltimore Ravens | FSP
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2192133
+#EXTINF:-1 tvg-id="" tvg-name="16/Nov | 19:15 | Cincinnati Bengals vs Baltimore Ravens | Fox Sports" tvg-logo="http://51.222.152.107:81/posters/1673203999368.png" group-title="TV | PPV NFL",16/Nov | 19:15 | Cincinnati Bengals vs Baltimore Ravens | Fox Sports
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2192134
+--
+#EXTINF:-1 tvg-id="" tvg-name="Bengals vs Ravens" tvg-logo="http://401.maxmax.live:8888/images/0b56c8e148f8f2e3d7c78bee92111a1c.png" group-title="TV | PPV NFL",Bengals vs Ravens
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2192151
+--
 #EXTINF:-1 tvg-id="" tvg-name="WORLD NFL NETWORK HOF UHD" tvg-logo="" group-title="WORLD: ✨Contenido Global ✨",WORLD NFL NETWORK HOF UHD
 http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/6555
 --
@@ -155,9 +165,6 @@ http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/183043
 --
 #EXTINF:-1 tvg-id="8335" tvg-name="ᴜsᴀ Spᴏʀᴛs ᴴᴰ | NFL NETWORK ᴺᶠᴸ" tvg-logo="https://en.wikipedia.org/wiki/NFL_Network#/media/File:NFL_Network_logo.svg" group-title="USA: Sports Excitement⚽",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | NFL NETWORK ᴺᶠᴸ
 http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/140733
---
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 3 Denver Broncos vs. Buffalo Bills  NFL" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 3 Denver Broncos vs. Buffalo Bills  NFL
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/191669
 --
 #EXTINF:-1 tvg-id="" tvg-name="WORLD NFL NETWORK HOF UHD" tvg-logo="" group-title="WORLD: ✨Contenido Global ✨",WORLD NFL NETWORK HOF UHD
 http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/6555
@@ -220,13 +227,13 @@ http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/183043
 #EXTINF:-1 tvg-id="8335" tvg-name="ᴜsᴀ Spᴏʀᴛs ᴴᴰ | NFL NETWORK ᴺᶠᴸ" tvg-logo="https://en.wikipedia.org/wiki/NFL_Network#/media/File:NFL_Network_logo.svg" group-title="USA: Sports Excitement⚽",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | NFL NETWORK ᴺᶠᴸ
 http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/140733
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 3 Denver Broncos vs. Buffalo Bills  NFL" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 3 Denver Broncos vs. Buffalo Bills  NFL
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/191669
---
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL HD (EX) (P)" tvg-logo="http://listado.16mb.com/logosj/nfl.png" group-title="LIVE | SPORTS",NFL HD (EX) (P)
 http://extremeplus.xyz:8080/astramx77/3YBEAQLK76/74245
 #EXTINF:-1 tvg-id="I154.45399.schedulesdirect.org" tvg-name="NHL HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="LIVE | SPORTS",NHL HD
 http://extremeplus.xyz:8080/astramx77/3YBEAQLK76/77175
+--
+#EXTINF:-1 tvg-id="" tvg-name="16/11 19:15 CDMX. NFL. Bengals @ Ravens" tvg-logo="https://astramain.xyz:443/images/kAtNmk_G2tdzRpvpj-uMQop6pkBhIS2K5nx7nbSiUMUvcpiNqT3TmvDDVvGiQwZDG7-4GHMlB3TzfQRKrqr0Pw.png" group-title="LIVE | EVENTOS DE HOY",16/11 19:15 CDMX. NFL. Bengals @ Ravens
+http://extremeplus.xyz:8080/astramx77/3YBEAQLK76/198990
 --
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="Nfl Network" tvg-logo="http://51.222.152.107:81/content/images/ics/1632076469228.png" group-title="LIVE | XTREME",Nfl Network
 http://extremeplus.xyz:8080/astramx77/3YBEAQLK76/75262
@@ -235,6 +242,9 @@ http://extremeplus.xyz:8080/astramx77/3YBEAQLK76/75262
 http://extremeplus.xyz:8080/miarea/VfVbMyh38f/74245
 #EXTINF:-1 tvg-id="I154.45399.schedulesdirect.org" tvg-name="NHL HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="LIVE | SPORTS",NHL HD
 http://extremeplus.xyz:8080/miarea/VfVbMyh38f/77175
+--
+#EXTINF:-1 tvg-id="" tvg-name="16/11 19:15 CDMX. NFL. Bengals @ Ravens" tvg-logo="https://astramain.xyz:443/images/kAtNmk_G2tdzRpvpj-uMQop6pkBhIS2K5nx7nbSiUMUvcpiNqT3TmvDDVvGiQwZDG7-4GHMlB3TzfQRKrqr0Pw.png" group-title="LIVE | EVENTOS DE HOY",16/11 19:15 CDMX. NFL. Bengals @ Ravens
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/198990
 --
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="Nfl Network" tvg-logo="http://51.222.152.107:81/content/images/ics/1632076469228.png" group-title="LIVE | XTREME",Nfl Network
 http://extremeplus.xyz:8080/miarea/VfVbMyh38f/75262
@@ -382,9 +392,6 @@ http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/183043
 --
 #EXTINF:-1,ᴜsᴀ Spᴏʀᴛs ᴴᴰ | NFL NETWORK ᴺᶠᴸ
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/140733
---
-#EXTINF:-1,EVENTOS 3 Denver Broncos vs. Buffalo Bills  NFL
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/191669
 --
 #EXTINF:-1 tvg-id="" tvg-name="Kings League" tvg-logo="https://video-weaver.mad02.hls.ttvnw.net/v1/playlist/CpoF43aJ-ltiATu2DDmr97imvy92YE4jNEE3pZ9WhQphEDQNK647DEqJnFL0R1hGtXPt0swqicspCbDP-_MMxcGpjF5K1FWGa__cMd-oqEqLeN8qnxluiPhrQfHlATD3HDgDag-g2x0-R2Jfokb6qWDgEbVZ61qMRHta1vEbH1tnZ6TlHnq5D_7g9PhYZh8GnFgayuFotQPhySotF13EYZnncytc0vjZR1wwp2LST1ykMkNm7hnmPy9aCNNc0UZpD-Q1qonMjouE63zrwN_kG4gBsQxgP6uTgANnKEx4JEs3tjcJK8jZNuhBO14X5qn4MynpYlE_Is-ybe9b6xOp1OlesmwwGxHks38f5NUrxrTbH1agajEHOO5tNmUeOjco2L1OT-zySybatD7ZCjWHjcOhkBYORBUWihNp0tNwWCAfBPfIwG1pTUlGvGajGL1okkQBEMww0oPOM4GqICwHVvp-UMIl731AnkEuGxyt81gAGxsFsV9b6auXXfZrGDXfqjRI82_cMLdkcs2EaIqEiAaB-DXb6CNnxA01TCRHRoMVOCiKF5BhvyPvHiobv4BW4zHLo0Yss4ASdI5rFZ4TEgbVTKnMfw57pgzifpHF4FY1qXra7SUgd01myQ78NvErXWHdw3A8T4snTOHfkS6qwDCtRObtVGFQj0_8kedMHU9rWx-jwm6QDZO-c9x9GOsxBBCbcRE4Q9ml6mACBW8rk-HW9xaxOkHuQiDyQ80AngNzUczYf5-SQPg35iuajeX4PzWbjomTPo9CZhADl_75ZJyYbg4NP_3id5ttfvfwT2qwyLxf2YeMZX1hoMvbPSBbdGKXAfnwC9di9Bd9AjVFv8J25ZHHvZ7U80NHtQz4M3Li_xO99G7Zln1ZwL0_GgwBBSt1_MR5rxQMqAYgASoJZXUtd2VzdC0yMJAG.m3u8" group-title="DEPORTES ESPAÑA ▶️",Kings League
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/26600
@@ -792,11 +799,11 @@ http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/109915.
 #EXTINF:-1,The Influencer LAT (2021)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/121626.mp4
 --
-#EXTINF:-1,Broncos bss Bills 7:15 pm 13/NOV | /NFL01
+#EXTINF:-1,Bengals vs Ravens 7:15 pm 16/NOV | /NFL01
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122950
-#EXTINF:-1,Broncos bss Bills 7:15 pm 13/NOV | NFL02
+#EXTINF:-1,Bengals vs Ravens 7:15 pm 16/NOV | NFL02
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122951
-#EXTINF:-1,Broncos bss Bills 7:15 pm 13/NOV | NFL03
+#EXTINF:-1,Bengals vs Ravens 7:15 pm 16/NOV | NFL03
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122952
 #EXTINF:-1,Texans vs Bengals 12:00 pm 12/NOV | NFL04
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122953
@@ -1018,11 +1025,11 @@ http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/109915.mp4
 #EXTINF:-1,The Influencer LAT (2021)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/121626.mp4
 --
-#EXTINF:-1,Broncos bss Bills 7:15 pm 13/NOV | /NFL01
+#EXTINF:-1,Bengals vs Ravens 7:15 pm 16/NOV | /NFL01
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122950
-#EXTINF:-1,Broncos bss Bills 7:15 pm 13/NOV | NFL02
+#EXTINF:-1,Bengals vs Ravens 7:15 pm 16/NOV | NFL02
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122951
-#EXTINF:-1,Broncos bss Bills 7:15 pm 13/NOV | NFL03
+#EXTINF:-1,Bengals vs Ravens 7:15 pm 16/NOV | NFL03
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122952
 #EXTINF:-1,Texans vs Bengals 12:00 pm 12/NOV | NFL04
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122953
@@ -1265,11 +1272,11 @@ http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/109915.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Influencer LAT (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/j3BlGxC0186JLSko9zmPlqnqeaV.jpg" group-title="Drama	",The Influencer LAT (2021)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/121626.mp4
 --
-#EXTINF:-1 tvg-id="" tvg-name="Broncos bss Bills 7:15 pm 13/NOV | /NFL01" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Broncos bss Bills 7:15 pm 13/NOV | /NFL01
+#EXTINF:-1 tvg-id="" tvg-name="Bengals vs Ravens 7:15 pm 16/NOV | /NFL01" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Bengals vs Ravens 7:15 pm 16/NOV | /NFL01
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122950
-#EXTINF:-1 tvg-id="" tvg-name="Broncos bss Bills 7:15 pm 13/NOV | NFL02" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Broncos bss Bills 7:15 pm 13/NOV | NFL02
+#EXTINF:-1 tvg-id="" tvg-name="Bengals vs Ravens 7:15 pm 16/NOV | NFL02" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Bengals vs Ravens 7:15 pm 16/NOV | NFL02
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122951
-#EXTINF:-1 tvg-id="" tvg-name="Broncos bss Bills 7:15 pm 13/NOV | NFL03" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Broncos bss Bills 7:15 pm 13/NOV | NFL03
+#EXTINF:-1 tvg-id="" tvg-name="Bengals vs Ravens 7:15 pm 16/NOV | NFL03" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Bengals vs Ravens 7:15 pm 16/NOV | NFL03
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122952
 #EXTINF:-1 tvg-id="" tvg-name="Texans vs Bengals 12:00 pm 12/NOV | NFL04" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Texans vs Bengals 12:00 pm 12/NOV | NFL04
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122953
