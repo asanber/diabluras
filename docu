@@ -2603,9 +2603,6 @@ http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/3313
 #EXTINF:-1,DISCOVERY CHANNEL SD (p)
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/30321
 --
-#EXTINF:-1,Discovery Channel Latino (i)
-http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/38488
---
 #EXTINF:-1,Nat Geo Wild HD.
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/91981
 #EXTINF:-1,Nat geo Wild Latino (i)
@@ -2613,6 +2610,9 @@ http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/91983
 --
 #EXTINF:-1,National Geographic (i)
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/38486
+--
+#EXTINF:-1,Discovery Channel Latino (i)
+http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/128635
 --
 #EXTINF:-1,AMC | US (p)
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/1908
@@ -3230,9 +3230,6 @@ http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/3313
 #EXTINF:-1,DISCOVERY CHANNEL SD (p)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/30321
 --
-#EXTINF:-1,Discovery Channel Latino (i)
-http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38488
---
 #EXTINF:-1,Nat Geo Wild HD.
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/91981
 #EXTINF:-1,Nat geo Wild Latino (i)
@@ -3240,6 +3237,9 @@ http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/91983
 --
 #EXTINF:-1,National Geographic (i)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38486
+--
+#EXTINF:-1,Discovery Channel Latino (i)
+http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/128635
 --
 #EXTINF:-1,AMC | US (p)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/1908
@@ -3862,9 +3862,6 @@ http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/3313
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20CHANNEL.png" group-title="Latinos",DISCOVERY CHANNEL SD (p)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/30321
 --
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Latino (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png" group-title="Latinos",Discovery Channel Latino (i)
-http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38488
---
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="NAT GEO (i)." tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_mundo_us.png" group-title="Latinos",NAT GEO (i).
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/53166
 --
@@ -3880,6 +3877,9 @@ http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38486
 --
 #EXTINF:-1 tvg-id="" tvg-name="BANDAMAX LQ (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/BANDMAX.png" group-title="Musica",BANDAMAX LQ (p)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/124347
+--
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Latino (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png" group-title="Latinos",Discovery Channel Latino (i)
+http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/128635
 --
 #EXTINF:-1 tvg-id="177.stations.xmltv.tvmedia.ca" tvg-name="AMC | US (p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Estados Unidos",AMC | US (p)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/1908
@@ -6706,6 +6706,11 @@ http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/127649.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cyberbunker The Criminal Underworld SUB (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/tNW35K9SPQzve8iuvo9V8TZ0HzG.jpg" group-title="Documentales	",Cyberbunker The Criminal Underworld SUB (2023)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/127831.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Una jauria llamada Ernesto LAT (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/chZiIguMX8fI23knuH7p6dleSGP.jpg" group-title="Documentales	",Una jauria llamada Ernesto LAT (2023)
+http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/128601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tan cerca de las nubes LAT (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/1700204121230.jpg" group-title="Documentales	",Tan cerca de las nubes LAT (2023)
+http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/128602.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="AMC (CA)(i)" tvg-logo="" group-title="canada",AMC (CA)(i)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/125519
