@@ -66,6 +66,9 @@ http://185.155.103.50:8080/UzielLCH/UzielLCH/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://185.155.103.50:8080/UzielLCH/UzielLCH/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="19/Nov | 15:00 | Detroit Pistons vs Toronto Raptors" tvg-logo="http://51.222.152.107:81/posters/1633627693152.png" group-title="TV | PPV NBA",19/Nov | 15:00 | Detroit Pistons vs Toronto Raptors
+http://185.155.103.50:8080/UzielLCH/UzielLCH/2192364
+--
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/4362
 --
@@ -99,8 +102,11 @@ http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/162964
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Toronto Maple Leafs vs. Detroit Red Wings  National Hockey League" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 2 Toronto Maple Leafs vs. Detroit Red Wings  National Hockey League
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/192065
+#EXTINF:-1 tvg-id="" tvg-name="19/11 07:00:am � Toronto Maple Leafs Vs Minnesota Wild" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",19/11 07:00:am � Toronto Maple Leafs Vs Minnesota Wild
+http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/192256
+--
+#EXTINF:-1 tvg-id="" tvg-name="19/11 03:00:pm � Detroit Pistons Vs Toronto Raptors" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",19/11 03:00:pm � Detroit Pistons Vs Toronto Raptors
+http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/192268
 --
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/4362
@@ -135,8 +141,11 @@ http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/162964
 --
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2 Toronto Maple Leafs vs. Detroit Red Wings  National Hockey League" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",EVENTOS 2 Toronto Maple Leafs vs. Detroit Red Wings  National Hockey League
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/192065
+#EXTINF:-1 tvg-id="" tvg-name="19/11 07:00:am � Toronto Maple Leafs Vs Minnesota Wild" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",19/11 07:00:am � Toronto Maple Leafs Vs Minnesota Wild
+http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/192256
+--
+#EXTINF:-1 tvg-id="" tvg-name="19/11 03:00:pm � Detroit Pistons Vs Toronto Raptors" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",19/11 03:00:pm � Detroit Pistons Vs Toronto Raptors
+http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/192268
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES | TOROS (V)" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="LIVE | DEPORTES",ES | TOROS (V)
 http://extremeplus.xyz:8080/astramx77/3YBEAQLK76/77287
@@ -212,8 +221,11 @@ http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/138340
 #EXTINF:-1,MLB| Toronto-BlueJays
 http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/162964
 --
-#EXTINF:-1,EVENTOS 2 Toronto Maple Leafs vs. Detroit Red Wings  National Hockey League
-http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/192065
+#EXTINF:-1,19/11 07:00:am � Toronto Maple Leafs Vs Minnesota Wild
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/192256
+--
+#EXTINF:-1,19/11 03:00:pm � Detroit Pistons Vs Toronto Raptors
+http://magmas5.com:8000/7H9YAQYZU5/12NXDP0KJP/192268
 --
 #EXTINF:-1 tvg-id="" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/1006
@@ -378,6 +390,9 @@ http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/109043.
 #EXTINF:-1,Guillermo del Toros Pinocchio LAT (2022)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/110171.mp4
 --
+#EXTINF:-1,Toronto vs Minnesota 7:00 am 19/NOV /NHL 01/
+http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/93205
+--
 #EXTINF:-1,MLB | Toronto-BLUEJAYS
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/52825
 --
@@ -451,6 +466,9 @@ http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/109043.mp4
 #EXTINF:-1,Guillermo del Toros Pinocchio LAT (2022)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/110171.mp4
 --
+#EXTINF:-1,Toronto vs Minnesota 7:00 am 19/NOV /NHL 01/
+http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/93205
+--
 #EXTINF:-1,CA | CBC Toronto (p)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/94386
 --
@@ -520,6 +538,9 @@ http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/109043.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toros Pinocchio LAT (2022)" tvg-logo="https://panel.budtv-ultra.com/posters/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="Drama	",Guillermo del Toros Pinocchio LAT (2022)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/110171.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Toronto vs Minnesota 7:00 am 19/NOV /NHL 01/" tvg-logo="https://panel.budtv-ultra.com/posters/1669912364439.png" group-title="Eventos Del Dia",Toronto vs Minnesota 7:00 am 19/NOV /NHL 01/
+http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/93205
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto (p)" tvg-logo="" group-title="canada",CA | CBC Toronto (p)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/94386
@@ -808,8 +829,14 @@ http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/117660.mp
 #EXTINF:-1 tvg-id="" tvg-name="Mi Secreto (2022) LAT S01 E120" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v4lRzvk5eTtSStoRoihd6KsWfVh.jpg" group-title="Novelas",Mi Secreto (2022) LAT S01 E120
 http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/117661.mp4
 --
+#EXTINF:-1 tvg-id="NBALeaguePass2.us" tvg-name="USA | NBA 02ⓧ: Detroit Pistons v Toronto Raptors | Sun 19th Nov 4:00PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 02ⓧ: Detroit Pistons v Toronto Raptors | Sun 19th Nov 4:00PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11545
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 00ⓧ: Toronto @ Minnesota | Sun Nov 19th 8:00 AM ET " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 00ⓧ: Toronto @ Minnesota | Sun Nov 19th 8:00 AM ET 
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/732
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -902,3 +929,9 @@ http://zona593ec.online:8080/Jhontv/Jhon20231@/575140
 http://zona593ec.online:8080/Jhontv/Jhon20231@/576290
 #EXTINF:-1 tvg-id="" tvg-name="CTV Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/79d8cd15-61b6-4065-8409-ce9751bf8aad.jpg" group-title="TV CANADA",CTV Toronto - CA
 http://zona593ec.online:8080/Jhontv/Jhon20231@/576291
+--
+#EXTINF:-1 tvg-id="" tvg-name="19/11 07:00:am � Toronto Maple Leafs Vs Minnesota Wild" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | OTROS EVENTOS DEL DIA",19/11 07:00:am � Toronto Maple Leafs Vs Minnesota Wild
+http://zona593ec.online:8080/Jhontv/Jhon20231@/585306
+--
+#EXTINF:-1 tvg-id="" tvg-name="19/11 03:00:pm � Detroit Pistons Vs Toronto Raptors" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | OTROS EVENTOS DEL DIA",19/11 03:00:pm � Detroit Pistons Vs Toronto Raptors
+http://zona593ec.online:8080/Jhontv/Jhon20231@/585341
