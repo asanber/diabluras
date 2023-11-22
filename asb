@@ -8,13 +8,13 @@
 "groups":
     [
         {
-         "name": "GEN_Tue21Nov_202311210303",
+         "name": "GEN_Wed22Nov_202311220303",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "data21Nov0025",
+         "name": "data22Nov0026",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -102,6 +102,10 @@
              {
              "name": "Megalista",
              "url": "https://megalistawiseplay.vercel.app/megalista.w3u"
+             },
+             {
+             "name": "Public IPTV",
+             "url": "https://iptv-org.github.io/iptv/index.m3u"
              },
              {
              "name": "TDTChannels",
