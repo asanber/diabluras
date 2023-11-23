@@ -8,7 +8,7 @@
 "groups":
     [
         {
-         "name": "GEN_Thu23Nov_202311232128",
+         "name": "GEN_Thu23Nov_202311232130",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -90,6 +90,26 @@
              {
              "name": "ChukyHood deporte",
              "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+             },
+             {
+             "name": "Chuky cine",
+             "url": "https://pastebin.com/raw/fLchA7yv"
+             },
+             {
+             "name": "TiriStar",
+             "url": "https://raw.githubusercontent.com/tirimosqui2/varios/main/TIRI_STARV3.w3u"
+             },
+             {
+             "name": "Megalista",
+             "url": "https://megalistawiseplay.vercel.app/megalista.w3u"
+             },
+             {
+             "name": "Public IPTV",
+             "url": "https://iptv-org.github.io/iptv/index.m3u"
+             },
+             {
+             "name": "TDTChannels",
+             "url": "https://www.tdtchannels.com/lists/tv.w3u"
              }
              ]
         }
