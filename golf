@@ -209,15 +209,22 @@ http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/189929
 #EXTINF:-1 tvg-id="" tvg-name="ᴜsᴀ Spᴏʀᴛs ᴴᴰ | GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="USA: Sports Excitement⚽",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | GOLF CHANNEL
 http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/140775
 --
+#EXTINF:-1 tvg-id="" tvg-name="ES | GOLF Channel (V)" tvg-logo="https://i.imgur.com/14Zu6mf.png" group-title="LIVE | DEPORTES",ES | GOLF Channel (V)
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/77286
+--
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="GOLF HD (P)" tvg-logo="http://listado.16mb.com/logosj/golf.png" group-title="LIVE | SPORTS",GOLF HD (P)
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/74250
+--
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="Golf Channel Latinoamerica(P)" tvg-logo="" group-title="LIVE | XTREME",Golf Channel Latinoamerica(P)
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/75061
+--
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="" group-title="LIVE | XTREME",Movistar Golf
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/75114
+--
 #EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",27- MOVISTAR GOLF EXTRA 
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336415
 #EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336416
---
-#EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",27- MOVISTAR GOLF EXTRA 
-http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336415
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
-http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336416
 --
 #EXTINF:-1,M. GOLF ES
 http://mytitantv.com:8080/latin_entertainment/latin_entertainmentexchan/14490
@@ -258,6 +265,26 @@ http://mytitantv.com:8080/latin_entertainment/latin_entertainmentexchan/41689
 --
 #EXTINF:-1,US: NBC Golf HD
 http://mytitantv.com:8080/latin_entertainment/latin_entertainmentexchan/82526
+--
+#EXTINF:-1 tvg-id="" tvg-name="La dama y el vagabundo 2: Las aventuras de Golfillo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjD9v91ig7WZnyr1VcilPg9nBmy.jpg" group-title="DISNEY + / INFANTIL",La dama y el vagabundo 2: Las aventuras de Golfillo (2001)
+http://pinkpanther.uk:8080/movie/$latinotv$1015/$4859430302$/60154.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᶠᴴᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf ᶠᴴᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/653
+--
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᔆᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf ᔆᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/34625
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᴴᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf ᴴᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/34626
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf2 ᔆᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf2 ᔆᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/34627
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf2 ᴴᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf2 ᴴᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/34628
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf2 ᶠᴴᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf2 ᶠᴴᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/34629
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS | GOLF" tvg-logo="http://51.222.152.107:81/posters/1509416051284.png" group-title="SKY SPORT ▶️",SKY SPORTS | GOLF
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/46841
 --
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᶠᴴᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf ᶠᴴᴰ
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/653
@@ -519,6 +546,22 @@ http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/233408
 --
 #EXTINF:-1,CA: Golf Channel HD
 http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/479232
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://209.126.82.213/LogosP/US/us_golf.png" group-title="⭐ ESTADOS UNIDOS",Golf Channel
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/208789
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel ʜᴅ" tvg-logo="http://209.126.82.213/LogosP/Canada/ca_golf_channel.png" group-title="⭐ CANADA",Golf Channel ʜᴅ
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/208334
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf (ɪᴛ)" tvg-logo="" group-title="⭐ ITALIA",Sky Sport Golf (ɪᴛ)
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/222756
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | M. GOLF HD." tvg-logo="https://logo.iptveditor.com/golfchannel.png" group-title="⚡GOLF",ESPAÑA | M. GOLF HD.
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/123405
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | M. GOLF HD" tvg-logo="http://fanc.tmsimg.com/assets/s90358_ll_h3_aa.png" group-title=" ⚽ ESPAÑA | MOVISTAR DEPORTES",ESPAÑA | M. GOLF HD
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/124288
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="https://logo.iptveditor.com/nbcgolf.png" group-title="⚡GOLF",NBC Golf
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/128381
 --
 #EXTINF:-1,Golf Channel MX (p)
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/32404

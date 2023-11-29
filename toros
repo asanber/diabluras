@@ -32,6 +32,12 @@ http://31.42.185.216:8000/LIRestream/C18FXWEJBF/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://31.42.185.216:8000/LIRestream/C18FXWEJBF/162964
 --
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs
+http://31.42.185.216:8000/LIRestream/C18FXWEJBF/193419
+--
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets
+http://31.42.185.216:8000/LIRestream/C18FXWEJBF/193422
+--
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/4362
 --
@@ -64,6 +70,12 @@ http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/138340
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/162964
+--
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs
+http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/193419
+--
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets
+http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/193422
 --
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: ONETORO TV FULL HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="¡Deportes España ⚽!",ESP-4: ONETORO TV FULL HD
 http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/4362
@@ -98,6 +110,18 @@ http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/138340
 #EXTINF:-1 tvg-id="" tvg-name="MLB| Toronto-BlueJays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1280px-Major_League_Baseball_logo.svg.png" group-title="⚾️MLB: Epic Playoff Moments⚾️",MLB| Toronto-BlueJays
 http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/162964
 --
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs
+http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/193419
+--
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⚾️ ¡EVENTOS DEPORTIVOS GLOBALES HOY! ⚾️",28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets
+http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/193422
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES | TOROS (V)" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="LIVE | DEPORTES",ES | TOROS (V)
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/77287
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="" group-title="LIVE | DEPORTES",TOROS
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/131498
+--
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336207
 --
@@ -114,18 +138,32 @@ http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/443089
 #EXTINF:-1 tvg-id="" tvg-name="NBA TORONTO RAPTORS" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="BALONCESTO",NBA TORONTO RAPTORS
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/489024
 --
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
-http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/336207
+#EXTINF:-1 tvg-id="" tvg-name="Toro salvaje (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPzVvRkPLtttMKS8YQuhhLsp8vF.jpg" group-title="CLASICAS",Toro salvaje (1980)
+http://pinkpanther.uk:8080/movie/$latinotv$1015/$4859430302$/60839.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="MLB TORONTO BLUE JAYS" tvg-logo="https://i.postimg.cc/fyD59sFS/mlb-toronto-blue-jays-logo-480x480.png" group-title="MLB",MLB TORONTO BLUE JAYS
-http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/460060
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="DISNEY + / INFANTIL",Pinocho de Guillermo del Toro (2022)
+http://pinkpanther.uk:8080/movie/$latinotv$1015/$4859430302$/61407.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES) " tvg-logo="https://i.postimg.cc/dVrFX3YX/MUNDO-TORO.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV HD (ES) 
-http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/440715
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV SD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV SD (ES)
-http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/440714
-#EXTINF:-1 tvg-id="" tvg-name="TOROLE hd" tvg-logo="https://i.postimg.cc/13xMW5Mf/TOROLE.png" group-title="ENTRETENIMIENTO",TOROLE hd
-http://flashprinttv.com:2086/Juan4ds/ky4FbrykJKkZ/443089
+#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6RaEAfkIQaolf20axWaRU4h3w.jpg" group-title="ANIME/MANGA",Mi vecino Totoro (1988)
+http://pinkpanther.uk:8080/movie/$latinotv$1015/$4859430302$/62055.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/1006
+#EXTINF:-1 tvg-id="" tvg-name="Liga Toros - One Toros" tvg-logo="https://i.postimg.cc/Xq8g4485/Dise-o-sin-t-tulo-23.png" group-title="M+ TOROS▶️",Liga Toros - One Toros
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/1008
+#EXTINF:-1 tvg-id="" tvg-name="ES| MUNDOTORO TV ( REFUERZO)" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",ES| MUNDOTORO TV ( REFUERZO)
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/1222
+#EXTINF:-1 tvg-id="LA 1" tvg-name="MUNDOTORO TV ᴴᴰ" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",MUNDOTORO TV ᴴᴰ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/4756
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV ˢᵈ" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",MUNDOTORO TV ˢᵈ
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/4757
+#EXTINF:-1 tvg-id="" tvg-name="K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/21468
+#EXTINF:-1 tvg-id="LA 1" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/pXLfKNC0/Dise-o-sin-t-tulo-22.png" group-title="M+ TOROS▶️",EL TORO TV
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/26599
+--
+#EXTINF:-1 tvg-id="" tvg-name="TORO OLE " tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TORO OLE 
+http://pinkpanther.uk:8080/$latinotv$1015/$4859430302$/46815
 --
 #EXTINF:-1 tvg-id="" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/1006
@@ -145,8 +183,23 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/26
 #EXTINF:-1 tvg-id="" tvg-name="TORO OLE " tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TORO OLE 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/46815
 --
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMjmd6kAEZg51vDSkBYREBxrR46XSXgWzo4-51IDAnsiUo_9KAqTDqdsRzgic0wOTMmYEbkmdIv-fS8LhebMOa01YnzeyJBTrXf6sNdUoErgoA.png" group-title="EVENTOS NBA",[NBA_PASS] TORONTO RAPTORS
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/518328
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfX1Uio_P0F5vy6TNZtIpLhiTglf3mnPZwoSWTs5_tYEUlKD_oqycm2RBc-DLAYez0g.png" group-title="EVENTOS NBA",[NBA_PASS] TORONTO RAPTORS
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/518434
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | Nov-28 6:30PM | Toronto Raptors at Brooklyn Nets" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMjmd6kAEZg51vDSkBYREBxrR46XSXgWzo4-51IDAnsiUo_9KAqTDqdsRzgic0wOTMmYEbkmdIv-fS8LhebMOa01YnzeyJBTrXf6sNdUoErgoA.png" group-title="EVENTOS NBA",NBA 02 | Nov-28 6:30PM | Toronto Raptors at Brooklyn Nets
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/518439
+--
+#EXTINF:-1 tvg-id="" tvg-name="NHL | 05:30 PM | FLORIDA PANTHERS VS TORONTO MAPLE LEAFS" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfdIm7epTjJXFaBhibmMBtIBkkUUMn26ISSbP87mgRNAIFmVcjSyXYq0128mbYRa93g.png" group-title="⭐ EVENTOS ⭐",NHL | 05:30 PM | FLORIDA PANTHERS VS TORONTO MAPLE LEAFS
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/518480
+--
+#EXTINF:-1 tvg-id="" tvg-name="009 USA: NHL 02 HD / FLORIDA @ TORONTO - 6:00PM - BS Florida" tvg-logo="" group-title="⭐ EVENTOS ⭐",009 USA: NHL 02 HD / FLORIDA @ TORONTO - 6:00PM - BS Florida
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/518509
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | Nov-28 6:30PM | Toronto Raptors at Brooklyn Nets" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="EVENTOS NBA",NBA 02 | Nov-28 6:30PM | Toronto Raptors at Brooklyn Nets
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/518520
+--
+#EXTINF:-1 tvg-id="" tvg-name="NHL | 05:30 PM | FLORIDA PANTHERS VS TORONTO MAPLE LEAFS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="⭐ EVENTOS ⭐",NHL | 05:30 PM | FLORIDA PANTHERS VS TORONTO MAPLE LEAFS
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/518544
 --
 #EXTINF:-1 tvg-id="" tvg-name="GR: NET TV TORONTO" tvg-logo="" group-title="INTERNACIONALES",GR: NET TV TORONTO
 http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/197039
@@ -257,7 +310,22 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/1157
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/22014
 --
 #EXTINF:-1,[NBA_PASS] TORONTO RAPTORS
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/518328
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/518434
+--
+#EXTINF:-1,NBA 02 | Nov-28 6:30PM | Toronto Raptors at Brooklyn Nets
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/518439
+--
+#EXTINF:-1,NHL | 05:30 PM | FLORIDA PANTHERS VS TORONTO MAPLE LEAFS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/518480
+--
+#EXTINF:-1,009 USA: NHL 02 HD / FLORIDA @ TORONTO - 6:00PM - BS Florida
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/518509
+--
+#EXTINF:-1,NBA 02 | Nov-28 6:30PM | Toronto Raptors at Brooklyn Nets
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/518520
+--
+#EXTINF:-1,NHL | 05:30 PM | FLORIDA PANTHERS VS TORONTO MAPLE LEAFS
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/518544
 --
 #EXTINF:-1,GR: NET TV TORONTO
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197039
@@ -355,6 +423,33 @@ http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/517236
 #EXTINF:-1,DEP ES | Movistar Toros HD
 http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/517237
 --
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ESPAÑA | MUNDO TORO FHD" tvg-logo="https://comenta.site/logo/mt.jpeg" group-title="⚽ ESPAÑA | DEPORTES",DEP. ESPAÑA | MUNDO TORO FHD
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/170088
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP. ESPAÑA | MUNDO TORO OP2 FHD" tvg-logo="https://comenta.site/logo/mt.jpeg" group-title="⚽ ESPAÑA | DEPORTES",DEP. ESPAÑA | MUNDO TORO OP2 FHD
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/199270
+--
+#EXTINF:-1 tvg-id="" tvg-name="[ES] ONE TORO TV HD 720P" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2.jpg" group-title="⚽ ESPAÑA | DEPORTES",[ES] ONE TORO TV HD 720P
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/227766
+--
+#EXTINF:-1 tvg-id="" tvg-name="[ES] EL TORO TV HD 1080P" tvg-logo="https://logo.iptveditor.com/eltorotv.png" group-title="⚡ ESPAÑA | DOCUMENTALES",[ES] EL TORO TV HD 1080P
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/218524
+--
+#EXTINF:-1 tvg-id="" tvg-name="CBC Toronto (ca)" tvg-logo="http://209.126.82.213/logos/ca/cbc-ca.png" group-title="⭐ CANADA",CBC Toronto (ca)
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/208321
+--
+#EXTINF:-1 tvg-id="" tvg-name="City Toronto (ca)" tvg-logo="http://209.126.82.213/logos/ca/city-tv-ca.png" group-title="⭐ CANADA",City Toronto (ca)
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/208323
+--
+#EXTINF:-1 tvg-id="" tvg-name="Global Toronto ʜᴅ" tvg-logo="http://209.126.82.213/LogosP/Canada/ca_global.png" group-title="⭐ CANADA",Global Toronto ʜᴅ
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/208333
+--
+#EXTINF:-1 tvg-id="" tvg-name="CTV Toronto (ca)" tvg-logo="http://209.126.82.213/logos/ca/ctv-ca.png" group-title="⭐ CANADA",CTV Toronto (ca)
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/208371
+--
+#EXTINF:-1 tvg-id="" tvg-name="ICI Radio Tele Toronto (ca)" tvg-logo="http://209.126.82.213/logos/ca/ici-radio-canada-tele-ca.png" group-title="⭐ CANADA",ICI Radio Tele Toronto (ca)
+http://trsanchez.online:8080/weibtv20232020/hwUuJx5hMy4z/208392
+--
 #EXTINF:-1,Toro salvaje (1980)
 http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/96566.mkv
 --
@@ -390,6 +485,9 @@ http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/111131
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/111175
 #EXTINF:-1,Mundotoro (i)
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/113951
+--
+#EXTINF:-1,Florida vs Toronto 6:00 pm 28/NOV /NHL 01/
+http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/93205
 --
 #EXTINF:-1,MLB | Toronto-BLUEJAYS
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/52825
@@ -461,6 +559,9 @@ http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/111175
 #EXTINF:-1,Mundotoro (i)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/113951
 --
+#EXTINF:-1,Florida vs Toronto 6:00 pm 28/NOV /NHL 01/
+http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/93205
+--
 #EXTINF:-1,MLB | Toronto-BLUEJAYS
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/52825
 --
@@ -530,6 +631,9 @@ http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/111131
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/111175
 #EXTINF:-1 tvg-id="" tvg-name="Mundotoro (i)" tvg-logo="" group-title="Espana",Mundotoro (i)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/113951
+--
+#EXTINF:-1 tvg-id="" tvg-name="Florida vs Toronto 6:00 pm 28/NOV /NHL 01/" tvg-logo="https://panel.budtv-ultra.com/posters/1669912364439.png" group-title="Eventos Del Dia",Florida vs Toronto 6:00 pm 28/NOV /NHL 01/
+http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/93205
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto-BLUEJAYS" tvg-logo="https://panel.budtv-ultra.com/posters/1659301472192.png" group-title="MLB",MLB | Toronto-BLUEJAYS
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/52825
@@ -809,8 +913,14 @@ http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/117660.mp
 #EXTINF:-1 tvg-id="" tvg-name="Mi Secreto (2022) LAT S01 E120" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v4lRzvk5eTtSStoRoihd6KsWfVh.jpg" group-title="Novelas",Mi Secreto (2022) LAT S01 E120
 http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/117661.mp4
 --
+#EXTINF:-1 tvg-id="NBALeaguePass2.us" tvg-name="USA | NBA 02ⓧ: Toronto Raptors v Brooklyn Nets | Tue 28th Nov 7:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 02ⓧ: Toronto Raptors v Brooklyn Nets | Tue 28th Nov 7:30PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11545
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 02ⓧ: Florida Panthers vs Toronto Maple Leafs | Tue Nov 28th 7:00 PM ET " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 02ⓧ: Florida Panthers vs Toronto Maple Leafs | Tue Nov 28th 7:00 PM ET 
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/734
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -892,13 +1002,16 @@ http://zonamovie.live:8080/Jhontv/Jhon20231@/565973
 #EXTINF:-1 tvg-id="" tvg-name="ES: Mundo Toro HD" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg" group-title="▶️ ESPAÑA | DEPORTES",ES: Mundo Toro HD
 http://zonamovie.live:8080/Jhontv/Jhon20231@/572239
 --
-#EXTINF:-1 tvg-id="" tvg-name="25/11 06:00:pm � Toronto Maple Leafs Vs Pittsburgh Penguins" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | OTROS EVENTOS DEL DIA",25/11 06:00:pm � Toronto Maple Leafs Vs Pittsburgh Penguins
-http://zonamovie.live:8080/Jhontv/Jhon20231@/603221
---
 #EXTINF:-1 tvg-id="" tvg-name="Global News Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/01e04fae-bc84-4e0b-a412-9ac1d22098cd.jpg" group-title="TV CANADA",Global News Toronto - CA
 http://zonamovie.live:8080/Jhontv/Jhon20231@/604057
 #EXTINF:-1 tvg-id="" tvg-name="CTV Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/79d8cd15-61b6-4065-8409-ce9751bf8aad.jpg" group-title="TV CANADA",CTV Toronto - CA
 http://zonamovie.live:8080/Jhontv/Jhon20231@/604058
+--
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | OTROS EVENTOS DEL DIA",28/11 06:00:pm � Florida Panthers Vs Toronto Maple Leafs
+http://zonamovie.live:8080/Jhontv/Jhon20231@/607929
+--
+#EXTINF:-1 tvg-id="" tvg-name="28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | OTROS EVENTOS DEL DIA",28/11 06:30:pm � Toronto Raptors Vs Brooklyn Nets
+http://zonamovie.live:8080/Jhontv/Jhon20231@/607932
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
