@@ -1,63 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="España: Señales Premium ⭐️",ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LIRestream/C18FXWEJBF/126192
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA TV ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA TV ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LIRestream/C18FXWEJBF/126194
---
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ESP-1: CAZA Y PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="España: Señales Premium ⭐️",ESP-1: CAZA Y PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LIRestream/C18FXWEJBF/126210
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://static.wixstatic.com/media/150734_4efdf679eb6c4da59d2c37d18d1f2a66~mv2.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LIRestream/C18FXWEJBF/126273
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="Sports | TORO OLE FHD" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="DEPORTES: Alta Definición⭐️⚽",Sports | TORO OLE FHD
-http://31.42.185.216:8000/LIRestream/C18FXWEJBF/145484
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP-1: Cazavisión ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://archivo.cazavision.com/sites/default/files/images/logocazavision.jpg" group-title="España: Señales Premium ⭐️",ESP-1: Cazavisión ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LIRestream/C18FXWEJBF/162914
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="España: Señales Premium ⭐️",ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/126192
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA TV ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA TV ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/126194
---
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ESP-1: CAZA Y PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="España: Señales Premium ⭐️",ESP-1: CAZA Y PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/126210
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://static.wixstatic.com/media/150734_4efdf679eb6c4da59d2c37d18d1f2a66~mv2.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/126273
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="Sports | TORO OLE FHD" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="DEPORTES: Alta Definición⭐️⚽",Sports | TORO OLE FHD
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/145484
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP-1: Cazavisión ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://archivo.cazavision.com/sites/default/files/images/logocazavision.jpg" group-title="España: Señales Premium ⭐️",ESP-1: Cazavisión ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/LocalRestreamIntercambio/GX3FMT14FH/162914
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="España: Señales Premium ⭐️",ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/126192
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA TV ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA TV ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/126194
---
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ESP-1: CAZA Y PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="España: Señales Premium ⭐️",ESP-1: CAZA Y PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/126210
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://static.wixstatic.com/media/150734_4efdf679eb6c4da59d2c37d18d1f2a66~mv2.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/126273
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="Sports | TORO OLE FHD" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="DEPORTES: Alta Definición⭐️⚽",Sports | TORO OLE FHD
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/145484
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP-1: Cazavisión ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://archivo.cazavision.com/sites/default/files/images/logocazavision.jpg" group-title="España: Señales Premium ⭐️",ESP-1: Cazavisión ᴇsᴘᴀɴᴀ ᴴᴰ
-http://31.42.185.216:8000/StratusTV/3PXZ2K5ECT/162914
---
 #EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas" tvg-logo="http://puntoz.xyz/LOGOS/cazafantasmas.png" group-title="24-7 CARICATURAS",Los Cazafantasmas
 http://amepz.xyz:2052/live/dltbshakt67/74PPw2bhhAN3/56671.m3u8
 --
 #EXTINF:-1 tvg-id="chiccazadoresdetendencias.tv" tvg-name="Chic! Cazadores de Tendencias" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/chic.png" group-title="MEGA GO",Chic! Cazadores de Tendencias
 http://amepz.xyz:2052/live/dltbshakt67/74PPw2bhhAN3/186412.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: CAZA Y PESCA" tvg-logo="http://boxdigital.xyz:8080/images/c4b94464a7974485ccc7a744532e2b8e.png" group-title="DEPORTES ʜᴅ",DEP HD: CAZA Y PESCA
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/179785
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="http://boxdigital.xyz:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTO TV ESPAÑA",Cazador de Homicidas
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/212538
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Cazador X" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Cazador X
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199542
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Cazador X 2" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Cazador X 2
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199543
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Cazador X 3" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Cazador X 3
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199544
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="" group-title="ESPAÑA",CAZA Y PESCA HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199114
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="" group-title="ESPAÑA",CAZA Y PESCA FHD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199115
+#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca SD" tvg-logo="" group-title="ESPAÑA",Caza y Pesca SD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199116
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="ESPAÑA",IBERALIA TV
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199117
+--
+#EXTINF:-1 tvg-id="" tvg-name="IBÉRALIA 100% CAZA FHD" tvg-logo="" group-title="ESPAÑA",IBÉRALIA 100% CAZA FHD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199119
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: CAZA Y PESCA" tvg-logo="http://boxdigital.xyz:8080/images/c4b94464a7974485ccc7a744532e2b8e.png" group-title="DEPORTES ʜᴅ",DEP HD: CAZA Y PESCA
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/179785
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="http://boxdigital.xyz:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTO TV ESPAÑA",Cazador de Homicidas
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/212538
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="" group-title="ESPAÑA",CAZA Y PESCA HD
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199114
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="" group-title="ESPAÑA",CAZA Y PESCA FHD
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199115
+#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca SD" tvg-logo="" group-title="ESPAÑA",Caza y Pesca SD
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199116
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="ESPAÑA",IBERALIA TV
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199117
+--
+#EXTINF:-1 tvg-id="" tvg-name="IBÉRALIA 100% CAZA FHD" tvg-logo="" group-title="ESPAÑA",IBÉRALIA 100% CAZA FHD
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199119
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Cazador X" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Cazador X
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199542
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Cazador X 2" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Cazador X 2
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199543
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Cazador X 3" tvg-logo="http://boxdigital.xyz:8080/images/9d9fca05a3f3e474672f1ae098116f19.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Cazador X 3
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/199544
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas" tvg-logo="http://boxdigital.xyz:8080/images/18f08aa9ec1d5a915a9bd39cbb4bf27a.png" group-title="24/7 PPV",Los Cazafantasmas
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/176885
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog el cazarrecompensas" tvg-logo="http://boxdigital.xyz:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTO TV MEXICO",Dog el cazarrecompensas
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/212020
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="http://boxdigital.xyz:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="PLUTO TV MEXICO",Cazador de Homicidas
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/212037
+--
+#EXTINF:-1 tvg-id="" tvg-name="Chic! Cazadores de Tendencias" tvg-logo="http://boxdigital.xyz:8080/images/0f2816a72dbab3e9a188b78d2d3e04d5.png" group-title="MEGA GO",Chic! Cazadores de Tendencias
+http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/178070
+--
+#EXTINF:-1 tvg-id="" tvg-name="Infieles - Cristina Peña y Lillo en Cazatalentos" tvg-logo="http://boxdigital.xyz:8080/images/dd46e75847c25526406f5b587363bfde.png" group-title="INFIELES",Infieles - Cristina Peña y Lillo en Cazatalentos
+http://pro.boxdigital.org:8080/movie/wQbHJ7TBtn/JPZmd9X6qY/171932.mp4
+--
+#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="ZAPEANDO MOVISTAR",ES : CAZA Y PESCA
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/46560
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="ZAPEANDO MOVISTAR",ES : IBERALIA TV
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/46561
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA SD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/350
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/351
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/352
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tF8B1ZxJI5RDIMzBqrnoJg-g.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% PESCA FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/353
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV SD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0H6ys0Q5qP2eE7mtm-aX_f.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV SD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/354
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV HD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/355
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/356
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tFuFURkdXMRX2c894GJEzo5w.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% CAZA FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/357
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION SD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION SD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/358
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/359
+--
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="ENTRETENIMIENTO LATINO",ENT| Caza y Pesca HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/7349
 --
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336458
@@ -74,22 +114,6 @@ http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336476
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336895
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA " tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA 
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336896
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
-http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336458
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZA Y PESCA HD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
-http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336457
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION" tvg-logo="https://i.postimg.cc/zvSwxSQX/canal-cazavision-removebg-preview.png" group-title="ENTRETENIMIENTO",CAZAVISION
-http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336460
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="22- IBERALIA FHD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",22- IBERALIA FHD
-http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336475
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",IBERALIA HD
-http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336476
-#EXTINF:-1 tvg-id="" tvg-name="23- IBERALIA 100% CAZA" tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",23- IBERALIA 100% CAZA
-http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336895
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA " tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA 
-http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336896
 --
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
 http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336458
@@ -122,6 +146,22 @@ http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336476
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336895
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA " tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA 
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336896
+--
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
+http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336458
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="CAZA Y PESCA HD" tvg-logo="https://i.postimg.cc/L65hC3wC/Caza-pesca-m.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
+http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336457
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION" tvg-logo="https://i.postimg.cc/zvSwxSQX/canal-cazavision-removebg-preview.png" group-title="ENTRETENIMIENTO",CAZAVISION
+http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336460
+--
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="22- IBERALIA FHD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",22- IBERALIA FHD
+http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336475
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="ENTRETENIMIENTO",IBERALIA HD
+http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336476
+#EXTINF:-1 tvg-id="" tvg-name="23- IBERALIA 100% CAZA" tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",23- IBERALIA 100% CAZA
+http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336895
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA " tvg-logo="https://i.postimg.cc/rp39spWc/PESCA.png" group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA 
+http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336896
 --
 #EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Plus" tvg-logo="data:image/png;base64,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" group-title="PERÚ",PE | Movistar Plus
 http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/230754
@@ -159,34 +199,8 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372631
 #EXTINF:-1 tvg-id="" tvg-name="PT: CAZA Y PESCA" tvg-logo="" group-title="PORTUGAL",PT: CAZA Y PESCA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370509
 --
-#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="ZAPEANDO MOVISTAR",ES : CAZA Y PESCA
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/46560
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="ZAPEANDO MOVISTAR",ES : IBERALIA TV
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/46561
---
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA SD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/350
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA HD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/351
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA FHD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/352
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tF8B1ZxJI5RDIMzBqrnoJg-g.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% PESCA FHD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/353
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV SD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0H6ys0Q5qP2eE7mtm-aX_f.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV SD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/354
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV HD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV HD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/355
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV FHD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/356
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tFuFURkdXMRX2c894GJEzo5w.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% CAZA FHD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/357
-#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION SD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION SD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/358
-#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION HD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/359
---
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="ENTRETENIMIENTO LATINO",ENT| Caza y Pesca HD
-http://newcoco.pinals.xyz:8080/Leafar/fQE5BM66Hc/7349
+#EXTINF:-1 tvg-id="" tvg-name="*Latino | Cinema 07 Espiía a la caza (2023) HD" tvg-logo="https://i.imgur.com/lcHhtx1.jpg" group-title="CINEMA LATINO",*Latino | Cinema 07 Espiía a la caza (2023) HD
+http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/42192
 --
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Cazafantasmas ⭐️" tvg-logo="https://w7.pngwing.com/pngs/412/163/png-transparent-ghostbusters-logo-logo-ghostbusters-film-art-ghost-white-text-logo.png" group-title="24/7",24/7 Los Cazafantasmas ⭐️
 http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/177137
@@ -214,292 +228,11 @@ http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/484036
 #EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)*25sc*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg" group-title="Peliculas Retro",Los Cazafantasmas (1984)*25sc*
 http://home-playtv.com:8080/movie/LAtinoA100/Wy894ENVXXhhh56/165269.mkv
 --
-#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="ZAPEANDO MOVISTAR",ES : CAZA Y PESCA
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46560
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="ZAPEANDO MOVISTAR",ES : IBERALIA TV
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46561
---
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/350
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/351
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/352
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tF8B1ZxJI5RDIMzBqrnoJg-g.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% PESCA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/353
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV SD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0H6ys0Q5qP2eE7mtm-aX_f.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/354
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV HD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/355
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/356
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tFuFURkdXMRX2c894GJEzo5w.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% CAZA FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/357
-#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION SD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION SD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/358
-#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/359
---
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="ENTRETENIMIENTO LATINO",ENT| Caza y Pesca HD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/7349
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Cazafantasmas ⭐️" tvg-logo="https://w7.pngwing.com/pngs/412/163/png-transparent-ghostbusters-logo-logo-ghostbusters-film-art-ghost-white-text-logo.png" group-title="24/7",24/7 Los Cazafantasmas ⭐️
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/177137
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV" tvg-logo="" group-title="INTERNACIONALES",ES: IBERALIA TV
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196803
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Caza Y Pesca HD" tvg-logo="" group-title="INTERNACIONALES",ES: Caza Y Pesca HD
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/196810
---
-#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Plus" tvg-logo="data:image/png;base64,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" group-title="PERÚ",PE | Movistar Plus
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/230754
---
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | Caza y Pesca" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="DEPORTES ESPAÑA",DEP ES | Caza y Pesca
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47669
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | Cazavision " tvg-logo="https://tv.cazavision.com/images/logo-whitePT.png" group-title="DEPORTES ESPAÑA",DEP ES | Cazavision 
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/47670
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores De Recompensas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qC4jdjWLIBAzrzYVdqdxI8oPzp.jpg" group-title="FOR ADULTS",Cazadores De Recompensas (2000)
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/483783
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores De Recompensas (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8qC4jdjWLIBAzrzYVdqdxI8oPzp.jpg" group-title="FOR ADULTS",Cazadores De Recompensas (2000)
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/484036
---
-#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)*25sc*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg" group-title="Peliculas Retro",Los Cazafantasmas (1984)*25sc*
-http://home-playtv.com:8080/movie/Granav803/S032PEWQQDxm/165269.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Plus" tvg-logo="data:image/png;base64,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" group-title="PERÚ",PE | Movistar Plus
-http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/230754
---
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | Caza y Pesca" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="DEPORTES ESPAÑA",DEP ES | Caza y Pesca
-http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/47669
-#EXTINF:-1 tvg-id="" tvg-name="DEP ES | Cazavision " tvg-logo="https://tv.cazavision.com/images/logo-whitePT.png" group-title="DEPORTES ESPAÑA",DEP ES | Cazavision 
-http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/47670
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores De Recompensas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qC4jdjWLIBAzrzYVdqdxI8oPzp.jpg" group-title="FOR ADULTS",Cazadores De Recompensas (2000)
-http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/483783
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores De Recompensas (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8qC4jdjWLIBAzrzYVdqdxI8oPzp.jpg" group-title="FOR ADULTS",Cazadores De Recompensas (2000)
-http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/484036
---
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mikami la Cazafantasmas" tvg-logo="" group-title="LIVE",24/7 Mikami la Cazafantasmas
 http://tv.iprotv.live:25461/247lamqnsiondelterror2/v60A6OP6Pvd/1227
 --
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Buffy La Cazavampiros" tvg-logo="https://lh3.googleusercontent.com/-Rul8y1-q_0Y/YgH50PqAO6I/AAAAAAAADLg/xUyl666xGr8YJl4t1zllPTtxfuqarCjAwCNcBGAsYHQ/s1600/1644296653742162-22.png" group-title="LIVE",24/7 Buffy La Cazavampiros
 http://tv.iprotv.live:25461/247lamqnsiondelterror2/v60A6OP6Pvd/1461
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza el Asesino (2015)" tvg-logo="https://panel.budtv-ultra.com/posters/jCRQlI1i5OCi3YrzBiG0qllCmSj.jpg" group-title="Drama	",Caza el Asesino (2015)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/95007.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La caza (2015)" tvg-logo="https://panel.budtv-ultra.com/posters/u58G6hN7ddVWK5Q8rPqJXbkNBIp.jpg" group-title="",La caza (2015)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/95062.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Sakura, cazadora de cartas: La carta sellada (2000)" tvg-logo="https://panel.budtv-ultra.com/posters/tRjfsR5zvwujk1Eb8ovhDenSt37.jpg" group-title="Comedia	",Sakura, cazadora de cartas: La carta sellada (2000)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/95332.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="cazadores de dragones (2008)" tvg-logo="https://panel.budtv-ultra.com/posters/lJdb24qHhUuwYaF1qDLnplnxagd.jpg" group-title="kids	",cazadores de dragones (2008)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/96306.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Los cazafantasmas II (1989)" tvg-logo="https://panel.budtv-ultra.com/posters/nPyTZuSb4XrGKpwYopWSxdB8qmv.jpg" group-title="Comedia	",Los cazafantasmas II (1989)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/96659.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="A la caza (1980)" tvg-logo="https://panel.budtv-ultra.com/posters/v2fxMmWK3QUKlxUoJWU9WxMAiPh.jpg" group-title="",A la caza (1980)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/96734.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Hansel y Gretel: Cazadores de brujas (2013)" tvg-logo="https://panel.budtv-ultra.com/posters/xydZZyjSl2Tu9B38Z2x1F02ZcM2.jpg" group-title="",Hansel y Gretel: Cazadores de brujas (2013)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/96843.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="la caza del octubre rojo (1990)" tvg-logo="https://panel.budtv-ultra.com/posters/9g81qelqZj5CLC4MuCgiFCXBYAf.jpg" group-title="",la caza del octubre rojo (1990)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/96901.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas 3 dual audio (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/4qnJ1hsMADxzwnOmnwjZTNp0rKT.jpg" group-title="Estrenos Audios en Español",Cazafantasmas 3 dual audio (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/96989.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza al asesino (2013)" tvg-logo="https://panel.budtv-ultra.com/posters/ncfRorYH4Lb5VrCR5Q7a6BQeHUM.jpg" group-title="Estrenos Audios en Ingles",Caza al asesino (2013)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/97306.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza al terrorista (1997)" tvg-logo="https://panel.budtv-ultra.com/posters/sGEjUXeCDYa5P9Adb9O9YR3HUZn.jpg" group-title="",Caza al terrorista (1997)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/97463.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name=" El fenmeno Cazafantasmas (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/mRqTz0vthnHXrCn9uAE7kKW8sk5.jpg" group-title="Documentales	", El fenmeno Cazafantasmas (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/97470.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://panel.budtv-ultra.com/posters/7WTMxkdCPlp3BYT0bqPHVrE7SUR.jpg" group-title="Estrenos Audios en Español",Cazador de demonios (2012)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/97656.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="La caza del marfil (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/nM7pPkcOuhtb77GFdZ5FTvUbxoM.jpg" group-title="Documentales	",La caza del marfil (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/97731.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="https://panel.budtv-ultra.com/posters/9c9OFD1xaT5d360ckkit7luMbvQ.jpg" group-title="",Cazadores de sombras: Ciudad de hueso (2013)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/97838.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="caza bajo el sol audio lat (2014)" tvg-logo="https://panel.budtv-ultra.com/posters/yeR50iD4KLG8bEjGZLdrqMvAOYk.jpg" group-title="",caza bajo el sol audio lat (2014)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/97947.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/gTBJ1uM7HwbiTVJXRQpkoJxXIFP.jpg" group-title="",Cazafantasmas (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/98403.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Paulie, el loro bocazas (1998)" tvg-logo="https://panel.budtv-ultra.com/posters/dokDvch0PVKN8Ac9S2xzhrXjFZ2.jpg" group-title="",Paulie, el loro bocazas (1998)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/98587.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Un Ratoncito Duro de Cazar (1997)" tvg-logo="https://panel.budtv-ultra.com/posters/8WaEC4YZV0m8zOx6FHau4feAO59.jpg" group-title="",Un Ratoncito Duro de Cazar (1997)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/98622.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Buddies: Cazadores de Tesoros (2012)" tvg-logo="https://panel.budtv-ultra.com/posters/1495052086150.jpg" group-title="Familia	",Buddies: Cazadores de Tesoros (2012)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/99274.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Cazador (1978)" tvg-logo="https://panel.budtv-ultra.com/posters/1496939007580.jpg" group-title="",El Cazador (1978)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/99639.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Recien Cazado (2009)" tvg-logo="https://panel.budtv-ultra.com/posters/1551817266527.jpg" group-title="Drama	",Recien Cazado (2009)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/102683.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador (2020)" tvg-logo="https://panel.budtv-ultra.com/posters/cWaeEmd1fuIW1hs5OoGKzy8NCO6.jpg" group-title="",El cazador (2020)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/104623.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El silencio del cazador (2019)" tvg-logo="https://panel.budtv-ultra.com/posters/cVNBThSNTx1ssPRJxSbQUCkJpCA.jpg" group-title="",El silencio del cazador (2019)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/104915.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Guia de una ninera para cazar monstruos (2020)" tvg-logo="https://panel.budtv-ultra.com/posters/1603474859548.jpg" group-title="",Guia de una ninera para cazar monstruos (2020)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/105199.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="CAZADOR DE ASESINOS (1983)" tvg-logo="https://panel.budtv-ultra.com/posters/hErAPn4N2yEvuhU7QfU5ryKdoJq.jpg" group-title="Ultimas Agregadas	",CAZADOR DE ASESINOS (1983)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBJW2WBOndemand2023/d8rQEH2h4E/109268.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca (ES) (p)" tvg-logo="https://budtv-ultra.com/posters/1685408916129.png" group-title="Espana",Caza y Pesca (ES) (p)
-http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/80694
---
-#EXTINF:-1 tvg-id="" tvg-name="Mikami la Cazafantasmas 24/7" tvg-logo="https://budtv-ultra.com/posters/1629258319584.png" group-title="24/7",Mikami la Cazafantasmas 24/7
-http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12046
---
-#EXTINF:-1 tvg-id="" tvg-name="Fuego Ardiente S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w75Gjab8dQipctcaZaZ1lqrlGsJ.jpg" group-title="Drama",Fuego Ardiente S01 E15
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/16408.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del amor S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v1BHgPyfBMlHCQKzHMDlVDZ8HvY.jpg" group-title="Drama",A la caza del amor S01 E01
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/23375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del amor S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rqULtDoNrWwgHU1t702nlxwP41I.jpg" group-title="Drama",A la caza del amor S01 E02
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/23376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del amor S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/FpFbEiMwdUDWgFKwfzoPgUvoB5.jpg" group-title="Drama",A la caza del amor S01 E03
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/23377.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cBdQHy7IZSeg8VLZZiPotlYOJBX.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E01
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/26462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dMDex2ArVnjFrfsxVIMBKmmf4J7.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E02
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/26463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aRuuUxU11BrTrAcxfLUtW6xtJAX.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E03
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/26464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj12VVmPly3HvERVsyPTEqKDd49.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E04
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/26465.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El caso Hartung SUB S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6BFYCAzaw4HONXAqIWkNUUVTQbJ.jpg" group-title="Crimen",El caso Hartung SUB S01 E02
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/56072.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza el Asesino (2015)" tvg-logo="https://panel.budtv-ultra.com/posters/jCRQlI1i5OCi3YrzBiG0qllCmSj.jpg" group-title="Drama	",Caza el Asesino (2015)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/95007.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La caza (2015)" tvg-logo="https://panel.budtv-ultra.com/posters/u58G6hN7ddVWK5Q8rPqJXbkNBIp.jpg" group-title="",La caza (2015)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/95062.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Sakura, cazadora de cartas: La carta sellada (2000)" tvg-logo="https://panel.budtv-ultra.com/posters/tRjfsR5zvwujk1Eb8ovhDenSt37.jpg" group-title="Comedia	",Sakura, cazadora de cartas: La carta sellada (2000)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/95332.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="cazadores de dragones (2008)" tvg-logo="https://panel.budtv-ultra.com/posters/lJdb24qHhUuwYaF1qDLnplnxagd.jpg" group-title="kids	",cazadores de dragones (2008)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/96306.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Los cazafantasmas II (1989)" tvg-logo="https://panel.budtv-ultra.com/posters/nPyTZuSb4XrGKpwYopWSxdB8qmv.jpg" group-title="Comedia	",Los cazafantasmas II (1989)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/96659.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="A la caza (1980)" tvg-logo="https://panel.budtv-ultra.com/posters/v2fxMmWK3QUKlxUoJWU9WxMAiPh.jpg" group-title="",A la caza (1980)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/96734.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Hansel y Gretel: Cazadores de brujas (2013)" tvg-logo="https://panel.budtv-ultra.com/posters/xydZZyjSl2Tu9B38Z2x1F02ZcM2.jpg" group-title="",Hansel y Gretel: Cazadores de brujas (2013)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/96843.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="la caza del octubre rojo (1990)" tvg-logo="https://panel.budtv-ultra.com/posters/9g81qelqZj5CLC4MuCgiFCXBYAf.jpg" group-title="",la caza del octubre rojo (1990)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/96901.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas 3 dual audio (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/4qnJ1hsMADxzwnOmnwjZTNp0rKT.jpg" group-title="Estrenos Audios en Español",Cazafantasmas 3 dual audio (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/96989.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza al asesino (2013)" tvg-logo="https://panel.budtv-ultra.com/posters/ncfRorYH4Lb5VrCR5Q7a6BQeHUM.jpg" group-title="Estrenos Audios en Ingles",Caza al asesino (2013)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/97306.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza al terrorista (1997)" tvg-logo="https://panel.budtv-ultra.com/posters/sGEjUXeCDYa5P9Adb9O9YR3HUZn.jpg" group-title="",Caza al terrorista (1997)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/97463.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name=" El fenmeno Cazafantasmas (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/mRqTz0vthnHXrCn9uAE7kKW8sk5.jpg" group-title="Documentales	", El fenmeno Cazafantasmas (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/97470.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://panel.budtv-ultra.com/posters/7WTMxkdCPlp3BYT0bqPHVrE7SUR.jpg" group-title="Estrenos Audios en Español",Cazador de demonios (2012)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/97656.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="La caza del marfil (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/nM7pPkcOuhtb77GFdZ5FTvUbxoM.jpg" group-title="Documentales	",La caza del marfil (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/97731.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="https://panel.budtv-ultra.com/posters/9c9OFD1xaT5d360ckkit7luMbvQ.jpg" group-title="",Cazadores de sombras: Ciudad de hueso (2013)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/97838.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="caza bajo el sol audio lat (2014)" tvg-logo="https://panel.budtv-ultra.com/posters/yeR50iD4KLG8bEjGZLdrqMvAOYk.jpg" group-title="",caza bajo el sol audio lat (2014)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/97947.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://panel.budtv-ultra.com/posters/gTBJ1uM7HwbiTVJXRQpkoJxXIFP.jpg" group-title="",Cazafantasmas (2016)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/98403.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Paulie, el loro bocazas (1998)" tvg-logo="https://panel.budtv-ultra.com/posters/dokDvch0PVKN8Ac9S2xzhrXjFZ2.jpg" group-title="",Paulie, el loro bocazas (1998)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/98587.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Un Ratoncito Duro de Cazar (1997)" tvg-logo="https://panel.budtv-ultra.com/posters/8WaEC4YZV0m8zOx6FHau4feAO59.jpg" group-title="",Un Ratoncito Duro de Cazar (1997)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/98622.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Buddies: Cazadores de Tesoros (2012)" tvg-logo="https://panel.budtv-ultra.com/posters/1495052086150.jpg" group-title="Familia	",Buddies: Cazadores de Tesoros (2012)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/99274.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Cazador (1978)" tvg-logo="https://panel.budtv-ultra.com/posters/1496939007580.jpg" group-title="",El Cazador (1978)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/99639.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Recien Cazado (2009)" tvg-logo="https://panel.budtv-ultra.com/posters/1551817266527.jpg" group-title="Drama	",Recien Cazado (2009)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/102683.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador (2020)" tvg-logo="https://panel.budtv-ultra.com/posters/cWaeEmd1fuIW1hs5OoGKzy8NCO6.jpg" group-title="",El cazador (2020)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/104623.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El silencio del cazador (2019)" tvg-logo="https://panel.budtv-ultra.com/posters/cVNBThSNTx1ssPRJxSbQUCkJpCA.jpg" group-title="",El silencio del cazador (2019)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/104915.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Guia de una ninera para cazar monstruos (2020)" tvg-logo="https://panel.budtv-ultra.com/posters/1603474859548.jpg" group-title="",Guia de una ninera para cazar monstruos (2020)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/105199.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="CAZADOR DE ASESINOS (1983)" tvg-logo="https://panel.budtv-ultra.com/posters/hErAPn4N2yEvuhU7QfU5ryKdoJq.jpg" group-title="Ultimas Agregadas	",CAZADOR DE ASESINOS (1983)
-http://xcm.budtv-ultra.com:25461/movie/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/109268.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca (ES) (p)" tvg-logo="https://budtv-ultra.com/posters/1685408916129.png" group-title="Espana",Caza y Pesca (ES) (p)
-http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/80694
---
-#EXTINF:-1 tvg-id="" tvg-name="Mikami la Cazafantasmas 24/7" tvg-logo="https://budtv-ultra.com/posters/1629258319584.png" group-title="24/7",Mikami la Cazafantasmas 24/7
-http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/12046
---
-#EXTINF:-1 tvg-id="" tvg-name="Fuego Ardiente S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w75Gjab8dQipctcaZaZ1lqrlGsJ.jpg" group-title="Drama",Fuego Ardiente S01 E15
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/16408.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del amor S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v1BHgPyfBMlHCQKzHMDlVDZ8HvY.jpg" group-title="Drama",A la caza del amor S01 E01
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/23375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del amor S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rqULtDoNrWwgHU1t702nlxwP41I.jpg" group-title="Drama",A la caza del amor S01 E02
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/23376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del amor S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/FpFbEiMwdUDWgFKwfzoPgUvoB5.jpg" group-title="Drama",A la caza del amor S01 E03
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/23377.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cBdQHy7IZSeg8VLZZiPotlYOJBX.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E01
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/26462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dMDex2ArVnjFrfsxVIMBKmmf4J7.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E02
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/26463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aRuuUxU11BrTrAcxfLUtW6xtJAX.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E03
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/26464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie LAT  S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj12VVmPly3HvERVsyPTEqKDd49.jpg" group-title="Documental",Acosador nocturno: A la caza de un asesino en serie LAT  S01 E04
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/26465.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El caso Hartung SUB S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6BFYCAzaw4HONXAqIWkNUUVTQbJ.jpg" group-title="Crimen",El caso Hartung SUB S01 E02
-http://xcm.budtv-ultra.com:25461/series/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/56072.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="LAT 24/7ⓧ |Los Cazafantasmas (1986)" tvg-logo="" group-title="|LAT| 24/7 LATINO CANALES",LAT 24/7ⓧ |Los Cazafantasmas (1986)
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/120505
@@ -519,565 +252,3 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48801
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/48691
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia TVⓧ SD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/9c09b2eba258fc8a0fd8cffdf9bdde0f.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Iberalia TVⓧ SD HEVC
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/527
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CAZYPESCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/800px-Caza-pesca_m%2B.png" group-title="▶️ | TV ESPAÑA",ESP | CAZYPESCA HD
-http://zonamovie.live:8080/Jhontv/Jhon20231@/409014
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Caza y Pesca
-http://zonamovie.live:8080/Jhontv/Jhon20231@/572012
-#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Caza y Pesca
-http://zonamovie.live:8080/Jhontv/Jhon20231@/572013
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Iberalia
-http://zonamovie.live:8080/Jhontv/Jhon20231@/572040
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Cazavision" tvg-logo="https://www.orange.es/ss/Satellite?blobcol=urldata&blobheadername1=Cache-Control&blobheadervalue1=max-age=3600&blobkey=id&blobnocache=false&blobtable=MungoBlobs&blobwhere=1521462446910&ssbinary=true" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Cazavision
-http://zonamovie.live:8080/Jhontv/Jhon20231@/572051
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Iberelia 100% Pesca C" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Iberelia 100% Pesca C
-http://zonamovie.live:8080/Jhontv/Jhon20231@/572055
-#EXTINF:-1 tvg-id="" tvg-name="Iberalia 100% Caza" tvg-logo="http://fanc.tmsimg.com/assets/s96790_h3_aa.png" group-title="▶️ | ESPAÑA DOCUMENTALES",Iberalia 100% Caza
-http://zonamovie.live:8080/Jhontv/Jhon20231@/572056
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia 100% Pesca A" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Iberalia 100% Pesca A
-http://zonamovie.live:8080/Jhontv/Jhon20231@/572065
---
-#EXTINF:-1 tvg-id="" tvg-name="El Cazador de recompensas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ft4fgthsbb9qOXa0E0cw0l29MN.jpg" group-title="▶️ VOD/CINE 2022",El Cazador de recompensas (2021)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/455495.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadora De Tiburones (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfzSSpQecKEZp0FSol14g4nqtTT.jpg" group-title="▶️ VOD/2021",Cazadora De Tiburones (2021)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/454640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jy2R4irQMZEaHvGkKoyuaKJPJO.jpg" group-title="▶️ VOD/2021",Cazafantasmas: Más allá (2021)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/454641.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador de recompensas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ft4fgthsbb9qOXa0E0cw0l29MN.jpg" group-title="▶️ VOD/2021",El cazador de recompensas (2021)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/454727.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xScci6nSbM2TS7gdTrEOJDT8Rm.jpg" group-title="⭐ CINE AMAZON ⭐",Cazador de demonios (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/533119.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador principal" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/05/04/20/19/4903299.jpg" group-title="⭐ CINE AMAZON ⭐",El cazador principal
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/533231.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="La Cazadora: Runa de los muertos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dF9xBe8OLU2TMcbmXepJuvf94A.jpg" group-title="⭐ CINE AMAZON ⭐",La Cazadora: Runa de los muertos (2022)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/533389.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Blade Runner El cazador implacable" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oriWw159WYMycVWRAtEjzab2c4a.jpg" group-title="⭐ CINE HBO ⭐",Blade Runner El cazador implacable
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/537874.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y el cazador (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXDkg5obS59srKM2IefPIZMGF4b.jpg" group-title="⭐ CINE HBO ⭐",Blancanieves y el cazador (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/537902.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Los Caza Novias (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KepxICAEiAa3i4fWP2CiwLGJr5.jpg" group-title="⭐ CINE HBO ⭐",Los Caza Novias (2005)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/537997.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" group-title="⭐ CINE HBO ⭐",El cazador y la reina de hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/538017.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oSxFcIxBcJqkajoRgEy4byQsBF.jpg" group-title="▶️ VOD/ACCION",Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/451401.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza legal (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsC2AKvwgZzkYbWrBnq1TvvcUCm.jpg" group-title="▶️ VOD/ACCION",Caza legal (1995)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/451551.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y la leyenda del cazador (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️ VOD/ACCION",Blancanieves y la leyenda del cazador (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/451798.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwbz7TsWnOIZgMcbet1pZdYAvmP.jpg" group-title="▶️ VOD/ACCION",Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/451849.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvC2D7sX894lJYOzBdndI52Jz6Y.jpg" group-title="▶️ VOD/TERROR",Cazador de demonios (2009)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/540880.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de Trolls (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQikpQcRL2AeoUQJdvIYW9qamYe.jpg" group-title="▶️ VOD/TERROR",Cazadores de Trolls (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/541228.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de Trolls (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQikpQcRL2AeoUQJdvIYW9qamYe.jpg" group-title="▶️ VOD/TERROR",Cazadores de Trolls (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/541711.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvC2D7sX894lJYOzBdndI52Jz6Y.jpg" group-title="▶️ VOD/TERROR",Cazador de demonios (2009)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/541810.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="De caza con papá (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️ VOD/COMEDIA",De caza con papá (2018)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/454046.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Bocazas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5JErRcwd5BwhftO86U5OzLFpga.jpg" group-title="▶️ VOD/COMEDIA",Bocazas (2018)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/452684.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="A la caza de los ñumanos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zld9o6ENdIUX4uVzkO98tA05dol.jpg" group-title="▶️ VOD/COMEDIA",A la caza de los ñumanos (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/453196.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Hunter Killer: Caza en las profundidades (Lat)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iftXuaQiXEcE7uhwURPkOCpXa9x.jpg" group-title="▶️ VOD/SUSPENSO",Hunter Killer: Caza en las profundidades (Lat)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/466134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hunter Killer: Caza en las profundidades (Sub)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iftXuaQiXEcE7uhwURPkOCpXa9x.jpg" group-title="▶️ VOD/SUSPENSO",Hunter Killer: Caza en las profundidades (Sub)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/466135.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tJMeknwCcrUgwi3sEVsGTWt2ex.jpg" group-title="▶️ VOD/AVENTURA",Cazadores de sombras: Ciudad de hueso (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/485152.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="A la caza de los ñumanos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="▶️ VOD/AVENTURA",A la caza de los ñumanos (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/485299.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" group-title="▶️ VOD/AVENTURA",Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/485394.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y la leyenda del cazador (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDYdtKZbgDLY8al8KGv7fLx61jQ.jpg" group-title="▶️ VOD/AVENTURA",Blancanieves y la leyenda del cazador (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/485569.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadora de gigantes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQDRKpGWBq8zQEUgi3cFyFBRCpN.jpg" group-title="▶️VOD/CASTELLANO",Cazadora de gigantes (2018)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/492575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazador blanco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qwYl5cbfv97LwsLiE22ro4rryl.jpg" group-title="▶️VOD/CASTELLANO",Cazador blanco (2020)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/492576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazador contra cazador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpUeO4MppzOy5px8Wn39A1ZkDW.jpg" group-title="▶️VOD/CASTELLANO",Cazador contra cazador (2020)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/492577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de Dragones (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHjcaVaXVqjYItJzjD5Y8YrXh84.jpg" group-title="▶️VOD/CASTELLANO",Cazadores de Dragones (2008)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/492578.avi
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de monstruos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51FDbBDlABFzhMABME1GCRraj8s.jpg" group-title="▶️VOD/CASTELLANO",Cazadores de monstruos (2018)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/492579.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sangre (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEHD6fLQi5JYzaBHetP8popIeaH.jpg" group-title="▶️VOD/CASTELLANO",Cazadores de sangre (2009)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/492580.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Dragones al rescate: A la caza del dragón dorado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wHEvRLUEWK0AUZhSmhFNWPrBPy.jpg" group-title="▶️VOD/CASTELLANO",Dragones al rescate: A la caza del dragón dorado (2020)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/492754.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de monstruos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la7nc6pG4vmPJEzl3gV08jboQWX.jpg" group-title="▶️VOD/CASTELLANO",Cazadores de monstruos (2018)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/493673.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Presas de caza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" group-title="▶️VOD/CASTELLANO",Presas de caza (2021)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/493837.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: cazador de vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unBvYqVYHuJn02AspRNPxsKvLDz.jpg" group-title="▶️VOD/CASTELLANO",Abraham Lincoln: cazador de vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: cazador de vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unBvYqVYHuJn02AspRNPxsKvLDz.jpg" group-title="▶️VOD/CASTELLANO",Abraham Lincoln: cazador de vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: cazador de vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unBvYqVYHuJn02AspRNPxsKvLDz.jpg" group-title="▶️VOD/CASTELLANO",Abraham Lincoln: cazador de vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: cazador de vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unBvYqVYHuJn02AspRNPxsKvLDz.jpg" group-title="▶️VOD/CASTELLANO",Abraham Lincoln: cazador de vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508405.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del lobo rojo (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️VOD/CASTELLANO",A la caza del lobo rojo (1989)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508598.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A la caza del lobo rojo (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️VOD/CASTELLANO",A la caza del lobo rojo (1989)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508599.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A la caza de los ñumanos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️VOD/CASTELLANO",A la caza de los ñumanos (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508600.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" group-title="⏩ VOD/ NETFLIX CASTELLANO",El cazador y la reina de hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508219.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" group-title="⏩ VOD/ NETFLIX CASTELLANO",El cazador y la reina de hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508243.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Último Cazador De Brujas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg" group-title="⏩ VOD/ NETFLIX CASTELLANO",El Último Cazador De Brujas (2015)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508264.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: Cazador De Vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcDsS3wnlwXvIRXYPUhsktaFKe4.jpg" group-title="⏩ VOD/DISNEY CASTELLANO",Abraham Lincoln: Cazador De Vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/507971.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Último Cazador De Brujas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg" group-title="⏩ VOD/HBO CASTELLANO",El Último Cazador De Brujas (2015)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508175.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Los Caza Novias (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KepxICAEiAa3i4fWP2CiwLGJr5.jpg" group-title="⏩ VOD/HBO CASTELLANO",Los Caza Novias (2005)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/508186.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza a la espía (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1lzE7ZQxbvYHhSfFTMlo4Ko14j.jpg" group-title="▶️ VOD/ CALIDAD SD",Caza a la espía (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/317661.avi
-#EXTINF:-1 tvg-id="" tvg-name="Caza al terrorista (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1lzE7ZQxbvYHhSfFTMlo4Ko14j.jpg" group-title="▶️ VOD/ CALIDAD SD",Caza al terrorista (1997)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/317662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Hombres   ManHunter (1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1lzE7ZQxbvYHhSfFTMlo4Ko14j.jpg" group-title="▶️ VOD/ CALIDAD SD",Cazador de Hombres   ManHunter (1986
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/317663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores De Humanos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1lzE7ZQxbvYHhSfFTMlo4Ko14j.jpg" group-title="▶️ VOD/ CALIDAD SD",Cazadores De Humanos (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/317664.avi
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1lzE7ZQxbvYHhSfFTMlo4Ko14j.jpg" group-title="▶️ VOD/ CALIDAD SD",Cazadores de sombras: Ciudad de hueso (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/317665.avi
---
-#EXTINF:-1 tvg-id="" tvg-name="De caza con papá (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypj5Mv9z9guVkwlJoms5dSBQlMc.jpg" group-title="▶️ VOD/ CALIDAD SD",De caza con papá (2018)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/317855.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Cazador (2014)  [Thriller]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️ VOD/ CALIDAD SD",El Cazador (2014)  [Thriller]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318048.avi
-#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️ VOD/ CALIDAD SD",Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318049.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El último cazador de brujas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BADataA5Oq6On00fzToVEiF9vI.jpg" group-title="▶️ VOD/ CALIDAD SD",El último cazador de brujas (2015)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318331.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters 1   Cazafantasmas (1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uARUK0wGbTB4S4iWvnwlD47FTeI.jpg" group-title="▶️ VOD/ CALIDAD SD",Ghostbusters 1   Cazafantasmas (1984
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters 2   Cazafantasmas (1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uARUK0wGbTB4S4iWvnwlD47FTeI.jpg" group-title="▶️ VOD/ CALIDAD SD",Ghostbusters 2   Cazafantasmas (1989
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uARUK0wGbTB4S4iWvnwlD47FTeI.jpg" group-title="▶️ VOD/ CALIDAD SD",Cazafantasmas: Más allá (2021)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318565.avi
---
-#EXTINF:-1 tvg-id="" tvg-name="Hansel y Gretel: Cazadores de brujas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flSy0dexE82TiS6Si2FtulSHk8o.jpg" group-title="▶️ VOD/ CALIDAD SD",Hansel y Gretel: Cazadores de brujas (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318654.avi
---
-#EXTINF:-1 tvg-id="" tvg-name="Jack, el cazagigantes (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLfxO1EyOr2pKTyxycxZXrCnJcI.jpg" group-title="▶️ VOD/ CALIDAD SD",Jack, el cazagigantes (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318821.avi
-#EXTINF:-1 tvg-id="" tvg-name="Jack, el cazagigantes (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLfxO1EyOr2pKTyxycxZXrCnJcI.jpg" group-title="▶️ VOD/ CALIDAD SD",Jack, el cazagigantes (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/318822.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: Cazador De Vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SYXEhrUxU6MHfJ59r2UsjuLzrw.jpg" group-title="⭐ CINE DISNEY ⭐",Abraham Lincoln: Cazador De Vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/546282.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="▶️ VOD/4K ",Cazafantasmas (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/547291.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" group-title="▶️ VOD/4K ",Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/547363.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QxCd3pSSrj6QqaG4fkNkaJmUa.jpg" group-title="⭐ SUPER ESTRENOS ⭐",Cazadora (2023)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/553426.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Hunt. Caza al espía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tP95kmRkNtmqqeihwd9kpyedoY.jpg" group-title="⭐ SUPER ESTRENOS ⭐",Hunt. Caza al espía (2022)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/553563.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7twNCiHS1rR7P2fyGOH1sUmLDyY.jpg" group-title="⭐ SUPER ESTRENOS ⭐",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1 (2023)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/553618.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7twNCiHS1rR7P2fyGOH1sUmLDyY.jpg" group-title="⭐ SUPER ESTRENOS ⭐",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1 (2023)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/553642.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyh9hxRjItIOb0gMt2P44LXnUMH.jpg" group-title="⭐ SUPER ESTRENOS ⭐",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/572397.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Consejos de una canguro para cazar monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg" group-title="⭐ CINE NETFLIX ⭐",Consejos de una canguro para cazar monstruos (2020)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/578591.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="⭐ CINE NETFLIX ⭐",No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/578863.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Buffy La Cazavampiros (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",Buffy La Cazavampiros (1992)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606313.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadora de gigantes (2018).mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",Cazadora de gigantes (2018).mp4
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Silencio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",Cazador de Silencio (2020)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CAZADORES CREATIVOS _ Campo abierto ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",CAZADORES CREATIVOS _ Campo abierto ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CAZADORES CREATIVOS_ El Coliseo _lion_face_   _leopard__leopard_ ___ Leones y leopardos. ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",CAZADORES CREATIVOS_ El Coliseo _lion_face_   _leopard__leopard_ ___ Leones y leopardos. ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras Ciudad de hueso (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",Cazadores de sombras Ciudad de hueso (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CAZADORES DE ÁFRICA_ Lazos de sangre _ Documentales de Leones. ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",CAZADORES DE ÁFRICA_ Lazos de sangre _ Documentales de Leones. ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CAZADORES DE ÁFRICA_ _El inadaptado_ _ Documental de LEONES ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",CAZADORES DE ÁFRICA_ _El inadaptado_ _ Documental de LEONES ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CAZADORES DE ÁFRICA _ _La última batalla del leopardo_ ___ Grandes Documentales ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",CAZADORES DE ÁFRICA _ _La última batalla del leopardo_ ___ Grandes Documentales ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazador Urbano (1993).mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",Cazador Urbano (1993).mp4
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016).mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",Cazafantasmas (2016).mp4
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazando Salvajes (2016).mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVX6nBUytfFVkGFeMNfdN3XOBW7.jpg" group-title="▶️ VOD/VARIADAS",Cazando Salvajes (2016).mp4
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606389.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="EL CARIBE SALVAJE _   Los ritmos de la vida_ Los cazadores ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",EL CARIBE SALVAJE _   Los ritmos de la vida_ Los cazadores ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606752.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Cazador (2014).mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",El Cazador (2014).mp4
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016).mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",El cazador y la reina de hielo (2016).mp4
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Caza Recompensas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",El Caza Recompensas (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606761.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="EL FRACASO EN LA CAZA_ Buscar y destruir ___ Grandes documentales ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",EL FRACASO EN LA CAZA_ Buscar y destruir ___ Grandes documentales ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EL FRACASO EN LA CAZA_ El juego de cazar - Grandes documentales ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",EL FRACASO EN LA CAZA_ El juego de cazar - Grandes documentales ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606835.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El LEOPARDO HAMBRIENTO_ Cazadores de África ( 480 X 480 )" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",El LEOPARDO HAMBRIENTO_ Cazadores de África ( 480 X 480 )
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/606924.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Último Cazador De Brujas (2015).mp4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",El Último Cazador De Brujas (2015).mp4
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/607100.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Guía de una niñera para cazar monstruos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",Guía de una niñera para cazar monstruos
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/607373.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Hansel y Gretel  Cazadores de brujas (2013).mkv" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",Hansel y Gretel  Cazadores de brujas (2013).mkv
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/607388.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="La Caza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="▶️ VOD/VARIADAS",La Caza
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/607685.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: cazador de vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="▶️ VOD/ CALIDAD SD",Abraham Lincoln: cazador de vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/621973.avi
---
-#EXTINF:-1 tvg-id="" tvg-name="Blade 1   Cazador de vampiros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="▶️ VOD/ CALIDAD SD",Blade 1   Cazador de vampiros
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622349.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza a La Espia (2010) [Thriller]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="▶️ VOD/ CALIDAD SD",Caza a La Espia (2010) [Thriller]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622473.avi
-#EXTINF:-1 tvg-id="" tvg-name="Caza al terrorista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="▶️ VOD/ CALIDAD SD",Caza al terrorista
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Hombres   ManHunter (1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="▶️ VOD/ CALIDAD SD",Cazador de Hombres   ManHunter (1986
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores De Humanos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="▶️ VOD/ CALIDAD SD",Cazadores De Humanos (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622476.avi
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores De Sombras Ciudad De Hueso (2013) (C Ficcion)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="▶️ VOD/ CALIDAD SD",Cazadores De Sombras Ciudad De Hueso (2013) (C Ficcion)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622477.avi
---
-#EXTINF:-1 tvg-id="" tvg-name="De caza con Papa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",De caza con Papa
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622719.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Cazador (2014)  [Thriller]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",El Cazador (2014)  [Thriller]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622912.avi
-#EXTINF:-1 tvg-id="" tvg-name="El cazador y la Reina del hielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",El cazador y la Reina del hielo
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/622913.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Ultimo Cazador de Brujas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",El Ultimo Cazador de Brujas
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/623195.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters 1   Cazafantasmas (1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",Ghostbusters 1   Cazafantasmas (1984
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/623427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters 2   Cazafantasmas (1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",Ghostbusters 2   Cazafantasmas (1989
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/623428.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Hansel y Gretel Cazadores de Brujas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",Hansel y Gretel Cazadores de Brujas (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/623518.avi
---
-#EXTINF:-1 tvg-id="" tvg-name="Jack el Caza Gigantes (2013) [Aventuras]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",Jack el Caza Gigantes (2013) [Aventuras]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/623685.avi
-#EXTINF:-1 tvg-id="" tvg-name="Jack   El Cazagigantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cnWXqTn16goRWbOoscuUPdiuWe.jpg" group-title="▶️ VOD/ CALIDAD SD",Jack   El Cazagigantes
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/623686.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="La caza del octubre rojo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uxu51U2wNuEnuQtlyDbCgS4IPI.jpg" group-title="▶️ VOD/ CALIDAD SD",La caza del octubre rojo
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/623856.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: Cazador De Vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="▶️ VOD/ACCION",Abraham Lincoln: Cazador De Vampiros (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639091.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y el cazador (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="▶️ VOD/ACCION",Blancanieves y el cazador (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639187.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Caza a la espía (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="▶️ VOD/ACCION",Caza a la espía (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Silencio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="▶️ VOD/ACCION",Cazador de Silencio (2020)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caza Salvaje (Daughter of the Wolf) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="▶️ VOD/ACCION",Caza Salvaje (Daughter of the Wolf) (2019)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639220.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="▶️ VOD/ACCION",El cazador y la reina de hielo (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639353.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Caza Recompensas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="▶️ VOD/ACCION",El Caza Recompensas (2010)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639354.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El Último Cazador De Brujas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXmEyQhfFmerGoMmILEX5v5b0Hk.jpg" group-title="▶️ VOD/ACCION",El Último Cazador De Brujas (2015)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639493.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Hansel y Gretel: Cazadores de brujas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXmEyQhfFmerGoMmILEX5v5b0Hk.jpg" group-title="▶️ VOD/ACCION",Hansel y Gretel: Cazadores de brujas (2013)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639605.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La última cazadora de dragones (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uxu51U2wNuEnuQtlyDbCgS4IPI.jpg" group-title="▶️ VOD/ACCION",La última cazadora de dragones (2016)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/639802.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Tempestad en los Andes (2014)" tvg-logo="data:image/jpeg;base64,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" group-title="▶️ VOD/PERÚ",Tempestad en los Andes (2014)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/643715.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="[GDADICTOS.COM] Blade II Cazador de Vampiros (2002) HMAX WEB-DL 1080p [Lat-Ing-Por]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca94c33IKfuBtdgWuHQb6a3uWEj.jpg" group-title="▶️ VOD/CALIDAD 1080p",[GDADICTOS.COM] Blade II Cazador de Vampiros (2002) HMAX WEB-DL 1080p [Lat-Ing-Por]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/676712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="[GDADICTOS.COM] Blanca Nieves y el cazador (2012) STRP WEB-DL 720p Latino - Inglés" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca94c33IKfuBtdgWuHQb6a3uWEj.jpg" group-title="▶️ VOD/CALIDAD 1080p",[GDADICTOS.COM] Blanca Nieves y el cazador (2012) STRP WEB-DL 720p Latino - Inglés
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/676713.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="[GDADICTOS.COM] Buffy La Cazavampiros (1992) Starz WEB-DL 1080p [spa, eng]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca94c33IKfuBtdgWuHQb6a3uWEj.jpg" group-title="▶️ VOD/CALIDAD 1080p",[GDADICTOS.COM] Buffy La Cazavampiros (1992) Starz WEB-DL 1080p [spa, eng]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/676746.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="[GDADICTOS.COM] Cazador blanco Corazon negro (1990) HMAX WEB-DL 1080p Latino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca94c33IKfuBtdgWuHQb6a3uWEj.jpg" group-title="▶️ VOD/CALIDAD 1080p",[GDADICTOS.COM] Cazador blanco Corazon negro (1990) HMAX WEB-DL 1080p Latino
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/676782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="[GDADICTOS.COM] Cazadores De Recompensas Cowboy Bebop (2001) HMAX WEB-DL 1080p [Lat-Por-Jap]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca94c33IKfuBtdgWuHQb6a3uWEj.jpg" group-title="▶️ VOD/CALIDAD 1080p",[GDADICTOS.COM] Cazadores De Recompensas Cowboy Bebop (2001) HMAX WEB-DL 1080p [Lat-Por-Jap]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/676783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="[GDADICTOS.COM] Cazadores de Santa (2014) PMNT WEB-DL 1080p [Lat - Ing - Por]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca94c33IKfuBtdgWuHQb6a3uWEj.jpg" group-title="▶️ VOD/CALIDAD 1080p",[GDADICTOS.COM] Cazadores de Santa (2014) PMNT WEB-DL 1080p [Lat - Ing - Por]
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/676784.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Kumiko, la cazadora de tesoros (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og5l9jIsx25yMqIKw79QtwBj2jq.jpg" group-title="▶️ VOD/ROMÁNTICAS",Kumiko, la cazadora de tesoros (2014)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/463360.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="La caza (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="▶️ VOD/ROMÁNTICAS",La caza (2012)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/463379.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de Dragones (Dragon Hunters) (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHjcaVaXVqjYItJzjD5Y8YrXh84.jpg" group-title="▶️ VOD/INFANTILES",Cazadores de Dragones (Dragon Hunters) (2008)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/486543.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry: Cazadores de tesoros (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g85rGahQAntohJ8FqCI4pS6l2Jx.jpg" group-title="▶️ VOD/INFANTILES",Tom y Jerry: Cazadores de tesoros (2006)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/486608.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El cazador (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXosJ8Z7FnwyNXBTQ9jvHhlt9Yk.jpg" group-title="▶️ VOD/DRAMA",El cazador (1978)
-http://zonamovie.live:8080/movie/Jhontv/Jhon20231@/345694.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E01" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E02" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E03" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E04" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E05" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E06" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E07" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E08" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln Rhyme: Cazando al coleccionista de huesos S01 E09" tvg-logo="http://zonamovie.live:8008/images/67005b76ac90c72c131aa5a64474d2e7.jpg" group-title="▶️ SERIES/MOVISTAR",Lincoln Rhyme: Cazando al coleccionista de huesos S01 E09
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/468129.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E05" tvg-logo="http://zonamovie.live:8008/images/6d314c790c0894863d6b4b98b927bcdb.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S01 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La caza S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmgHkUJzEGVTEna8XnmXU5Mdsa.jpg" group-title="▶️ SERIES/HBO+",La caza S02 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/469552.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie S01 E01" tvg-logo="http://zonamovie.live:8008/images/5c0404cd81244fd6cf4bd4dd99591170.jpg" group-title="▶️ SERIES/DOCUMENTALES",Acosador nocturno: A la caza de un asesino en serie S01 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/481983.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie S01 E02" tvg-logo="http://zonamovie.live:8008/images/9e40aac445ac4bbbc4ff8ee8108974fd.jpg" group-title="▶️ SERIES/DOCUMENTALES",Acosador nocturno: A la caza de un asesino en serie S01 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/481984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie S01 E03" tvg-logo="http://zonamovie.live:8008/images/80617a6884194fecdd60b02880493642.jpg" group-title="▶️ SERIES/DOCUMENTALES",Acosador nocturno: A la caza de un asesino en serie S01 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/481985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acosador nocturno: A la caza de un asesino en serie S01 E04" tvg-logo="http://zonamovie.live:8008/images/07d77d655c6aa40180af812675c61daa.jpg" group-title="▶️ SERIES/DOCUMENTALES",Acosador nocturno: A la caza de un asesino en serie S01 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/481986.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E01" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E02" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E03" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E04" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E05" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E06" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E07" tvg-logo="http://zonamovie.live:8008/images/ded6cc6ee7afb4e5a6d1191161716731.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E08" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507287.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E09" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E09
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507288.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E10" tvg-logo="http://zonamovie.live:8008/images/bb315e72c25d22add5e83397e8c6a1a2.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E10
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E11" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E11
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507290.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E12" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E12
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E13" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E13
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E14" tvg-logo="http://zonamovie.live:8008/images/cbfbcf871ed4584a2738f3ea1708a757.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E14
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E15" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E15
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507294.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bocazas S01 E16" tvg-logo="http://zonamovie.live:8008/images/793b63d0b32407082e3e0b1853e3b694.jpg" group-title="▶️ DORAMAS LATINO",El bocazas S01 E16
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/507295.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOrFKH5OStSy8BKHCCxTgEyX84W.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JyQN34ELX9dx62A8YIBbq1ip1v.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjZU3XOqRTTE1SsNZxi3dgyd2RP.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DjaexeoK90guZQxec52dKlSAWI.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtVhIQUoFvYijZ3NHRz1BqIlw0G.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ruObbuBhFRtfZ7DiQQwEdLbNaw.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vXVEFkDhYCZLJDXxnfUizY2Rk0.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nd8s0iOjnsUjosN71u9dYrbcvUm.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRVhMywmvujqNTPzSLgR3EJnpwQ.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E09
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgqhBjyVLMldGBS3hJwCsyhX3u3.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E10
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPmU70k8GxrQ2Oa2JeFbkZp2sta.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQOtPUa51Forv1f4rvKbebrGyEZ.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548714.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTRiBftMvbJzHiPNwjHQe0bVrK.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548715.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x8Gj9Zf1t2z5tYsYn8Q3lMJXPQ.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shAs1BUvpAarIIg44rdQ5DzdIg1.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548717.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdeoY2JsDBSLhV0hNO1QnhGDa6f.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QLEqHLeWzu9UVJjRO4O1jYJ0wz.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yawivw4pvrF0gAxKgBBSR6hxoFW.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548720.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1wNbYM9hTXavfxwjSWuafXfUMF.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E09
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/548721.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOrFKH5OStSy8BKHCCxTgEyX84W.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JyQN34ELX9dx62A8YIBbq1ip1v.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjZU3XOqRTTE1SsNZxi3dgyd2RP.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DjaexeoK90guZQxec52dKlSAWI.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtVhIQUoFvYijZ3NHRz1BqIlw0G.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ruObbuBhFRtfZ7DiQQwEdLbNaw.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vXVEFkDhYCZLJDXxnfUizY2Rk0.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nd8s0iOjnsUjosN71u9dYrbcvUm.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRVhMywmvujqNTPzSLgR3EJnpwQ.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E09
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgqhBjyVLMldGBS3hJwCsyhX3u3.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S01 E10
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPmU70k8GxrQ2Oa2JeFbkZp2sta.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E01
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596960.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQOtPUa51Forv1f4rvKbebrGyEZ.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596961.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTRiBftMvbJzHiPNwjHQe0bVrK.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E03
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596962.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x8Gj9Zf1t2z5tYsYn8Q3lMJXPQ.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E04
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596963.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shAs1BUvpAarIIg44rdQ5DzdIg1.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E05
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596964.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdeoY2JsDBSLhV0hNO1QnhGDa6f.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E06
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QLEqHLeWzu9UVJjRO4O1jYJ0wz.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E07
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596966.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yawivw4pvrF0gAxKgBBSR6hxoFW.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E08
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596967.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi padre, el cazarrecompensas intergaláctico S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1wNbYM9hTXavfxwjSWuafXfUMF.jpg" group-title="▶️ SERIES/NETFLIX",Mi padre, el cazarrecompensas intergaláctico S02 E09
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/596968.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El caso Hartung S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BFYCAzaw4HONXAqIWkNUUVTQbJ.jpg" group-title="▶️ SERIES/NETFLIX",El caso Hartung S01 E02
-http://zonamovie.live:8080/series/Jhontv/Jhon20231@/601475.mp4
