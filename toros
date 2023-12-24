@@ -263,8 +263,11 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/229679
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="" group-title="PORTUGAL",PT: TOROS TV
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370568
 --
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Dec-22 6:00PM | Toronto Raptors at Philadelphia 76ers" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdnHXBOq_R2VDvdaud-bHp7gWWXcuENrYqwXLujK9aOJRt_GG2fbqBXzzhMf-ut4cxw.png" group-title="EVENTOS NBA",NBA 01 | Dec-22 6:00PM | Toronto Raptors at Philadelphia 76ers
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522263
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08 | Dec-23 6:30PM | Utah Jazz at Toronto Raptors" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdnHXBOq_R2VDvdaud-bHp7gWWXcuENrYqwXLujK9aOJRt_GG2fbqBXzzhMf-ut4cxw.png" group-title="EVENTOS NBA",NBA 08 | Dec-23 6:30PM | Utah Jazz at Toronto Raptors
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522487
+--
+#EXTINF:-1 tvg-id="" tvg-name="NHL | 06:00 PM CST | Toronto Maple Leafs vs. Columbus Blue Jackets" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfdIm7epTjJXFaBhibmMBtIBkkUUMn26ISSbP87mgRNAIFmVcjSyXYq0128mbYRa93g.png" group-title="⭐ EVENTOS ⭐",NHL | 06:00 PM CST | Toronto Maple Leafs vs. Columbus Blue Jackets
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522518
 --
 #EXTINF:-1 tvg-id="" tvg-name="GR: NET TV TORONTO" tvg-logo="" group-title="INTERNACIONALES",GR: NET TV TORONTO
 http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/197039
@@ -325,11 +328,14 @@ http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/517236
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | Movistar Toros HD" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA",DEP ES | Movistar Toros HD
 http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/517237
 --
-#EXTINF:-1 tvg-id="NBALeaguePass1.us" tvg-name="USA | NBA 01ⓧ: Toronto Raptors v Philadelphia 76ers | Fri 22nd Dec 7:00PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 01ⓧ: Toronto Raptors v Philadelphia 76ers | Fri 22nd Dec 7:00PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11544
+#EXTINF:-1 tvg-id="NBALeaguePass8.us" tvg-name="USA | NBA 08ⓧ: Utah Jazz v Toronto Raptors | Sat 23rd Dec 7:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 08ⓧ: Utah Jazz v Toronto Raptors | Sat 23rd Dec 7:30PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11551
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 02ⓧ: Toronto @ Columbus | Sat Dec 23rd  7:00 PM ET " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 02ⓧ: Toronto @ Columbus | Sat Dec 23rd  7:00 PM ET 
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/734
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -392,3 +398,44 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/53462
 --
 #EXTINF:-1 tvg-id="" tvg-name="PK | Toronto 360 TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/394c53645da1787a30c5a69a072b8fef.png" group-title="|PK| PAKISTAN",PK | Toronto 360 TVⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP | ONETORO" tvg-logo="https://play-lh.googleusercontent.com/ScECkaWu_2omPYZYhNXBQbSdhWD6LyQgPQFIxNeSf30UnYiqWssiWJrbll1EwPNI0gU" group-title="▶️ | TV ESPAÑA",ESP | ONETORO
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409012
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE TV" tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ" group-title="▶️ | TV ESPAÑA",TOROLE TV
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409028
+--
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="EVENTOS ESPAÑA",ONETORO
+http://zonamovie.live:8080/Jhontv/Jhon20231@/428925
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="http://51.222.43.170:36995/images/88a7653c97c1fa7974b78d137fe20672.png" group-title="▶️ | DEPORTES PREMIUM",TOROS
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565940
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD (OP B)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="▶️ | DEPORTES PREMIUM",TOROS HD (OP B)
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565973
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO HD" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg" group-title="▶️ | ESPAÑA | DEPORTES",ES: ONETORO HD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572239
+--
+#EXTINF:-1 tvg-id="" tvg-name="Global News Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/01e04fae-bc84-4e0b-a412-9ac1d22098cd.jpg" group-title="TV CANADA",Global News Toronto - CA
+http://zonamovie.live:8080/Jhontv/Jhon20231@/604057
+#EXTINF:-1 tvg-id="" tvg-name="CTV Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/79d8cd15-61b6-4065-8409-ce9751bf8aad.jpg" group-title="TV CANADA",CTV Toronto - CA
+http://zonamovie.live:8080/Jhontv/Jhon20231@/604058
+--
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="LIGA DE BEISBOL RD (SOLO EVENTOS)",D | Toros del Este - Romana TV
+http://zonamovie.live:8080/Jhontv/Jhon20231@/612995
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="LIGA DE BEISBOL RD (SOLO EVENTOS)",D | Toros del Este - Tvo
+http://zonamovie.live:8080/Jhontv/Jhon20231@/612996
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08 | Dec-23 6:30PM | Utah Jazz at Toronto Raptors" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdnHXBOq_R2VDvdaud-bHp7gWWXcuENrYqwXLujK9aOJRt_GG2fbqBXzzhMf-ut4cxw.png" group-title="⭐ | OTROS EVENTOS DEL DIA",NBA 08 | Dec-23 6:30PM | Utah Jazz at Toronto Raptors
+http://zonamovie.live:8080/Jhontv/Jhon20231@/699734
+--
+#EXTINF:-1 tvg-id="" tvg-name="NHL | 06:00 PM CST | Toronto Maple Leafs vs. Columbus Blue Jackets" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfdIm7epTjJXFaBhibmMBtIBkkUUMn26ISSbP87mgRNAIFmVcjSyXYq0128mbYRa93g.png" group-title="⭐ | OTROS EVENTOS DEL DIA",NHL | 06:00 PM CST | Toronto Maple Leafs vs. Columbus Blue Jackets
+http://zonamovie.live:8080/Jhontv/Jhon20231@/699751
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="TV PORTUGAL",PT: TOROS TV FHD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/654163
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV HD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="TV PORTUGAL",PT: TOROS TV HD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/654164
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV SD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="TV PORTUGAL",PT: TOROS TV SD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/654165
