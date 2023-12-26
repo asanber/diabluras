@@ -1,5 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: NFL Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest?cb=20100602105713" group-title="DEPORTES ʜᴅ",DEP HD: NFL Network
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/73698
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: NFL Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest?cb=20100602105713" group-title="DEPORTES ʜᴅ",DEP HD: NFL Network
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/181883
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: NFL Red Zone" tvg-logo="http://boxdigital.xyz:8080/images/3ad385b7eda42d97d16bb0d9cd985369.png" group-title="DEPORTES ʜᴅ",DEP HD: NFL Red Zone
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/73699
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: NFL Red Zone" tvg-logo="http://boxdigital.xyz:8080/images/3ad385b7eda42d97d16bb0d9cd985369.png" group-title="DEPORTES ʜᴅ",DEP HD: NFL Red Zone
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/181884
+--
+#EXTINF:-1 tvg-id="I212.34710.zap2it.com" tvg-name="NFL Mexico (low)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIzMjZf/mx_nfl.png" group-title="LATINOS SD (baja conexion)",NFL Mexico (low)
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/260505
+--
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="http://boxdigital.xyz:8080/images/ce150ee471e1916990b3b6db0f09ae22.png" group-title="USA PREMIUM",NFL Network
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210132
+#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone" tvg-logo="http://boxdigital.xyz:8080/images/953c5aad2543082ede65ae3c53434c90.png" group-title="USA PREMIUM",NFL RedZone
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210133
+#EXTINF:-1 tvg-id="" tvg-name="NFL Redzone HD" tvg-logo="" group-title="USA PREMIUM",NFL Redzone HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210134
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK" tvg-logo="" group-title="USA PREMIUM",US: NFL NETWORK
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210245
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL REDZONE" tvg-logo="http://home-playtv.com:25461/images/a05a49fdf349e8ecf9c28fc53102a5f0.png" group-title="USA PREMIUM",US: NFL REDZONE
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210154
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: NFL NETWORK HD" tvg-logo="http://boxdigital.xyz:8080/images/b5c264390b0c6bd49b1073c2d7da2142.png" group-title="PORTUGAL",PT: NFL NETWORK HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130483
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: NFL Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest?cb=20100602105713" group-title="DEPORTES ʜᴅ",DEP HD: NFL Network
 http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/73698
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: NFL Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NFL_Network.svg/revision/latest?cb=20100602105713" group-title="DEPORTES ʜᴅ",DEP HD: NFL Network
 http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/181883
@@ -760,28 +787,14 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/391678
 #EXTINF:-1 tvg-id="COLOMBIA || CANAL CTV BRANQUILLA :)" tvg-name="Colombia|| CANAL CTV BRANQUILLA :)" tvg-logo="data:image/jpeg;base64,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" group-title="Colombia",Colombia|| CANAL CTV BRANQUILLA :)
 http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/1125084
 --
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | NFL Redzone - Week 16 | Sun 24th 12:00PM" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jV5hxRQZjlzFvH18CzPyJF3QhEpaVON5SRubFvoxmGajuxBSJ9DjCIuuhlt8c09szeii56oyEbfE2VopYvyXY7KPs0xDtuz8SDZyzMx3BdbADJLEdvbt6Ee_Xs5_KF-O16Uf7lX9pk6Y7boenJ6moPZnY66oI54Euw30BLDNRAy.png" group-title="EVENTOS NFL",NFL Game Pass 1 | NFL Redzone - Week 16 | Sun 24th 12:00PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522553
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Seahawks @ Titans | Sun 24th 12:00PM" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jV5hxRQZjlzFvH18CzPyJF3QhEpaVON5SRubFvoxmGajuxBSJ9DjCIuuhlt8c09szeii56oyEbfE2VopYvyXY7KPs0xDtuz8SDZyzMx3BdbADJLEdvbt6Ee_Xs5_KF-O16Uf7lX9pk6Y7boenJ6moPZnY66oI54Euw30BLDNRAy.png" group-title="EVENTOS NFL",NFL Game Pass 2 | Seahawks @ Titans | Sun 24th 12:00PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522554
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 3 | Commanders @ Jets | Sun 24th 12:00PM" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jV5hxRQZjlzFvH18CzPyJF3QhEpaVON5SRubFvoxmGajuxBSJ9DjCIuuhlt8c09szeii56oyEbfE2VopYvyXY7KPs0xDtuz8SDZyzMx3BdbADJLEdvbt6Ee_Xs5_KF-O16Uf7lX9pk6Y7boenJ6moPZnY66oI54Euw30BLDNRAy.png" group-title="EVENTOS NFL",NFL Game Pass 3 | Commanders @ Jets | Sun 24th 12:00PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522555
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 4 | Lions @ Vikings | Sun 24th 12:00PM" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jV5hxRQZjlzFvH18CzPyJF3QhEpaVON5SRubFvoxmGajuxBSJ9DjCIuuhlt8c09szeii56oyEbfE2VopYvyXY7KPs0xDtuz8SDZyzMx3BdbADJLEdvbt6Ee_Xs5_KF-O16Uf7lX9pk6Y7boenJ6moPZnY66oI54Euw30BLDNRAy.png" group-title="EVENTOS NFL",NFL Game Pass 4 | Lions @ Vikings | Sun 24th 12:00PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522556
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 5 | Colts @ Falcons | Sun 24th 12:00PM" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB587TRzoT6ZKUS_B7FZr3Ux9QxC9AzRhSFpmyL0pR481XO19Csy4A6kcGfndFaC-6j2deN4CKTiGWUBLI048kOsakfBKeHunUoqUnXVNntGZrw0twmEfUPueFjzP0QWs7CMljDvwRTJUWnk0kI2bSYeaby-LCaPrF4pD-OAxFfDWHx.png" group-title="EVENTOS NFL",NFL Game Pass 5 | Colts @ Falcons | Sun 24th 12:00PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522557
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 6 | Browns @ Texans | Sun 24th 12:00PM" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMh_b-5dXmBZBo36DVb991qk0XeaWz24wT9STVEXMtOAWc-2SaFXLM64lFLPuZBt6ZhuvKyHJY4f6Wj78Sj5b3YyAaH8sxxQEWESQ-czjpNKZ-CDEiejInyhsUts5AS-px2ZB2-3bONPyWF2ayRhgOpK.png" group-title="EVENTOS NFL",NFL Game Pass 6 | Browns @ Texans | Sun 24th 12:00PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522558
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 7 | Packers @ Panthers | Sun 24th 12:00PM" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jV5hxRQZjlzFvH18CzPyJF3QhEpaVON5SRubFvoxmGajuxBSJ9DjCIuuhlt8c09szeii56oyEbfE2VopYvyXY7KPs0xDtuz8SDZyzMx3BdbADJLEdvbt6Ee_Xs5_KF-O16Uf7lX9pk6Y7boenJ6moPZnY66oI54Euw30BLDNRAy.png" group-title="EVENTOS NFL",NFL Game Pass 7 | Packers @ Panthers | Sun 24th 12:00PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522559
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 8 | Jaguars @ Buccaneers | Sun 24th 3:05PM" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jV5hxRQZjlzFvH18CzPyJF3QhEpaVON5SRubFvoxmGajuxBSJ9DjCIuuhlt8c09szeii56oyEbfE2VopYvyXY7KPs0xDtuz8SDZyzMx3BdbADJLEdvbt6Ee_Xs5_KF-O16Uf7lX9pk6Y7boenJ6moPZnY66oI54Euw30BLDNRAy.png" group-title="EVENTOS NFL",NFL Game Pass 8 | Jaguars @ Buccaneers | Sun 24th 3:05PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522560
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 9 | Cardinals @ Bears | Sun 24th 3:25PM" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB587TRzoT6ZKUS_B7FZr3Ux9QxC9AzRhSFpmyL0pR481XO19Csy4A6kcGfndFaC-6j2deN4CKTiGWUBLI048kOsakfBKeHunUoqUnXVNntGZrw0twmEfUPueFjzP0QWs7CMljDvwRTJUWnk0kI2bSYeaby-LCaPrF4pD-OAxFfDWHx.png" group-title="EVENTOS NFL",NFL Game Pass 9 | Cardinals @ Bears | Sun 24th 3:25PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522561
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 10 | Cowboys @ Dolphins | Sun 24th 3:25PM" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMh_b-5dXmBZBo36DVb991qk0XeaWz24wT9STVEXMtOAWc-2SaFXLM64lFLPuZBt6ZhuvKyHJY4f6Wj78Sj5b3YyAaH8sxxQEWESQ-czjpNKZ-CDEiejInyhsUts5AS-px2ZB2-3bONPyWF2ayRhgOpK.png" group-title="EVENTOS NFL",NFL Game Pass 10 | Cowboys @ Dolphins | Sun 24th 3:25PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522562
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 11 | Patriots @ Broncos | Sun 24th 7:15PM" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMh_b-5dXmBZBo36DVb991qk0XeaWz24wT9STVEXMtOAWc-2SaFXLM64lFLPuZBt6ZhuvKyHJY4f6Wj78Sj5b3YyAaH8sxxQEWESQ-czjpNKZ-CDEiejInyhsUts5AS-px2ZB2-3bONPyWF2ayRhgOpK.png" group-title="EVENTOS NFL",NFL Game Pass 11 | Patriots @ Broncos | Sun 24th 7:15PM
-http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522563
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Raiders @ Chiefs | Mon 25th 12:00PM" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdsv2ZaGTPqSz41gNFnR_kzVtFao4Yo5L_WIh1Zzh9r2UFV1ZAJgsB3VTsQURBomzuQ.png" group-title="EVENTOS NFL",NFL Game Pass 1 | Raiders @ Chiefs | Mon 25th 12:00PM
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522565
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Raiders @ Chiefs (en español) | Mon 25th 12:00PM" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB58ze9McB4gbQQ3lsdJtSv8llBIBsPmhnhLD9LDT-C_6Aw6tRMqJXWIn2BPlgFIyUUdsv2ZaGTPqSz41gNFnR_kzVtFao4Yo5L_WIh1Zzh9r2UFV1ZAJgsB3VTsQURBomzuQ.png" group-title="EVENTOS NFL",NFL Game Pass 2 | Raiders @ Chiefs (en español) | Mon 25th 12:00PM
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522566
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 3 | Giants @ Eagles | Mon 25th 3:30PM" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfVmYgdF60x7ndVO9g70u-Xf9NfzjPVX7wcK8Edpjf8ejXMzB30RskKI3I0GgDUXY4w.png" group-title="EVENTOS NFL",NFL Game Pass 3 | Giants @ Eagles | Mon 25th 3:30PM
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522567
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 4 | Ravens @ 49ers | Mon 25th 7:15PM" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMjmd6kAEZg51vDSkBYREBxrR46XSXgWzo4-51IDAnsiUk_mNO-SH8RkHfNOAQ0-8UZqNsMTAztXnc1Xo0qxD8H712xT4GRLvW6hq-wBhEmJ6g.png" group-title="EVENTOS NFL",NFL Game Pass 4 | Ravens @ 49ers | Mon 25th 7:15PM
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/522568
 --
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas (Animada) ⭐️" tvg-logo="https://vanguardia.com.mx/sites/default/files/styles/paragraph_image_large_desktop_1x/public/cantinflas-324324_0.jpg" group-title="24/7",24/7 | Cantinflas (Animada) ⭐️
 http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/107892
@@ -928,66 +941,64 @@ http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/82650
 #EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE (R)" tvg-logo="" group-title="NFL",NFL REDZONE (R)
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/127274
 --
-#EXTINF:-1 tvg-id="" tvg-name="Colts vs Falcons 12:00 pm 24/DIC | /NFL01" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Colts vs Falcons 12:00 pm 24/DIC | /NFL01
+#EXTINF:-1 tvg-id="" tvg-name="Chiefs vs Raiders 12:00 pm 25/DIC | /NFL01" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Chiefs vs Raiders 12:00 pm 25/DIC | /NFL01
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122950
-#EXTINF:-1 tvg-id="" tvg-name="Colts vs Falcons 12:00 pm 24/DIC | NFL02" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Colts vs Falcons 12:00 pm 24/DIC | NFL02
+#EXTINF:-1 tvg-id="" tvg-name="Chiefs vs Raiders 12:00 pm 25/DIC | NFL02" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Chiefs vs Raiders 12:00 pm 25/DIC | NFL02
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122951
-#EXTINF:-1 tvg-id="" tvg-name="Colts vs Falcons 12:00 pm 24/DIC | NFL03" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Colts vs Falcons 12:00 pm 24/DIC | NFL03
+#EXTINF:-1 tvg-id="" tvg-name="Chiefs vs Raiders 12:00 pm 25/DIC | NFL03" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Chiefs vs Raiders 12:00 pm 25/DIC | NFL03
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122952
-#EXTINF:-1 tvg-id="" tvg-name="Seahawks vs Titans 12:00 pm 24/DIC | NFL04" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Seahawks vs Titans 12:00 pm 24/DIC | NFL04
+#EXTINF:-1 tvg-id="" tvg-name="Eagles vs Giants 3:30 pm 25/DIC | NFL04" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Eagles vs Giants 3:30 pm 25/DIC | NFL04
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122953
-#EXTINF:-1 tvg-id="" tvg-name="Seahawks vs Titans 12:00 pm 24/DIC  | NFL05" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Seahawks vs Titans 12:00 pm 24/DIC  | NFL05
+#EXTINF:-1 tvg-id="" tvg-name="Eagles vs Giants 3:30 pm 25/DIC  | NFL05" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Eagles vs Giants 3:30 pm 25/DIC  | NFL05
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122954
-#EXTINF:-1 tvg-id="" tvg-name="Seahawks vs Titans 12:00 pm 24/DIC | NFL06" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Seahawks vs Titans 12:00 pm 24/DIC | NFL06
+#EXTINF:-1 tvg-id="" tvg-name="Eagles vs Giants 3:30 pm 25/DIC | NFL06" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Eagles vs Giants 3:30 pm 25/DIC | NFL06
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122955
-#EXTINF:-1 tvg-id="" tvg-name="Lions vs Vikings 12:00 pm 24/DIC | NFL07" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Lions vs Vikings 12:00 pm 24/DIC | NFL07
+#EXTINF:-1 tvg-id="" tvg-name="49ers vs Ravens 7:15 pm 25/DIC | NFL07" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",49ers vs Ravens 7:15 pm 25/DIC | NFL07
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122956
-#EXTINF:-1 tvg-id="" tvg-name="Lions vs Vikings 12:00 pm 24/DIC | NFL08" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Lions vs Vikings 12:00 pm 24/DIC | NFL08
+#EXTINF:-1 tvg-id="" tvg-name="49ers vs Ravens 7:15 pm 25/DIC | NFL08" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",49ers vs Ravens 7:15 pm 25/DIC | NFL08
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122957
-#EXTINF:-1 tvg-id="" tvg-name="Lions vs Vikings 12:00 pm 24/DIC | NFL09" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Lions vs Vikings 12:00 pm 24/DIC | NFL09
+#EXTINF:-1 tvg-id="" tvg-name="49ers vs Ravens 7:15 pm 25/DIC | NFL09" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",49ers vs Ravens 7:15 pm 25/DIC | NFL09
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122958
-#EXTINF:-1 tvg-id="" tvg-name="Commanders vs Jets 12:00 pm 24/DIC | NFL10" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Commanders vs Jets 12:00 pm 24/DIC | NFL10
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL10" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL10
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122959
-#EXTINF:-1 tvg-id="" tvg-name="Commanders vs Jets 12:00 pm 24/DIC | NFL11" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Commanders vs Jets 12:00 pm 24/DIC | NFL11
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL11" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL11
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122960
-#EXTINF:-1 tvg-id="" tvg-name="Commanders vs Jets 12:00 pm 24/DIC | NFL12" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Commanders vs Jets 12:00 pm 24/DIC | NFL12
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL12" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL12
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122961
-#EXTINF:-1 tvg-id="" tvg-name="Packers vs Pantherss 12:00 pm 24/DIC | NFL13" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Packers vs Pantherss 12:00 pm 24/DIC | NFL13
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL13" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL13
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122962
 #EXTINF:-1 tvg-id="" tvg-name="Packers vs Pantherss 12:00 pm 24/DIC  | NFL14" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Packers vs Pantherss 12:00 pm 24/DIC  | NFL14
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122963
-#EXTINF:-1 tvg-id="" tvg-name="Packers vs Pantherss 12:00 pm 24/DIC | NFL15" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Packers vs Pantherss 12:00 pm 24/DIC | NFL15
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL15" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL15
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122964
-#EXTINF:-1 tvg-id="" tvg-name="Browns vs Texans 12:00 pm 24/DIC | NFL16" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Browns vs Texans 12:00 pm 24/DIC | NFL16
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL16" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL16
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122965
-#EXTINF:-1 tvg-id="" tvg-name="Browns vs Texans 12:00 pm 24/DIC | NFL17" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Browns vs Texans 12:00 pm 24/DIC | NFL17
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL17" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL17
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122966
-#EXTINF:-1 tvg-id="" tvg-name="Browns vs Texans 12:00 pm 24/DIC | NFL18" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Browns vs Texans 12:00 pm 24/DIC | NFL18
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL18" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL18
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122967
-#EXTINF:-1 tvg-id="" tvg-name="Jaguars vs TampaBay 3:05 pm 24/DIC | NFL19" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Jaguars vs TampaBay 3:05 pm 24/DIC | NFL19
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL19" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL19
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122968
-#EXTINF:-1 tvg-id="" tvg-name="Jaguars vs TampaBay 3:05 pm 24/DIC | NFL20" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Jaguars vs TampaBay 3:05 pm 24/DIC | NFL20
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL20" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL20
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/122969
-#EXTINF:-1 tvg-id="" tvg-name="Jaguars vs TampaBay 3:05 pm 24/DIC | NFL21" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Jaguars vs TampaBay 3:05 pm 24/DIC | NFL21
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL21" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL21
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/123280
-#EXTINF:-1 tvg-id="" tvg-name="Cardinals vs Bears 3:25 pm 24/DIC | NFL22" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cardinals vs Bears 3:25 pm 24/DIC | NFL22
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL22" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL22
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/123281
-#EXTINF:-1 tvg-id="" tvg-name="Cardinals vs Bears 3:25 pm 24/DIC | NFL23" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cardinals vs Bears 3:25 pm 24/DIC | NFL23
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL23" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL23
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/124225
-#EXTINF:-1 tvg-id="" tvg-name="Cardinals vs Bears 3:25 pm 24/DIC | NFL24" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cardinals vs Bears 3:25 pm 24/DIC | NFL24
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL24" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL24
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/124226
-#EXTINF:-1 tvg-id="" tvg-name="Cowboys vs Dolphins 3:25 pm 24/DIC | NFL25" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cowboys vs Dolphins 3:25 pm 24/DIC | NFL25
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL25" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL25
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/124227
-#EXTINF:-1 tvg-id="" tvg-name="Cowboys vs Dolphins 3:25 pm 24/DIC | NFL26" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cowboys vs Dolphins 3:25 pm 24/DIC | NFL26
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL26" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL26
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/124228
-#EXTINF:-1 tvg-id="" tvg-name="Cowboys vs Dolphins 3:25 pm 24/DIC | NFL27" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cowboys vs Dolphins 3:25 pm 24/DIC | NFL27
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL27" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL27
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/124229
 #EXTINF:-1 tvg-id="" tvg-name="Patriots vs Broncos 7:15 pm 24/dic  | NFL28" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Patriots vs Broncos 7:15 pm 24/dic  | NFL28
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/124230
 --
-#EXTINF:-1 tvg-id="" tvg-name="Patriots vs Broncos 7:15 pm 24/dic | NFL29" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Patriots vs Broncos 7:15 pm 24/dic | NFL29
-http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/128117
-#EXTINF:-1 tvg-id="" tvg-name="Patriots vs Broncos 7:15 pm 24/dic | NFL30" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Patriots vs Broncos 7:15 pm 24/dic | NFL30
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL30" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL30
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/128118
 #EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL31" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL31
 http://xcm.budtv-ultra.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/128119
@@ -1140,30 +1151,6 @@ http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/49120.
 #EXTINF:-1 tvg-id="" tvg-name="Grey's Anatomy LAT S06 E06" tvg-logo="http://image.tmdb.org/t/p/w300/7Ij4ONTW8UYwjfD4sDNFl1m4ZaB.jpg" group-title="Drama",Grey's Anatomy LAT S06 E06
 http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/55936.mp4
 --
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor LAT S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ic5zBy0YQqxFKsby6uZaoepnFl.jpg" group-title="Drama",The Good Doctor LAT S04 E03
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/62158.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Historia de un crimen: Colmenares LAT S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lOFumQoTUeDjy83HwuKIuiNFl7g.jpg" group-title="Crimen",Historia de un crimen: Colmenares LAT S01 E05
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/65213.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Bajo el Mismo Cielo S01 E90" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wjZ3KBd4AihfGYJEAmJnfl0E7tI.jpg" group-title="Drama",Bajo el Mismo Cielo S01 E90
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/72144.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Fanático LAT S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmpK895C9CIXA62uKI4gVsHCnfl.jpg" group-title="Estrenos",Fanático LAT S01 E04
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/77874.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Ley y Orden Unidad de Victimas Especiales LAT S08 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pIuRAd03L0U02zPQrczSbqbAnFl.jpg" group-title="Crimen",Ley y Orden Unidad de Victimas Especiales LAT S08 E04
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/79057.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Chilling Adventures of Sabrina LAT S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ebWX6dvAGeY9FlIfnFl1s1usQyw.jpg" group-title="Drama",Chilling Adventures of Sabrina LAT S01 E05
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/83943.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead LAT S10 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ysyqoqkN7aMVitSJVZ1NflRfoYa.jpg" group-title="Accion",The Walking Dead LAT S10 E14
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/84683.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="El Inmortal (2023) LAT S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/luDIkGnFLBi2ufDKkz8W9ilbQ4k.jpg" group-title="Drama",El Inmortal (2023) LAT S01 E02
-http://xcm.budtv-ultra.com:25461/series/JW2WBJW2WBOndemand2023/d8rQEH2h4E/114786.mp4
---
 #EXTINF:-1 tvg-id="" tvg-name="NFL Network (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NFL%20NET.png" group-title="Estados Unidos",NFL Network (i)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/47138
 --
@@ -1238,66 +1225,64 @@ http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/82650
 #EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE (R)" tvg-logo="" group-title="NFL",NFL REDZONE (R)
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/127274
 --
-#EXTINF:-1 tvg-id="" tvg-name="Colts vs Falcons 12:00 pm 24/DIC | /NFL01" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Colts vs Falcons 12:00 pm 24/DIC | /NFL01
+#EXTINF:-1 tvg-id="" tvg-name="Chiefs vs Raiders 12:00 pm 25/DIC | /NFL01" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Chiefs vs Raiders 12:00 pm 25/DIC | /NFL01
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122950
-#EXTINF:-1 tvg-id="" tvg-name="Colts vs Falcons 12:00 pm 24/DIC | NFL02" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Colts vs Falcons 12:00 pm 24/DIC | NFL02
+#EXTINF:-1 tvg-id="" tvg-name="Chiefs vs Raiders 12:00 pm 25/DIC | NFL02" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Chiefs vs Raiders 12:00 pm 25/DIC | NFL02
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122951
-#EXTINF:-1 tvg-id="" tvg-name="Colts vs Falcons 12:00 pm 24/DIC | NFL03" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Colts vs Falcons 12:00 pm 24/DIC | NFL03
+#EXTINF:-1 tvg-id="" tvg-name="Chiefs vs Raiders 12:00 pm 25/DIC | NFL03" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Chiefs vs Raiders 12:00 pm 25/DIC | NFL03
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122952
-#EXTINF:-1 tvg-id="" tvg-name="Seahawks vs Titans 12:00 pm 24/DIC | NFL04" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Seahawks vs Titans 12:00 pm 24/DIC | NFL04
+#EXTINF:-1 tvg-id="" tvg-name="Eagles vs Giants 3:30 pm 25/DIC | NFL04" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Eagles vs Giants 3:30 pm 25/DIC | NFL04
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122953
-#EXTINF:-1 tvg-id="" tvg-name="Seahawks vs Titans 12:00 pm 24/DIC  | NFL05" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Seahawks vs Titans 12:00 pm 24/DIC  | NFL05
+#EXTINF:-1 tvg-id="" tvg-name="Eagles vs Giants 3:30 pm 25/DIC  | NFL05" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Eagles vs Giants 3:30 pm 25/DIC  | NFL05
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122954
-#EXTINF:-1 tvg-id="" tvg-name="Seahawks vs Titans 12:00 pm 24/DIC | NFL06" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Seahawks vs Titans 12:00 pm 24/DIC | NFL06
+#EXTINF:-1 tvg-id="" tvg-name="Eagles vs Giants 3:30 pm 25/DIC | NFL06" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Eagles vs Giants 3:30 pm 25/DIC | NFL06
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122955
-#EXTINF:-1 tvg-id="" tvg-name="Lions vs Vikings 12:00 pm 24/DIC | NFL07" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Lions vs Vikings 12:00 pm 24/DIC | NFL07
+#EXTINF:-1 tvg-id="" tvg-name="49ers vs Ravens 7:15 pm 25/DIC | NFL07" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",49ers vs Ravens 7:15 pm 25/DIC | NFL07
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122956
-#EXTINF:-1 tvg-id="" tvg-name="Lions vs Vikings 12:00 pm 24/DIC | NFL08" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Lions vs Vikings 12:00 pm 24/DIC | NFL08
+#EXTINF:-1 tvg-id="" tvg-name="49ers vs Ravens 7:15 pm 25/DIC | NFL08" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",49ers vs Ravens 7:15 pm 25/DIC | NFL08
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122957
-#EXTINF:-1 tvg-id="" tvg-name="Lions vs Vikings 12:00 pm 24/DIC | NFL09" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Lions vs Vikings 12:00 pm 24/DIC | NFL09
+#EXTINF:-1 tvg-id="" tvg-name="49ers vs Ravens 7:15 pm 25/DIC | NFL09" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",49ers vs Ravens 7:15 pm 25/DIC | NFL09
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122958
-#EXTINF:-1 tvg-id="" tvg-name="Commanders vs Jets 12:00 pm 24/DIC | NFL10" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Commanders vs Jets 12:00 pm 24/DIC | NFL10
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL10" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL10
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122959
-#EXTINF:-1 tvg-id="" tvg-name="Commanders vs Jets 12:00 pm 24/DIC | NFL11" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Commanders vs Jets 12:00 pm 24/DIC | NFL11
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL11" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL11
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122960
-#EXTINF:-1 tvg-id="" tvg-name="Commanders vs Jets 12:00 pm 24/DIC | NFL12" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Commanders vs Jets 12:00 pm 24/DIC | NFL12
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL12" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL12
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122961
-#EXTINF:-1 tvg-id="" tvg-name="Packers vs Pantherss 12:00 pm 24/DIC | NFL13" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Packers vs Pantherss 12:00 pm 24/DIC | NFL13
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL13" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL13
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122962
 #EXTINF:-1 tvg-id="" tvg-name="Packers vs Pantherss 12:00 pm 24/DIC  | NFL14" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Packers vs Pantherss 12:00 pm 24/DIC  | NFL14
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122963
-#EXTINF:-1 tvg-id="" tvg-name="Packers vs Pantherss 12:00 pm 24/DIC | NFL15" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Packers vs Pantherss 12:00 pm 24/DIC | NFL15
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL15" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL15
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122964
-#EXTINF:-1 tvg-id="" tvg-name="Browns vs Texans 12:00 pm 24/DIC | NFL16" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Browns vs Texans 12:00 pm 24/DIC | NFL16
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL16" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL16
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122965
-#EXTINF:-1 tvg-id="" tvg-name="Browns vs Texans 12:00 pm 24/DIC | NFL17" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Browns vs Texans 12:00 pm 24/DIC | NFL17
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL17" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL17
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122966
-#EXTINF:-1 tvg-id="" tvg-name="Browns vs Texans 12:00 pm 24/DIC | NFL18" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Browns vs Texans 12:00 pm 24/DIC | NFL18
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL18" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL18
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122967
-#EXTINF:-1 tvg-id="" tvg-name="Jaguars vs TampaBay 3:05 pm 24/DIC | NFL19" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Jaguars vs TampaBay 3:05 pm 24/DIC | NFL19
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL19" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL19
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122968
-#EXTINF:-1 tvg-id="" tvg-name="Jaguars vs TampaBay 3:05 pm 24/DIC | NFL20" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Jaguars vs TampaBay 3:05 pm 24/DIC | NFL20
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL20" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL20
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/122969
-#EXTINF:-1 tvg-id="" tvg-name="Jaguars vs TampaBay 3:05 pm 24/DIC | NFL21" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Jaguars vs TampaBay 3:05 pm 24/DIC | NFL21
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL21" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL21
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/123280
-#EXTINF:-1 tvg-id="" tvg-name="Cardinals vs Bears 3:25 pm 24/DIC | NFL22" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cardinals vs Bears 3:25 pm 24/DIC | NFL22
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL22" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL22
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/123281
-#EXTINF:-1 tvg-id="" tvg-name="Cardinals vs Bears 3:25 pm 24/DIC | NFL23" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cardinals vs Bears 3:25 pm 24/DIC | NFL23
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL23" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL23
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/124225
-#EXTINF:-1 tvg-id="" tvg-name="Cardinals vs Bears 3:25 pm 24/DIC | NFL24" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cardinals vs Bears 3:25 pm 24/DIC | NFL24
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL24" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL24
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/124226
-#EXTINF:-1 tvg-id="" tvg-name="Cowboys vs Dolphins 3:25 pm 24/DIC | NFL25" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cowboys vs Dolphins 3:25 pm 24/DIC | NFL25
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL25" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL25
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/124227
-#EXTINF:-1 tvg-id="" tvg-name="Cowboys vs Dolphins 3:25 pm 24/DIC | NFL26" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cowboys vs Dolphins 3:25 pm 24/DIC | NFL26
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL26" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL26
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/124228
-#EXTINF:-1 tvg-id="" tvg-name="Cowboys vs Dolphins 3:25 pm 24/DIC | NFL27" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Cowboys vs Dolphins 3:25 pm 24/DIC | NFL27
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL27" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL27
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/124229
 #EXTINF:-1 tvg-id="" tvg-name="Patriots vs Broncos 7:15 pm 24/dic  | NFL28" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Patriots vs Broncos 7:15 pm 24/dic  | NFL28
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/124230
 --
-#EXTINF:-1 tvg-id="" tvg-name="Patriots vs Broncos 7:15 pm 24/dic | NFL29" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Patriots vs Broncos 7:15 pm 24/dic | NFL29
-http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/128117
-#EXTINF:-1 tvg-id="" tvg-name="Patriots vs Broncos 7:15 pm 24/dic | NFL30" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",Patriots vs Broncos 7:15 pm 24/dic | NFL30
+#EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL30" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL30
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/128118
 #EXTINF:-1 tvg-id="" tvg-name="libre /dic | NFL31" tvg-logo="https://panel.budtv-ultra.com/posters/1663264131412.png" group-title="Eventos Del Dia",libre /dic | NFL31
 http://xcm.budtv-ultra.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/128119
@@ -1547,9 +1532,9 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/727
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/728
 #EXTINF:-1 tvg-id="nflsundayticket718.us" tvg-name="USA | NFL Game 13ⓧ: Kansas City Chiefs v Las Vegas Raiders | Mon 25th Dec 1:00PM ET" tvg-logo="http://xplatinmedia.com:8080/images/098b94d2f1b6781a515994e2d4932f0c.png" group-title=" |USA| NFL",USA | NFL Game 13ⓧ: Kansas City Chiefs v Las Vegas Raiders | Mon 25th Dec 1:00PM ET
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/729
-#EXTINF:-1 tvg-id="nflsundayticket719.us" tvg-name="USA | NFL Game 14ⓧ: Philadelphia Eagles v New York Giants| Mon 25th Dec 4:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/098b94d2f1b6781a515994e2d4932f0c.png" group-title=" |USA| NFL",USA | NFL Game 14ⓧ: Philadelphia Eagles v New York Giants| Mon 25th Dec 4:30PM ET
+#EXTINF:-1 tvg-id="nflsundayticket719.us" tvg-name="USA | NFL Game 14ⓧ: Philadelphia Eagles v New York Giants | Mon 25th Dec 4:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/098b94d2f1b6781a515994e2d4932f0c.png" group-title=" |USA| NFL",USA | NFL Game 14ⓧ: Philadelphia Eagles v New York Giants | Mon 25th Dec 4:30PM ET
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/730
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="USA | NFL Game 15ⓧ: San Francisco 49ers v Baltimore Ravens| Mon 25th Dec 8:15PM ET" tvg-logo="http://xplatinmedia.com:8080/images/098b94d2f1b6781a515994e2d4932f0c.png" group-title=" |USA| NFL",USA | NFL Game 15ⓧ: San Francisco 49ers v Baltimore Ravens| Mon 25th Dec 8:15PM ET
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="USA | NFL Game 15ⓧ: San Francisco 49ers v Baltimore Ravens | Mon 25th Dec 8:15PM ET" tvg-logo="http://xplatinmedia.com:8080/images/098b94d2f1b6781a515994e2d4932f0c.png" group-title=" |USA| NFL",USA | NFL Game 15ⓧ: San Francisco 49ers v Baltimore Ravens | Mon 25th Dec 8:15PM ET
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/731
 #EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Arizona Cardinalsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7f76015ca47141b9607457e72938543d.png" group-title=" |USA| NFL",USA | NFL | Arizona Cardinalsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/63364
