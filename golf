@@ -79,34 +79,18 @@ http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/220470
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="" group-title="HOLANDA",NL: ZIGGO SPORT GOLF HD
 http://pro.boxdigital.org:8080/wQbHJ7TBtn/JPZmd9X6qY/128626
 --
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF PASS FHD" tvg-logo="" group-title="U.S.A",|US| NBC GOLF PASS FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/4630
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF CHANNEL HD" tvg-logo="" group-title="U.S.A",|US| NBC GOLF CHANNEL HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/4631
+--
+#EXTINF:-1 tvg-id="" tvg-name="|US| Sky Sports Golf HQ" tvg-logo="" group-title="U.S.A",|US| Sky Sports Golf HQ
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/4675
+--
 #EXTINF:-1 tvg-id="M+ GOLF" tvg-name="ES : M+ GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ZAPEANDO MOVISTAR",ES : M+ GOLF
 http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/46542
 #EXTINF:-1 tvg-id="M+GOLF 2" tvg-name="ES : M+ GOLF 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ZAPEANDO MOVISTAR",ES : M+ GOLF 2
 http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/46543
---
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF SD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/277
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF HD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/278
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD (SAT)" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF HD (SAT)
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/27795
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF FHD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/279
-#EXTINF:-1 tvg-id="" tvg-name="M+  GOLF FHD (FIBRA)" tvg-logo="" group-title="MULTIDEPORTES ESP",M+  GOLF FHD (FIBRA)
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/678
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF FHD (SAT)" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF FHD (SAT)
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/27794
-#EXTINF:-1 tvg-id="" tvg-name="M+  GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+  GOLF 2 SD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/280
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+ GOLF 2 HD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/281
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+ GOLF 2 FHD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/282
---
-#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT GOLF FHD" tvg-logo="" group-title="ALEMANIA",|DE| SKY SPORT GOLF FHD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/44573
-#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT GOLF HD" tvg-logo="" group-title="ALEMANIA",|DE| SKY SPORT GOLF HD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/44574
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL" tvg-logo="https://tinyurl.com/y3hvndcd" group-title="CANADA",CA: GOLF CHANNEL
 http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/1283
@@ -127,16 +111,10 @@ http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/2314
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL H.265" tvg-logo="http://xtitan.xyz:2082/images/2fb6ffa35b57bf015b3ab48c30aaa405.png" group-title="FRANCIA",FR: GOLF CHANNEL H.265
 http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/2315
 --
-#EXTINF:-1 tvg-id="" tvg-name="||NL|| ZIGGO SPORT Golf HD" tvg-logo="" group-title="HOLANDA",||NL|| ZIGGO SPORT Golf HD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/17488
---
-#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF PASS FHD" tvg-logo="" group-title="U.S.A",|US| NBC GOLF PASS FHD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/4630
-#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF CHANNEL HD" tvg-logo="" group-title="U.S.A",|US| NBC GOLF CHANNEL HD
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/4631
---
-#EXTINF:-1 tvg-id="" tvg-name="|US| Sky Sports Golf HQ" tvg-logo="" group-title="U.S.A",|US| Sky Sports Golf HQ
-http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/4675
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT GOLF FHD" tvg-logo="" group-title="ALEMANIA",|DE| SKY SPORT GOLF FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/44573
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT GOLF HD" tvg-logo="" group-title="ALEMANIA",|DE| SKY SPORT GOLF HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/44574
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Golfⓧ FHD" tvg-logo="" group-title="UK",UK : Sky Sports Golfⓧ FHD
 http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/23873
@@ -145,17 +123,27 @@ http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/23874
 #EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Golfⓧ SD" tvg-logo="" group-title="UK",UK : Sky Sports Golfⓧ SD
 http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/23875
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES | GOLF Channel (V)" tvg-logo="https://i.imgur.com/14Zu6mf.png" group-title="LIVE | DEPORTES",ES | GOLF Channel (V)
-http://extremeplus.xyz:8080/miarea/VfVbMyh38f/77286
+#EXTINF:-1 tvg-id="" tvg-name="||NL|| ZIGGO SPORT Golf HD" tvg-logo="" group-title="HOLANDA",||NL|| ZIGGO SPORT Golf HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/17488
 --
-#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="GOLF HD (P)" tvg-logo="http://listado.16mb.com/logosj/golf.png" group-title="LIVE | SPORTS",GOLF HD (P)
-http://extremeplus.xyz:8080/miarea/VfVbMyh38f/74250
---
-#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="Golf Channel Latinoamerica(P)" tvg-logo="" group-title="LIVE | XTREME",Golf Channel Latinoamerica(P)
-http://extremeplus.xyz:8080/miarea/VfVbMyh38f/75061
---
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="" group-title="LIVE | XTREME",Movistar Golf
-http://extremeplus.xyz:8080/miarea/VfVbMyh38f/75114
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF SD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/277
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/278
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD (SAT)" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF HD (SAT)
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/27795
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MULTIDEPORTES ESP",M+ GOLF FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/279
+#EXTINF:-1 tvg-id="" tvg-name="M+  GOLF FHD (FIBRA)" tvg-logo="" group-title="MULTIDEPORTES ESP",M+  GOLF FHD (FIBRA)
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/678
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF FHD (SAT)" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF FHD (SAT)
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/27794
+#EXTINF:-1 tvg-id="" tvg-name="M+  GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+  GOLF 2 SD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/280
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+ GOLF 2 HD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/281
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="MULTIDEPORTES ESP",M+ GOLF 2 FHD
+http://user.ahiesta.es:8080/Leafar/fQE5BM66Hc/282
 --
 #EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",27- MOVISTAR GOLF EXTRA 
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336415
