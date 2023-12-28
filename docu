@@ -1336,10 +1336,10 @@ http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/81645
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MX || Nat Geo HD | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX || Nat Geo HD | Cultural
 http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/81655
 --
-#EXTINF:-1 tvg-id="MX |* AMC FHD" tvg-name="MX || AMC SD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="MEXICO || LTV",MX || AMC SD
+#EXTINF:-1 tvg-id="MX |* AMC FHD" tvg-name="MX || AMC SD" tvg-logo="https://m.media-amazon.com/images/I/316RGjA51jL.png" group-title="MEXICO || LTV",MX || AMC SD
 http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/81689
 --
-#EXTINF:-1 tvg-id="MX |* AMC FHD" tvg-name="MX || AMC HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="MEXICO || LTV",MX || AMC HD
+#EXTINF:-1 tvg-id="MX |* AMC FHD" tvg-name="MX || AMC HD" tvg-logo="https://m.media-amazon.com/images/I/316RGjA51jL.png" group-title="MEXICO || LTV",MX || AMC HD
 http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/81694
 --
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MX || NAT GEO SD | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX || NAT GEO SD | Cultural
@@ -1348,7 +1348,7 @@ http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/81712
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX || Discovery Channel SD | Cultural" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="Culturales",MX || Discovery Channel SD | Cultural
 http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/81715
 --
-#EXTINF:-1 tvg-id="MX |* AMC FHD" tvg-name="MX || AMC HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="MEXICO || LTV",MX || AMC HD
+#EXTINF:-1 tvg-id="MX |* AMC FHD" tvg-name="MX || AMC HD" tvg-logo="https://m.media-amazon.com/images/I/316RGjA51jL.png" group-title="MEXICO || LTV",MX || AMC HD
 http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/81863
 --
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MX || National Geographic HD | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX || National Geographic HD | Cultural
@@ -9573,6 +9573,27 @@ http://zonamovie.live:8080/Jhontv/Jhon20231@/654133
 http://zonamovie.live:8080/Jhontv/Jhon20231@/654134
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC SD" tvg-logo="http://boxdigital.xyz:8080/images/54cf6a732cf4121533c7a24f6372898a.png" group-title="TV PORTUGAL",PT: AMC SD
 http://zonamovie.live:8080/Jhontv/Jhon20231@/654135
+--
+#EXTINF:-1 tvg-id="" tvg-name="|IT| DMAX HD" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/2759725_logo_premium_cinema_24.png" group-title="⏩ TV ITALIA",|IT| DMAX HD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700022
+--
+#EXTINF:-1 tvg-id="" tvg-name="|IT| DMAX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae8686643287877d73369cf9257e066a.png" group-title="⏩ TV ITALIA",|IT| DMAX FHD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700101
+--
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://xtitan.xyz:2082/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="⏩️ FRANCIA PREMIUM",FR: NATIONAL GEOGRAPHIC HD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700220
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://xtitan.xyz:2082/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="⏩️ FRANCIA PREMIUM",FR: NATIONAL GEOGRAPHIC WILD HD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700221
+--
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="⏩️ FRANCIA PREMIUM",FR: NATIONAL GEOGRAPHIC FHD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700387
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="⏩️ FRANCIA PREMIUM",FR: NATIONAL GEOGRAPHIC WILD FHD
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700388
+--
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC H.265" tvg-logo="http://xtitan.xyz:2082/images/665009c30f9c9e343c0fd675e0d20826.png" group-title="⏩️ FRANCIA PREMIUM",FR: NATIONAL GEOGRAPHIC H.265
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700544
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD H.265" tvg-logo="http://xtitan.xyz:2082/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="⏩️ FRANCIA PREMIUM",FR: NATIONAL GEOGRAPHIC WILD H.265
+http://zonamovie.live:8080/Jhontv/Jhon20231@/700545
 --
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/d4099427-616b-44e0-bb91-16793d67686d.PNG" group-title="▶️ USA CINE",AMC
 http://zonamovie.live:8080/Jhontv/Jhon20231@/615702
