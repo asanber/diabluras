@@ -297,6 +297,19 @@ http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/440714
 http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/443089
 --
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336207
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB TORONTO BLUE JAYS" tvg-logo="https://i.postimg.cc/fyD59sFS/mlb-toronto-blue-jays-logo-480x480.png" group-title="MLB",MLB TORONTO BLUE JAYS
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/460060
+--
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES) " tvg-logo="https://i.postimg.cc/dVrFX3YX/MUNDO-TORO.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV HD (ES) 
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/440715
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV SD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV SD (ES)
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/440714
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE hd" tvg-logo="https://i.postimg.cc/13xMW5Mf/TOROLE.png" group-title="ENTRETENIMIENTO",TOROLE hd
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/443089
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
 http://flashprinttv.com:2086/juantreral/7KcTNKXCTNtq/336207
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLB TORONTO BLUE JAYS" tvg-logo="https://i.postimg.cc/fyD59sFS/mlb-toronto-blue-jays-logo-480x480.png" group-title="MLB",MLB TORONTO BLUE JAYS
@@ -385,11 +398,11 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370568
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/toros-hd.png" group-title="ESPAÑA",TOROS ᴴᴰ
 http://nxt.plus:8080/andytec/uGqCYtyFsvZ8/31141
 --
-#EXTINF:-1 tvg-id="NBALeaguePass2.us" tvg-name="USA | NBA 02ⓧ: Cleveland Cavaliers v Toronto Raptors | Mon 1st Jan 7:30PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 02ⓧ: Cleveland Cavaliers v Toronto Raptors | Mon 1st Jan 7:30PM ET
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11545
---
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 11ⓧ:  Toronto @ Los Angeles | Tue Jan 2nd 10:30 PM ET  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 11ⓧ:  Toronto @ Los Angeles | Tue Jan 2nd 10:30 PM ET  
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/744
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
