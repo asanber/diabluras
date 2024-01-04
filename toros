@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Toro salvaje (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPzVvRkPLtttMKS8YQuhhLsp8vF.jpg" group-title="CLASICAS",Toro salvaje (1980)
-http://blackpanther.life:8080/movie/restreamveotodo1/!VJnbd54rBGFDs54328xkkAQKMNfdxs/60839.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="DISNEY + / INFANTIL",Pinocho de Guillermo del Toro (2022)
-http://blackpanther.life:8080/movie/restreamveotodo1/!VJnbd54rBGFDs54328xkkAQKMNfdxs/61407.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6RaEAfkIQaolf20axWaRU4h3w.jpg" group-title="ANIME/MANGA",Mi vecino Totoro (1988)
-http://blackpanther.life:8080/movie/restreamveotodo1/!VJnbd54rBGFDs54328xkkAQKMNfdxs/62055.mkv
---
 #EXTINF:-1 tvg-id="" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
 http://blackpanther.life:8080/restreamveotodo1/!VJnbd54rBGFDs54328xkkAQKMNfdxs/1006
 #EXTINF:-1 tvg-id="" tvg-name="Liga Toros - One Toros" tvg-logo="https://i.postimg.cc/Xq8g4485/Dise-o-sin-t-tulo-23.png" group-title="M+ TOROS▶️",Liga Toros - One Toros
@@ -398,11 +389,14 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370568
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/toros-hd.png" group-title="ESPAÑA",TOROS ᴴᴰ
 http://nxt.plus:8080/andytec/uGqCYtyFsvZ8/31141
 --
+#EXTINF:-1 tvg-id="NBALeaguePass5.us" tvg-name="USA | NBA 05ⓧ: Toronto Raptors v Memphis Grizzlies | Wed 3rd Jan 8:00PM ET" tvg-logo="http://xplatinmedia.com:8080/images/8c073c290bf07c8f4498367188690ba5.png" group-title=" |USA| NBA",USA | NBA 05ⓧ: Toronto Raptors v Memphis Grizzlies | Wed 3rd Jan 8:00PM ET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/11548
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBA | Toronto Raptorsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd5b4f63e44f8428a69edd2eab922bd0.png" group-title=" |USA| NBA",USA | NBA | Toronto Raptorsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/40068
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 11ⓧ:  Toronto @ Los Angeles | Tue Jan 2nd 10:30 PM ET  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 11ⓧ:  Toronto @ Los Angeles | Tue Jan 2nd 10:30 PM ET  
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/744
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 01ⓧ Toronto @ Anaheim | Wed Jan 3th 9:00 PM ET " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title=" |USA| NHL",USA | NHL Game 01ⓧ Toronto @ Anaheim | Wed Jan 3th 9:00 PM ET 
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/733
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL | Toronto Maple Leafsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a666f0a47a215e495743b129b25ca0fd.png" group-title=" |USA| NHL",USA | NHL | Toronto Maple Leafsⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/67010
@@ -466,6 +460,9 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/53462
 #EXTINF:-1 tvg-id="" tvg-name="PK | Toronto 360 TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/394c53645da1787a30c5a69a072b8fef.png" group-title="|PK| PAKISTAN",PK | Toronto 360 TVⓧ
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/310
 --
+#EXTINF:-1 tvg-id="" tvg-name="USA | AHL 01ⓧ:  TORONTO MARLIES VS CLEVELAND MONSTERS (2024-01-03 16:00:00" tvg-logo="http://xplatinmedia.com:8080/images/335f82b1746f64c8bd5902f675853db5.png" group-title="|USA| AHL",USA | AHL 01ⓧ:  TORONTO MARLIES VS CLEVELAND MONSTERS (2024-01-03 16:00:00
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/77310
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | NLL 04ⓧ: New York Riptide v Toronto Rock | Sat 30th Dec 4:00PM ET" tvg-logo="http://xplatinmedia.com:8080/images/c632c75a592c5e8dffce59d8d8f28db0.png" group-title=" |USA| NLL",USA | NLL 04ⓧ: New York Riptide v Toronto Rock | Sat 30th Dec 4:00PM ET
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13389
 --
@@ -496,6 +493,12 @@ http://zonamovie.live:8080/Jhontv/Jhon20231@/604058
 http://zonamovie.live:8080/Jhontv/Jhon20231@/612995
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="LIGA DE BEISBOL RD (SOLO EVENTOS)",D | Toros del Este - Tvo
 http://zonamovie.live:8080/Jhontv/Jhon20231@/612996
+--
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://guatv.xyz:80/images/mCKn3GbfRoTAb_inncB583ujEEJS7Wz-dHRRKCzdTFEPFL-nzSui0d5RRmh3d9i5Us6tRUN2iNJq4vWyDiaHI_Y-30v-QlY47S-IFEV2bHks6N7ThvdqjqDyiV4_zORuEZzbe_50BkxeEDj75_sxmCdA4fzfsCOyCVh4t-wNvvtAVRq4yOikiA6F_vAMTfCy.png" group-title="⭐ | OTROS EVENTOS DEL DIA",[NBA_PASS] TORONTO RAPTORS
+http://zonamovie.live:8080/Jhontv/Jhon20231@/702305
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06 | Jan-3 7:00PM | Toronto Raptors at Memphis Grizzlies" tvg-logo="http://guatv.xyz:80/images/F18iwd2uyfgAt_GvXR9JtF17s3wsQq_fCYAl05sHxMgnOftkboLsVwAlxbxeS6-BmqMVpIg-YQyPSK5hcJQ6J32ejR_up-IOhe1pCNBYCJ8KpUtShiiGPYqpOEvpFy5v6H_F4FoyopkaiKd39ND_1h4mVRNPs0bEewAhRP1UFUOYqsb0Ewam03FhBHITtVnB.png" group-title="⭐ | OTROS EVENTOS DEL DIA",NBA 06 | Jan-3 7:00PM | Toronto Raptors at Memphis Grizzlies
+http://zonamovie.live:8080/Jhontv/Jhon20231@/702316
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="TV PORTUGAL",PT: TOROS TV FHD
 http://zonamovie.live:8080/Jhontv/Jhon20231@/654163
