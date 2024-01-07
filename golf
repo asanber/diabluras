@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="http://fanc.tmsimg.com/assets/s65385_ll_h3_aa.png" group-title="⭐⭐ DEPORTES PREMIUN ⭐⭐",GOLF CHANNEL
+http://136422.one:8080/prue@4rs@/sUUULFzmwHJR/500021
+--
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Del Golfo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="mexico prueba",Televisa Del Golfo (720p) [Not 24/7]
+http://136422.one:8080/prue@4rs@/sUUULFzmwHJR/514724
+--
+#EXTINF:-1 tvg-id="" tvg-name="US : NBC Golf" tvg-logo="https://th.bing.com/th/id/OIP.3oSEOkA4Ft7ZAD4fYHyhjQHaFj?w=221&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" group-title="⭐ USA I SPORTS",US : NBC Golf
+http://136422.one:8080/prue@4rs@/sUUULFzmwHJR/507404
+--
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Golf ᶠᴴᴰ" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="DEPORTES ESPAÑA ▶️",Movistar Golf ᶠᴴᴰ
 http://blackpanther.life:8080/restreamveotodo1/!VJnbd54rBGFDs54328xkkAQKMNfdxs/653
 --
@@ -492,11 +501,6 @@ http://user.ahiesta.es:8080/sevvi/VtQKxz3bkJ/281
 #EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="Golf España",M+ GOLF 2 FHD
 http://user.ahiesta.es:8080/sevvi/VtQKxz3bkJ/282
 --
-#EXTINF:-1 tvg-id="" tvg-name="27- MOVISTAR GOLF EXTRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",27- MOVISTAR GOLF EXTRA 
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336415
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336416
---
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="http://home-playtv.com:25461/images/7fc911dfb111b8dd2fae130be76c5a38.png" group-title="FRANCIA SPORTS",FR: GOLF+ HD
 http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/55588
 --
@@ -514,6 +518,51 @@ http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/233408
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63776927821.png" group-title="CANADÁ",CA: Golf Channel HD
 http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/479232
+--
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="MOVISTAR  GOLF" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR  GOLF
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151678
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="MOVISTAR GOLF HD" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR GOLF HD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151679
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="MOVISTAR GOLF FHD" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR GOLF FHD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151697
+--
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="ES: MOVISTAR GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ESPAÑA DEPORTES",ES: MOVISTAR GOLF 2 FHD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372337
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="ES: MOVISTAR GOLF 2 HD" tvg-logo="" group-title="ESPAÑA DEPORTES",ES: MOVISTAR GOLF 2 HD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372336
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="ES: MOVISTAR GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ESPAÑA DEPORTES",ES: MOVISTAR GOLF 2 SD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372335
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | Golf Channel" tvg-logo="" group-title="USA",USA | Golf Channel
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/391636
+--
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="LATINOS",Latino | Golf Channel
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372674
+--
+#EXTINF:-1 tvg-id="" tvg-name="[FR]_GOLF+" tvg-logo="" group-title="FRANCIA",[FR]_GOLF+
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/461182
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="" group-title="UK",UK: Sky Sports Golf HD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/415098
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf SD" tvg-logo="" group-title="UK",UK: Sky Sports Golf SD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/415099
+--
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport Golf" tvg-logo="" group-title="HOLANDA",|NL| Ziggo Sport Golf
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/374414
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf" tvg-logo="" group-title="HOLANDA",Ziggo Sport Golf
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/374433
+--
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport Golf" tvg-logo="" group-title="HOLANDA",|NL| Ziggo Sport Golf
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/374683
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf FHD" tvg-logo="" group-title="ALEMANIA",DE: Sky Sport Golf FHD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/415275
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf HD" tvg-logo="" group-title="ALEMANIA",DE: Sky Sport Golf HD
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/415276
+--
+#EXTINF:-1 tvg-id="" tvg-name="|.ZAF.|_SUPER GOLF" tvg-logo="" group-title="AFRICA",|.ZAF.|_SUPER GOLF
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/459338
 --
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="GOLF CHANNEL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/golf-channel.png" group-title="⚽ DEPORTES",GOLF CHANNEL
 http://nxt.plus:8080/andytec/uGqCYtyFsvZ8/187919
