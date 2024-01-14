@@ -49,6 +49,24 @@ http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199139
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO HD" tvg-logo="" group-title="ESPAÑA",EL TORO HD
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/199140
 --
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="ESPAÑA",TOROS HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/265640
+#EXTINF:-1 tvg-id="" tvg-name="TOROS FHD" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="ESPAÑA",TOROS FHD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/265641
+--
+#EXTINF:-1 tvg-id="" tvg-name="TORO TV HD" tvg-logo="https://i.imgur.com/V6ItGCk.png" group-title="ESPAÑA",TORO TV HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/265777
+#EXTINF:-1 tvg-id="" tvg-name="TORO SD" tvg-logo="https://i.imgur.com/V6ItGCk.png" group-title="ESPAÑA",TORO SD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/265778
+--
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD" tvg-logo="https://i.imgur.com/8N5iXZE.png" group-title="ESPAÑA",MUNDOTORO TV HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/265790
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONE TORO HD" tvg-logo="" group-title="ESPAÑA",ES| ONE TORO HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/265852
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONE TORO 2" tvg-logo="" group-title="ESPAÑA",ES| ONE TORO 2
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/265853
+--
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="PORTUGAL",PT: TOROS TV FHD
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130392
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV HD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="PORTUGAL",PT: TOROS TV HD
@@ -402,62 +420,6 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 #EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
 http://user.ahiesta.es:8080/TomasClicKTv/TKm9apZJ2qHP/12113
 --
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoros tv" tvg-logo="http://daleplay.club:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="⭐ES | AFICIONES⭐",Mundotoros tv
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/110269
-#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS HD" tvg-logo="http://daleplaypro.com:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="⭐ES | AFICIONES⭐",TOROS HD
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/110270
-#EXTINF:-1 tvg-id="" tvg-name="**TOROS TV FHD**" tvg-logo="http://daleplay.club:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="⭐ES | AFICIONES⭐",**TOROS TV FHD**
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/110271
---
-#EXTINF:-1 tvg-id="" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="⭐ES | LOCALES⭐",El Toro TV
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/126707
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi Vecino Totoro [LAT] 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMqkcjeU76f1oakwJcfwVlbtRT8ihthnwCwg&usqp=CAU" group-title="* VOD - ANIME *",Mi Vecino Totoro [LAT] 1080p
-http://daleplay.club:8080/movie/Tbs837474dp73/Be837ndfn/186161.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988) 3MB" tvg-logo="http://daleplaypro.com:8080/images/deddf7567aa10542f88b32179f15107a.jpg" group-title="* VOD | 3 MEGAS (M-N) *",Mi vecino Totoro (1988) 3MB
-http://daleplay.club:8080/movie/Tbs837474dp73/Be837ndfn/190515.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="TV CANADA",CA CBC Toronto CBLT
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/233425
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="TV CANADA",CA: CBC Toronto (CBLT)
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/233426
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CITY Toronto" tvg-logo="http://tvstar.cc:8880/chimg/7821008370.png" group-title="TV CANADA",CA: CITY Toronto
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/233433
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO | SD" tvg-logo="http://tvstar.cc:8880/chimg/4209190347.png" group-title="TV CANADA",CA: CTV TORONTO | SD
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/233435
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="http://tvstar.cc:8880/chimg/9176430691.png" group-title="TV CANADA",CA: GLOBAL TORONTO
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/233496
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: MUNDOTORO HD 1" tvg-logo="http://daleplay.club:8080/images/2b35811f82f0a075388eabb40a1ec664.png" group-title="⭐ES | AFICIONES⭐",ES: MUNDOTORO HD 1
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/316574
-#EXTINF:-1 tvg-id="" tvg-name="ES: **MUNDOTORO HD 2**" tvg-logo="http://daleplay.club:8080/images/2b35811f82f0a075388eabb40a1ec664.png" group-title="⭐ES | AFICIONES⭐",ES: **MUNDOTORO HD 2**
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/316575
-#EXTINF:-1 tvg-id="" tvg-name="ES: MUNDOTORO HD 3" tvg-logo="http://daleplay.club:8080/images/2b35811f82f0a075388eabb40a1ec664.png" group-title="⭐ES | AFICIONES⭐",ES: MUNDOTORO HD 3
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/316576
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MUNDOTORO HD 4" tvg-logo="http://127.0.0.1/" group-title="⭐ES | AFICIONES⭐",|ES| MUNDOTORO HD 4
-http://daleplay.club:8080/Tbs837474dp73/Be837ndfn/316577
---
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E01" tvg-logo="http://daleplaypro.com:8080/images/db1adfc38d6e303ea76025cac1596683.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E01
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E02" tvg-logo="http://daleplaypro.com:8080/images/48b6a34893098a92248c679a6aefb5cf.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E02
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E03" tvg-logo="http://daleplaypro.com:8080/images/18ffc587024a2cf4837cac8f4e21f0cc.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E03
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E04" tvg-logo="http://daleplaypro.com:8080/images/9fbee0ee32f6499c00a63bed27c076b0.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E04
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E05" tvg-logo="http://daleplaypro.com:8080/images/563360aa8312004183ddf2fe22ebdb5b.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E05
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E06" tvg-logo="http://daleplaypro.com:8080/images/b7f4b513668fb98852820ce13e429910.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E06
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E07" tvg-logo="http://daleplaypro.com:8080/images/6e964ad83bb77553e8f96db52dc59710.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E07
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Gabinete de Curiosidades de Guillermo del Toro S01 E08" tvg-logo="http://daleplaypro.com:8080/images/6b9aa99ceb618dec8056664c57d0a73f.jpg" group-title="* SERIES NETFLIX ⏯️✅*",El Gabinete de Curiosidades de Guillermo del Toro S01 E08
-http://daleplay.club:8080/series/Tbs837474dp73/Be837ndfn/195231.mkv
---
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | Movistar  Toros" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA",DEP ES | Movistar  Toros
 http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/33528
 --
@@ -527,6 +489,24 @@ http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/199139
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO HD" tvg-logo="" group-title="ESPAÑA",EL TORO HD
 http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/199140
 --
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="ESPAÑA",TOROS HD
+http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/265640
+#EXTINF:-1 tvg-id="" tvg-name="TOROS FHD" tvg-logo="https://i.imgur.com/EFZOWUO.png" group-title="ESPAÑA",TOROS FHD
+http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/265641
+--
+#EXTINF:-1 tvg-id="" tvg-name="TORO TV HD" tvg-logo="https://i.imgur.com/V6ItGCk.png" group-title="ESPAÑA",TORO TV HD
+http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/265777
+#EXTINF:-1 tvg-id="" tvg-name="TORO SD" tvg-logo="https://i.imgur.com/V6ItGCk.png" group-title="ESPAÑA",TORO SD
+http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/265778
+--
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD" tvg-logo="https://i.imgur.com/8N5iXZE.png" group-title="ESPAÑA",MUNDOTORO TV HD
+http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/265790
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONE TORO HD" tvg-logo="" group-title="ESPAÑA",ES| ONE TORO HD
+http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/265852
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONE TORO 2" tvg-logo="" group-title="ESPAÑA",ES| ONE TORO 2
+http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/265853
+--
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="PORTUGAL",PT: TOROS TV FHD
 http://pro.boxdigital.org:8080/eL2KqrpqgBuD/G8bWaHk95RHP/130392
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV HD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="PORTUGAL",PT: TOROS TV HD
@@ -561,10 +541,7 @@ http://zonamovie.live:8080/Jhontv/Jhon20231@/612995
 http://zonamovie.live:8080/Jhontv/Jhon20231@/612996
 --
 #EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfX1Uio_P0F5vy6TNZtIpLhiTglf3mnPZwoSWTs5_tYEUlKD_oqycm2RBc-DLAYez0g.png" group-title="⭐ | OTROS EVENTOS DEL DIA",[NBA_PASS] TORONTO RAPTORS
-http://zonamovie.live:8080/Jhontv/Jhon20231@/707514
---
-#EXTINF:-1 tvg-id="" tvg-name="NBA 09 | Jan-12 8:30PM | Toronto Raptors at Utah Jazz" tvg-logo="http://guatv.xyz:80/images/9Y1A9W3fTvSKVLUFPVa43jgRC0pHBkf3Kaug7nTKpkQFY7nyr6M6Dm_4PeM0isF2n070Gc7eoJxoonMO4KsBfX1Uio_P0F5vy6TNZtIpLhiTglf3mnPZwoSWTs5_tYEUlKD_oqycm2RBc-DLAYez0g.png" group-title="⭐ | OTROS EVENTOS DEL DIA",NBA 09 | Jan-12 8:30PM | Toronto Raptors at Utah Jazz
-http://zonamovie.live:8080/Jhontv/Jhon20231@/707528
+http://zonamovie.live:8080/Jhontv/Jhon20231@/707734
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="TV PORTUGAL",PT: TOROS TV FHD
 http://zonamovie.live:8080/Jhontv/Jhon20231@/654163
