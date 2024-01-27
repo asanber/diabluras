@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/MHKxpDWQ/Dise-o-sin-t-tulo-42.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
-http://blackpanther.life:8080/fushiontvondeman/amRNdYnqMBM6/1006
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="Liga Toros - One Toros" tvg-logo="https://i.postimg.cc/VvnYT6L7/Dise-o-sin-t-tulo-44.png" group-title="M+ TOROS▶️",Liga Toros - One Toros
-http://blackpanther.life:8080/fushiontvondeman/amRNdYnqMBM6/1008
-#EXTINF:-1 tvg-id="TOROS" tvg-name=" MUNDOTORO TV ( REFUERZO)" tvg-logo="https://i.postimg.cc/C1nxVJxL/Dise-o-sin-t-tulo-41.png" group-title="M+ TOROS▶️", MUNDOTORO TV ( REFUERZO)
-http://blackpanther.life:8080/fushiontvondeman/amRNdYnqMBM6/1222
-#EXTINF:-1 tvg-id="TOROS" tvg-name="MUNDOTORO TV ᴴᴰ" tvg-logo="https://i.postimg.cc/C1nxVJxL/Dise-o-sin-t-tulo-41.png" group-title="M+ TOROS▶️",MUNDOTORO TV ᴴᴰ
-http://blackpanther.life:8080/fushiontvondeman/amRNdYnqMBM6/4756
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="MUNDOTORO TV ˢᵈ" tvg-logo="https://i.postimg.cc/C1nxVJxL/Dise-o-sin-t-tulo-41.png" group-title="M+ TOROS▶️",MUNDOTORO TV ˢᵈ
-http://blackpanther.life:8080/fushiontvondeman/amRNdYnqMBM6/4757
-#EXTINF:-1 tvg-id="TOROS" tvg-name="MUNDOTORO TV ᶠᴴᴰ (SATELITE)" tvg-logo="https://i.postimg.cc/C1nxVJxL/Dise-o-sin-t-tulo-41.png" group-title="M+ TOROS▶️",MUNDOTORO TV ᶠᴴᴰ (SATELITE)
-http://blackpanther.life:8080/fushiontvondeman/amRNdYnqMBM6/21468
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/pV8KfJJH/Dise-o-sin-t-tulo-43.png" group-title="M+ TOROS▶️",EL TORO TV
-http://blackpanther.life:8080/fushiontvondeman/amRNdYnqMBM6/26599
---
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 --
@@ -539,9 +524,6 @@ http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233225
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213774
 --
-#EXTINF:-1 tvg-id="" tvg-name="NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/242632
---
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://spaticplas.org:8080/e7XfunEfVJWj/5UAYTzcStK5j/30596
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
@@ -567,9 +549,6 @@ http://spaticplas.org:8080/e7XfunEfVJWj/5UAYTzcStK5j/233225
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://spaticplas.org:8080/e7XfunEfVJWj/5UAYTzcStK5j/213774
---
-#EXTINF:-1 tvg-id="" tvg-name="NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors
-http://spaticplas.org:8080/e7XfunEfVJWj/5UAYTzcStK5j/242632
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/30596
@@ -597,9 +576,6 @@ http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/233225
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/213774
 --
-#EXTINF:-1 tvg-id="" tvg-name="NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors
-http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/242632
---
 #EXTINF:-1 tvg-id="" tvg-name="ESP | ONETORO" tvg-logo="https://play-lh.googleusercontent.com/ScECkaWu_2omPYZYhNXBQbSdhWD6LyQgPQFIxNeSf30UnYiqWssiWJrbll1EwPNI0gU" group-title="▶️ | TV ESPAÑA",ESP | ONETORO
 http://zonamovie.live:8080/Jhontv/Jhon20231@/409012
 --
@@ -617,9 +593,6 @@ http://zonamovie.live:8080/Jhontv/Jhon20231@/565973
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: ONETORO HD" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg" group-title="▶️ | ESPAÑA | DEPORTES",ES: ONETORO HD
 http://zonamovie.live:8080/Jhontv/Jhon20231@/572239
---
-#EXTINF:-1 tvg-id="" tvg-name="24/01 06:00:pm � Winnipeg Jets Vs Toronto Maple Leafs" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg" group-title="⭐️ | EVENTOS FÚTBOL DEL DIA",24/01 06:00:pm � Winnipeg Jets Vs Toronto Maple Leafs
-http://zonamovie.live:8080/Jhontv/Jhon20231@/712588
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="TV PORTUGAL",PT: TOROS TV FHD
 http://zonamovie.live:8080/Jhontv/Jhon20231@/654163
