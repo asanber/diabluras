@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV 4K" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV 4K
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/113620.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV HD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV HD
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/113619.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV SD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV SD
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/115103.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV HD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV HD
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116084.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV SD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV SD
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116085.m3u8
+--
+#EXTINF:-1 tvg-ID="" tvg-name="El Toro TV HD" tvg-logo="" group-title="ESPAÑA | OCIO",El Toro TV HD
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/115978.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="El Toro TV SD" tvg-logo="" group-title="ESPAÑA | OCIO",El Toro TV SD
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/115979.m3u8
+--
+#EXTINF:-1 tvg-ID="" tvg-name="ES: El Toro TV" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: El Toro TV
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116711.m3u8
+--
+#EXTINF:-1 tvg-ID="" tvg-name="TOROLE MSD" tvg-logo="" group-title="ESPAÑA | TDT 2",TOROLE MSD
+http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/118624.m3u8
+--
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5SD8sFpNgh&s" group-title="ESPAÑA",El Toro TV
 http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178048
 --
@@ -192,6 +214,32 @@ http://emuligl.info:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/233225
 http://emuligl.info:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/213774
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/30596
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/30597
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY Toronto" tvg-logo="http://tvstar.cc:8880/chimg/7821008370.png" group-title="││TV││CANADA",CA: CITY Toronto
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/30605
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO | SD" tvg-logo="http://tvstar.cc:8880/chimg/4209190347.png" group-title="││TV││CANADA",CA: CTV TORONTO | SD
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/30607
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="http://tvstar.cc:8880/chimg/9176430691.png" group-title="││TV││CANADA",CA: GLOBAL TORONTO
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/30670
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: TV 16 Toronto" tvg-logo="http://tvstar.cc:8880/chimg/1965488706.png" group-title="││TV││CANADA",CA: TV 16 Toronto
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/30754
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: BBC Toronto Gaunda Punjab" tvg-logo="http://tvstar.cc:8880/chimg/5521059770.png" group-title="││TV││CANADA",CA: BBC Toronto Gaunda Punjab
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/30780
+--
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="││TV││ TDT ESPAÑA",EL TORO TV
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/233225
+--
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/213774
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://emuligl.info:8080/Y629hwoe/DqUYbegCYepv/30596
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
 http://emuligl.info:8080/Y629hwoe/DqUYbegCYepv/30597
@@ -216,47 +264,6 @@ http://emuligl.info:8080/Y629hwoe/DqUYbegCYepv/233225
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://emuligl.info:8080/Y629hwoe/DqUYbegCYepv/213774
---
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO SD
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/347
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO HD
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/344
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO FHD" tvg-logo="" group-title="TOROS ESP",MUNDOTORO FHD
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/348
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="TOROLÉ T.V." tvg-logo="" group-title="TOROS ESP",TOROLÉ T.V.
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/349
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="EL TORO TV SD" tvg-logo="" group-title="TOROS ESP",EL TORO TV SD
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/6551
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD" tvg-logo="" group-title="TOROS ESP",EL TORO TV HD
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/12113
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="CANADA",CA: CBC TORONTO
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/1215
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="CANADA",CA: CBC TORONTO
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/1216
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://logovtor.com/wp-content/uploads/2020/02/city-of-toronto-logo-vector.png" group-title="CANADA",CA: CITY TORONTO
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/1225
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV TORONTO" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png" group-title="CANADA",CA: CTV TORONTO
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/1251
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://static.epg.best/ca/GlobalHalifaxCIHF.ca.png" group-title="CANADA",CA: GLOBAL TORONTO
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/1281
---
-#EXTINF:-1 tvg-id="" tvg-name="MLB TORONTO BLUE JAYS" tvg-logo="https://loodibee.com/wp-content/uploads/mlb-toronto-blue-jays-logo-480x480.png" group-title="NHL & MLB",MLB TORONTO BLUE JAYS
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/659
---
-#EXTINF:-1 tvg-id="" tvg-name="NHL 1 | 7:30 PM ET | Florida at Toronto" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="NHL & MLB",NHL 1 | 7:30 PM ET | Florida at Toronto
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/630
---
-#EXTINF:-1 tvg-id="" tvg-name="RD: TOROS" tvg-logo="http://visi4k.site:8080/images/4381aebacee4423f0cc76d2bfbe58331.png" group-title="REPUBLICA DOMINICANA",RD: TOROS
-http://user.ttvrilieos.xyz:8080/JoseWeib-TV/A5wjQDud0T/22014
 --
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
@@ -515,6 +522,9 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198131
+--
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -562,6 +572,9 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198131
+--
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -599,6 +612,9 @@ http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198131
+--
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -635,6 +651,9 @@ http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198131
+--
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2144844
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
@@ -660,8 +679,11 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168355
 --
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/toros-hd.png" group-title="ESPAÑA",TOROS ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/31141
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198131
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531733
 --
 #EXTINF:-1 tvg-id="" tvg-name="GR: NET TV TORONTO" tvg-logo="" group-title="INTERNACIONALES",GR: NET TV TORONTO
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197039
@@ -807,9 +829,6 @@ http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/233225
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/213774
 --
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] TORONTO RAPTORS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361392
---
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - El Toros TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - El Toros TV (L)(720)
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/267250
 --
@@ -823,6 +842,12 @@ http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/336674
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/356618
 #EXTINF:-1 tvg-id="" tvg-name="CAN- CBC Toronto (720)(M)" tvg-logo="" group-title="CANADA PREMIUM",CAN- CBC Toronto (720)(M)
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/356619
+--
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] TORONTO RAPTORS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361604
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 03 | Feb-9 6:30PM | Houston Rockets at Toronto Raptors
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361617
 --
 #EXTINF:-1 xui-id="409012" tvg-id="" tvg-name="ESP | ONETORO" tvg-logo="https://play-lh.googleusercontent.com/ScECkaWu_2omPYZYhNXBQbSdhWD6LyQgPQFIxNeSf30UnYiqWssiWJrbll1EwPNI0gU" group-title="▶️ | TV ESPAÑA",ESP | ONETORO
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_NmIL540j3mU1Ght88B5U3Y/ts
