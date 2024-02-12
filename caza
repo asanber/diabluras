@@ -51,109 +51,288 @@ http://tvbox.ovh:37500/movie/Batidora/5dc54d65c4ddv/126002.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Los cazafantasmas II (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="CINE | ESPAÑOL | SAGAS",Los cazafantasmas II (1989)
 http://tvbox.ovh:37500/movie/Batidora/5dc54d65c4ddv/126003.mkv
 --
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia 100% Pesca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="ESPAÑA",Iberalia 100% Pesca
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178213
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="ESPAÑA",Caza y Pesca HD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178214
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="ESPAÑA",Caza y Pesca FHD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178215
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia SD" tvg-logo="http://discusfish.xyz:25461/images/20866814c2af27e301ef4e177bae0fa3.jpg" group-title="ESPAÑA",Iberalia SD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178216
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia HD" tvg-logo="http://discusfish.xyz:25461/images/20866814c2af27e301ef4e177bae0fa3.jpg" group-title="ESPAÑA",Iberalia HD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178217
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia FHD" tvg-logo="http://discusfish.xyz:25461/images/20866814c2af27e301ef4e177bae0fa3.jpg" group-title="ESPAÑA",Iberalia FHD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178218
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Cazavision TV" tvg-logo="http://discusfish.xyz:25461/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="ESPAÑA",Cazavision TV
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/178219
+#EXTINF:-1 tvg-ID="Cazavision.es" tvg-name="CAZAVISION 4K" tvg-logo="http://russia.za3za3.com:19745/imagesiptv/logos/1/SPAIN/CAZAVISON.png" group-title="ESPAÑA | OCIO",CAZAVISION 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/61421
 --
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA 100% CAZA HD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ESPAÑA",IBERALIA 100% CAZA HD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/205257
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA 100% CAZA SD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ESPAÑA",IBERALIA 100% CAZA SD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/205258
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA 100% PESCA SD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ESPAÑA",IBERALIA 100% PESCA SD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/205261
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA ORIGINAL 4K" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/i/b/e/iberalia.jpg" group-title="ESPAÑA | OCIO",IBERALIA ORIGINAL 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113844
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA ORIGINAL HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/i/b/e/iberalia.jpg" group-title="ESPAÑA | OCIO",IBERALIA ORIGINAL HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113848
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA 100/100 CAZA 4K" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/i/b/e/iberalia.jpg" group-title="ESPAÑA | OCIO",IBERALIA 100/100 CAZA 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113845
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA 100/100 CAZA HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/i/b/e/iberalia.jpg" group-title="ESPAÑA | OCIO",IBERALIA 100/100 CAZA HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113849
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA PESCA 4K" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/i/b/e/iberalia.jpg" group-title="ESPAÑA | OCIO",IBERALIA PESCA 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113843
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA PESCA HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/i/b/e/iberalia.jpg" group-title="ESPAÑA | OCIO",IBERALIA PESCA HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113847
 --
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="ESPAÑA PLUTO TV",Pluto TV Dog el cazarrecompensas
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/163968
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA Y PESCA 4K" tvg-logo="" group-title="ESPAÑA | OCIO",CAZA Y PESCA 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116081
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA Y PESCA HD" tvg-logo="" group-title="ESPAÑA | OCIO",CAZA Y PESCA HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116082
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA Y PESCA  SD" tvg-logo="" group-title="ESPAÑA | OCIO",CAZA Y PESCA  SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116083
 --
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Caza y Pezca" tvg-logo="https://i.imgur.com/7zrGmp7.png" group-title="LATINOS",Latino | Caza y Pezca
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/372631
+#EXTINF:-1 tvg-ID="60ed5fb9c4716d0007d180c5" tvg-name="Cazador de Homicidas" tvg-logo="http://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="ESPAÑA | PLUTO TV",Cazador de Homicidas
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/140219
 --
-#EXTINF:-1 tvg-id="" tvg-name="PT: CAZA Y PESCA" tvg-logo="" group-title="PORTUGAL",PT: CAZA Y PESCA
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/370509
+#EXTINF:-1 tvg-ID="6335a6b6e6f7a600076e589e" tvg-name="Cazasubastas" tvg-logo="http://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="ESPAÑA | PLUTO TV",Cazasubastas
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/140259
 --
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de tesoros (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztXXJMdVpOdTvIQPDB34Y86ZTpb.jpg" group-title="ESTRENOS OCTUBRE 20223",Cazadores de tesoros (2022)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/460655.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Caza y Pesca HD (1080P)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: Caza y Pesca HD (1080P)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116764
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Caza y Pesca HD (720P)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: Caza y Pesca HD (720P)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116765
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Iberalia HD (720P)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: Iberalia HD (720P)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116766
 --
-#EXTINF:-1 tvg-id="" tvg-name="Espía a la caza (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuT9LNerDiDkVJgysSadigkLcyf.jpg" group-title=" ESTRENOS NOVIEMBRE 2023",Espía a la caza (2023)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/461506.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA MSD" tvg-logo="" group-title="ESPAÑA | TDT 2",IBERALIA MSD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/118578
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA CAZA MSD" tvg-logo="" group-title="ESPAÑA | TDT 2",IBERALIA CAZA MSD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/118579
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA PESCA MSD" tvg-logo="" group-title="ESPAÑA | TDT 2",IBERALIA PESCA MSD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/118580
 --
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores de monstruos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51FDbBDlABFzhMABME1GCRraj8s.jpg" group-title="VIDEOCLUB INFANTIL",Cazadores de monstruos (2018)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/463449.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="CINE | ESPAÑOL | SAGAS",Cazafantasmas (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126000.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jy2R4irQMZEaHvGkKoyuaKJPJO.jpg" group-title="CINE | ESPAÑOL | SAGAS",Cazafantasmas: Más allá (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126001.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los cazafantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg" group-title="CINE | ESPAÑOL | SAGAS",Los cazafantasmas (1984)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126002.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los cazafantasmas II (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="CINE | ESPAÑOL | SAGAS",Los cazafantasmas II (1989)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126003.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="Dragones al rescate: A la caza del dragón dorado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wHEvRLUEWK0AUZhSmhFNWPrBPy.jpg" group-title="VIDEOCLUB INFANTIL",Dragones al rescate: A la caza del dragón dorado (2020)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/463510.mkv
+#EXTINF:-1 tvg-ID="cazaepesca.pt" tvg-name="Caça e Pesca HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png" group-title="PORTUGAL | PT",Caça e Pesca HD (1080P)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117920
+#EXTINF:-1 tvg-ID="cazaepesca.pt" tvg-name="Caça e Pesca" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png" group-title="PORTUGAL | PT",Caça e Pesca
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117921
+#EXTINF:-1 tvg-ID="CacaVision.pt" tvg-name="Cazavisión HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cazavision.gif" group-title="PORTUGAL | PT",Cazavisión HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117922
+#EXTINF:-1 tvg-ID="CacaVision.pt" tvg-name="Caçavision" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cazavision.gif" group-title="PORTUGAL | PT",Caçavision
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117923
 --
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyh9hxRjItIOb0gMt2P44LXnUMH.jpg" group-title="VIDEOCLUB INFANTIL",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/463744.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tarzán y la cazadora (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Kdpd0R17wnE2Yf57O7kGEdXScX.jpg" group-title="CINE | ESPAÑOL | SAGAS",Tarzán y la cazadora (1947)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/95585.mp4
 --
-#EXTINF:-1 tvg-id="" tvg-name="Catwoman: La caza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSkcS5udA01NubLGy6hJt9yUHSi.jpg" group-title="VIDEOCLUB INFANTIL",Catwoman: La caza (2022)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464433.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Donald \& Goofy - La Caza de Zorros \ (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MnirtkaaUopebEk2eM8aC17fkZ.jpg" group-title="KIDS | ESPAÑOL",Donald \& Goofy - La Caza de Zorros \ (1938)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129618.mp4
 --
-#EXTINF:-1 tvg-id="" tvg-name="Donald \& Goofy - La Caza de Zorros \ (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MnirtkaaUopebEk2eM8aC17fkZ.jpg" group-title="VIDEOCLUB INFANTIL",Donald \& Goofy - La Caza de Zorros \ (1938)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464673.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tiempo de caza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iF1eloJBtw0frs2EeshncF2oRCT.jpg" group-title="CINE | NETFLIX | MULTI AUDIO",Tiempo de caza (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/82885.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title=" ESTRENOS ENERO 2024",Cazadores en tierra inhóspita (2024)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/468020.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cazador de búfalos \ (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Ub9HzYggGtETLI87QnSH6QKl5.jpg" group-title="CINE | ESPAÑOL | 2023",El cazador de búfalos \ (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/140091.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rsItmeXLSvvTXFwiNKiCxTijxtg.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E01
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gn0v0OiF3p0klt7pWbs5zVDnvIA.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E02
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6C9CncGoDgkecV7aHgJTY7gfeZq.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E03
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ojpAdJPZP6sDm7iuE7sn35V4bvK.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E04
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378872.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/rlubeq7U8tUEqpyVrKT3ylICJYs.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E05
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/d9sQNhN4PQicL0AR1xtCTNwigMR.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E06
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tJMm868aWRJahSHco8eZDZpsTSX.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E07
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/sAWZXZtItjK1JnmRsOqvZgBQyxz.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S01 E08
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qWH0WvVVcyUcdbvVhzzV0ojOhgS.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E01
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/j0yhNwWXxF90YthPRKJCQr4bn8h.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E02
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4SF7VSBWoX7azT0dulI1mVwNmSA.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E03
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378879.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/z2AhBz2oEHOXjx9GoCZpvFfGo0X.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E04
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/eBPYbs5TEIlVewt0j9lBVoL9HXZ.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E05
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378881.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/tUdOMuPvzqpcFsueEiaqX64f3sh.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E06
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/oxOo4fEJOTe8xEmj4hqsmRLWS6K.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E07
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/kOgEaySDAOScJv9qi5mcTkqXVcF.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S02 E08
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378884.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fXUPIsihMjOEsSlf7B9e2JyHqGt.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E01
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378885.avi
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1FmZ947WypIM4EPGKP11vzKi5w2.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E02
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378886.avi
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lN3S5wak0QwC1d9HF4er2l7ycfZ.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E03
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378887.avi
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/n2bO0S28rnarIducEPYzVRJyvRV.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E04
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378888.avi
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/QCugMOtiEV7c9fdaD6D5rH5gnm.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E05
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378889.avi
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oQD5MW1OV8vmek6JtSmbBTOrTga.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E06
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378890.avi
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bK80t1zNAtjMdkLAyUjhCcULDti.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E07
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378891.avi
-#EXTINF:-1 tvg-id="" tvg-name="SERIE: La caza de Monteperdido S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/l47AEK5j6hot27LmB4m5GMgON61.jpg" group-title="SERIE: LA CAZA DE MONTEPERDIDO",SERIE: La caza de Monteperdido S03 E08
-http://darg.site:2082/series/Jocker/E6L9f4km2F6xnew/378892.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="CINE | ESPAÑOL | 2024",Cazadores en tierra inhóspita (2024)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/140009.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La caza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg" group-title="CINE | ESPAÑOL | 2019-20",La caza (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/139891.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La caza del asesino (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reY949kKytv3Mm3Y7wICDTRCtTL.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La caza del asesino (1958)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/137551.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La caza del asesino (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reY949kKytv3Mm3Y7wICDTRCtTL.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La caza del asesino (1958)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/137552.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La caza del asesino (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reY949kKytv3Mm3Y7wICDTRCtTL.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La caza del asesino (1958)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/137553.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La caza del asesino (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reY949kKytv3Mm3Y7wICDTRCtTL.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La caza del asesino (1958)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/137554.mp4
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador contra cazador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpUeO4MppzOy5px8Wn39A1ZkDW.jpg" group-title="CINE | ESPAÑOL | 2019-20",Cazador contra cazador (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/136283.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La caza (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lODWq6rLdcb8hLuQpt9qHSAatW.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",La caza (1966)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130394.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La caza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg" group-title="CINE | ESPAÑOL | 2019-20",La caza (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130395.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La caza del Octubre Rojo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EGFvgiOaQB7HHV0gD581SKlPM9.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",La caza del Octubre Rojo (1990)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130396.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Las crónicas de Blancanieves: El cazador y la reina del hielo (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130904.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La última cazadora de dragones (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aqqYXoLTER1N2mR9MD5CNGqxhA.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",La última cazadora de dragones (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/131076.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Pato Lucas cazamonstruos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig8ptjEB4rYbZRgYR2rkSSF8TLk.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Pato Lucas cazamonstruos (1988)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/131238.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Odd Thomas, cazador de fantasmas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egzIA1QOVYiVzAlOKj7dDM5F2io.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Odd Thomas, cazador de fantasmas (2013)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/132112.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Presas de caza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" group-title="CINE | ESPAÑOL | 2021",Presas de caza (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/132509.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Rise: Cazadora de sangre (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4QNqFITPXjRrWGELtbifg34T1V.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Rise: Cazadora de sangre (2007)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/132811.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Romasanta: la caza de la bestia (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAmHnv1ofZ8N5RrqHZrdhN3YBIR.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Romasanta: la caza de la bestia (2004)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/132853.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Caza de brujas, la histeria colectiva \ (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXNxee2ix6Ke0bSIqFST0UhbVLR.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",Caza de brujas, la histeria colectiva \ (2018)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/134529.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazadores de trufas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHWDGwEDM6wCFWAqBWrWTezncfq.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",Cazadores de trufas (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/134530.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La caza del marfil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWFyOj0wk8AFLqC8PH5LRD3kJht.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La caza del marfil (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/135079.mp4
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La reina de la caza (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBd8wKtOnuMAocz8qM5wxvPvIcJ.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La reina de la caza (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/135157.mp4
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La verdadera caza del Octubre Rojo \ (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59TWAJRYb5Qtu3mOzQ5JjhmOv39.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La verdadera caza del Octubre Rojo \ (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/135197.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La verdadera caza del Octubre Rojo \ (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59TWAJRYb5Qtu3mOzQ5JjhmOv39.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",La verdadera caza del Octubre Rojo \ (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/135198.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="DOCS | NETFLIX | MULTI AUDIO",No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/135412.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Hansel y Gretel: Cazadores de brujas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSoRQKVITESDpSCOdzgAyCy6xeE.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Hansel y Gretel: Cazadores de brujas (2013)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/128848.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Hunt. Caza al espía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tP95kmRkNtmqqeihwd9kpyedoY.jpg" group-title="CINE | ESPAÑOL | 2022",Hunt. Caza al espía (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129027.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Hunter Killer: Caza en las profundidades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nxYXbkuzJe5y3flRe7KmqvC0YW.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Hunter Killer: Caza en las profundidades (2018)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129029.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Jack el cazagigantes (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV1qcF3ifxJqEESus7wJeDrR3z2.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Jack el cazagigantes (2013)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129174.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Jesucristo, cazador de vampiros (Jesucristo Cazavampiros) (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYAiPgkzaCAlMwQ7hyAr0h3D2uF.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Jesucristo, cazador de vampiros (Jesucristo Cazavampiros) (2001)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129206.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Joe Kenda. Cazador de asesinos \ (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyU2NBaiUAvPD0QOz7Any3GsXfA.jpg" group-title="CINE | ESPAÑOL | 2022",Joe Kenda. Cazador de asesinos \ (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129222.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Capitán Kronos, cazador de vampiros (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibBETPt98MYvGwdWDelC621xwIo.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Capitán Kronos, cazador de vampiros (1974)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126709.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Caza al asesino (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya0y3DpcxThx1MnDZap2skLUjwJ.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Caza al asesino (2013)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126755.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Caza al asesino (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Caza al asesino (2015)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126756.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazadora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QxCd3pSSrj6QqaG4fkNkaJmUa.jpg" group-title="CINE | ESPAÑOL | 2023",Cazadora (2023)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126757.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador a sueldo (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2il9Q4Pdv4P13PSwJCEQIQy3UBM.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Cazador a sueldo (1980)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126758.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador blanco, corazón negro (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAOByNe1uQsuIJVQsC4yssXIHpA.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Cazador blanco, corazón negro (1990)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126759.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador contra cazador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpUeO4MppzOy5px8Wn39A1ZkDW.jpg" group-title="CINE | ESPAÑOL | 2019-20",Cazador contra cazador (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126760.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xScci6nSbM2TS7gdTrEOJDT8Rm.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Cazador de demonios (2012)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126761.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazadores de mentes (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSEcvqYMfQCTyUFPLTBwdxfK4o1.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Cazadores de mentes (2004)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126762.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tJMeknwCcrUgwi3sEVsGTWt2ex.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Cazadores de sombras: Ciudad de hueso (2013)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126763.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cazadores de tesoros (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztXXJMdVpOdTvIQPDB34Y86ZTpb.jpg" group-title="CINE | ESPAÑOL | 2022",Cazadores de tesoros (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126764.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Cazafantasmas (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126765.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jy2R4irQMZEaHvGkKoyuaKJPJO.jpg" group-title="CINE | ESPAÑOL | 2021",Cazafantasmas: Más allá (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126766.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Caza legal (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jukwx8fCOtziEKqZElwa3Th0tOQ.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Caza legal (1995)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126767.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Caza mayor \ (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jukwx8fCOtziEKqZElwa3Th0tOQ.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Caza mayor \ (2014)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126768.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Coto de caza (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11o1QcHLl0dCT8sf0lm520yZX8m.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Coto de caza (1983)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/126986.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="De caza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKbAWHy6JGl1Hk2M9Vc8GUP2eLS.jpg" group-title="CINE | ESPAÑOL | 2022",De caza (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/127154.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="El cazador de recompensas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L7MhsmvQ43fSIE202UcvJJ3kJT.jpg" group-title="CINE | ESPAÑOL | 2022",El cazador de recompensas (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/127556.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cazador de sueños (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxwRecjTAizQDS7rzttWDNt2aIe.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",El cazador de sueños (2003)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/127557.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="El último cazador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIw5P6BZHRxG2JIBswRsGXsgTLV.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",El último cazador (2011)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/128284.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El último cazador de brujas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",El último cazador de brujas (2015)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/128285.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Espía a la caza (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuT9LNerDiDkVJgysSadigkLcyf.jpg" group-title="CINE | ESPAÑOL | 2023",Espía a la caza (2023)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/128485.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Blancanieves y la leyenda del cazador (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXDkg5obS59srKM2IefPIZMGF4b.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Blancanieves y la leyenda del cazador (2012)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/123694.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Bonnie. La cazatalentos de Hollywood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYAQtWVRJczUyPjteN2wPhzwaLS.jpg" group-title="CINE | ESPAÑOL | 2022",Bonnie. La cazatalentos de Hollywood (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/123738.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Boone, El Cazarrecompensas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akqKTfd6EbUQamcvVrJS1CxOdUH.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Boone, El Cazarrecompensas (2017)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/123744.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Abraham Lincoln: Cazador de vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcDsS3wnlwXvIRXYPUhsktaFKe4.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Abraham Lincoln: Cazador de vampiros (2012)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/124898.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Cazadores de tesoros (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztXXJMdVpOdTvIQPDB34Y86ZTpb.jpg" group-title="CINE | ESPAÑOL | 2022",Cazadores de tesoros (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/125485.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Hunt. Caza al espía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P7qsJ46xAQsHlNBc9qkqEirSCy.jpg" group-title="CINE | ESPAÑOL | 2022",Hunt. Caza al espía (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/115543.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Hunt. Caza al espía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P7qsJ46xAQsHlNBc9qkqEirSCy.jpg" group-title="CINE | ESPAÑOL | 2022",Hunt. Caza al espía (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/115549.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="De caza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dgNc7FB5RMm6w4D6S0UpZhsUbW.jpg" group-title="CINE | ESPAÑOL | 2022",De caza (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/110621.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador blanco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dEk9NAVpgYTdtmDXNbpw1mqOli.jpg" group-title="CINE | ESPAÑOL | 2019-20",Cazador blanco (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/104933.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Cazafantasmas: Más allá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBlHh4BNiGYgfBTAFi8XONfseN8.jpg" group-title="CINE | ESPAÑOL | 2021",Cazafantasmas: Más allá (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/102409.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Jack el cazagigantes (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV1qcF3ifxJqEESus7wJeDrR3z2.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Jack el cazagigantes (2013)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/100323.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador contra cazador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j52lKBGoHGmUJNUMsDV5kHOkMfC.jpg" group-title="CINE | ESPAÑOL | 2019-20",Cazador contra cazador (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/100084.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Presas de caza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" group-title="CINE | ESPAÑOL | 2021",Presas de caza (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/98197.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Orden: caza sin cuartel (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JENYGXzJCPs306cbiAGPKJvSsv.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Orden: caza sin cuartel (1949)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/96225.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Hunter Killer: Caza en las profundidades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYdNCLoAoycUGuIr7U3y9nNWGGt.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Hunter Killer: Caza en las profundidades (2018)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/93461.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Cazador blanco, corazón negro (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAOByNe1uQsuIJVQsC4yssXIHpA.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Cazador blanco, corazón negro (1990)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/89824.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Consejos de una canguro para cazar monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg" group-title="CINE | ESPAÑOL | 2019-20",Consejos de una canguro para cazar monstruos (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/74469.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Tiempo de Caza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v63T7S7JDCufYl9jxdTt6eViJMG.jpg" group-title="CINE | ESPAÑOL | 2019-20",Tiempo de Caza (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/69458.mp4
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La caza - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmflsMjk4lxx2foNUtd1OKWv6vB.jpg" group-title="CINE | ESPAÑOL | 2019-20",La caza - 2020
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/65835.avi
+--
+#EXTINF:-1 tvg-ID="" tvg-name="The Birdcatcher (El Cazador de Pájaros) - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9dmHphfmhmIZ4h8zRvhnSvuq0A.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",The Birdcatcher (El Cazador de Pájaros) - 2017
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/62464.avi
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La caza de un asesino S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayt15sWN71pW0zGIqu9zOOew9Ee.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",La caza de un asesino S01 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/96468.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La caza de un asesino S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayt15sWN71pW0zGIqu9zOOew9Ee.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",La caza de un asesino S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/96469.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La caza de un asesino S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayt15sWN71pW0zGIqu9zOOew9Ee.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",La caza de un asesino S01 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/96470.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La caza de un asesino S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayt15sWN71pW0zGIqu9zOOew9Ee.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",La caza de un asesino S01 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/96471.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La caza de un asesino S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayt15sWN71pW0zGIqu9zOOew9Ee.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",La caza de un asesino S01 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/96472.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La caza de un asesino S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayt15sWN71pW0zGIqu9zOOew9Ee.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",La caza de un asesino S01 E06
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/96473.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="The Chestnut Man S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BFYCAzaw4HONXAqIWkNUUVTQbJ.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",The Chestnut Man S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/99554.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES | IBERALIA" tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/IberaliaTV_400x300.png" group-title="ESPAÑA",ES | IBERALIA
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1861
@@ -459,9 +638,6 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2100614
 --
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="D| Caza y pesca FHD" tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca FHD
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/158477
---
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="CAZA Y PESCA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/caza-y-pesca-hd.png" group-title="⚽ DEPORTES",CAZA Y PESCA ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/23121
 --
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Cazafantasmas ⭐️" tvg-logo="https://w7.pngwing.com/pngs/412/163/png-transparent-ghostbusters-logo-logo-ghostbusters-film-art-ghost-white-text-logo.png" group-title="24/7",24/7 Los Cazafantasmas ⭐️
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/177137
@@ -780,8 +956,6 @@ http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_HQBP7DtjdiWlk4T_mrZI5Y/ts
 #EXTINF:-1 xui-id="572051" tvg-id="" tvg-name="ES: Cazavision" tvg-logo="https://www.orange.es/ss/Satellite?blobcol=urldata&blobheadername1=Cache-Control&blobheadervalue1=max-age=3600&blobkey=id&blobnocache=false&blobtable=MungoBlobs&blobwhere=1521462446910&ssbinary=true" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Cazavision
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_Hr171Pvp1HZdupK4b1wrO4/ts
 --
-#EXTINF:-1 xui-id="572055" tvg-id="" tvg-name="ES: Iberelia 100% Pesca C" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Iberelia 100% Pesca C
-http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_Cc9aiVSHaV5sqcgR6HL4do/ts
 #EXTINF:-1 xui-id="572056" tvg-id="" tvg-name="Iberalia 100% Caza" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="▶️ | ESPAÑA DOCUMENTALES",Iberalia 100% Caza
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_NGQXr8FG8VbRtbVGX5jP4s/ts
 --

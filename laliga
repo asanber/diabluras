@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=#EXTINF:-1 tvg-ID="DAZN LALIGA" tvg-name="DAZN LA LIGA HD B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LaLiga_logo_%282023%29.svg/2560px-LaLiga_logo_%282023%29.svg.png" group-title="ESPAÑA | DAZN POR M+",DAZN LA LIGA HD B
-http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/119411.m3u8
 #EXTINF:-1 tvg-ID="DAZN LALIGA" tvg-name="DAZN LA LIGA SD B" tvg-logo="" group-title="ESPAÑA | DAZN POR M+",DAZN LA LIGA SD B
 http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/119412.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA FHD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN LA LIGA FHD
@@ -156,51 +154,226 @@ http://tvbox.ovh:37500/movie/Batidora/5dc54d65c4ddv/125805.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="CINE | ESPAÑOL | SAGAS",La Liga de la Justicia de Zack Snyder (2021)
 http://tvbox.ovh:37500/movie/Batidora/5dc54d65c4ddv/125806.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="Latino | beIN Sports La Liga" tvg-logo="http://lonewolftvpr.com/logos/beinlaliga.png" group-title="LATINOS",Latino | beIN Sports La Liga
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/372623
+#EXTINF:-1 tvg-ID="NEWS_DIGITAL_Mono" tvg-name="beIN SPORTS LA LIGA HD" tvg-logo="https://i.pinimg.com/originals/a3/19/4a/a3194a63e709bab493938f9e1761327b.png" group-title="ARABES | BEINSPORTS",beIN SPORTS LA LIGA HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/71962
 --
-#EXTINF:-1 tvg-id="" tvg-name="LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Jlh0BLfRHaeMSXBIYV9s3599H1.jpg" group-title="VIDEOCLUB INFANTIL",LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/463874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRsWTDTf0YJhcoDEDIW6xAFxBiG.jpg" group-title="VIDEOCLUB INFANTIL",LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/463875.mkv
+#EXTINF:-1 tvg-ID="DAZN LALIGA" tvg-name="DAZN LA LIGA HD B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LaLiga_logo_%282023%29.svg/2560px-LaLiga_logo_%282023%29.svg.png" group-title="ESPAÑA | DAZN POR M+",DAZN LA LIGA HD B
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/119411
+#EXTINF:-1 tvg-ID="DAZN LALIGA" tvg-name="DAZN LA LIGA SD B" tvg-logo="" group-title="ESPAÑA | DAZN POR M+",DAZN LA LIGA SD B
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/119412
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA FHD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN LA LIGA FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116340
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA HD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN LA LIGA HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116341
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA SD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN LA LIGA SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116342
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://russia.za3za3.com:19745/imagesiptv/logos/1/SPAIN/Dazn-1.png" group-title="DAZN | DEPORTES 4K-HD",DAZN LALIGA 2 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/110732
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn La Liga 3 HD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",Dazn La Liga 3 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117161
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn La Liga 4 HD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",Dazn La Liga 4 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117162
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn La Liga 5 HD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",Dazn La Liga 5 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117163
 --
-#EXTINF:-1 tvg-id="" tvg-name="Steve y la liga de los monstruos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="VIDEOCLUB INFANTIL",Steve y la liga de los monstruos (2021)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464203.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LaLiga_logo_%282023%29.svg/2560px-LaLiga_logo_%282023%29.svg.png" group-title="ESPAÑA | DAZN POR M+",DAZN LA LIGA HD ES
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116873
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA SD ES" tvg-logo="" group-title="ESPAÑA | DAZN POR M+",DAZN LA LIGA SD ES
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116874
 --
-#EXTINF:-1 tvg-id="" tvg-name="Steve y la liga de los monstruos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="VIDEOCLUB INFANTIL",Steve y la liga de los monstruos (2021)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464258.mkv
+#EXTINF:-1 tvg-ID="LALIGA+" tvg-name="LALIGA+ HD" tvg-logo="" group-title="SPORTS | AFRICA CUP 2024",LALIGA+ HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/137203
+#EXTINF:-1 tvg-ID="LALIGA+" tvg-name="LALIGA+ SD" tvg-logo="" group-title="SPORTS | AFRICA CUP 2024",LALIGA+ SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/137204
+#EXTINF:-1 tvg-ID="M+ LALIGA TV" tvg-name="M+LaLigaTV HD B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV HD B
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/119286
+#EXTINF:-1 tvg-ID="M+ LALIGA TV" tvg-name="M+LaLigaTV SD B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV SD B
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/119287
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 4k" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4k
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116086
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116087
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116088
+#EXTINF:-1 tvg-ID="M+ LALIGA TV" tvg-name="M+LaLigaTV HD C" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV HD C
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/119409
+#EXTINF:-1 tvg-ID="M+ LALIGA TV" tvg-name="M+LaLigaTV SD C" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV SD C
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/119410
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116089
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116090
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116091
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 3 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116092
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116093
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+LaLigaTV 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116094
+#EXTINF:-1 tvg-ID="M+ LaLiga 4" tvg-name="M+LaLigaTV 4 4k" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 4k
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117149
+#EXTINF:-1 tvg-ID="M+ LaLiga 4" tvg-name="M+LaLigaTV 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117150
+#EXTINF:-1 tvg-ID="M+ LaLiga 4" tvg-name="M+LaLigaTV 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117151
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 5 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 4k
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117152
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 5 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117153
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 5 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117154
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 4k
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117155
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117156
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 6 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117157
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 4k
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117158
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117159
+#EXTINF:-1 tvg-ID="" tvg-name="M+LaLigaTV 7 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/117160
+#EXTINF:-1 tvg-ID="" tvg-name="M+ LaLiga TV Bar FHD" tvg-logo="" group-title="ESPAÑA | CANALES BAR",M+ LaLiga TV Bar FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/121034
+#EXTINF:-1 tvg-ID="" tvg-name="M+ LaLiga TV Bar 2 FHD" tvg-logo="" group-title="ESPAÑA | CANALES BAR",M+ LaLiga TV Bar 2 FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/121035
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia: Crisis en dos tierras (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia: Crisis en dos tierras (2010)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464438.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia: Dioses y Monstruos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLj9T1wDzFWg8FEJSxTPZXWTPCu.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia: Dioses y Monstruos (2015)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464439.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia: El trono de Atlantis (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKHWoabqFg7QVS4Xqu5Q84PmuAo.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia: El trono de Atlantis (2015)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia: Guerra (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia: Guerra (2014)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464441.mkv
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION" tvg-name="LaLiga TV Hypermotion 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116128
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116129
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION" tvg-name="LaLiga TV Hypermotion SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116130
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION 2" tvg-name="LaLiga TV Hypermotion 2 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 2 4k
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116131
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION 2" tvg-name="LaLiga TV Hypermotion 2 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 2 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116132
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION 2" tvg-name="LaLiga TV Hypermotion 2 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 2 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116133
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION 3" tvg-name="LaLiga TV Hypermotion 3 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 3 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116134
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION 3" tvg-name="LaLiga TV Hypermotion 3 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 3 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116135
+#EXTINF:-1 tvg-ID="LALIGA TV HYPERMOTION 3" tvg-name="LaLiga TV Hypermotion 3 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 3 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116136
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 4 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116822
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 4 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116823
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 4 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116824
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 5 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 5 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116825
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 5 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 5 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116826
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 5 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 5 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116827
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 6 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 6 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116828
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 6 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 6 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116829
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 6 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 6 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116830
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 7 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 7 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116831
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 7 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 7 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116832
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 8 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 8 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116833
+#EXTINF:-1 tvg-ID="" tvg-name="LaLiga TV Hypermotion 8 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 8 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116834
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia: Perdición (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8V3EJxD78JZvKputjBCAgPjB3x.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia: Perdición (2012)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia contra la Liga de Bizarro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRHqcO3YgG2Y4oBYDf2Gp8EQhvd.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia contra la Liga de Bizarro (2015)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464444.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia contra los Jóvenes Titanes (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cUDnsWQSeknDeasWpq59WNjWjd.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia contra los Jóvenes Titanes (2016)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464445.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia de Zack Snyder (2021)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia Oscura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="VIDEOCLUB INFANTIL",La Liga de la Justicia Oscura (2017)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464447.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga 2 FHD (Solo Eventos)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga 2 FHD (Solo Eventos)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116556
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga 2 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga 2 (Solo Eventos)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116557
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga 3 FHD (Solo Eventos)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga 3 FHD (Solo Eventos)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116558
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga 4 FHD (Solo Eventos)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga 4 FHD (Solo Eventos)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116559
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga 5 FHD (Solo Eventos)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga 5 FHD (Solo Eventos)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116560
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga 6 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga 6 (Solo Eventos)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116561
 --
-#EXTINF:-1 tvg-id="" tvg-name="LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Jlh0BLfRHaeMSXBIYV9s3599H1.jpg" group-title="VIDEOCLUB INFANTIL",LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRsWTDTf0YJhcoDEDIW6xAFxBiG.jpg" group-title="VIDEOCLUB INFANTIL",LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464452.avi
-#EXTINF:-1 tvg-id="" tvg-name="LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRsWTDTf0YJhcoDEDIW6xAFxBiG.jpg" group-title="VIDEOCLUB INFANTIL",LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LEGO La Liga de la Justicia: Fuga de Gotham (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PpDU8QkX4viQImWO5CH4RsdjQb.jpg" group-title="VIDEOCLUB INFANTIL",LEGO La Liga de la Justicia: Fuga de Gotham (2016)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464454.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga SD" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116780
 --
-#EXTINF:-1 tvg-id="" tvg-name="Una mujer en la liga (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6kyDggJcVeuzc8WFX0uIwAelJ8.jpg" group-title=" ESTRENOS ENERO 2024",Una mujer en la liga (1989)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/468099.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga HD (1080P)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga HD (1080P)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116782
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga FHD (Fibra)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. LaLiga FHD (Fibra)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116783
+--
+#EXTINF:-1 tvg-ID="" tvg-name="LALIGA INSIDE" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",LALIGA INSIDE
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/140095
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia contra los Jóvenes Titanes (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cUDnsWQSeknDeasWpq59WNjWjd.jpg" group-title="CINE | ESPAÑOL | SAGAS",La Liga de la Justicia contra los Jóvenes Titanes (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/125805.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="CINE | ESPAÑOL | SAGAS",La Liga de la Justicia de Zack Snyder (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/125806.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN LaLiga HD" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA | US",BeIN LaLiga HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78435
+--
+#EXTINF:-1 tvg-ID="" tvg-name="DEPORTES| BEIN SPORTS LA LIGA  FHD" tvg-logo="http://miarea.vip:8080/images/f31075fd880608ac00a0255465732877.png" group-title="LATINOS | LA",DEPORTES| BEIN SPORTS LA LIGA  FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/103953
+--
+#EXTINF:-1 tvg-ID="" tvg-name="DEPORTES| MOVISTAR LA LIGA FHD" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="LATINOS | LA",DEPORTES| MOVISTAR LA LIGA FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/104000
+#EXTINF:-1 tvg-ID="" tvg-name="DEPORTES| LA LIGATV BAR HD ESPANA LEAGUE" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="LATINOS | LA",DEPORTES| LA LIGATV BAR HD ESPANA LEAGUE
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/104001
+--
+#EXTINF:-1 tvg-ID="" tvg-name="DEPORTES|  SUPER SPORTS LA LIGA HD" tvg-logo="https://www.clipartmax.com/png/middle/251-2512322_laliga-horizontal-logo-vector-transparent-free-vector-la-liga-tv-bar-1.png" group-title="LATINOS | LA",DEPORTES|  SUPER SPORTS LA LIGA HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/104004
+--
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| MOVISTAR LA LIGA FHD** ENC" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="LATINOS | LA",LAT| MOVISTAR LA LIGA FHD** ENC
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/103937
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia: Crisis en dos tierras (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia: Crisis en dos tierras (2010)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129383.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia: Dioses y Monstruos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLj9T1wDzFWg8FEJSxTPZXWTPCu.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia: Dioses y Monstruos (2015)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129384.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia: El trono de Atlantis (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKHWoabqFg7QVS4Xqu5Q84PmuAo.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia: El trono de Atlantis (2015)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129385.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia: Guerra (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia: Guerra (2014)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129386.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia - La paradoja del tiempo \ (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia - La paradoja del tiempo \ (2013)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129387.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia: Perdición (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8V3EJxD78JZvKputjBCAgPjB3x.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia: Perdición (2012)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129388.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia contra la Liga de Bizarro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRHqcO3YgG2Y4oBYDf2Gp8EQhvd.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia contra la Liga de Bizarro (2015)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129389.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia contra los Jóvenes Titanes (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cUDnsWQSeknDeasWpq59WNjWjd.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia contra los Jóvenes Titanes (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129390.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia de Zack Snyder (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129391.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia Oscura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="KIDS | ESPAÑOL",La Liga de la Justicia Oscura (2017)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129392.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Jlh0BLfRHaeMSXBIYV9s3599H1.jpg" group-title="KIDS | ESPAÑOL",LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129396.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRsWTDTf0YJhcoDEDIW6xAFxBiG.jpg" group-title="KIDS | ESPAÑOL",LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129397.avi
+#EXTINF:-1 tvg-ID="" tvg-name="LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRsWTDTf0YJhcoDEDIW6xAFxBiG.jpg" group-title="KIDS | ESPAÑOL",LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129398.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="LEGO La Liga de la Justicia: Fuga de Gotham (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PpDU8QkX4viQImWO5CH4RsdjQb.jpg" group-title="KIDS | ESPAÑOL",LEGO La Liga de la Justicia: Fuga de Gotham (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129399.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Tres granujas en la liga (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSPslo4NSYKFRaymnCNvqSxXZZn.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Tres granujas en la liga (1994)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/140012.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Una mujer en la liga (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6kyDggJcVeuzc8WFX0uIwAelJ8.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Una mujer en la liga (1989)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/140013.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="CINE | ESPAÑOL | 2021",La Liga de la Justicia de Zack Snyder (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130677.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Steve y la liga de los monstruos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="CINE | ESPAÑOL | 2021",Steve y la liga de los monstruos (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/106629.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La liga de los 5 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eIOdLA8rfavDwJryXiqhegztSp.jpg" group-title="CINE | ESPAÑOL | 2019-20",La liga de los 5 - 2019
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/66843.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="DEP | La Liga BAR FHD (ES)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="DEPORTES",DEP | La Liga BAR FHD (ES)
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1679
@@ -768,16 +941,21 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2144812
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198225
+#EXTINF:-1 tvg-id="" tvg-name="06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198277
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198278
 --
-#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198232
-#EXTINF:-1 tvg-id="" tvg-name="11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198233
+#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198282
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198237
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198285
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198286
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198289
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/197233
@@ -857,16 +1035,21 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198225
+#EXTINF:-1 tvg-id="" tvg-name="06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198277
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198278
 --
-#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198232
-#EXTINF:-1 tvg-id="" tvg-name="11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198233
+#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198282
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198237
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198285
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198286
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198289
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/197233
@@ -925,16 +1108,21 @@ http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/220429
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2144812
 --
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198225
+#EXTINF:-1 tvg-id="" tvg-name="06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198277
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198278
 --
-#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198232
-#EXTINF:-1 tvg-id="" tvg-name="11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198233
+#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198282
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198237
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198285
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198286
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198289
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/197233
@@ -994,16 +1182,21 @@ http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198225
+#EXTINF:-1 tvg-id="" tvg-name="06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198277
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198278
 --
-#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198232
-#EXTINF:-1 tvg-id="" tvg-name="11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198233
+#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198282
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198237
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198285
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198286
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198289
 --
 #EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 2 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Dazn 2 HD
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2133202
@@ -1043,35 +1236,21 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198225
+#EXTINF:-1 tvg-id="" tvg-name="06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198277
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198278
 --
-#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198232
-#EXTINF:-1 tvg-id="" tvg-name="11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198233
+#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198282
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198237
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198285
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198286
 --
-#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="DAZN LA LIGA 2 ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="⚽ DAZN / MOVISTAR / SKY",DAZN LA LIGA 2 ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/56867
-#EXTINF:-1 tvg-id="DAZNLaLiga2.es" tvg-name="DAZN LA LIGA 2 ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="⚽ DAZN / MOVISTAR / SKY",DAZN LA LIGA 2 ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/60280
---
-#EXTINF:-1 tvg-id="M+ LaLiga" tvg-name="MOVISTAR LA LIGA TV 1 ᴴᴰ" tvg-logo="https://i.ibb.co/JyH4Qxv/La-Liga-V-2015.png" group-title="⚽ DAZN / MOVISTAR / SKY",MOVISTAR LA LIGA TV 1 ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/168252
---
-#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN LA LIGA 1 ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="⚽ DAZN / MOVISTAR / SKY",DAZN LA LIGA 1 ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/60279
-#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN LA LIGA 1 ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="⚽ DAZN / MOVISTAR / SKY",DAZN LA LIGA 1 ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/56866
---
-#EXTINF:-1 tvg-id="M+ LaLiga" tvg-name="MOVISTAR LA LIGA TV 1 | FHD" tvg-logo="https://i.ibb.co/JyH4Qxv/La-Liga-V-2015.png" group-title="⚽ DAZN / MOVISTAR / SKY",MOVISTAR LA LIGA TV 1 | FHD
-https://nxt.plus:8443/pepespain/rytryrtytrytry/65683
---
-#EXTINF:-1 tvg-id="SkySports16.mx" tvg-name="SKY SPORTS LA LIGA ᴴᴰ" tvg-logo="" group-title="⚽ DAZN / MOVISTAR / SKY",SKY SPORTS LA LIGA ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/201471
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198289
 --
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | M. DAZN La Liga 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="DEPORTES ESPAÑA",DEP ES | M. DAZN La Liga 1 FHD
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/440259
@@ -1096,14 +1275,24 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/440268
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (DAZN La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (DAZN La Liga 2)
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/440269
 --
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531819
-#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531820
-#EXTINF:-1 tvg-id="" tvg-name="11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531821
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531822
+#EXTINF:-1 tvg-id="" tvg-name="003 ES: La Liga / Getafe vs Celta 7:00AM - Sevilla vs Atletico Madrid 11:30AM - DAZN La Liga" tvg-logo="" group-title="EVENTOS FUTBOL",003 ES: La Liga / Getafe vs Celta 7:00AM - Sevilla vs Atletico Madrid 11:30AM - DAZN La Liga
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531900
+#EXTINF:-1 tvg-id="" tvg-name="003 ES: La Liga / Mallorca vs Rayo 9:15AM - Barcelona vs Granada 2:00PM -  M La Liga" tvg-logo="" group-title="EVENTOS FUTBOL",003 ES: La Liga / Mallorca vs Rayo 9:15AM - Barcelona vs Granada 2:00PM -  M La Liga
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531901
+--
+#EXTINF:-1 tvg-id="" tvg-name="06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0zGfNVfnn9XD6hoVU5nZZNDrnwPBb18isERXTVqwwTHRW1I7XJFbMvgrAv9NStF-Hgl3CH5zc23KcY2JOmHzRagI5Bu5Z7lcwr3Ms2fjQk5r0iSdv66wiHsS-5nzmsZG4Q.png" group-title="EVENTOS FUTBOL",06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531922
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0zGfNVfnn9XD6hoVU5nZZNDrnwPBb18isERXTVqwwTHRW1I7XJFbMvgrAv9NStF-Hgl3CH5zc23KcY2JOmHzRagI5Bu5Z7lcwr3Ms2fjQk5r0iSdv66wiHsS-5nzmsZG4Q.png" group-title="EVENTOS FUTBOL",06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531923
+--
+#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0zGfNVfnn9XD6hoVU5nZZNDrnwPBb18isERXTVqwwTHRW1I7XJFbMvgrAv9NStF-Hgl3CH5zc23KcY2JOmHzRagI5Bu5Z7lcwr3Ms2fjQk5r0iSdv66wiHsS-5nzmsZG4Q.png" group-title="EVENTOS FUTBOL",09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531927
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0zGfNVfnn9XD6hoVU5nZZNDrnwPBb18isERXTVqwwTHRW1I7XJFbMvgrAv9NStF-Hgl3CH5zc23KcY2JOmHzRagI5Bu5Z7lcwr3Ms2fjQk5r0iSdv66wiHsS-5nzmsZG4Q.png" group-title="EVENTOS FUTBOL",11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531930
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0zGfNVfnn9XD6hoVU5nZZNDrnwPBb18isERXTVqwwTHRW1I7XJFbMvgrAv9NStF-Hgl3CH5zc23KcY2JOmHzRagI5Bu5Z7lcwr3Ms2fjQk5r0iSdv66wiHsS-5nzmsZG4Q.png" group-title="EVENTOS FUTBOL",01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531934
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN SPORTS La Liga" tvg-logo="http://tvstar.live:8880/chimg/1603498410.png" group-title="BEIN SPORTS ",US: beIN SPORTS La Liga
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/214737
@@ -1382,16 +1571,21 @@ http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/355184
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/117124
 --
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",06:55 AM | EN ESPAñOL - ALAVéS VS VILLARREAL (LALIGA)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361746
+#EXTINF:-1 tvg-id="" tvg-name="06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",06:50 AM | GETAFE VS CELTA DE VIGO (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361869
+#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",06:55 AM | EN ESPAñOL - GETAFE VS CELTA DE VIGO (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361870
 --
-#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",09:00 AM | EN ESPAñOL - REAL SOCIEDAD VS OSASUNA (LALIGA)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361753
-#EXTINF:-1 tvg-id="" tvg-name="11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:00 AM | EN ESPAñOL - REAL MADRID VS GIRONA (LALIGA)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361754
+#EXTINF:-1 tvg-id="" tvg-name="09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",09:00 AM | EN ESPAñOL - MALLORCA VS RAYO VALLECANO (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361874
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:55 PM | EN ESPAñOL - LAS PALMAS VS VALENCIA (LALIGA)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361758
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:15 AM | EN ESPAñOL - SEVILLA VS ATLETICO DE MADRID (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361877
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | EN ESPAñOL - SD EIBAR VS ZARAGOZA (SPANISH SEGUNDA DIVISION)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361878
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:30 PM | EN ESPAñOL - FC BARCELONA VS GRANADA (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361881
 --
 #EXTINF:-1 xui-id="410740" tvg-id="" tvg-name="DEU | SKY SPORTS LA LIGA HD" tvg-logo="http://svtv.xyz:8000/images/c3b7c24e4b2684e2072e003bb4866520.png" group-title="⚽ | PACK SKY SPORTS",DEU | SKY SPORTS LA LIGA HD
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_Ja2gk2gJAaY1KXaBuP-p4M/ts

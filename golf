@@ -20,47 +20,79 @@ http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116568.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ES: M. Golf SD" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. Golf SD
 http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116569.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="[CA] NBC GOLF" tvg-logo="" group-title="CANADA",[CA] NBC GOLF
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/467888
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf 4K" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116122
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf HD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116123
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+ Golf SD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116124
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf 2 4K" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 4K
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116125
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf 2 HD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116126
+#EXTINF:-1 tvg-ID="M+ GOLF HD" tvg-name="M+ Golf 2 SD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116127
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/467402
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Golf HD (1080P)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. Golf HD (1080P)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116568
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Golf SD" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. Golf SD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116569
 --
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="LATINOS",Latino | Golf Channel
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/372674
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="GOLF CHANNEL FHD" tvg-logo="http://www.topstb.info/logo/FRANCE/GOLFCHANNELHD.png" group-title="FRANCE | SPORTS",GOLF CHANNEL FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/70861
+#EXTINF:-1 tvg-ID="Golf.fr" tvg-name="GOLF HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GOLFCHANNELHD.png" group-title="FRANCE | SPORTS",GOLF HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/75506
+#EXTINF:-1 tvg-ID="" tvg-name="GOLF+ FHD" tvg-logo="" group-title="FRANCE | SPORTS",GOLF+ FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/70862
+#EXTINF:-1 tvg-ID="StingrayFestival.fr" tvg-name="GOLF+ FHD" tvg-logo="http://www.topstb.info/logo/FRANCE/GOLF%2BHD.png" group-title="FRANCE | SPORTS",GOLF+ FHD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/75898
 --
-#EXTINF:-1 tvg-id="" tvg-name="[FR]_GOLF+" tvg-logo="" group-title="FRANCIA",[FR]_GOLF+
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/461182
+#EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Golf" tvg-logo="http://tugapt.com/picons/ziggosportgolfnl.png" group-title="NETHERLANDS | NL",Ziggo Sport Golf
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/111733
 --
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="" group-title="UK",UK: Sky Sports Golf HD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/415098
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf SD" tvg-logo="" group-title="UK",UK: Sky Sports Golf SD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/415099
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORTS HD GOLF" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="ENGLAND | UK",SKY SPORTS HD GOLF
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/98419
 --
-#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport Golf" tvg-logo="" group-title="HOLANDA",|NL| Ziggo Sport Golf
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/374414
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://163.172.38.193:25461/logo/tv/ss/Sky_Sports_golf.png" group-title="ENGLAND | UK",SKY SPORTS GOLF
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/98427
 --
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf" tvg-logo="" group-title="HOLANDA",Ziggo Sport Golf
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/374433
+#EXTINF:-1 tvg-ID="" tvg-name="|SE| VIASAT GOLF HD" tvg-logo="" group-title="SCANDINAVE | SC",|SE| VIASAT GOLF HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/95748
 --
-#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport Golf" tvg-logo="" group-title="HOLANDA",|NL| Ziggo Sport Golf
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/374683
+#EXTINF:-1 tvg-ID="" tvg-name="|SE| C MORE GOLF HD" tvg-logo="" group-title="SCANDINAVE | SC",|SE| C MORE GOLF HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/95757
 --
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf FHD" tvg-logo="" group-title="ALEMANIA",DE: Sky Sport Golf FHD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/415275
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf HD" tvg-logo="" group-title="ALEMANIA",DE: Sky Sport Golf HD
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/415276
+#EXTINF:-1 tvg-ID="" tvg-name="NBC Golf HD" tvg-logo="http://163.172.38.193:25461/logo/tv/gg/golf_channel_us.png" group-title="USA | US",NBC Golf HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78475
+#EXTINF:-1 tvg-ID="" tvg-name="OneGolf TV" tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png" group-title="USA | US",OneGolf TV
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78476
 --
-#EXTINF:-1 tvg-id="" tvg-name="|.ZAF.|_SUPER GOLF" tvg-logo="" group-title="AFRICA",|.ZAF.|_SUPER GOLF
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/459338
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO ATLANTA HD" tvg-logo="data:image/png;base64,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" group-title="LATINOS | LA",LAT| TELEMUNDO ATLANTA HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/103866
 --
-#EXTINF:-1 tvg-id="" tvg-name="La dama y el vagabundo 2: Las aventuras de Golfillo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjD9v91ig7WZnyr1VcilPg9nBmy.jpg" group-title="VIDEOCLUB INFANTIL",La dama y el vagabundo 2: Las aventuras de Golfillo (2001)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/463787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La dama y el vagabundo 2: Las aventuras de Golfillo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjD9v91ig7WZnyr1VcilPg9nBmy.jpg" group-title="VIDEOCLUB INFANTIL",La dama y el vagabundo 2: Las aventuras de Golfillo (2001)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/463788.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| GOLF SPORTS LATINOAMRICANO HD" tvg-logo="http://miarea.vip:8080/images/a15360dcf36393085f07dc6ae94683b2.png" group-title="LATINOS | LA",LAT| GOLF SPORTS LATINOAMRICANO HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/103938
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf para dos (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggvyae0dTRHyKe3f81544AM7BbM.jpg" group-title="VIDEOCLUB INFANTIL",Golf para dos (1945)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464597.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La dama y el vagabundo 2: Las aventuras de Golfillo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjD9v91ig7WZnyr1VcilPg9nBmy.jpg" group-title="KIDS | ESPAÑOL",La dama y el vagabundo 2: Las aventuras de Golfillo (2001)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129970.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Golf para dos (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggvyae0dTRHyKe3f81544AM7BbM.jpg" group-title="KIDS | ESPAÑOL",Golf para dos (1945)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/129542.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Apaches (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUez9nfKgolfL2seCMFz2VofgI2.jpg" group-title="CINE | FRANÇAIS | 2023",Apaches (2023)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/118819.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Terminagolf \ (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceKh9Qd00EZg5uT2OnLOskL94kr.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Terminagolf \ (1996)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/133415.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="El golfo (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwiZ86qFtsugFzJAIvs2w31OxYk.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",El golfo (1969)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/127757.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Golfo de alquiler (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwkZrbrQSQl93bZtoeQi7rixOg1.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Golfo de alquiler (1984)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/128755.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="¡Qué par de golfantes! (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IOtkprNYtSL7UearFMKPPhk5Wn.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",¡Qué par de golfantes! (1953)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/111180.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="DEP | M. GOLF HD (ES)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="DEPORTES",DEP | M. GOLF HD (ES)
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1695
@@ -445,9 +477,6 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2145544
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168357
 --
-#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="GOLF CHANNEL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/golf-channel.png" group-title="⚽ DEPORTES",GOLF CHANNEL
-https://nxt.plus:8443/pepespain/rytryrtytrytry/187919
---
 #EXTINF:-1 tvg-id="" tvg-name="C More Golf" tvg-logo="http://www.iptvforall.net/newlogo/c_more_se_golf_hd.png" group-title="EUROSPORTS",C More Golf
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/62613
 --
@@ -620,9 +649,6 @@ http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_L74n6xyg96_hbAvKJoWJxQ/ts
 --
 #EXTINF:-1 xui-id="565872" tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="http://fanc.tmsimg.com/assets/s65385_ll_h3_aa.png" group-title="▶️ | DEPORTES PREMIUM",GOLF CHANNEL
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_LaGa93miEVFCgOFD1xqnvw/ts
---
-#EXTINF:-1 xui-id="576901" tvg-id="" tvg-name="US: The Golf Channel" tvg-logo="http://127.0.0.1/" group-title="▶️ USA PREMIUM",US: The Golf Channel
-http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_CHtLriB2CAiEeW7-T6GMiI/ts
 --
 #EXTINF:-1 xui-id="720641" tvg-id="" tvg-name="Golf - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/5c082331-7bf3-4c0e-8da0-3cf95e10bfd5.jpg" group-title="TV CANADA",Golf - CA
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_DB3jHzU0yBt1MVqXEeC_tY/ts

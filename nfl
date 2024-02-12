@@ -13,20 +13,261 @@ http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116401.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DAZN NFL SD CA" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN NFL SD CA
 http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116402.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="24/7 P | Cantinflas" tvg-logo="https://i.imgur.com/fWEOmjG.png" group-title="24/7 LATINO",24/7 P | Cantinflas
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/226004
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Network FHD DE" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",NFL Network FHD DE
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116382
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Network HD DE" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",NFL Network HD DE
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116383
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Network SD DE" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",NFL Network SD DE
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116384
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Network" tvg-logo="http://lonewolftvpr.com/logos/nfl.png" group-title="USA",USA | NFL Network
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/467458
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN NFL FHD CA" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN NFL FHD CA
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116400
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN NFL HD CA" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN NFL HD CA
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116401
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN NFL SD CA" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN NFL SD CA
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116402
 --
-#EXTINF:-1 tvg-id="" tvg-name="NFL Red Zone" tvg-logo="http://lonewolftvpr.com/logos/redzone.png" group-title="USA",NFL Red Zone
-http://darg.site:2082/Jocker/E6L9f4km2F6xnew/467537
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Network HD" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/nfl_network_us.png" group-title="USA | US",NFL Network HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78508
 --
-#EXTINF:-1 tvg-id="" tvg-name="La película Pokémon: Los secretos de la selva (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6FMNFl4mAnwFC5vgAGi2acmQlC.jpg" group-title="VIDEOCLUB INFANTIL",La película Pokémon: Los secretos de la selva (2020)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464137.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Red Zone (Live Events)" tvg-logo="https://www.bektel.com/image/cache/NFL_Redzone_horz.jpg" group-title="USA | US",NFL Red Zone (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78538
+#EXTINF:-1 tvg-ID="" tvg-name="NFL FOX Thursday Night Football" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL FOX Thursday Night Football
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78539
+#EXTINF:-1 tvg-ID="" tvg-name="NFL NBC Sunday Night Football" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL NBC Sunday Night Football
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78540
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 1 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 1 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78541
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 2 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 2 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78542
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 3 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 3 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78543
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 4 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 4 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78544
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 5 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 5 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78545
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 6 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 6 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78546
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 7 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 7 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78547
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 8 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 8 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78548
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 9 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 9 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78549
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 10 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 10 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78550
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 11 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 11 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78551
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 12 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 12 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78552
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Sunday Ticket 13 (Live Events)" tvg-logo="http://163.172.38.193:25461/logo/tv/nn/NFLsundayticket.png" group-title="USA | US",NFL Sunday Ticket 13 (Live Events)
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/78553
 --
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! El conflicto de Shaggy (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVTwefYsZe8lDMcrZQc4GBWtYr5.jpg" group-title="VIDEOCLUB INFANTIL",Scooby-Doo! El conflicto de Shaggy (2017)
-http://darg.site:2082/movie/Jocker/E6L9f4km2F6xnew/464213.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="HSN" tvg-logo="https://img.hsni.com/images/prod/2014/images/iosHSNFlatWhite_120.jpg" group-title="USA | US",HSN
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/79085
+--
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Channel" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="USA | PLUTO",NFL Channel
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/141057
+--
+#EXTINF:-1 tvg-ID="" tvg-name="NFL Super Bowl Classics" tvg-logo="http://images.pluto.tv/channels/657759efb9adc40008ff3911/colorLogoPNG.png" group-title="USA | PLUTO",NFL Super Bowl Classics
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/141360
+--
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| UNIVISION DALLAS TX HD" tvg-logo="data:image/jpeg;base64,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i2uzsxB7S97hy3NG7uaF967XjaLUtZXUrxVUNSYWTNaTsyxiKNpc3PtNIOPeOaxpfwW6NX1JqeU3C5VVunmpYamZ0g6p7oesAGA5wB57zv8AylvfTXeKynmtrYKmeFslG4vbHK5gedpoy4A7+K0jpEorYyoM1qqI56eoDnmFuQ6nkO8twQMNOd3dvHcsz0wXujrprc6knZUNipXRyFmey/abuOVu2UT3NlstibcdHUFO6qiogKqaTrZvU7M8/Z4jec9/Jczo10NHbrkKltzpawiCWPqoQA/Dtnf653DH1rS6680b9IUVvEzHVcdY+V8G/bawzTuBO7uc0+9cTojulLQ3dtRVSsp4fRpmF7tzdpxZgbvIrNnZlurmtXv+u1v9rqf8164S5V2la+qqntO019TO9pHAtdI4g/QVxF1MlURRQFUREBzUURdCBFEQgURFAFERChREQBREUAUREARREAURRAERRQFUREAUREKFEUUBVERAEREBzEURdDIRFFChEUQBEUQBEUUARFEARREAURFAFERAERRAEURQoRFEAREQBERAEREBy1EyplbIVRMqZQFUTKmVAVRMqZQFUTKmUBVFMooAiKIAiJlAFEUQpVEUUBVERAEREAREQBERAEREB90RFohEREBEREAURFAEREBEREKRERARERQBREQBERAEREAREQBERAEREAREQH//2Q==" group-title="LATINOS | LA",LAT| UNIVISION DALLAS TX HD
+http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/103813
+--
+#EXTINF:-1 tvg-ID="" tvg-name="RoboCop (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yuoqjfdkBCONNFLgh9EDviyOMx.jpg" group-title="CINE | ESPAÑOL | SAGAS",RoboCop (1987)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/95513.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Influencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCekjTsQei4NXOiYXdYgLZLqhcb.jpg" group-title="CINE | FRANÇAIS | 2023",Influencer (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/119381.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Wolfboy (2022)" tvg-logo="data:image/jpeg;base64,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" group-title="CINE | FRANÇAIS | 2022",Wolfboy (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/105028.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Le Journal d'un Dégonflé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fC2DjFRi1m7mR0cFL4uMSJuQ0Ps.jpg" group-title="KIDS | FRANCAIS",Le Journal d'un Dégonflé (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/100530.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Deux moi - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNfllusPIJoXSfxyyqo46iaB0zV.jpg" group-title="CINE | FRANÇAIS | ENGLISH",Deux moi - 2019
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/61834.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La influencia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" group-title="CINE | ESPAÑOL | 2019-20",La influencia (2019)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130615.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La Lola se va a los puertos (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Nyww6kGdVgHMnJ3INNfL6G0S6p.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",La Lola se va a los puertos (1993)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130696.avi
+#EXTINF:-1 tvg-ID="" tvg-name="La Luna a un Metro \" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Nyww6kGdVgHMnJ3INNfL6G0S6p.jpg" group-title="CINE | ESPAÑOL | 2023",La Luna a un Metro \
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130697.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="La noche que mi madre mató a mi padre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26d92U7nFllkctJwmoC3BJx4T94.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",La noche que mi madre mató a mi padre (2016)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/130800.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Los pasajeros del tiempo (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHZ2E5eeuBtnfll3dMZgJPiAGDT.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Los pasajeros del tiempo (1979)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/131322.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Los traductores (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHFDHkElzSynflEhpY17jL1cX1h.jpg" group-title="CINE | ESPAÑOL | 2019-20",Los traductores (2019)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/131352.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Punto de inflexión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l35ITIBPXuK0yk4Hp0aP0nIw1cW.jpg" group-title="CINE | ESPAÑOL | 2021",Punto de inflexión (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/132579.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Secretos y Traición (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cQV3RzYRanfLQH3XLA2hNuj2or.jpg" group-title="CINE | ESPAÑOL | 2022",Secretos y Traición (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/132975.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Deinfluencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLA4839HtC5GelEsUTFFtAL2ar5.jpg" group-title="CINE | ESPAÑOL | 2022",Deinfluencer (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/127162.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Dragonfly \ (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNLYneTNnlfjf0jVUADlqA7RXaf.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Dragonfly \ (2002)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/127362.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="En la línea de fuego (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIlYnflFMZleQXHt6uqSNc1P5aB.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",En la línea de fuego (1993)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/128380.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Focus (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Nfl7nbruxF1z01GxExUO0GYujm.jpg" group-title="CINE | ESPAÑOL | SIGLO 20",Focus (2015)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/128624.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Bajo su influencia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9wi3ip1aSLYBlEiZ36xLytvGWV.jpg" group-title="CINE | ESPAÑOL | 2021",Bajo su influencia (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/123566.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Deinfluencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA481nOxTQBnqsMDf8kjuB2OGxe.jpg" group-title="CINE | ESPAÑOL | 2022",Deinfluencer (2022)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/107784.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Punto de inflexión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l35ITIBPXuK0yk4Hp0aP0nIw1cW.jpg" group-title="CINE | ESPAÑOL | 2021",Punto de inflexión (2021)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/105832.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Los pasajeros del tiempo (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHZ2E5eeuBtnfll3dMZgJPiAGDT.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",Los pasajeros del tiempo (1979)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/96519.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="RoboCop (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yuoqjfdkBCONNFLgh9EDviyOMx.jpg" group-title="CINE | ESPAÑOL | SIGLO 19",RoboCop (1987)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/76215.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Historias lamentables (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snFldk9WQJvxlcYtlRBj36oQcEZ.jpg" group-title="CINE | ESPAÑOL | 2019-20",Historias lamentables (2020)
+http://tvbox.ovh:37500/movie/omarbro/215d4df5d8sazaedd/76117.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100496.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100497.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100498.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100499.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100500.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E06
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100501.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E07
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100502.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E08
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100504.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E09
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100505.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Money Heist: From Tokyo to Berlin S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0wLsOFpvK5nX5hsIAwXHrpnFLI.jpg" group-title="SERIES | NETFLIX 2021 | MULTI AUDIO",Money Heist: From Tokyo to Berlin S05 E10
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/100506.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Sr. Navidad, decora casas S01 E01" tvg-logo="https://occ-0-3281-360.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQN2ZFgSReh-J7jw4XiwqVf2U7CcSvI2kFMf2RQoVvMua-jPX8F-aMcxf0oREIxoMSErNL-FXWDg2WxQJzYeq-elMUg5SzroAAgBMHXSyMEjUeHXAhPHA6CQGwST.jpg?r=23e" group-title="SERIES |  ESPAÑOL | ENGLISH",Sr. Navidad, decora casas S01 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/76099.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sr. Navidad, decora casas S01 E02" tvg-logo="https://occ-0-3281-360.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQN2ZFgSReh-J7jw4XiwqVf2U7CcSvI2kFMf2RQoVvMua-jPX8F-aMcxf0oREIxoMSErNL-FXWDg2WxQJzYeq-elMUg5SzroAAgBMHXSyMEjUeHXAhPHA6CQGwST.jpg?r=23e" group-title="SERIES |  ESPAÑOL | ENGLISH",Sr. Navidad, decora casas S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/76100.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sr. Navidad, decora casas S01 E03" tvg-logo="https://occ-0-3281-360.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQN2ZFgSReh-J7jw4XiwqVf2U7CcSvI2kFMf2RQoVvMua-jPX8F-aMcxf0oREIxoMSErNL-FXWDg2WxQJzYeq-elMUg5SzroAAgBMHXSyMEjUeHXAhPHA6CQGwST.jpg?r=23e" group-title="SERIES |  ESPAÑOL | ENGLISH",Sr. Navidad, decora casas S01 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/76101.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sr. Navidad, decora casas S01 E04" tvg-logo="https://occ-0-3281-360.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQN2ZFgSReh-J7jw4XiwqVf2U7CcSvI2kFMf2RQoVvMua-jPX8F-aMcxf0oREIxoMSErNL-FXWDg2WxQJzYeq-elMUg5SzroAAgBMHXSyMEjUeHXAhPHA6CQGwST.jpg?r=23e" group-title="SERIES |  ESPAÑOL | ENGLISH",Sr. Navidad, decora casas S01 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/76102.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | FRANÇAIS",Lupin S02 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92608.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | FRANÇAIS",Lupin S02 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92609.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | FRANÇAIS",Lupin S02 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92610.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | FRANÇAIS",Lupin S02 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92611.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | FRANÇAIS",Lupin S02 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92612.avi
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",Lupin S02 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/93036.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",Lupin S02 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/93037.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",Lupin S02 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/93038.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",Lupin S02 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/93039.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lupin S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",Lupin S02 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/93040.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E01" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83469.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E02" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83470.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E03" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83471.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E04" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83472.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E05" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83473.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E06" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E06
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83474.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E07" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E07
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83475.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E08" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E08
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83476.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E09" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E09
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83477.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E10" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | NETFLIX | DOCUMENTALES | MULTI AUDIO",DEALER S01 E10
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/83478.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S10 E14" tvg-logo="https://image.tmdb.org/t/p/w300/ysyqoqkN7aMVitSJVZ1NflRfoYa.jpg" group-title="SERIES | FRANÇAIS",The Walking Dead S10 E14
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/84822.avi
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Recursos Inhumanos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn4nzhoYwPjkWNx6BnfLKkz2NGy.jpg" group-title="SERIES | NETFLIX | MULTI AUDIO",Recursos Inhumanos S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/86785.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="The Rain S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwcBKJnGC8KjmmNflQEzI9e9tzs.jpg" group-title="SERIES | NETFLIX | MULTI AUDIO",The Rain S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/87343.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="ملوك الجدعنة S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfWX6KIzArNFl7Syn7rdzz8cmt.jpg" group-title="SERIES | مسلسلات عربية",ملوك الجدعنة S01 E19
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/88118.mp4
+--
+#EXTINF:-1 tvg-ID="" tvg-name="2020 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH1GNfLrQbdn2R1wTns2X2J0XFG.jpg" group-title="SERIES | مسلسلات عربية",2020 S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/87992.mp4
+--
+#EXTINF:-1 tvg-ID="" tvg-name="لوبين S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | مسلسلات تركية",لوبين S02 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92953.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="لوبين S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | مسلسلات تركية",لوبين S02 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92954.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="لوبين S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | مسلسلات تركية",لوبين S02 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92955.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="لوبين S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | مسلسلات تركية",لوبين S02 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92956.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="لوبين S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg" group-title="SERIES | مسلسلات تركية",لوبين S02 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/92957.mp4
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Pustina S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyGBbr22WoDd4hNfLKyXkUlndeP.jpg" group-title="SERIES |  ESPAÑOL | ENGLISH",Pustina S01 E07
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/93621.mkv
+--
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E01" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E01
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94128.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E02" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E02
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94129.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E03" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E03
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94130.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E04" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E04
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94131.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E05" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94132.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E06" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E06
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94133.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E07" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E07
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94134.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E08" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E08
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94136.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E09" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E09
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94137.avi
+#EXTINF:-1 tvg-ID="" tvg-name="DEALER S01 E10" tvg-logo="https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd1bTgYtXqTsngQojeshccPv3AsgBp1DA6CSlzJVYXH4J3mxcAp7JqlHDlo4CWhteMRNmHsNe0shgNWlcyW4PMyWdDhXvt8o4oYdotz-eIImXJjbdP-4KJf2NPZH2g.jpg?r=818" group-title="SERIES | FRANÇAIS",DEALER S01 E10
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/94135.avi
+--
+#EXTINF:-1 tvg-ID="" tvg-name="SkyMed S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/peGqgbY2jNfLv0hUfcjHweIVLKO.jpg" group-title="SERIES | FRANÇAIS 2022",SkyMed S01 E05
+http://tvbox.ovh:37500/series/omarbro/215d4df5d8sazaedd/110970.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="24/7: Cantinflas" tvg-logo="http://51.161.117.219:80/images/07c2eac1b1e9e9091128c87f2dd1d75b.jpg" group-title="CANALES 24/7",24/7: Cantinflas
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1020
@@ -550,6 +791,11 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168289
 #EXTINF:-1 tvg-id="" tvg-name="CA: History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH9isrxYOEGr8-SLqG_0RZJWnvmfrBKbqCym_B0NfLyMylYWlfWLTErTULQhTrOUpXEc&usqp=CAU" group-title="TV | Canada",CA: History
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168363
 --
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198264
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198265
+--
 #EXTINF:-1 tvg-id="NFL Netw" tvg-name="S| NFL Network" tvg-logo="http://ceoapps.org/logos/nflnetworkizzi.png" group-title="TV | USA Sports",S| NFL Network
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/10647
 #EXTINF:-1 tvg-id="nflredzone.us" tvg-name="S| NFL Red Zone" tvg-logo="http://ceoapps.org/logos/nflredzone.png" group-title="TV | USA Sports",S| NFL Red Zone
@@ -589,6 +835,11 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2168289
 #EXTINF:-1 tvg-id="" tvg-name="CA: History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH9isrxYOEGr8-SLqG_0RZJWnvmfrBKbqCym_B0NfLyMylYWlfWLTErTULQhTrOUpXEc&usqp=CAU" group-title="TV | Canada",CA: History
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2168363
 --
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198264
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198265
+--
 #EXTINF:-1 tvg-id="NFL Netw" tvg-name="S| NFL Network" tvg-logo="http://ceoapps.org/logos/nflnetworkizzi.png" group-title="TV | USA Sports",S| NFL Network
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/10647
 #EXTINF:-1 tvg-id="nflredzone.us" tvg-name="S| NFL Red Zone" tvg-logo="http://ceoapps.org/logos/nflredzone.png" group-title="TV | USA Sports",S| NFL Red Zone
@@ -616,6 +867,11 @@ http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2168289
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH9isrxYOEGr8-SLqG_0RZJWnvmfrBKbqCym_B0NfLyMylYWlfWLTErTULQhTrOUpXEc&usqp=CAU" group-title="TV | Canada",CA: History
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2168363
+--
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198264
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198265
 --
 #EXTINF:-1 tvg-id="NFL Netw" tvg-name="S| NFL Network" tvg-logo="http://ceoapps.org/logos/nflnetworkizzi.png" group-title="TV | USA Sports",S| NFL Network
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/10647
@@ -648,6 +904,11 @@ http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2168289
 #EXTINF:-1 tvg-id="" tvg-name="CA: History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH9isrxYOEGr8-SLqG_0RZJWnvmfrBKbqCym_B0NfLyMylYWlfWLTErTULQhTrOUpXEc&usqp=CAU" group-title="TV | Canada",CA: History
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2168363
 --
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198264
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198265
+--
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas " tvg-logo="http://ceoapps.org/logos/247cantinflas.png" group-title="TV | 24/7 Peliculas",24/7 Cantinflas 
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2090937
 --
@@ -664,6 +925,31 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168289
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH9isrxYOEGr8-SLqG_0RZJWnvmfrBKbqCym_B0NfLyMylYWlfWLTErTULQhTrOUpXEc&usqp=CAU" group-title="TV | Canada",CA: History
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168363
+--
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198264
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="TV | PPV NFL | Super Bowl LVIII",NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198265
+--
+#EXTINF:-1 tvg-id="" tvg-name="001 USA: NFL Network HD" tvg-logo="" group-title="EVENTOS NFL",001 USA: NFL Network HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531889
+#EXTINF:-1 tvg-id="" tvg-name="001 LAT: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - Canal 5 HD" tvg-logo="" group-title="EVENTOS NFL",001 LAT: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - Canal 5 HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531890
+#EXTINF:-1 tvg-id="" tvg-name="001 USA: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - CBS NY" tvg-logo="" group-title="EVENTOS NFL",001 USA: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - CBS NY
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531891
+#EXTINF:-1 tvg-id="" tvg-name="001 UK: Superbowl 58 FHD / 49ERS vs CHIEFS - 5:00PM - Sky NFL FHD" tvg-logo="" group-title="EVENTOS NFL",001 UK: Superbowl 58 FHD / 49ERS vs CHIEFS - 5:00PM - Sky NFL FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531892
+#EXTINF:-1 tvg-id="" tvg-name="001 LAT: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - ESPN HD" tvg-logo="" group-title="EVENTOS NFL",001 LAT: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - ESPN HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531893
+#EXTINF:-1 tvg-id="" tvg-name="001 LAT: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - Fox Premium" tvg-logo="" group-title="EVENTOS NFL",001 LAT: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - Fox Premium
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531894
+#EXTINF:-1 tvg-id="" tvg-name="001 USA: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - Univision" tvg-logo="" group-title="EVENTOS NFL",001 USA: Superbowl 58 / 49ERS vs CHIEFS - 5:00PM - Univision
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531895
+--
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0-fC49g4C_eBCSuuTX8IZNlsqAZZMPLsOZ0xXl0TkdnwCckTgSEO02jR5XIqS-Kg8b37WEQn5ADECEO18FH3yP53MkMBH-23Lj6VxcIKgOZ7uTh86zJ94GgufNm9bTOcg308z2rOrWgQssjfpqxloqWFOTE07xsJhokFR9ahvYjA.png" group-title="EVENTOS NFL",NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531912
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU0-fC49g4C_eBCSuuTX8IZNlsqAZZMPLsOZ0xXl0TkdnwCckTgSEO02jR5XIqS-Kg8b37WEQn5ADECEO18FH3yP53MkMBH-23Lj6VxcIKgOZ7uTh86zJ94GgufNm9bTOcg308z2rOrWgQssjfpqxloqWFOTE07xsJhokFR9ahvYjA.png" group-title="EVENTOS NFL",NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531913
 --
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas (Animada) ⭐️" tvg-logo="https://vanguardia.com.mx/sites/default/files/styles/paragraph_image_large_desktop_1x/public/cantinflas-324324_0.jpg" group-title="24/7",24/7 | Cantinflas (Animada) ⭐️
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/107892
@@ -1070,123 +1356,84 @@ http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/63659
 #EXTINF:-1 tvg-id="" tvg-name="USA-NFL Network (1080)(L)" tvg-logo="https://www.netclipart.com/pp/m/351-3514505_vector-nfl-logo-png-nfl-network-logo-png.png" group-title="USA-SPORTS",USA-NFL Network (1080)(L)
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/336613
 --
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] ATLANTA HAWKS" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] ATLANTA HAWKS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361686
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] BOSTON CELTICS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] BOSTON CELTICS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361687
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] BROOKLYN NETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] BROOKLYN NETS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361688
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] CHARLOTTE HORNETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] CHARLOTTE HORNETS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361689
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] CHICAGO BULLS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] CHICAGO BULLS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361690
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] Dallas Mavericks" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] Dallas Mavericks
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361691
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] DENVER NUGGETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] DENVER NUGGETS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361692
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] DETROIT PISTONS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] DETROIT PISTONS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361693
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] GOLDEN STATE" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] GOLDEN STATE
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361694
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] Golden Warriors" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] Golden Warriors
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361695
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] HOUSTON ROCKETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] HOUSTON ROCKETS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361696
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] LOS ANGELES CLIPPERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] LOS ANGELES CLIPPERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361697
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] LOS ANGELES LAKERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] LOS ANGELES LAKERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361698
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] Memphis Grizzlies" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] Memphis Grizzlies
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361699
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] MIAMI HEAT" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] MIAMI HEAT
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361700
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] MILWAUKEE BUCKZ" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] MILWAUKEE BUCKZ
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361701
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] MINNESOTA TIMBERWOLVES" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] MINNESOTA TIMBERWOLVES
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361702
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] NEW ORLEANS PELICANS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] NEW ORLEANS PELICANS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361703
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] NEW YORK KNICKS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] NEW YORK KNICKS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361704
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] OKLAHOMA THUNDER" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] OKLAHOMA THUNDER
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361705
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] ORLANDO MAGIC" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] ORLANDO MAGIC
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361706
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] PHILA 76ERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] PHILA 76ERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361707
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] PHOENIX SUNS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] PHOENIX SUNS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361708
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] PORTLAND BLAZERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] PORTLAND BLAZERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361709
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] SACRAMENTO KINGS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] SACRAMENTO KINGS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361710
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] SAN ANTONIO SPURS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] SAN ANTONIO SPURS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361711
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] TORONTO RAPTORS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361712
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] UTHA JAZZ" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] UTHA JAZZ
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361713
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] WASHINGTON WIZARDS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] WASHINGTON WIZARDS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361714
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] INDIANA PACERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] INDIANA PACERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361715
-#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] CLEVELAND CAVALIERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] CLEVELAND CAVALIERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361716
-#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | 11:30 AM | DALLAS STARS VS MONTREAL CANADIENS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 01 | 11:30 AM | DALLAS STARS VS MONTREAL CANADIENS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361719
-#EXTINF:-1 tvg-id="" tvg-name="NHL 02 | 11:30 AM | VANCOUVER CANUCKS VS DETROIT RED WINGS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 02 | 11:30 AM | VANCOUVER CANUCKS VS DETROIT RED WINGS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361720
-#EXTINF:-1 tvg-id="" tvg-name="NHL 03 | 08:30 PM | ST LOUIS BLUES VS SEATTLE KRAKEN" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 03 | 08:30 PM | ST LOUIS BLUES VS SEATTLE KRAKEN
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361721
-#EXTINF:-1 tvg-id="" tvg-name="NHL 04 | 11:55 AM | ST LOUIS BLUES VS BUFFALO SABRES" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 04 | 11:55 AM | ST LOUIS BLUES VS BUFFALO SABRES
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361722
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Feb-10 2:00PM | Oklahoma City Thunder at Dallas Mavericks" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | Feb-10 2:00PM | Oklahoma City Thunder at Dallas Mavericks
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361723
-#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | Feb-10 2:30PM | Detroit Pistons at LA Clippers" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 02 | Feb-10 2:30PM | Detroit Pistons at LA Clippers
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361724
-#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Feb-10 5:00PM | San Antonio Spurs at Brooklyn Nets" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 03 | Feb-10 5:00PM | San Antonio Spurs at Brooklyn Nets
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361725
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Feb-10 6:00PM | Memphis Grizzlies at Charlotte Hornets" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 04 | Feb-10 6:00PM | Memphis Grizzlies at Charlotte Hornets
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361726
-#EXTINF:-1 tvg-id="" tvg-name="NBA 05 | Feb-10 6:00PM | Chicago Bulls at Orlando Magic" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 05 | Feb-10 6:00PM | Chicago Bulls at Orlando Magic
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361727
-#EXTINF:-1 tvg-id="" tvg-name="NBA 06 | Feb-10 6:00PM | Philadelphia 76ers at Washington Wizards" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 06 | Feb-10 6:00PM | Philadelphia 76ers at Washington Wizards
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361728
-#EXTINF:-1 tvg-id="" tvg-name="NBA 07 | Feb-10 6:30PM | Houston Rockets at Atlanta Hawks" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 07 | Feb-10 6:30PM | Houston Rockets at Atlanta Hawks
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361729
-#EXTINF:-1 tvg-id="" tvg-name="NBA 08 | Feb-10 6:30PM | Indiana Pacers at New York Knicks" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 08 | Feb-10 6:30PM | Indiana Pacers at New York Knicks
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361730
-#EXTINF:-1 tvg-id="" tvg-name="NBA 09 | Feb-10 6:30PM | Cleveland Cavaliers at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 09 | Feb-10 6:30PM | Cleveland Cavaliers at Toronto Raptors
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361731
-#EXTINF:-1 tvg-id="" tvg-name="NBA 10 | Feb-10 7:30PM | Phoenix Suns at Golden State Warriors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 10 | Feb-10 7:30PM | Phoenix Suns at Golden State Warriors
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361732
-#EXTINF:-1 tvg-id="" tvg-name="NBA 11 | Feb-10 9:00PM | New Orleans Pelicans at Portland Trail Blazers" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 11 | Feb-10 9:00PM | New Orleans Pelicans at Portland Trail Blazers
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361733
-#EXTINF:-1 tvg-id="" tvg-name="NHL 05 | 12:00 PM | CALGARY FLAMES VS NEW YORK ISLANDERS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 05 | 12:00 PM | CALGARY FLAMES VS NEW YORK ISLANDERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361737
-#EXTINF:-1 tvg-id="" tvg-name="NHL 06 | 02:30 PM | WASHINGTON CAPITALS VS BOSTON BRUINS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 06 | 02:30 PM | WASHINGTON CAPITALS VS BOSTON BRUINS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361738
-#EXTINF:-1 tvg-id="" tvg-name="NHL 07 | 04:30 PM | COLORADO AVALANCHE VS FLORIDA PANTHERS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 07 | 04:30 PM | COLORADO AVALANCHE VS FLORIDA PANTHERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361739
-#EXTINF:-1 tvg-id="" tvg-name="NHL 08 | 05:30 PM | NEW JERSEY DEVILS VS CAROLINA HURRICANES" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 08 | 05:30 PM | NEW JERSEY DEVILS VS CAROLINA HURRICANES
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361740
-#EXTINF:-1 tvg-id="" tvg-name="NHL 09 | 05:30 PM | TORONTO MAPLE LEAFS VS OTTAWA SENATORS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 09 | 05:30 PM | TORONTO MAPLE LEAFS VS OTTAWA SENATORS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361741
-#EXTINF:-1 tvg-id="" tvg-name="NHL 10 | 05:30 PM | PITTSBURGH PENGUINS VS WINNIPEG JETS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 10 | 05:30 PM | PITTSBURGH PENGUINS VS WINNIPEG JETS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361742
-#EXTINF:-1 tvg-id="" tvg-name="NHL 11 | 05:30 PM | TAMPA BAY LIGHTNING VS COLUMBUS BLUE JACKETS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 11 | 05:30 PM | TAMPA BAY LIGHTNING VS COLUMBUS BLUE JACKETS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361743
-#EXTINF:-1 tvg-id="" tvg-name="NHL 12 | 06:00 PM | SEATTLE KRAKEN VS PHILADELPHIA FLYERS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 12 | 06:00 PM | SEATTLE KRAKEN VS PHILADELPHIA FLYERS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361744
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="EVENTOS PPV",NFL Game Pass 1 | Super Bowl LVIII: Chiefs vs. 49ers (U.S. Broadcast & Commercials) | Sun 11th 5:00PM
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361781
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="EVENTOS PPV",NFL Game Pass 2 | Super Bowl LVIII: Chiefs vs. 49ers (en español) | Sun 11th 5:00PM
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361782
 --
-#EXTINF:-1 tvg-id="" tvg-name="NHL 13 | 06:30 PM | ARIZONA COYOTES VS NASHVILLE PREDATORS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 13 | 06:30 PM | ARIZONA COYOTES VS NASHVILLE PREDATORS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361780#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] ATLANTA HAWKS" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] ATLANTA HAWKS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361811
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] BOSTON CELTICS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] BOSTON CELTICS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361812
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] BROOKLYN NETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] BROOKLYN NETS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361813
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] CHARLOTTE HORNETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] CHARLOTTE HORNETS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361814
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] CHICAGO BULLS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] CHICAGO BULLS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361815
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] Dallas Mavericks" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] Dallas Mavericks
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361816
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] DENVER NUGGETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] DENVER NUGGETS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361817
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] DETROIT PISTONS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] DETROIT PISTONS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361818
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] GOLDEN STATE" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] GOLDEN STATE
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361819
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] Golden Warriors" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] Golden Warriors
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361820
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] HOUSTON ROCKETS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] HOUSTON ROCKETS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361821
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] LOS ANGELES CLIPPERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] LOS ANGELES CLIPPERS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361822
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] LOS ANGELES LAKERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] LOS ANGELES LAKERS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361823
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] Memphis Grizzlies" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] Memphis Grizzlies
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361824
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] MIAMI HEAT" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] MIAMI HEAT
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361825
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] MILWAUKEE BUCKZ" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] MILWAUKEE BUCKZ
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361826
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] MINNESOTA TIMBERWOLVES" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] MINNESOTA TIMBERWOLVES
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361827
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] NEW ORLEANS PELICANS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] NEW ORLEANS PELICANS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361828
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] NEW YORK KNICKS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] NEW YORK KNICKS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361829
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] OKLAHOMA THUNDER" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] OKLAHOMA THUNDER
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361830
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] ORLANDO MAGIC" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] ORLANDO MAGIC
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361831
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] PHILA 76ERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] PHILA 76ERS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361832
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] PHOENIX SUNS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] PHOENIX SUNS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361833
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] PORTLAND BLAZERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] PORTLAND BLAZERS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361834
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] SACRAMENTO KINGS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] SACRAMENTO KINGS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361835
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] SAN ANTONIO SPURS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] SAN ANTONIO SPURS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361836
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] TORONTO RAPTORS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361837
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] UTHA JAZZ" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] UTHA JAZZ
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361838
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] WASHINGTON WIZARDS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] WASHINGTON WIZARDS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361839
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] INDIANA PACERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] INDIANA PACERS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361840
+#EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] CLEVELAND CAVALIERS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] CLEVELAND CAVALIERS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361841
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | 11:30 AM | ST LOUIS BLUES VS MONTREAL CANADIENS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 01 | 11:30 AM | ST LOUIS BLUES VS MONTREAL CANADIENS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361844
+#EXTINF:-1 tvg-id="" tvg-name="NHL 02 | 12:00 PM | VANCOUVER CANUCKS VS WASHINGTON CAPITALS" tvg-logo="http://live.detodotvplay.com:8080/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 02 | 12:00 PM | VANCOUVER CANUCKS VS WASHINGTON CAPITALS
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361845
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Feb-11 1:00PM | Boston Celtics at Miami Heat" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | Feb-11 1:00PM | Boston Celtics at Miami Heat
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361847
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | Feb-11 2:00PM | Sacramento Kings at Oklahoma City Thunder" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 02 | Feb-11 2:00PM | Sacramento Kings at Oklahoma City Thunder
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361848
 --
 #EXTINF:-1 xui-id="498021" tvg-id="" tvg-name="REAL MADRID" tvg-logo="data:image/png;base64,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" group-title="▶️ | TV ESPAÑA",REAL MADRID
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_H8RUReNLO1QNY4dClkHpnA/ts
---
-#EXTINF:-1 xui-id="576900" tvg-id="" tvg-name="US: NFL NETWORK" tvg-logo="http://127.0.0.1/" group-title="▶️ USA PREMIUM",US: NFL NETWORK
-http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_Pkx3dXFHt27fVF3114Dm08/ts
 --
 #EXTINF:-1 xui-id="596971" tvg-id="" tvg-name="NFL NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s34710_ll_h3_aa.png" group-title="▶️ | NFL (SOLO EVENTOS)",NFL NETWORK
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_CQNTie9-Iu4nRoHX8G81vA/ts
