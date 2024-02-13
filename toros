@@ -22,6 +22,28 @@ http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116711.m3u8
 http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/118624.m3u8
 --
 #EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV 4K" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV 4K
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/113620
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV HD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV HD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/113619
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV SD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV SD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/115103
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV HD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV HD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116084
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV SD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV SD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116085
+--
+#EXTINF:-1 tvg-ID="" tvg-name="El Toro TV HD" tvg-logo="" group-title="ESPAÑA | OCIO",El Toro TV HD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/115978
+#EXTINF:-1 tvg-ID="" tvg-name="El Toro TV SD" tvg-logo="" group-title="ESPAÑA | OCIO",El Toro TV SD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/115979
+--
+#EXTINF:-1 tvg-ID="" tvg-name="ES: El Toro TV" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: El Toro TV
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116711
+--
+#EXTINF:-1 tvg-ID="" tvg-name="TOROLE MSD" tvg-logo="" group-title="ESPAÑA | TDT 2",TOROLE MSD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/118624
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV 4K" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV 4K
 http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113620
 #EXTINF:-1 tvg-ID="" tvg-name="Onetoro TV HD" tvg-logo="" group-title="ESPAÑA | OCIO",Onetoro TV HD
 http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/113619
@@ -331,32 +353,6 @@ http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/517236
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | Movistar Toros HD" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA",DEP ES | Movistar Toros HD
 http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/517237
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581432928232-cbc-toronto.png" group-title="TV | Canada",CA | CBC Toronto
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168281
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jo3mMNT6kLCMfF80nhlZ2EIaa1aHtTXn80wzGKTJdMi7_o51r_ftr4eBYUI_M9BMumA&usqp=CAU" group-title="TV | Canada",CA: CBC Toronto
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168304
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: City Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvo16Q2gKzEDJEUuFRsrG86Zc2pkfWqxEooX5YWKeMB7CUfv3NbfwSoN2Q8ZNjIvOxsI&usqp=CAU" group-title="TV | Canada",CA: City Toronto
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168312
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuh_Ty1xtoaoI6ORnMNcuJh3mQ4MR9_hK6sSAaDr9kRQtkt5CdxyOPfOZDap3er5DnrY4&usqp=CAU" group-title="TV | Canada",CA: CTV Toronto
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168330
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168355
---
-#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/126152
-#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/126151
---
-#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2144844
---
-#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2144846
---
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -392,6 +388,9 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2168330
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2168355
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198327
 --
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/126152
@@ -430,6 +429,9 @@ http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198327
+--
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -466,6 +468,9 @@ http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2168355
 --
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198327
+--
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2144844
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
@@ -490,6 +495,15 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168330
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168355
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="TV | PPV NBA",NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198327
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/toros-hd.png" group-title="ESPAÑA",TOROS ᴴᴰ
+https://nxt.plus:8443/pepespain/rytryrtytrytry/31141
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU06pexWg7-8BiF6HZNwOVPiEQvOM-v3A7wYlYobIVQFyZuwxix2Pb5T1cwrdOYWStcBDdxtz1sNqCWjrkLbuCcOWxMv5ZyvS3uZtybHDChpkisu2jypK4cKh7FSQVubk2dg.png" group-title="EVENTOS NBA",NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/531997
 --
 #EXTINF:-1 tvg-id="" tvg-name="GR: NET TV TORONTO" tvg-logo="" group-title="INTERNACIONALES",GR: NET TV TORONTO
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197039
@@ -555,7 +569,7 @@ http://rasaiptv.com:8080/movie/c737nweve73GF6/wRt6pgzvmz875fD/232213.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Mundotoros tv" tvg-logo="http://daleplay.club:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="⭐ES | AFICIONES⭐",Mundotoros tv
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/110269
-#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS HD" tvg-logo="http://daleplaypro.com:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="⭐ES | AFICIONES⭐",TOROS HD
+#EXTINF:-1 tvg-id="LA 1" tvg-name="TOROS HD" tvg-logo="http://daleplaypro.com:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="⭐ES | AFICIONES⭐",TOROS HD
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/110270
 #EXTINF:-1 tvg-id="" tvg-name="**TOROS TV FHD**" tvg-logo="http://daleplay.club:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="⭐ES | AFICIONES⭐",**TOROS TV FHD**
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/110271
@@ -650,7 +664,10 @@ http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/356618
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/356619
 --
 #EXTINF:-1 tvg-id="" tvg-name="[NBA_PASS] TORONTO RAPTORS" tvg-logo="http://live.detodotvplay.com:8080/images/6a3e9f422e931b241e65b3e7cdb77b4a.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",[NBA_PASS] TORONTO RAPTORS
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361837
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361951
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 04 | Feb-12 6:30PM | San Antonio Spurs at Toronto Raptors
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/361964
 --
 #EXTINF:-1 xui-id="409012" tvg-id="" tvg-name="ESP | ONETORO" tvg-logo="https://play-lh.googleusercontent.com/ScECkaWu_2omPYZYhNXBQbSdhWD6LyQgPQFIxNeSf30UnYiqWssiWJrbll1EwPNI0gU" group-title="▶️ | TV ESPAÑA",ESP | ONETORO
 http://zona593ec.online:80/play/XiVhtJ_Uhifx3_tHJEyX_NmIL540j3mU1Ght88B5U3Y/ts

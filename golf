@@ -21,6 +21,27 @@ http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116568.m3u8
 http://tvbox.ovh:37500/live/Batidora/5dc54d65c4ddv/116569.m3u8
 --
 #EXTINF:-1 tvg-ID="" tvg-name="M+ Golf 4K" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 4K
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116122
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf HD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf HD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116123
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="M+ Golf SD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf SD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116124
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf 2 4K" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 4K
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116125
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf 2 HD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 HD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116126
+#EXTINF:-1 tvg-ID="M+ GOLF HD" tvg-name="M+ Golf 2 SD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 SD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116127
+--
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Golf HD (1080P)" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. Golf HD (1080P)
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116568
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Golf SD" tvg-logo="" group-title="ESPAÑA | RESERVA",ES: M. Golf SD
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/116569
+--
+#EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Golf" tvg-logo="http://tugapt.com/picons/ziggosportgolfnl.png" group-title="NETHERLANDS | NL",Ziggo Sport Golf
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/111733
+--
+#EXTINF:-1 tvg-ID="" tvg-name="M+ Golf 4K" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 4K
 http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116122
 #EXTINF:-1 tvg-ID="" tvg-name="M+ Golf HD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf HD
 http://tvbox.ovh:37500/omarbro/215d4df5d8sazaedd/116123
@@ -366,21 +387,6 @@ http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/233408
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63776927821.png" group-title="CANADÁ",CA: Golf Channel HD
 http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/479232
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168357
---
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/10948
---
-#EXTINF:-1 tvg-id="" tvg-name="D | MOVISTAR GOLF" tvg-logo="http://ceoapps.org/logos/mgolf.png" group-title="TV | Deportes",D | MOVISTAR GOLF
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2100018
---
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="S | The Golf Channel" tvg-logo="http://ceoapps.org/logos/golfchannel.png" group-title="TV | USA Sports",S | The Golf Channel
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2100017
---
-#EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2145544
---
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
 http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/10948
 --
@@ -476,6 +482,9 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2145544
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168357
+--
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="GOLF CHANNEL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/golf-channel.png" group-title="⚽ DEPORTES",GOLF CHANNEL
+https://nxt.plus:8443/pepespain/rytryrtytrytry/187919
 --
 #EXTINF:-1 tvg-id="" tvg-name="C More Golf" tvg-logo="http://www.iptvforall.net/newlogo/c_more_se_golf_hd.png" group-title="EUROSPORTS",C More Golf
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/62613
