@@ -513,8 +513,8 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168355
 --
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/toros-hd.png" group-title="ESPAÑA",TOROS ᴴᴰ
-https://nxt.plus:8443/pepespain/rytryrtytrytry/31141
+#EXTINF:-1 tvg-id="" tvg-name="009 USA: NHL 01 HD / TORONTO @ ST LOUIS 12:00PM -DETROIT @ SEATTLE 2:30PM -ESPN HD" tvg-logo="" group-title="⭐ EVENTOS ⭐",009 USA: NHL 01 HD / TORONTO @ ST LOUIS 12:00PM -DETROIT @ SEATTLE 2:30PM -ESPN HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/532426
 --
 #EXTINF:-1 tvg-id="" tvg-name="GR: NET TV TORONTO" tvg-logo="" group-title="INTERNACIONALES",GR: NET TV TORONTO
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/197039
@@ -696,6 +696,12 @@ https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Fk70dM1GYTTmANoA4yi8Ag/ts
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_JoNgYBBE4czb5s-PoL1Dt0/ts
 #EXTINF:-1 xui-id="720629" tvg-id="" tvg-name="CTV Toronto - CA" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/79d8cd15-61b6-4065-8409-ce9751bf8aad.jpg" group-title="TV CANADA",CTV Toronto - CA
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_HsbUl7TLRZuZse0OUKeYa0/ts
+--
+#EXTINF:-1 xui-id="760218" tvg-id="" tvg-name="19/02 12:00:pm � Toronto Maple Leafs Vs St. Louis Blues" tvg-logo="http://miarea.vip:8080/images/356ef8cc35afeb71e1a6515c2ffdd3d9.jpg" group-title="⭐ | OTROS EVENTOS DEL DIA",19/02 12:00:pm � Toronto Maple Leafs Vs St. Louis Blues
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Dhh8e-svP_j4F2nDkZLTnc/ts
+--
+#EXTINF:-1 xui-id="760221" tvg-id="" tvg-name="19/02 01:00:pm � Rochester Americans Vs Toronto Marlies" tvg-logo="http://miarea.vip:8080/images/d5dace8f7e1b9594b94094df9a03c089.png" group-title="⭐ | OTROS EVENTOS DEL DIA",19/02 01:00:pm � Rochester Americans Vs Toronto Marlies
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_HhJw-D_-af_tFJuqTCaLPo/ts
 --
 #EXTINF:-1 xui-id="654163" tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/d15e8ca984011d61c7a0c6780402a03e.png" group-title="TV PORTUGAL",PT: TOROS TV FHD
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Mo_fV0W6g40GjkieEmNYVY/ts
