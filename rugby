@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Y el rugby cambió el mundo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oICpXfOeGYwW7jGsVrwWeAGUvkX.jpg" group-title="CINE | ESPAÑOL | 2023",Y el rugby cambió el mundo (2023)
-http://haksba3.ovh:37500/movie/omarbro/215d4df5d8sazaedd/134226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="" group-title="SUPER SPORTS",SuperSport Rugby
+http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/233403
 --
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="" group-title="SUPER SPORTS",SuperSport Rugby
 http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/233403
+--
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP 14 RUGBY FHD" tvg-logo="" group-title="INTERNACIONALES",FR: CANAL+ TOP 14 RUGBY FHD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/197438
+--
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="" group-title="SUPER SPORTS",SuperSport Rugby
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/233403
+--
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 37: 2024 Ospreys Rugby vs Ulster Rugby - 18/02 15:00" tvg-logo="" group-title="Car Racing",Flo (FLSP) 37: 2024 Ospreys Rugby vs Ulster Rugby - 18/02 15:00
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/793879

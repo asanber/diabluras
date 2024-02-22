@@ -1,68 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Champions (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg" group-title="CINE | ESPAÑOL | 2023",Champions (2023)
-http://haksba3.ovh:37500/movie/omarbro/215d4df5d8sazaedd/139836.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Champions (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg" group-title="CINE | ESPAÑOL | 2023",Champions (2023)
-http://haksba3.ovh:37500/movie/omarbro/215d4df5d8sazaedd/139837.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Champions (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVBZBDHO271obL91WG8l2owoq5f.jpg" group-title="CINE | ESPAÑOL | 2023",Champions (2023)
-http://haksba3.ovh:37500/movie/omarbro/215d4df5d8sazaedd/137320.mkv
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | *M+LIGA DE CAMPEONES*" tvg-logo="http://daleplay.club:8080/images/f0935e4cd5920aa6c7c996a5ee53a70f.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | *M+LIGA DE CAMPEONES*
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/144048
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES | M+LIGA DE CAMPEONES 3 HD" tvg-logo="http://daleplay.club:8080/images/3417fd03e7bf2c8b8ecd7ee653da5e05.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES 3 HD
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147944
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | M+LIGA DE CAMPEONES HD" tvg-logo="http://daleplay.club:8080/images/f0935e4cd5920aa6c7c996a5ee53a70f.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES HD
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147931
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | M+LIGA DE CAMPEONES 4k" tvg-logo="http://daleplay.club:8080/images/f0935e4cd5920aa6c7c996a5ee53a70f.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES 4k
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147935
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="ES | **M+LIGA DE CAMPEONES 2**" tvg-logo="http://daleplay.club:8080/images/f0935e4cd5920aa6c7c996a5ee53a70f.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | **M+LIGA DE CAMPEONES 2**
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147936
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 UHD" tvg-name="ES | M+LIGA DE CAMPEONES 2 HD" tvg-logo="http://daleplay.club:8080/images/3417fd03e7bf2c8b8ecd7ee653da5e05.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES 2 HD
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147937
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="ES | M+LIGA DE CAMPEONES 2 FHD" tvg-logo="http://daleplay.club:8080/images/3417fd03e7bf2c8b8ecd7ee653da5e05.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES 2 FHD
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147940
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES | M+LIGA DE CAMPEONES 3" tvg-logo="http://daleplay.club:8080/images/3417fd03e7bf2c8b8ecd7ee653da5e05.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES 3
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147941
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 2 | Champions League | Napoli Vs Barcelona 15:00pm | TNT Sports 2 | English" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 2 | Champions League | Napoli Vs Barcelona 15:00pm | TNT Sports 2 | English
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339465
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 3 | Champions League | Porto Vs Arsenal 15:00pm | TNT | Latino" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 3 | Champions League | Porto Vs Arsenal 15:00pm | TNT | Latino
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339466
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 4 | Champions League | Napoli Vs Arsenal 15:00pm | TNT Sports 1 | English" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 4 | Champions League | Napoli Vs Arsenal 15:00pm | TNT Sports 1 | English
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339467
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/215001
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/215001
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/215002
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/215002
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 3 4K
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/215003
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/215003
 #EXTINF:-1 tvg-id="" tvg-name="|US| Strongman Champions League HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| Strongman Champions League HD
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/220338
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/220338
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY castellano" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY castellano
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242831
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242831
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 2" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 2
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242832
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242832
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 1" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 1
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242833
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242833
 #EXTINF:-1 tvg-id="" tvg-name="Champions hoy " tvg-logo="" group-title="℗EVENTOS DEL DIA℗",Champions hoy 
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242834
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242834
 #EXTINF:-1 tvg-id="" tvg-name="Champions  20 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-bVHzYhxe8oENGhAbUJ9W5c-GPbX8d5yFE25PO6xzWrjA.png" group-title="℗EVENTOS DEL DIA℗",Champions  20 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242943
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242943
 #EXTINF:-1 tvg-id="" tvg-name="Champions  19 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  19 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242944
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242944
 #EXTINF:-1 tvg-id="" tvg-name="Champions  18 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  18 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242945
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242945
 #EXTINF:-1 tvg-id="" tvg-name="Champions  17 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  17 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242946
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242946
 #EXTINF:-1 tvg-id="" tvg-name="Champions  16|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  16|
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242947
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242947
 #EXTINF:-1 tvg-id="" tvg-name="Champions  15 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  15 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242948
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242948
 #EXTINF:-1 tvg-id="" tvg-name="Champions  14 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  14 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242949
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242949
 #EXTINF:-1 tvg-id="" tvg-name="Champions 13 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 13 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242950
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242950
 #EXTINF:-1 tvg-id="" tvg-name="Champions  12 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  12 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242951
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242951
 #EXTINF:-1 tvg-id="" tvg-name="Champions  11 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  11 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242952
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242952
 #EXTINF:-1 tvg-id="" tvg-name="Champions  10 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  10 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242953
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242953
 #EXTINF:-1 tvg-id="" tvg-name="Champions  09|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  09|
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242954
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242954
 #EXTINF:-1 tvg-id="" tvg-name="Champions 08 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 08 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242955
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242955
 #EXTINF:-1 tvg-id="" tvg-name="Champions  07 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions  07 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242956
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242956
 #EXTINF:-1 tvg-id="" tvg-name="Champions 06 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions 06 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242957
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242957
 #EXTINF:-1 tvg-id="" tvg-name="Champions 05 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 05 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242958
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242958
 #EXTINF:-1 tvg-id="" tvg-name="Champions 04 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 04 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/242959
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/242959
 #EXTINF:-1 tvg-id="" tvg-name="Champions 03 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 03 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/243638
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/243638
 #EXTINF:-1 tvg-id="" tvg-name="Champions 02 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 02 |
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/243639
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/243639
 #EXTINF:-1 tvg-id="" tvg-name="Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/243640
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/243640
 #EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
-http://emuligl.info:8080/Cambiotodoplus/w84fLZEtDQud/243641
+http://emuligl.info:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/243641
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
 http://emuligl.info:8080/go69chia/f7ECa8Uf4x2t/215001
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
@@ -122,6 +138,64 @@ http://emuligl.info:8080/go69chia/f7ECa8Uf4x2t/243640
 #EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
 http://emuligl.info:8080/go69chia/f7ECa8Uf4x2t/243641
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/215001
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/215002
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 3 4K
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/215003
+#EXTINF:-1 tvg-id="" tvg-name="|US| Strongman Champions League HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| Strongman Champions League HD
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/220338
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY castellano" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY castellano
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242831
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 2" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 2
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242832
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 1" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 1
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242833
+#EXTINF:-1 tvg-id="" tvg-name="Champions hoy " tvg-logo="" group-title="℗EVENTOS DEL DIA℗",Champions hoy 
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242834
+#EXTINF:-1 tvg-id="" tvg-name="Champions  20 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-bVHzYhxe8oENGhAbUJ9W5c-GPbX8d5yFE25PO6xzWrjA.png" group-title="℗EVENTOS DEL DIA℗",Champions  20 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242943
+#EXTINF:-1 tvg-id="" tvg-name="Champions  19 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  19 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242944
+#EXTINF:-1 tvg-id="" tvg-name="Champions  18 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  18 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242945
+#EXTINF:-1 tvg-id="" tvg-name="Champions  17 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  17 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242946
+#EXTINF:-1 tvg-id="" tvg-name="Champions  16|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  16|
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242947
+#EXTINF:-1 tvg-id="" tvg-name="Champions  15 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  15 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242948
+#EXTINF:-1 tvg-id="" tvg-name="Champions  14 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  14 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242949
+#EXTINF:-1 tvg-id="" tvg-name="Champions 13 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 13 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242950
+#EXTINF:-1 tvg-id="" tvg-name="Champions  12 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  12 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242951
+#EXTINF:-1 tvg-id="" tvg-name="Champions  11 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  11 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242952
+#EXTINF:-1 tvg-id="" tvg-name="Champions  10 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  10 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242953
+#EXTINF:-1 tvg-id="" tvg-name="Champions  09|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  09|
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242954
+#EXTINF:-1 tvg-id="" tvg-name="Champions 08 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 08 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242955
+#EXTINF:-1 tvg-id="" tvg-name="Champions  07 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions  07 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242956
+#EXTINF:-1 tvg-id="" tvg-name="Champions 06 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions 06 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242957
+#EXTINF:-1 tvg-id="" tvg-name="Champions 05 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 05 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242958
+#EXTINF:-1 tvg-id="" tvg-name="Champions 04 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 04 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/242959
+#EXTINF:-1 tvg-id="" tvg-name="Champions 03 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 03 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/243638
+#EXTINF:-1 tvg-id="" tvg-name="Champions 02 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 02 |
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/243639
+#EXTINF:-1 tvg-id="" tvg-name="Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/243640
+#EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
+http://emuligl.info:8080/nwxRD2SVgr6w/cWsbLuLvW2ee/243641
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
 http://emuligl.info:8080/pandconv3/HTVFuZ5PePNG/215001
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
 http://emuligl.info:8080/pandconv3/HTVFuZ5PePNG/215002
@@ -179,6 +253,122 @@ http://emuligl.info:8080/pandconv3/HTVFuZ5PePNG/243639
 http://emuligl.info:8080/pandconv3/HTVFuZ5PePNG/243640
 #EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
 http://emuligl.info:8080/pandconv3/HTVFuZ5PePNG/243641
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/215001
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/215002
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 3 4K
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/215003
+#EXTINF:-1 tvg-id="" tvg-name="|US| Strongman Champions League HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| Strongman Champions League HD
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/220338
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY castellano" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY castellano
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242831
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 2" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 2
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242832
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 1" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 1
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242833
+#EXTINF:-1 tvg-id="" tvg-name="Champions hoy " tvg-logo="" group-title="℗EVENTOS DEL DIA℗",Champions hoy 
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242834
+#EXTINF:-1 tvg-id="" tvg-name="Champions  20 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-bVHzYhxe8oENGhAbUJ9W5c-GPbX8d5yFE25PO6xzWrjA.png" group-title="℗EVENTOS DEL DIA℗",Champions  20 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242943
+#EXTINF:-1 tvg-id="" tvg-name="Champions  19 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  19 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242944
+#EXTINF:-1 tvg-id="" tvg-name="Champions  18 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  18 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242945
+#EXTINF:-1 tvg-id="" tvg-name="Champions  17 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  17 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242946
+#EXTINF:-1 tvg-id="" tvg-name="Champions  16|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  16|
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242947
+#EXTINF:-1 tvg-id="" tvg-name="Champions  15 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  15 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242948
+#EXTINF:-1 tvg-id="" tvg-name="Champions  14 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  14 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242949
+#EXTINF:-1 tvg-id="" tvg-name="Champions 13 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 13 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242950
+#EXTINF:-1 tvg-id="" tvg-name="Champions  12 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  12 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242951
+#EXTINF:-1 tvg-id="" tvg-name="Champions  11 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  11 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242952
+#EXTINF:-1 tvg-id="" tvg-name="Champions  10 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  10 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242953
+#EXTINF:-1 tvg-id="" tvg-name="Champions  09|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  09|
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242954
+#EXTINF:-1 tvg-id="" tvg-name="Champions 08 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 08 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242955
+#EXTINF:-1 tvg-id="" tvg-name="Champions  07 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions  07 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242956
+#EXTINF:-1 tvg-id="" tvg-name="Champions 06 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions 06 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242957
+#EXTINF:-1 tvg-id="" tvg-name="Champions 05 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 05 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242958
+#EXTINF:-1 tvg-id="" tvg-name="Champions 04 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 04 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242959
+#EXTINF:-1 tvg-id="" tvg-name="Champions 03 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 03 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/243638
+#EXTINF:-1 tvg-id="" tvg-name="Champions 02 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 02 |
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/243639
+#EXTINF:-1 tvg-id="" tvg-name="Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/243640
+#EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
+http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/243641
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
+http://emuligl.info:8080/tviritv/td6522SNAtHt/215001
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
+http://emuligl.info:8080/tviritv/td6522SNAtHt/215002
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 3 4K
+http://emuligl.info:8080/tviritv/td6522SNAtHt/215003
+#EXTINF:-1 tvg-id="" tvg-name="|US| Strongman Champions League HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| Strongman Champions League HD
+http://emuligl.info:8080/tviritv/td6522SNAtHt/220338
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY castellano" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY castellano
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242831
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 2" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 2
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242832
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 1" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 1
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242833
+#EXTINF:-1 tvg-id="" tvg-name="Champions hoy " tvg-logo="" group-title="℗EVENTOS DEL DIA℗",Champions hoy 
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242834
+#EXTINF:-1 tvg-id="" tvg-name="Champions  20 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-bVHzYhxe8oENGhAbUJ9W5c-GPbX8d5yFE25PO6xzWrjA.png" group-title="℗EVENTOS DEL DIA℗",Champions  20 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242943
+#EXTINF:-1 tvg-id="" tvg-name="Champions  19 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  19 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242944
+#EXTINF:-1 tvg-id="" tvg-name="Champions  18 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  18 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242945
+#EXTINF:-1 tvg-id="" tvg-name="Champions  17 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  17 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242946
+#EXTINF:-1 tvg-id="" tvg-name="Champions  16|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  16|
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242947
+#EXTINF:-1 tvg-id="" tvg-name="Champions  15 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  15 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242948
+#EXTINF:-1 tvg-id="" tvg-name="Champions  14 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  14 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242949
+#EXTINF:-1 tvg-id="" tvg-name="Champions 13 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 13 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242950
+#EXTINF:-1 tvg-id="" tvg-name="Champions  12 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  12 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242951
+#EXTINF:-1 tvg-id="" tvg-name="Champions  11 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  11 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242952
+#EXTINF:-1 tvg-id="" tvg-name="Champions  10 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  10 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242953
+#EXTINF:-1 tvg-id="" tvg-name="Champions  09|" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions  09|
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242954
+#EXTINF:-1 tvg-id="" tvg-name="Champions 08 |" tvg-logo="http://undergroundservice.xyz:8080/images/YE9BI7F15D3_iLaDPPtGfqZc1KTG42UUFP6nRC451-blGvwQkJM4ol2XWTCpsn3k85B-fpeg4WNG9Vhg5pM-hA.png" group-title="℗EVENTOS DEL DIA℗",Champions 08 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242955
+#EXTINF:-1 tvg-id="" tvg-name="Champions  07 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions  07 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242956
+#EXTINF:-1 tvg-id="" tvg-name="Champions 06 |" tvg-logo="http://127.0.0.1/" group-title="℗EVENTOS DEL DIA℗",Champions 06 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242957
+#EXTINF:-1 tvg-id="" tvg-name="Champions 05 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 05 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242958
+#EXTINF:-1 tvg-id="" tvg-name="Champions 04 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 04 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/242959
+#EXTINF:-1 tvg-id="" tvg-name="Champions 03 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 03 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/243638
+#EXTINF:-1 tvg-id="" tvg-name="Champions 02 |" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 02 |
+http://emuligl.info:8080/tviritv/td6522SNAtHt/243639
+#EXTINF:-1 tvg-id="" tvg-name="Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 01  | Lazio vs Bayern München | 3.00PM ET | WED
+http://emuligl.info:8080/tviritv/td6522SNAtHt/243640
+#EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
+http://emuligl.info:8080/tviritv/td6522SNAtHt/243641
 #EXTINF:-1 tvg-id="" tvg-name="|US| Strongman Champions League HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| Strongman Champions League HD
 http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/220338
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY castellano" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY castellano
@@ -411,6 +601,52 @@ http://emuligl.info:8080/Y629hwoe/DqUYbegCYepv/243639
 http://emuligl.info:8080/Y629hwoe/DqUYbegCYepv/243640
 #EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
 http://emuligl.info:8080/Y629hwoe/DqUYbegCYepv/243641
+#EXTINF:-1 tvg-id="" tvg-name="002 LAT: Champions / NAPOLI vs BARCELONA 2:00PM - AMERICA vs MAZATLAN 9:00PM - TUDN US" tvg-logo="" group-title="EVENTOS FUTBOL",002 LAT: Champions / NAPOLI vs BARCELONA 2:00PM - AMERICA vs MAZATLAN 9:00PM - TUDN US
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532494
+#EXTINF:-1 tvg-id="" tvg-name="002 LAT: Champions / PORTO vs ARSENAL - 2:00PM - TNT" tvg-logo="" group-title="EVENTOS FUTBOL",002 LAT: Champions / PORTO vs ARSENAL - 2:00PM - TNT
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532495
+#EXTINF:-1 tvg-id="" tvg-name="002 UK: Champions FHD / PORTO vs ARSENAL - 2:00PM - TNT Sports 1 FHD" tvg-logo="" group-title="EVENTOS FUTBOL",002 UK: Champions FHD / PORTO vs ARSENAL - 2:00PM - TNT Sports 1 FHD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532496
+#EXTINF:-1 tvg-id="" tvg-name="002 UK: Champions FHD / NAPOLI vs BARCELONA - 2:00PM - TNT Sports 2 FHD" tvg-logo="" group-title="EVENTOS FUTBOL",002 UK: Champions FHD / NAPOLI vs BARCELONA - 2:00PM - TNT Sports 2 FHD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532497
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU03dmdjr-oe6OjcamSs5vcjEp_aYxA6P2G0ULoJNhs1NzktpvXIJravrAoO38hbxicBFuo3fbD1cVKR4b0mZLnpzZEIAi5GY6v5wYq8mm5gNEy8U_QT0tj7F30i_mLRhFj4lygn8conwTQ5jaesJ_HDiGdnNWQbCcp8f24QLt134qTXsya1izJo4x-FJrQsUwGkgGU4vySWf6ZWHt5SIez2I.png" group-title="EVENTOS FUTBOL",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532520
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU03dmdjr-oe6OjcamSs5vcjEp_aYxA6P2G0ULoJNhs1NzktpvXIJravrAoO38hbxicBFuo3fbD1cVKR4b0mZLnpzZEIAi5GY6v5wYq8mm5gNEy8U_QT0tj7F30i_mLRhFj4lygn8conwTQ5jaesJ_HDiGdnNWQbCcp8f24QLt134qTXsya1izJo4x-FJrQsUwGkgGU4vySWf6ZWHt5SIez2I.png" group-title="EVENTOS FUTBOL",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532522
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU03dmdjr-oe6OjcamSs5vcjEp_aYxA6P2G0ULoJNhs1NzktpvXIJravrAoO38hbxicBFuo3fbD1cVKR4b0mZLnpzZEIAi5GY6v5wYq8mm5gNEy8U_QT0tj7F30i_mLRhFj1BT2nZ0w8kUeGQ0dKEn_Mx5UC5eCRS4zu71A5EeekZp189awqToGtJqQGlzBQfuDCi6cqZOKuf7Et3q8eHWuHY.png" group-title="EVENTOS FUTBOL",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532532
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 06:30 PM CST | Panamá vs. Colombia (Fase de Grupos)" tvg-logo="http://guatv.xyz:80/images/MSFrI3KZMdbKm3kBiReU03dmdjr-oe6OjcamSs5vcjEp_aYxA6P2G0ULoJNhs1NzktpvXIJravrAoO38hbxicBFuo3fbD1cVKR4b0mZLnpzZEIAi5GY6v5wYq8mm5gNEy8U_QT0tj7F30i_mLRhFj1BT2nZ0w8kUeGQ0dKEn_Mx5UC5eCRS4zu71A5EeekZp189awqToGtJqQGlzBQfuDCi6cqZOKuf7Et3q8eHWuHY.png" group-title="EVENTOS FUTBOL",Concacaf W Championship Qualifying | 06:30 PM CST | Panamá vs. Colombia (Fase de Grupos)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532537
+#EXTINF:-1 tvg-id="" tvg-name="Cradle of Champions (2018)*25sc*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oSRiUKOaXFbPEvD9P0OVCgj1xw.jpg" group-title="Documental",Cradle of Champions (2018)*25sc*
+http://home-playtv.com:8080/movie/restreamhome/HUvCLa351719/92846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 006 - 11:00 : NCAA Swimming & Diving - ASUN Swmming Championship (Day 1)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 006 - 11:00 : NCAA Swimming & Diving - ASUN Swmming Championship (Day 1)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778767
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 011 - 14:00 : NCAA Swimming & Diving - Atlantic Ten Swimming & Diving Championship" tvg-logo="" group-title="ESPN PLUS",ESPN+ 011 - 14:00 : NCAA Swimming & Diving - Atlantic Ten Swimming & Diving Championship
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778772
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 015 - 14:00 : Surfing - 2024 WSL Championship Tour: Hurley Pro Sunset Beach" tvg-logo="" group-title="ESPN PLUS",ESPN+ 015 - 14:00 : Surfing - 2024 WSL Championship Tour: Hurley Pro Sunset Beach
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778776
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 016 - 14:00 : NCAA Swimming & Diving - Patriot League Swimming & Diving Championship" tvg-logo="" group-title="ESPN PLUS",ESPN+ 016 - 14:00 : NCAA Swimming & Diving - Patriot League Swimming & Diving Championship
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778777
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 026 - 16:25 : Track & Field - OVC T&F Championship" tvg-logo="" group-title="ESPN PLUS",ESPN+ 026 - 16:25 : Track & Field - OVC T&F Championship
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778787
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 035 - 18:00 : NCAA Swimming & Diving - Patriot League Swimming & Diving Championship" tvg-logo="" group-title="ESPN PLUS",ESPN+ 035 - 18:00 : NCAA Swimming & Diving - Patriot League Swimming & Diving Championship
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778796
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 036 - 18:00 : NCAA Swimming & Diving - Atlantic Ten Swimming & Diving Championship" tvg-logo="" group-title="ESPN PLUS",ESPN+ 036 - 18:00 : NCAA Swimming & Diving - Atlantic Ten Swimming & Diving Championship
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778797
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 050 - 19:00 : NCAA Swimming & Diving - Womens Ivy Swimming & Diving Championships" tvg-logo="" group-title="ESPN PLUS",ESPN+ 050 - 19:00 : NCAA Swimming & Diving - Womens Ivy Swimming & Diving Championships
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778811
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 051 - 19:00 : NCAA Swimming & Diving - ASUN Swmming Championship (Day 1)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 051 - 19:00 : NCAA Swimming & Diving - ASUN Swmming Championship (Day 1)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778812
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 013 | COLLEGE OF DUPAGE VS. ROCHESTER COMMUNITY & TECHNICAL COLLEGE (DIII FOOTBALL CHAMPIONSHIP) | 12/02-01:00PM | ESPN+" tvg-logo="" group-title="NCAA FOOTBALL",NCAAF 013 | COLLEGE OF DUPAGE VS. ROCHESTER COMMUNITY & TECHNICAL COLLEGE (DIII FOOTBALL CHAMPIONSHIP) | 12/02-01:00PM | ESPN+
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/792899
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 3: 2024 Senior European Championships Mat B - 18/02 13:00" tvg-logo="" group-title="Car Racing",Flo (FLSP) 3: 2024 Senior European Championships Mat B - 18/02 13:00
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/793845
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 7: 2024 Landmark Swimming and Diving Championship - 18/02 14:50" tvg-logo="" group-title="Car Racing",Flo (FLSP) 7: 2024 Landmark Swimming and Diving Championship - 18/02 14:50
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/793849
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 13: 2024 CHEERSPORT National All Star Cheerleading Championship Hall C1 - 18/02 12:50" tvg-logo="" group-title="Car Racing",Flo (FLSP) 13: 2024 CHEERSPORT National All Star Cheerleading Championship Hall C1 - 18/02 12:50
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/793855
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 113: 2024 MIAA Div 4 Indoor Track Championship - 18/02 18:00" tvg-logo="" group-title="Car Racing",Flo (FLSP) 113: 2024 MIAA Div 4 Indoor Track Championship - 18/02 18:00
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/793955
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN ARG " tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN ARG 
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/221869
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN SUR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN SUR
@@ -425,12 +661,16 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/219731
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/221868
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198767
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198768
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198775
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198787
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198789
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198790
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198791
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198799
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN ARG " tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN ARG 
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/221869
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN SUR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN SUR
@@ -445,12 +685,16 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/219731
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/221868
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198767
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198768
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198775
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198787
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198789
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198790
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198791
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198799
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/220429
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | MOVISTAR LIGA DE CAMPEONES
@@ -465,12 +709,16 @@ http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/219731
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/220431
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/221868
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198767
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198768
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198775
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198787
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198789
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198790
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198791
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198799
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN ARG " tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN ARG 
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/221869
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN SUR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN SUR
@@ -485,12 +733,16 @@ http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/219731
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/221868
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198767
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198768
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198775
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198787
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198789
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198790
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198791
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198799
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN ARG " tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN ARG 
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/221869
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN SUR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN SUR
@@ -505,12 +757,16 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/219731
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/221868
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198767
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198768
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198775
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198787
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="TV | EVENTOS",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198789
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198790
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="TV | EVENTOS",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198791
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="TV | EVENTOS",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198799
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | *M+LIGA DE CAMPEONES*" tvg-logo="http://daleplay.club:8080/images/f0935e4cd5920aa6c7c996a5ee53a70f.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | *M+LIGA DE CAMPEONES*
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/144048
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES | M+LIGA DE CAMPEONES 3 HD" tvg-logo="http://daleplay.club:8080/images/3417fd03e7bf2c8b8ecd7ee653da5e05.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES 3 HD
@@ -527,10 +783,12 @@ http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147937
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147940
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES | M+LIGA DE CAMPEONES 3" tvg-logo="http://daleplay.club:8080/images/3417fd03e7bf2c8b8ecd7ee653da5e05.png" group-title="⚽CHAMPIONS LEAGUE⚽",ES | M+LIGA DE CAMPEONES 3
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/147941
-#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 1 | UEFA Champions League | Inter Vs Atletico Madrid 14:00pm | TNT Sports 1" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 1 | UEFA Champions League | Inter Vs Atletico Madrid 14:00pm | TNT Sports 1
-http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339464
-#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 2 | UEFA Champions League | PSV Vs Dortmund 14:00pm | TNT Sports 2" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 2 | UEFA Champions League | PSV Vs Dortmund 14:00pm | TNT Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 2 | Champions League | Napoli Vs Barcelona 15:00pm | TNT Sports 2 | English" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 2 | Champions League | Napoli Vs Barcelona 15:00pm | TNT Sports 2 | English
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339465
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 3 | Champions League | Porto Vs Arsenal 15:00pm | TNT | Latino" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 3 | Champions League | Porto Vs Arsenal 15:00pm | TNT | Latino
+http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339466
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 4 | Champions League | Napoli Vs Arsenal 15:00pm | TNT Sports 1 | English" tvg-logo="http://daleplay.club:8080/images/f42442d3777c84dcf9ea98daa448788c.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 4 | Champions League | Napoli Vs Arsenal 15:00pm | TNT Sports 1 | English
+http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339467
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
 http://spaticplas.org:8080/live/Cambiotodoplus/w84fLZEtDQud/215001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
@@ -647,31 +905,59 @@ http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/243639
 http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/243640
 #EXTINF:-1 tvg-id="" tvg-name="Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png" group-title="℗EVENTOS DEL DIA℗",Champions 00 | PSG vs Real Sociedad | 3.00PM ET | WED
 http://spaticplas.org:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/243641
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ League | 01:40 PM CST | PSV vs. Borussia Dortmund  | 8vos, ida
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/368835
-#EXTINF:-1 tvg-id="" tvg-name="Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ League | 01:40 PM CST | Inter vs. Atlético Madrid  | 8vos, ida
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/368836
-#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="EVENTOS PPV",Concacaf W Championship Qualifying | 08:55 PM CST | Estados Unidos vs. República Dominicana (Fase de Grupos)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/368843
-#EXTINF:-1 xui-id="762106" tvg-id="" tvg-name="???? CHAMPIONS LEAGUE ????" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",???? CHAMPIONS LEAGUE ????
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_B4oZM065B-s1baJUavqIWE/ts
-#EXTINF:-1 xui-id="762107" tvg-id="" tvg-name="1️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",1️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_AVjkB86mR6GSDixa2AziMM/ts
-#EXTINF:-1 xui-id="762108" tvg-id="" tvg-name="2️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",2️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Nsx7M73aM_HyPZIHw0Si1w/ts
-#EXTINF:-1 xui-id="762109" tvg-id="" tvg-name="3️⃣20/02 - 15:00 Internazionale vs Atlético Madrid" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",3️⃣20/02 - 15:00 Internazionale vs Atlético Madrid
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_GSSxisTzXB1eTNisanuuK8/ts
-#EXTINF:-1 xui-id="762110" tvg-id="" tvg-name="4️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",4️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_DUuNttH9ewBb69vEyTX-cA/ts
-#EXTINF:-1 xui-id="762111" tvg-id="" tvg-name="5️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",5️⃣ 20/02 - 15:00 Internazionale vs Atlético Madrid
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_L3yQ8D-l49svZhFnU18ZAI/ts
-#EXTINF:-1 xui-id="762112" tvg-id="" tvg-name="6️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",6️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_KIMmQbs9ynqbECpeSxEZDo/ts
-#EXTINF:-1 xui-id="762113" tvg-id="" tvg-name="7️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",7️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_HeiP0OYsCNL74g5Oh0R39g/ts
-#EXTINF:-1 xui-id="762114" tvg-id="" tvg-name="8️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",8️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_OxFaSa9z_fdE34dvK4pyJM/ts
-#EXTINF:-1 xui-id="762115" tvg-id="" tvg-name="9️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",9️⃣ 20/02 - 15:00 PSV vs Borussia Dortmund
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_DAKp5yqmeTumzjTNmbIRPQ/ts
-#EXTINF:-1 xui-id="762116" tvg-id="" tvg-name="???? 20/02 - 15:00 PSV vs Borussia Dortmund" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",???? 20/02 - 15:00 PSV vs Borussia Dortmund
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_D6u_IJiASL2DoLFNE6Ix4A/ts
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="EVENTOS PPV",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369006
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="EVENTOS PPV",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369008
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369009
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369010
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="EVENTOS PPV",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369018
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="EVENTOS PPV",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369006
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="EVENTOS PPV",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369008
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369009
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369010
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="EVENTOS PPV",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369018
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="EVENTOS PPV",Champions League de la AFC | 09:55 AM CST | Al Ain FC (UAE) vs. Nasaf (UZB)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369006
+#EXTINF:-1 tvg-id="" tvg-name="Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2200.png" group-title="EVENTOS PPV",Champions League de la AFC | 11:50 AM CST | Al Nassr (KSA) vs. Al Fayha FC (KSA)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369008
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ Leag | 01:40 PM CST | Napoli vs. Barcelona | 8vos, ida
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369009
+#EXTINF:-1 tvg-id="" tvg-name="Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida" tvg-logo="https://logos.xbots.com.mx/Champions.png" group-title="EVENTOS PPV",Champ Leag | 01:40 PM CST | Porto vs. Arsenal FC  | 8vos, ida
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369010
+#EXTINF:-1 tvg-id="" tvg-name="Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F64.png" group-title="EVENTOS PPV",Concacaf W Championship Qualifying | 09:00 PM CST | Brasil vs. Puerto Rico (Fase de Grupos)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369018
+#EXTINF:-1 xui-id="762633" tvg-id="" tvg-name="⭐ | CHAMPIONS LEAGUE" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",⭐ | CHAMPIONS LEAGUE
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_I0vS8BmCHSExYFYYIhiT-E/ts
+#EXTINF:-1 xui-id="762634" tvg-id="" tvg-name="1️⃣ 21/02 - 15:00 Napoli vs Barcelona" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",1️⃣ 21/02 - 15:00 Napoli vs Barcelona
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_D3aJwj0VhN3EUhO3RghExc/ts
+#EXTINF:-1 xui-id="762635" tvg-id="" tvg-name="2️⃣ 21/02 - 15:00 Napoli vs Barcelona" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",2️⃣ 21/02 - 15:00 Napoli vs Barcelona
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_O6e9iGTDEwu7rR9PwG39C0/ts
+#EXTINF:-1 xui-id="762636" tvg-id="" tvg-name="3️⃣ 21/02 - 15:00 Napoli vs Barcelona" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",3️⃣ 21/02 - 15:00 Napoli vs Barcelona
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_G-iGuLGI-f2CEdgDnJ8Ilk/ts
+#EXTINF:-1 xui-id="762637" tvg-id="" tvg-name="4️⃣ 21/02 - 15:00 Napoli vs Barcelona" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",4️⃣ 21/02 - 15:00 Napoli vs Barcelona
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_BB7E6vEcs1NyUpp-NtMK1w/ts
+#EXTINF:-1 xui-id="762638" tvg-id="" tvg-name="5️⃣21/02 - 15:00 Napoli vs Barcelona" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",5️⃣21/02 - 15:00 Napoli vs Barcelona
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_KiRzvqZ4BNbsfN5dzpzxQ0/ts
+#EXTINF:-1 xui-id="762639" tvg-id="" tvg-name="6️⃣ 21/02 -  15:00 Porto vs Arsenal" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",6️⃣ 21/02 -  15:00 Porto vs Arsenal
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Oeb1bh3MuhMNQdSRKGsDVA/ts
+#EXTINF:-1 xui-id="762640" tvg-id="" tvg-name="7️⃣ 21/02 -  15:00 Porto vs Arsenal" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",7️⃣ 21/02 -  15:00 Porto vs Arsenal
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_AWiEMAPlxCs4Beq1Ix_9yM/ts
+#EXTINF:-1 xui-id="762641" tvg-id="" tvg-name="8️⃣ 21/02 -  15:00 Porto vs Arsenal" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",8️⃣ 21/02 -  15:00 Porto vs Arsenal
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Kc6noPqoccTML5UdSCKtBQ/ts
+#EXTINF:-1 xui-id="762642" tvg-id="" tvg-name="9️⃣ 21/02 -  15:00 Porto vs Arsenal" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",9️⃣ 21/02 -  15:00 Porto vs Arsenal
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_CLXUZIy9A2LRuVE-ZW0_I0/ts
+#EXTINF:-1 xui-id="762643" tvg-id="" tvg-name="???? 21/02 -  15:00 Porto vs Arsenal" tvg-logo="https://i.postimg.cc/W4xQGtTN/ESTO-ES-TV-CHAMPIONS-LEAGUE.png" group-title="⭐ | CHAMPIONS LEAGUE",???? 21/02 -  15:00 Porto vs Arsenal
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_AhsR-Uap0Hqgl7rKar9F9Y/ts
+#EXTINF:-1 xui-id="762644" tvg-id="" tvg-name="EVENTOS 2 PSV vs. Borussia Dortmund | 8vos, ida  UEFA Champions League" tvg-logo="https://i.postimg.cc/SQ7wZWFx/ESTO-ES-TV-STAR-SOLO-EVENTOS.png" group-title="⭐ | CHAMPIONS LEAGUE",EVENTOS 2 PSV vs. Borussia Dortmund | 8vos, ida  UEFA Champions League
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Ho8nQr-KVvtlHHuxbHC93w/ts
+#EXTINF:-1 xui-id="762645" tvg-id="" tvg-name="EVENTOS 3 Inter vs. Atlético Madrid | 8vos, ida  UEFA Champions League" tvg-logo="https://i.postimg.cc/SQ7wZWFx/ESTO-ES-TV-STAR-SOLO-EVENTOS.png" group-title="⭐ | CHAMPIONS LEAGUE",EVENTOS 3 Inter vs. Atlético Madrid | 8vos, ida  UEFA Champions League
+https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_AwuilUs097cAU7lmJL9HxM/ts
