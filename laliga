@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="DAZN LALIGA" tvg-name="DAZN LA LIGA HD B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LaLiga_logo_%282023%29.svg/2560px-LaLiga_logo_%282023%29.svg.png" group-title="DAZN | DAZN POR M+",DAZN LA LIGA HD B
+http://haksba3.ovh:37500/Batidora/5dc54d65c4ddv/119411
 #EXTINF:-1 tvg-ID="DAZN LALIGA" tvg-name="DAZN LA LIGA SD B" tvg-logo="" group-title="DAZN | DAZN POR M+",DAZN LA LIGA SD B
 http://haksba3.ovh:37500/Batidora/5dc54d65c4ddv/119412
 #EXTINF:-1 tvg-ID="" tvg-name="DAZN LA LIGA FHD" tvg-logo="" group-title="DAZN | DEPORTES 4K-HD",DAZN LA LIGA FHD
@@ -216,8 +218,8 @@ http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/319375
 #EXTINF:-1 tvg-id="" tvg-name="VIX LA LIGA SD EVENTO 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUFFbrfXYB8lfsnABk1bg2NfjQNNvYBfbxw&usqp=CAU" group-title="ZONA | VIX LA LIGA ",VIX LA LIGA SD EVENTO 04
 http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/319376
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 5 | LaLiga | Real Sociedad Vs Villareal 15:00pm | ESPN 4" tvg-logo="http://daleplay.club:8080/images/50aa5b26e2751178a8947e2ab3260d8f.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 5 | LaLiga | Real Sociedad Vs Villareal 15:00pm | ESPN 4
-http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339468
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 10 | LaLiga | Almeria Vs Atletico Madrid 15:00pm | ESPN 2" tvg-logo="http://daleplay.club:8080/images/50aa5b26e2751178a8947e2ab3260d8f.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 10 | LaLiga | Almeria Vs Atletico Madrid 15:00pm | ESPN 2
+http://daleplaypro.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339473
 --
 #EXTINF:-1 tvg-id="" tvg-name="La liga extraordinaria (2003)" tvg-logo="http://daleplaypro.com:8080/images/272f5ed665bae20216d9e6fb38f45ef6.jpg" group-title="* CIENCIA - FICCION *",La liga extraordinaria (2003)
 http://daleplaypro.com:8080/movie/c737nweve73GF6/wRt6pgzvmz875fD/182316.mkv
@@ -1022,11 +1024,25 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/440268
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (DAZN La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (DAZN La Liga 2)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/440269
 --
-#EXTINF:-1 tvg-id="" tvg-name="002 ES: La Liga / Real Sociedad vs Villarreal - 2:00PM - M La Liga" tvg-logo="" group-title="EVENTOS FUTBOL",002 ES: La Liga / Real Sociedad vs Villarreal - 2:00PM - M La Liga
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/532660
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532777
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/532705
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532779
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532781
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532785
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="http://guatv.xyz:80/images/6Io6LstbmQQ6wZdIMoCDvgnMEcqnJ6yj1U0uMlCaRKgJIcF01TzdjZbgGlsMUzNw.png" group-title="EVENTOS FUTBOL",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532787
+--
+#EXTINF:-1 tvg-id="" tvg-name="003 ES: La Liga / Barcelona vs Getafe 9:15AM -Almeria vs Atletico Madrid 2:00PM -M La Liga" tvg-logo="" group-title="EVENTOS FUTBOL",003 ES: La Liga / Barcelona vs Getafe 9:15AM -Almeria vs Atletico Madrid 2:00PM -M La Liga
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532827
+#EXTINF:-1 tvg-id="" tvg-name="003 ES: La Liga / Alaves vs Mallorca - 11:30AM - DAZN La Liga" tvg-logo="" group-title="EVENTOS FUTBOL",003 ES: La Liga / Alaves vs Mallorca - 11:30AM - DAZN La Liga
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/532828
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN SPORTS La Liga" tvg-logo="http://tvstar.live:8880/chimg/1603498410.png" group-title="BEIN SPORTS ",US: beIN SPORTS La Liga
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/214737
@@ -1148,14 +1164,23 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/217311
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="SUPER SPORTS",SuperSport La Liga
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/233428
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 006 - 10:00 : Soccer - LaLiga News" tvg-logo="" group-title="ESPN PLUS",ESPN+ 006 - 10:00 : Soccer - LaLiga News
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778767
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 015 - 10:45 : Soccer - FC Barcelona vs. Getafe (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 015 - 10:45 : Soccer - FC Barcelona vs. Getafe (LALIGA)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778776
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 035 - 15:50 : Soccer - Real Sociedad vs. Villarreal (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 035 - 15:50 : Soccer - Real Sociedad vs. Villarreal (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778796
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 017 - 10:55 : Soccer - En EspaÃ±ol-FC Barcelona vs. Getafe (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 017 - 10:55 : Soccer - En EspaÃ±ol-FC Barcelona vs. Getafe (LALIGA)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778778
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 037 - 15:55 : Soccer - En EspaÃ±ol-Real Sociedad vs. Villarreal (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 037 - 15:55 : Soccer - En EspaÃ±ol-Real Sociedad vs. Villarreal (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778798
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 050 - 13:15 : Soccer - En EspaÃ±ol-AlavÃ©s vs. Mallorca (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 050 - 13:15 : Soccer - En EspaÃ±ol-AlavÃ©s vs. Mallorca (LALIGA)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778811
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 055 - 13:20 : Soccer - AlavÃ©s vs. Mallorca (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 055 - 13:20 : Soccer - AlavÃ©s vs. Mallorca (LALIGA)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778816
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 168 - 15:30 : Soccer - AlmerÃ­a vs. Atletico de Madrid (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 168 - 15:30 : Soccer - AlmerÃ­a vs. Atletico de Madrid (LALIGA)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778929
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 170 - 15:30 : Soccer - En EspaÃ±ol-AlmerÃ­a vs. Atletico de Madrid (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 170 - 15:30 : Soccer - En EspaÃ±ol-AlmerÃ­a vs. Atletico de Madrid (LALIGA)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778932
 --
 #EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 2 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Dazn 2 HD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2133202
@@ -1174,11 +1199,24 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2144812
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198879
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199003
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2198882
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199005
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199007
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199009
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199010
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199011
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199013
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/197233
@@ -1258,11 +1296,24 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198879
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199003
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2198882
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199005
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199007
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199009
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199010
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199011
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199013
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/197233
@@ -1321,11 +1372,24 @@ http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/220429
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2144812
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198879
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2199003
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2198882
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2199005
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2199007
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2199009
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2199010
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2199011
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2199013
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/197233
@@ -1385,11 +1449,24 @@ http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198879
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2199003
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2198882
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2199005
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2199007
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2199009
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2199010
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2199011
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/rhin0xCP/yXtqbNNtmzaqU/2199013
 --
 #EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 2 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Dazn 2 HD
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2133202
@@ -1429,11 +1506,176 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198879
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199003
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2198882
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199005
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199007
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199009
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199010
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199011
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | PPV La Liga",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199013
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="https://th.bing.com/th/id/R.8092180a974b82564cf41f86ae771617?rik=PYjUqWxpaXw8cQ&riu=http%3a%2f%2fvertelevisionenvivo.com%2fwp-content%2fuploads%2f2021%2f06%2fimage-4.jpg&ehk=cBJe8UlQ52qoaPSm8bRGWAb5GC8ijZAaBMFkgSSxbyg%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",DEP HD: MOVISTAR LA LIGA (OPC 2)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/181880
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA (OPC 1)" tvg-logo="https://th.bing.com/th/id/R.8092180a974b82564cf41f86ae771617?rik=PYjUqWxpaXw8cQ&riu=http%3a%2f%2fvertelevisionenvivo.com%2fwp-content%2fuploads%2f2021%2f06%2fimage-4.jpg&ehk=cBJe8UlQ52qoaPSm8bRGWAb5GC8ijZAaBMFkgSSxbyg%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTES ꜱᴅ",DEP SD: MOVISTAR LA LIGA (OPC 1)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/181928
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="https://th.bing.com/th/id/R.8092180a974b82564cf41f86ae771617?rik=PYjUqWxpaXw8cQ&riu=http%3a%2f%2fvertelevisionenvivo.com%2fwp-content%2fuploads%2f2021%2f06%2fimage-4.jpg&ehk=cBJe8UlQ52qoaPSm8bRGWAb5GC8ijZAaBMFkgSSxbyg%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTES ꜱᴅ",DEP SD: MOVISTAR LA LIGA (OPC 2)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/181929
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)" tvg-logo="https://www.telextrema.com/img/ligadecampeones.png" group-title="DEPORTES ꜱᴅ",DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/181930
+#EXTINF:-1 tvg-id="" tvg-name="DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)" tvg-logo="https://www.telextrema.com/img/ligadecampeones.png" group-title="DEPORTES ꜱᴅ",DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 2)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/181931
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA  HD" tvg-logo="https://i.imgur.com/2Oc8y0m.png" group-title="ESPAÑA",M+ LA LIGA  HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265633
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="https://i.imgur.com/2Oc8y0m.png" group-title="ESPAÑA",M+ LA LIGA FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265634
+--
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 2 FHD" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",M LaLiga 2 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265646
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 3 FHD" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",M LaLiga 3 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265647
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 4 FHD" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",M LaLiga 4 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265648
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 5 FHD" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",M LaLiga 5 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265649
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 6" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",M LaLiga 6
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265650
+--
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 3 HD" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",M LaLiga 3 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265665
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 2 HD" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",M LaLiga 2 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265666
+--
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 HD" tvg-logo="https://i.imgur.com/VH8Rscy.png" group-title="ESPAÑA",DAZN LA LIGA 1 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265673
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 FHD" tvg-logo="https://i.imgur.com/VH8Rscy.png" group-title="ESPAÑA",DAZN LA LIGA 1 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265674
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="https://i.imgur.com/4OJv3nu.png" group-title="ESPAÑA",DAZN LA LIGA 2 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265675
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://i.imgur.com/4OJv3nu.png" group-title="ESPAÑA",DAZN LA LIGA 2 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265676
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="ESPAÑA",LALIGA TV HYPERMOTION HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265677
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="ESPAÑA",LALIGA TV HYPERMOTION FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265678
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="ESPAÑA",LALIGA TV HYPERMOTION 2 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265679
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 FHD" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="ESPAÑA",LALIGA TV HYPERMOTION 2 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265680
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA SD" tvg-logo="https://i.imgur.com/2Oc8y0m.png" group-title="ESPAÑA",M+ LA LIGA SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265681
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 HD" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="ESPAÑA",LALIGA TV HYPERMOTION 3 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265683
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 FHD" tvg-logo="https://i.imgur.com/EHUgdyR.png" group-title="ESPAÑA",LALIGA TV HYPERMOTION 3 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265684
+--
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 SD" tvg-logo="https://i.imgur.com/VH8Rscy.png" group-title="ESPAÑA",DAZN LA LIGA 1 SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265706
+--
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 7" tvg-logo="https://i.imgur.com/dLTGvh4.png" group-title="ESPAÑA",M. LaLiga 7
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265818
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 3 SD (ES)" tvg-logo="https://i.imgur.com/AHU167D.png" group-title="ESPAÑA",Dazn LaLiga 3 SD (ES)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265819
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 4 SD (ES)" tvg-logo="https://i.imgur.com/5YL1Dih.png" group-title="ESPAÑA",Dazn LaLiga 4 SD (ES)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265820
+#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga 2 SD" tvg-logo="https://i.imgur.com/4OJv3nu.png" group-title="ESPAÑA",Dazn La Liga 2 SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265821
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA 2 HD (Orange)" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",LALIGA 2 HD (Orange)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265855
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA 3 HD (Orange)" tvg-logo="https://i.imgur.com/KHwBT9B.png" group-title="ESPAÑA",LALIGA 3 HD (Orange)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265856
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA  (Orange)" tvg-logo="https://i.imgur.com/2Oc8y0m.png" group-title="ESPAÑA",LALIGA  (Orange)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/265860
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA  HD" tvg-logo="http://boxdigital.xyz:8080/images/d1acab9355bb60af2f1a0d63200f3686.png" group-title="DEPORTES ESPAÑA",LALIGA  HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228289
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA FHD" tvg-logo="http://boxdigital.xyz:8080/images/d1acab9355bb60af2f1a0d63200f3686.png" group-title="DEPORTES ESPAÑA",LALIGA FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228290
+--
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 3 FHD" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",M LaLiga 3 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228297
+--
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 3 HD" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",M LaLiga 3 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228303
+--
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 HD" tvg-logo="http://boxdigital.xyz:8080/images/8e9091e24a37c3a503a7dc00c71e3c27.png" group-title="DEPORTES ESPAÑA",DAZN LA LIGA 1 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228307
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 FHD" tvg-logo="http://tv.boxdigital.org:8080/images/8e9091e24a37c3a503a7dc00c71e3c27.png" group-title="DEPORTES ESPAÑA",DAZN LA LIGA 1 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228308
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/6f3c0e249554741504e6c9609e750178.png" group-title="DEPORTES ESPAÑA",DAZN LA LIGA 2 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228309
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="http://boxdigital.xyz:8080/images/6f3c0e249554741504e6c9609e750178.png" group-title="DEPORTES ESPAÑA",DAZN LA LIGA 2 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228310
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="http://boxdigital.xyz:8080/images/0affd6e8512bec08572e3f63a698eaf4.png" group-title="DEPORTES ESPAÑA",LALIGA TV HYPERMOTION HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228311
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="http://boxdigital.xyz:8080/images/0affd6e8512bec08572e3f63a698eaf4.png" group-title="DEPORTES ESPAÑA",LALIGA TV HYPERMOTION FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228312
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 FHD" tvg-logo="http://boxdigital.xyz:8080/images/0affd6e8512bec08572e3f63a698eaf4.png" group-title="DEPORTES ESPAÑA",LALIGA TV HYPERMOTION 2 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228313
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA SD" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",LALIGA SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228314
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 HD" tvg-logo="http://boxdigital.xyz:8080/images/0affd6e8512bec08572e3f63a698eaf4.png" group-title="DEPORTES ESPAÑA",LALIGA TV HYPERMOTION 3 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228320
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 FHD" tvg-logo="http://boxdigital.xyz:8080/images/0affd6e8512bec08572e3f63a698eaf4.png" group-title="DEPORTES ESPAÑA",LALIGA TV HYPERMOTION 3 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228321
+--
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 SD" tvg-logo="http://boxdigital.xyz:8080/images/8e9091e24a37c3a503a7dc00c71e3c27.png" group-title="DEPORTES ESPAÑA",DAZN LA LIGA 1 SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228348
+--
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 7" tvg-logo="http://boxdigital.xyz:8080/images/600c7e1f09705d97a4847394e413fe06.png" group-title="DEPORTES ESPAÑA",M. LaLiga 7
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228350
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 3 SD (ES)" tvg-logo="" group-title="DEPORTES ESPAÑA",Dazn LaLiga 3 SD (ES)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228351
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 4 SD (ES)" tvg-logo="" group-title="DEPORTES ESPAÑA",Dazn LaLiga 4 SD (ES)
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228352
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 SD" tvg-logo="" group-title="DEPORTES ESPAÑA",Dazn LaLiga 2 SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228353
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 4 SD" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA SMARTBANK 4 SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228359
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 4 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA SMARTBANK 4 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228360
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 5 SD" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA SMARTBANK 5 SD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228361
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 5 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA SMARTBANK 5 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228362
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 6 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA SMARTBANK 6 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228363
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 7 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA SMARTBANK 7 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228364
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 8 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA SMARTBANK 8 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228365
+--
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 2 FHD" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",M LaLiga 2 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228382
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 4 FHD" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",M LaLiga 4 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228383
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 5 FHD" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",M LaLiga 5 FHD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228384
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 6" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",M LaLiga 6
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228385
+--
+#EXTINF:-1 tvg-id="" tvg-name="M LaLiga 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/a1e6b23b00b6b279bd19e2fbeecdca6d.png" group-title="DEPORTES ESPAÑA",M LaLiga 2 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228395
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/0affd6e8512bec08572e3f63a698eaf4.png" group-title="DEPORTES ESPAÑA",LALIGA TV HYPERMOTION 2 HD
+http://pro.boxdigital.org:8080/pvizioncmd5FDV/5agDaCVFavMMq/228400
 --
 #EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="ES | M+LA *LIGA 1 HD" tvg-logo="http://daleplay.club:8080/images/48708a0880949927e4217cf46ea1364d.png" group-title="⭐ES | LA LIGA⚽",ES | M+LA *LIGA 1 HD
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/144025
@@ -1502,8 +1744,8 @@ http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/319375
 #EXTINF:-1 tvg-id="" tvg-name="VIX LA LIGA SD EVENTO 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUFFbrfXYB8lfsnABk1bg2NfjQNNvYBfbxw&usqp=CAU" group-title="ZONA | VIX LA LIGA ",VIX LA LIGA SD EVENTO 04
 http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/319376
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 5 | LaLiga | Real Sociedad Vs Villareal 15:00pm | ESPN 4" tvg-logo="http://daleplay.club:8080/images/50aa5b26e2751178a8947e2ab3260d8f.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 5 | LaLiga | Real Sociedad Vs Villareal 15:00pm | ESPN 4
-http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339468
+#EXTINF:-1 tvg-id="" tvg-name="PPV | EVENTO 10 | LaLiga | Almeria Vs Atletico Madrid 15:00pm | ESPN 2" tvg-logo="http://daleplay.club:8080/images/50aa5b26e2751178a8947e2ab3260d8f.png" group-title="⭐ EVENTOS DIARIOS ⭐",PPV | EVENTO 10 | LaLiga | Almeria Vs Atletico Madrid 15:00pm | ESPN 2
+http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/339473
 --
 #EXTINF:-1 tvg-id="" tvg-name="La liga extraordinaria (2003)" tvg-logo="http://daleplaypro.com:8080/images/272f5ed665bae20216d9e6fb38f45ef6.jpg" group-title="* CIENCIA - FICCION *",La liga extraordinaria (2003)
 http://rasaiptv.com:8080/movie/c737nweve73GF6/wRt6pgzvmz875fD/182316.mkv
@@ -1678,11 +1920,24 @@ http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/355184
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/117124
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369789
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369896
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369792
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369898
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369900
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369902
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369903
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369904
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/369906
 --
 #EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
 http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/180144
@@ -1698,11 +1953,57 @@ http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/308354
 #EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
 http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/355184
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:20 PM | EN ESPAñOL  -  VALLADOLID VS OVIEDO (SPANISH SEGUNDA DIVISION)
-http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369789
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369896
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:55 PM | EN ESPAñOL - REAL SOCIEDAD VS VILLARREAL (LALIGA)
-http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369792
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369898
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369900
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369902
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369903
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369904
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://zeuspro.xyz:8080/iprotvnuevo56/nuevoIprotv2024pro/369906
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180144
+--
+#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308350
+#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308354
+--
+#EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/355184
+--
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117124
+--
+#EXTINF:-1 tvg-id="" tvg-name="08:45 AM | FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",08:45 AM | FC BARCELONA VS GETAFE (LALIGA)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369896
+--
+#EXTINF:-1 tvg-id="" tvg-name="08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",08:55 AM | EN ESPAñOL - FC BARCELONA VS GETAFE (LALIGA)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369898
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:15 AM | EN ESPAñOL - ALAVéS VS MALLORCA (LALIGA)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369900
+--
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | EN ESPAñOL  -  SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369902
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | SD EIBAR VS ESPANYOL (SPANISH SEGUNDA DIVISION)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369903
+#EXTINF:-1 tvg-id="" tvg-name="11:20 AM | ALAVéS VS MALLORCA (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",11:20 AM | ALAVéS VS MALLORCA (LALIGA)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369904
+--
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:30 PM | EN ESPAñOL - ALMERíA VS ATLETICO DE MADRID (LALIGA)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/369906
 --
 #EXTINF:-1 xui-id="410740" tvg-id="" tvg-name="DEU | SKY SPORTS LA LIGA HD" tvg-logo="http://svtv.xyz:8000/images/c3b7c24e4b2684e2072e003bb4866520.png" group-title="⚽ | PACK SKY SPORTS",DEU | SKY SPORTS LA LIGA HD
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Ja2gk2gJAaY1KXaBuP-p4M/ts
