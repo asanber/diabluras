@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="DEPORTES",Golf Channel
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/66
---
 #EXTINF:-1 tvg-id="" tvg-name="DEP | M. GOLF HD (ES)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="DEPORTES",DEP | M. GOLF HD (ES)
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1695
 --
@@ -414,6 +411,15 @@ http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/233408
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63776927821.png" group-title="CANADÁ",CA: Golf Channel HD
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/479232
 --
+#EXTINF:-1 tvg-id="" tvg-name="El Dragón: El regreso de un guerrero S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltXNdh3k94dCOBGolfOExDC2RTO.jpg" group-title="Zona Netflix ",El Dragón: El regreso de un guerrero S01 E35
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/457949.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYusTGOlFsD18Tgfe4rzWNiBBb3.jpg" group-title="Anime",Pokémon S04 E03
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/433047.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sloborn S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xUcw57thHg5ShgoLFIMn2qNetX.jpg" group-title="Drama",Sloborn S01 E07
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/192258.mp4
+--
 #EXTINF:-1 tvg-id="" tvg-name="C More Golf" tvg-logo="http://www.iptvforall.net/newlogo/c_more_se_golf_hd.png" group-title="EUROSPORTS",C More Golf
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/62613
 --
@@ -524,24 +530,25 @@ http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743863
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="SPORTS",SPORTS: GOLF CHANNEL
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/336
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 008 - 09:45 : Golf - Arnold Palmer Invitational presented by Mastercard: Fowler & Aberg Featured Groups (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 008 - 09:45 : Golf - Arnold Palmer Invitational presented by Mastercard: Fowler & Aberg Featured Groups (Third Round)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778769
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 009 - 09:45 : Golf - Arnold Palmer Invitational presented by Mastercard: List & Cantlay Marquee Groups (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 009 - 09:45 : Golf - Arnold Palmer Invitational presented by Mastercard: List & Cantlay Marquee Groups (Third Round)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778770
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 010 - 09:45 : Golf - Arnold Palmer Invitational presented by Mastercard: Main Feed + McIlroy Group (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 010 - 09:45 : Golf - Arnold Palmer Invitational presented by Mastercard: Main Feed + McIlroy Group (Third Round)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778771
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 011 - 10:00 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Holes #2 #6 #14 & #17 (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 011 - 10:00 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Holes #2 #6 #14 & #17 (Third Round)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 006 - 08:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Main Feed + Spieth Group" tvg-logo="" group-title="ESPN PLUS",ESPN+ 006 - 08:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Main Feed + Spieth Group
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778767
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 011 - 09:00 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Holes #2 #6 #14 & #17 (Final Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 011 - 09:00 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Holes #2 #6 #14 & #17 (Final Round)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778772
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 065 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: McIlroy Featured Group (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 065 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: McIlroy Featured Group (Third Round)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778826
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 013 - 09:15 : Golf - Arnold Palmer Invitational presented by Mastercard: Schauffele & Fowler Marquee Groups (Final Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 013 - 09:15 : Golf - Arnold Palmer Invitational presented by Mastercard: Schauffele & Fowler Marquee Groups (Final Round)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778774
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 069 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Hovland Featured Group (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 069 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Hovland Featured Group (Third Round)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778830
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 070 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Hole #17 (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 070 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Hole #17 (Third Round)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778831
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 071 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Hole #14 (Third Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 071 - 13:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Hole #14 (Third Round)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778832
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 015 - 10:00 : Golf - Arnold Palmer Invitational presented by Mastercard: Day & T. Kim Featured Groups (Final Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 015 - 10:00 : Golf - Arnold Palmer Invitational presented by Mastercard: Day & T. Kim Featured Groups (Final Round)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778776
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 039 - 12:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Spieth Featured Group (Final Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 039 - 12:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Spieth Featured Group (Final Round)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778800
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 044 - 12:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Hole #14 (Final Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 044 - 12:30 : Golf - Arnold Palmer Invitational presented by Mastercard: Featured Hole #14 (Final Round)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778805
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 045 - 12:30 : Golf - Arnold Palmer Invitational presented by Mastercard:  Schauffele Featured Group (Final Round)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 045 - 12:30 : Golf - Arnold Palmer Invitational presented by Mastercard:  Schauffele Featured Group (Final Round)
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778806
 --
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA: GOLF" tvg-logo="" group-title="CANADA",CA: GOLF
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/761451
@@ -627,26 +634,6 @@ http://lobo-tv.live:8080/restreamiptv/uHbQMnZaPxaQ/2100017
 --
 #EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
 http://lobo-tv.live:8080/restreamiptv/uHbQMnZaPxaQ/2145544
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Golf FHD" tvg-logo="http://l3d.us:25461/images/11cd41089b4037971ffe910ff11d1aa5.png" group-title="TV | La Liga Movistar",SP: La Liga: M. Golf FHD
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2121530
-#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Golf FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: M. Golf FHD
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2133235
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2168357
---
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/10948
---
-#EXTINF:-1 tvg-id="" tvg-name="D | MOVISTAR GOLF" tvg-logo="http://ceoapps.org/logos/mgolf.png" group-title="TV | Deportes",D | MOVISTAR GOLF
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2100018
---
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="S | The Golf Channel" tvg-logo="http://ceoapps.org/logos/golfchannel.png" group-title="TV | USA Sports",S | The Golf Channel
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2100017
---
-#EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
-http://lobo-tv.live:8080/RestreamSDMX/YxTajqLPZCbMtQzC/2145544
 --
 #EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Golf FHD" tvg-logo="http://l3d.us:25461/images/11cd41089b4037971ffe910ff11d1aa5.png" group-title="TV | La Liga Movistar",SP: La Liga: M. Golf FHD
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2121530
