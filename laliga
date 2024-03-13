@@ -914,11 +914,6 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/440268
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (DAZN La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (DAZN La Liga 2)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/440269
 --
-#EXTINF:-1 tvg-id="" tvg-name="003 ES: La Liga / Almeria vs Sevilla - 2:00PM - M La Liga" tvg-logo="" group-title="EVENTOS FUTBOL",003 ES: La Liga / Almeria vs Sevilla - 2:00PM - M La Liga
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/534672
-#EXTINF:-1 tvg-id="" tvg-name="003 ES: La Liga / Almeria vs Sevilla - 2:00PM - La Liga TVBAR" tvg-logo="" group-title="EVENTOS FUTBOL",003 ES: La Liga / Almeria vs Sevilla - 2:00PM - La Liga TVBAR
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/534673
---
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN SPORTS La Liga" tvg-logo="http://tvstar.live:8880/chimg/1603498410.png" group-title="BEIN SPORTS ",US: beIN SPORTS La Liga
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/214737
 --
@@ -1039,13 +1034,14 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/217311
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="SUPER SPORTS",SuperSport La Liga
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/233428
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 001 - 10:00 : Soccer - LaLiga News" tvg-logo="" group-title="ESPN PLUS",ESPN+ 001 - 10:00 : Soccer - LaLiga News
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778762
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 002 - 10:00 : Soccer - LaLiga News" tvg-logo="" group-title="ESPN PLUS",ESPN+ 002 - 10:00 : Soccer - LaLiga News
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778763
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 023 - 15:50 : Soccer - AlmerÃ­a vs. Sevilla (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 023 - 15:50 : Soccer - AlmerÃ­a vs. Sevilla (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778784
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 024 - 15:55 : Soccer - En EspaÃ±ol-AlmerÃ­a vs. Sevilla (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 024 - 15:55 : Soccer - En EspaÃ±ol-AlmerÃ­a vs. Sevilla (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778785
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 008 - 12:00 : Soccer - LaLiga World" tvg-logo="" group-title="ESPN PLUS",ESPN+ 008 - 12:00 : Soccer - LaLiga World
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778769
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 014 - 12:00 : Soccer - LaLiga World" tvg-logo="" group-title="ESPN PLUS",ESPN+ 014 - 12:00 : Soccer - LaLiga World
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778775
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga FHD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/10918
@@ -1078,9 +1074,6 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2144812
 --
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/220429
---
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | ALMERíA VS SEVILLA" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | ALMERíA VS SEVILLA
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2201134
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/197233
@@ -1169,9 +1162,6 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | ALMERíA VS SEVILLA" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | ALMERíA VS SEVILLA
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2201134
---
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/197233
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga " tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga 
@@ -1259,9 +1249,6 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | ALMERíA VS SEVILLA" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="TV | EVENTOS",01:55 PM | ALMERíA VS SEVILLA
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2201134
---
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA HD*
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/191052
 --
@@ -1340,23 +1327,6 @@ http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/243753
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/243754
 --
 #EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/180144
---
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/308350
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/308354
---
-#EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/355184
---
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/117124
---
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | ALMERíA VS SEVILLA" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:55 PM | ALMERíA VS SEVILLA
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/375571
---
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180144
 --
 #EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
@@ -1369,9 +1339,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/355184
 --
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117124
---
-#EXTINF:-1 tvg-id="" tvg-name="01:55 PM | ALMERíA VS SEVILLA" tvg-logo="https://logos.xbots.com.mx/LaLigaES.png" group-title="EVENTOS PPV",01:55 PM | ALMERíA VS SEVILLA
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/375571
 --
 #EXTINF:-1 xui-id="410740" tvg-id="" tvg-name="DEU | SKY SPORTS LA LIGA HD" tvg-logo="http://svtv.xyz:8000/images/c3b7c24e4b2684e2072e003bb4866520.png" group-title="⚽ | PACK SKY SPORTS",DEU | SKY SPORTS LA LIGA HD
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Ja2gk2gJAaY1KXaBuP-p4M/ts
@@ -1458,11 +1425,6 @@ https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_AKNmh5G8lL9GeVJnJaDj2A/ts
 --
 #EXTINF:-1 xui-id="781767" tvg-id="" tvg-name="⭐ | LA LIGA" tvg-logo="https://i.postimg.cc/BvHDkG5H/ESTO-ES-TV-LA-LIGA-ESOA-A.png" group-title="⭐ | EVENTOS FUTBOL - EUROPA",⭐ | LA LIGA
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Dl1qXnWZyi3Ckj35kpHa34/ts
---
-#EXTINF:-1 xui-id="781825" tvg-id="" tvg-name="11/03 01:50PM ALMERíA VS SEVILLA (LALIGA)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8af71d80-ea57-44a5-b0d7-622e74a91309/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202402262254" group-title="⭐ | OTROS EVENTOS DEL DIA",11/03 01:50PM ALMERíA VS SEVILLA (LALIGA)
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_GoCCBQtUeakn1LrzyLcLko/ts
-#EXTINF:-1 xui-id="781826" tvg-id="" tvg-name="11/03 01:55PM EN ESPAñOL - ALMERíA VS SEVILLA (LALIGA)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bfade4fd-ceed-45b5-b3be-ae638d00242f/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202402262254" group-title="⭐ | OTROS EVENTOS DEL DIA",11/03 01:55PM EN ESPAñOL - ALMERíA VS SEVILLA (LALIGA)
-https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_NwlNhCjxPX0kzwnH1fQkQ4/ts
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
