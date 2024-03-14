@@ -1034,14 +1034,8 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/217311
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="SUPER SPORTS",SuperSport La Liga
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/233428
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 002 - 10:00 : Soccer - LaLiga News" tvg-logo="" group-title="ESPN PLUS",ESPN+ 002 - 10:00 : Soccer - LaLiga News
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778763
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 008 - 12:00 : Soccer - LaLiga World" tvg-logo="" group-title="ESPN PLUS",ESPN+ 008 - 12:00 : Soccer - LaLiga World
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778769
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 014 - 12:00 : Soccer - LaLiga World" tvg-logo="" group-title="ESPN PLUS",ESPN+ 014 - 12:00 : Soccer - LaLiga World
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778775
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 001 - 10:00 : Soccer - LaLiga News" tvg-logo="" group-title="ESPN PLUS",ESPN+ 001 - 10:00 : Soccer - LaLiga News
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778762
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga FHD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/10918
@@ -1359,11 +1353,11 @@ https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_Ja2gk2gJAaY1KXaBuP-p4M/ts
 #EXTINF:-1 xui-id="410741" tvg-id="" tvg-name="DEU | SKY SPORTS LA LIGA HD*" tvg-logo="http://svtv.xyz:8000/images/c3b7c24e4b2684e2072e003bb4866520.png" group-title="⚽ | PACK SKY SPORTS",DEU | SKY SPORTS LA LIGA HD*
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_HGjCpXpVWPtBxDu_zDQ7R4/ts
 --
-#EXTINF:-1 xui-id="531758" tvg-id="" tvg-name="PER | LA LIGA 1 MAX OP1" tvg-logo="https://i.ibb.co/FDtqWND/image.png" group-title="⚽ | DEPORTES PERU",PER | LA LIGA 1 MAX OP1
+#EXTINF:-1 xui-id="531758" tvg-id="" tvg-name="PER | 1️⃣ LA LIGA 1 MAX" tvg-logo="https://i.ibb.co/FDtqWND/image.png" group-title="⚽ | DEPORTES PERU",PER | 1️⃣ LA LIGA 1 MAX
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_NzRR0fX-o18JISSosGDStQ/ts
-#EXTINF:-1 xui-id="531761" tvg-id="" tvg-name="PER | LA LIGA 1 MAX OP2" tvg-logo="https://i.ibb.co/FDtqWND/image.png" group-title="⚽ | DEPORTES PERU",PER | LA LIGA 1 MAX OP2
+#EXTINF:-1 xui-id="531761" tvg-id="" tvg-name="PER | 2️⃣ LA LIGA 1 MAX" tvg-logo="https://i.ibb.co/FDtqWND/image.png" group-title="⚽ | DEPORTES PERU",PER | 2️⃣ LA LIGA 1 MAX
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_BELHmPe-mkqm-Fl6DNg70s/ts
-#EXTINF:-1 xui-id="531762" tvg-id="" tvg-name="PER | LA LIGA 1 MAX OP3" tvg-logo="https://i.ibb.co/FDtqWND/image.png" group-title="⚽ | DEPORTES PERU",PER | LA LIGA 1 MAX OP3
+#EXTINF:-1 xui-id="531762" tvg-id="" tvg-name="PER | 3️⃣ LA LIGA 1 MAX" tvg-logo="https://i.ibb.co/FDtqWND/image.png" group-title="⚽ | DEPORTES PERU",PER | 3️⃣ LA LIGA 1 MAX
 https://zona593ec.online:443/play/XiVhtJ_Uhifx3_tHJEyX_OZNybbkMnC5hwTqh4v3g1E/ts
 --
 #EXTINF:-1 xui-id="549108" tvg-id="" tvg-name="LIGA HYPERMOTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="⚽ M+ LIGA HYPERMOTION",LIGA HYPERMOTION FHD
