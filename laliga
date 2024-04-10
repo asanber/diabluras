@@ -1852,7 +1852,6 @@ http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/61615
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/61616
 #EXTINF:-1 tvg-id="" tvg-name="REPLAY LA LIGA 10" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="→ REPLAY LA LIGA ←",REPLAY LA LIGA 10
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/61617
---
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA  FHD
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60244
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA SD
@@ -1878,8 +1877,6 @@ http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60271
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" group-title="→ ESPAÑA DAZN ←",DAZN LA LIGA 5 SD
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60272
 --
-#EXTINF:-1 tvg-id="" tvg-name="OPCION LATINO A" tvg-logo="" group-title="→ ESPAÑA LA LIGA ←",OPCION LATINO A
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/63787
 #EXTINF:-1 tvg-id="" tvg-name="M+  LA LIGA SD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←",M+  LA LIGA SD
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60235
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA HD
@@ -2008,6 +2005,10 @@ http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/233428
 --
 #EXTINF:-1 tvg-id="" tvg-name="ESPN+ 001 - 09:00 : Soccer - LaLiga News" tvg-logo="" group-title="ESPN PLUS",ESPN+ 001 - 09:00 : Soccer - LaLiga News
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778762
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 002 - 11:00 : Soccer - LaLiga World" tvg-logo="" group-title="ESPN PLUS",ESPN+ 002 - 11:00 : Soccer - LaLiga World
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778763
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 003 - 11:00 : Soccer - LaLiga World" tvg-logo="" group-title="ESPN PLUS",ESPN+ 003 - 11:00 : Soccer - LaLiga World
+http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778764
 --
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/97524
@@ -2029,8 +2030,12 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/5308
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 001 [LALIGA Soccer] LaLiga News 04/08 09:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 001 [LALIGA Soccer] LaLiga News 04/08 09:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 001 [LALIGA Soccer] LaLiga News 04/09 09:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 001 [LALIGA Soccer] LaLiga News 04/09 09:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/631406
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 002 [LALIGA Soccer] LaLiga World 04/09 11:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 002 [LALIGA Soccer] LaLiga World 04/09 11:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631407
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 003 [LALIGA Soccer] LaLiga World 04/09 11:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 003 [LALIGA Soccer] LaLiga World 04/09 11:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631408
 --
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97524
@@ -2093,11 +2098,6 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2144812
 --
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/220429
---
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán" tvg-logo="http://live.detodotvplay.com:8080/images/AsZdLfBoZp5jMGk40bX9bYcgySbJp2pGyI9skdCdlCBBbbc2xxTaOFFA4Ho5FcGg0kO8hrhoODQmeVgWTP47zpwzpdbDVGS-11F2mBnCP5_lXgrNCJ4ki1Pfd7epW6Dp.png" group-title="TV | EVENTOS",Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2210684
-#EXTINF:-1 tvg-id="" tvg-name="Segunda División de España | 12:25 PM CST | Racing Santander vs. Alcorcón" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",Segunda División de España | 12:25 PM CST | Racing Santander vs. Alcorcón
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2210685
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/197233
@@ -2204,11 +2204,6 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán" tvg-logo="http://live.detodotvplay.com:8080/images/AsZdLfBoZp5jMGk40bX9bYcgySbJp2pGyI9skdCdlCBBbbc2xxTaOFFA4Ho5FcGg0kO8hrhoODQmeVgWTP47zpwzpdbDVGS-11F2mBnCP5_lXgrNCJ4ki1Pfd7epW6Dp.png" group-title="TV | EVENTOS",Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2210684
-#EXTINF:-1 tvg-id="" tvg-name="Segunda División de España | 12:25 PM CST | Racing Santander vs. Alcorcón" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",Segunda División de España | 12:25 PM CST | Racing Santander vs. Alcorcón
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2210685
---
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/197233
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga " tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga 
@@ -2296,105 +2291,6 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán" tvg-logo="http://live.detodotvplay.com:8080/images/AsZdLfBoZp5jMGk40bX9bYcgySbJp2pGyI9skdCdlCBBbbc2xxTaOFFA4Ho5FcGg0kO8hrhoODQmeVgWTP47zpwzpdbDVGS-11F2mBnCP5_lXgrNCJ4ki1Pfd7epW6Dp.png" group-title="TV | EVENTOS",Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2210684
-#EXTINF:-1 tvg-id="" tvg-name="Segunda División de España | 12:25 PM CST | Racing Santander vs. Alcorcón" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",Segunda División de España | 12:25 PM CST | Racing Santander vs. Alcorcón
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2210685
---
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA HD*
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/191052
---
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT HDBR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",SKY SPORT HDBR
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/191065
---
-#EXTINF:-1 tvg-id="" tvg-name="ORANGE LIGA *" tvg-logo="https://app-cdn.acelitchi.com/prod/app/3/29/6412273641607992545.webp" group-title="││⛹️ LaLiga EA Sports⛹️││",ORANGE LIGA *
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/211005
---
-#EXTINF:-1 tvg-id="" tvg-name="|US| (SP) BEIN SPORTS LALIGA" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| (SP) BEIN SPORTS LALIGA
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/220364
-#EXTINF:-1 tvg-id="" tvg-name="|US| BEIN SPORTS LALIGA HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| BEIN SPORTS LALIGA HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/220365
---
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 4K ( PRUEBAS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 4K ( PRUEBAS)
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233743
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA FHD ORANGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA FHD ORANGE
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233744
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA FHD ENCODER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA FHD ENCODER
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233745
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA FHD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233746
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233747
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233748
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 2 FHD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233749
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 2 HD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 2 HD (SÓLO EVENTOS)
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233750
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 2 SD (SÓLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 2 SD (SÓLO EVENTOS)
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233751
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 3 HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233752
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 4 SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233753
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 5 SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233754
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",LA LIGA 6 SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233755
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA FHD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233756
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233757
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233758
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 2 SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233759
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 2 HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233760
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 3 HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233761
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 5 SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233762
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 4 HD 720P
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233763
---
-#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION FHD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233794
-#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION 3 FHD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233795
-#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233796
-#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION 2 SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233797
-#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION 3 SD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233798
-#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION 2 HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233799
-#EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION 3 HD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233800
---
-#EXTINF:-1 tvg-id="" tvg-name="La liga castellano" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",La liga castellano
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/243753
-#EXTINF:-1 tvg-id="" tvg-name="La liga Latino" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",La liga Latino
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/243754
---
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/180144
---
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/308350
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/308354
---
-#EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/355184
---
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/117124
---
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán" tvg-logo="http://live.detodotvplay.com:8080/images/AsZdLfBoZp5jMGk40bX9bYcgySbJp2pGyI9skdCdlCBBbbc2xxTaOFFA4Ho5FcGg0kO8hrhoODQmeVgWTP47zpwzpdbDVGS-11F2mBnCP5_lXgrNCJ4ki1Pfd7epW6Dp.png" group-title="EVENTOS PPV",Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/385307
---
 #EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/180144
 --
@@ -2408,9 +2304,6 @@ http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/355184
 --
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
 http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/117124
---
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán" tvg-logo="http://live.detodotvplay.com:8080/images/AsZdLfBoZp5jMGk40bX9bYcgySbJp2pGyI9skdCdlCBBbbc2xxTaOFFA4Ho5FcGg0kO8hrhoODQmeVgWTP47zpwzpdbDVGS-11F2mBnCP5_lXgrNCJ4ki1Pfd7epW6Dp.png" group-title="EVENTOS PPV",Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/385307
 --
 #EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180144
@@ -2426,9 +2319,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/355184
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117124
 --
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán" tvg-logo="http://live.detodotvplay.com:8080/images/AsZdLfBoZp5jMGk40bX9bYcgySbJp2pGyI9skdCdlCBBbbc2xxTaOFFA4Ho5FcGg0kO8hrhoODQmeVgWTP47zpwzpdbDVGS-11F2mBnCP5_lXgrNCJ4ki1Pfd7epW6Dp.png" group-title="EVENTOS PPV",Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/385307
---
 #EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180144
 --
@@ -2442,9 +2332,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/355184
 --
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
 http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117124
---
-#EXTINF:-1 tvg-id="" tvg-name="Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán" tvg-logo="http://live.detodotvplay.com:8080/images/AsZdLfBoZp5jMGk40bX9bYcgySbJp2pGyI9skdCdlCBBbbc2xxTaOFFA4Ho5FcGg0kO8hrhoODQmeVgWTP47zpwzpdbDVGS-11F2mBnCP5_lXgrNCJ4ki1Pfd7epW6Dp.png" group-title="EVENTOS PPV",Argentine Copa de la Liga Profesional | 12:15 PM CST | Deportivo Riestra vs. Huracán
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/385307
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
