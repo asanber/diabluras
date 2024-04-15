@@ -145,11 +145,6 @@ http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png", LaLiga Hypermotion 8  4d52
 http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 --
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA HD
-http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/165392.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA 2 HD
-http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/165398.ts
---
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports la Liga (i)" tvg-logo="" group-title="Deportes",BeIN Sports la Liga (i)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/158819
 --
@@ -2017,28 +2012,6 @@ http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/217311
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="SUPER SPORTS",SuperSport La Liga
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/233428
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 005 - 07:55 : Soccer - Atletico de Madrid vs. Girona (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 005 - 07:55 : Soccer - Atletico de Madrid vs. Girona (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778766
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 006 - 07:55 : Soccer - En EspaÃ±ol-Atletico de Madrid vs. Girona (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 006 - 07:55 : Soccer - En EspaÃ±ol-Atletico de Madrid vs. Girona (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778767
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 019 - 10:00 : Soccer - En EspaÃ±ol-Rayo Vallecano vs. Getafe (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 019 - 10:00 : Soccer - En EspaÃ±ol-Rayo Vallecano vs. Getafe (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778780
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 022 - 10:20 : Soccer - Rayo Vallecano vs. Getafe (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 022 - 10:20 : Soccer - Rayo Vallecano vs. Getafe (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778783
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 054 - 12:00 : Soccer - Mallorca vs. Real Madrid (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 054 - 12:00 : Soccer - Mallorca vs. Real Madrid (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778815
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 073 - 12:15 : Soccer - En EspaÃ±ol-Mallorca vs. Real Madrid (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 073 - 12:15 : Soccer - En EspaÃ±ol-Mallorca vs. Real Madrid (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778834
---
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 154 - 14:30 : Soccer - En EspaÃ±ol-Cadiz vs. FC Barcelona (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 154 - 14:30 : Soccer - En EspaÃ±ol-Cadiz vs. FC Barcelona (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778915
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ 155 - 14:30 : Soccer - Cadiz vs. FC Barcelona (LALIGA)" tvg-logo="" group-title="ESPN PLUS",ESPN+ 155 - 14:30 : Soccer - Cadiz vs. FC Barcelona (LALIGA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/778916
---
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/97524
 --
@@ -2049,8 +2022,8 @@ http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/5308
 --
-#EXTINF:-1 tvg-id="79263" tvg-name="USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm
-http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/21838
+#EXTINF:-1 tvg-id="78002" tvg-name="USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/21826
 --
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/97524
@@ -2062,25 +2035,37 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/5308
 --
-#EXTINF:-1 tvg-id="79263" tvg-name="USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/21838
+#EXTINF:-1 tvg-id="78002" tvg-name="USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/21826
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 006 [LALIGA Soccer] Atletico de Madrid vs. Girona (LALIGA) 04/13 07:55 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 006 [LALIGA Soccer] Atletico de Madrid vs. Girona (LALIGA) 04/13 07:55 ET
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 005 [LALIGA 2 Soccer] En Español-Oviedo vs. Mirandés (Spanish Segunda Division) 04/14 07:50 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 005 [LALIGA 2 Soccer] En Español-Oviedo vs. Mirandés (Spanish Segunda Division) 04/14 07:50 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631410
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 006 [LALIGA 2 Soccer] Oviedo vs. Mirandés (Spanish Segunda Division) 04/14 07:50 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 006 [LALIGA 2 Soccer] Oviedo vs. Mirandés (Spanish Segunda Division) 04/14 07:50 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/631411
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 007 [LALIGA Soccer] En Español-Atletico de Madrid vs. Girona (LALIGA) 04/13 07:55 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 007 [LALIGA Soccer] En Español-Atletico de Madrid vs. Girona (LALIGA) 04/13 07:55 ET
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 007 [LALIGA Soccer] Las Palmas vs. Sevilla (LALIGA) 04/14 07:50 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 007 [LALIGA Soccer] Las Palmas vs. Sevilla (LALIGA) 04/14 07:50 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/631412
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 008 [LALIGA Soccer] En Español-Las Palmas vs. Sevilla (LALIGA) 04/14 07:55 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 008 [LALIGA Soccer] En Español-Las Palmas vs. Sevilla (LALIGA) 04/14 07:55 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631413
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 019 [LALIGA Soccer] En Español-Rayo Vallecano vs. Getafe (LALIGA) 04/13 10:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 019 [LALIGA Soccer] En Español-Rayo Vallecano vs. Getafe (LALIGA) 04/13 10:00 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631424
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 016 [LALIGA Soccer] En Español-Granada vs. Alavés (LALIGA) 04/14 10:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 016 [LALIGA Soccer] En Español-Granada vs. Alavés (LALIGA) 04/14 10:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631421
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 023 [LALIGA Soccer] Rayo Vallecano vs. Getafe (LALIGA) 04/13 10:20 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 023 [LALIGA Soccer] Rayo Vallecano vs. Getafe (LALIGA) 04/13 10:20 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631428
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 020 [LALIGA 2 Soccer] FC Andorra vs. SD Eibar (Spanish Segunda Division) 04/14 10:05 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 020 [LALIGA 2 Soccer] FC Andorra vs. SD Eibar (Spanish Segunda Division) 04/14 10:05 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631425
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 021 [LALIGA 2 Soccer] En Español-FC Andorra vs. SD Eibar (Spanish Segunda Division) 04/14 10:05 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 021 [LALIGA 2 Soccer] En Español-FC Andorra vs. SD Eibar (Spanish Segunda Division) 04/14 10:05 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631426
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 022 [LALIGA Soccer] Granada vs. Alavés (LALIGA) 04/14 10:20 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 022 [LALIGA Soccer] Granada vs. Alavés (LALIGA) 04/14 10:20 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631427
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 057 [LALIGA Soccer] Mallorca vs. Real Madrid (LALIGA) 04/13 12:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 057 [LALIGA Soccer] Mallorca vs. Real Madrid (LALIGA) 04/13 12:00 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631462
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 051 [LALIGA Soccer] Athletic Club vs. Villarreal (LALIGA) 04/14 12:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 051 [LALIGA Soccer] Athletic Club vs. Villarreal (LALIGA) 04/14 12:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631456
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 086 [LALIGA Soccer] En Español-Mallorca vs. Real Madrid (LALIGA) 04/13 12:15 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 086 [LALIGA Soccer] En Español-Mallorca vs. Real Madrid (LALIGA) 04/13 12:15 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631491
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 054 [LALIGA Soccer] En Español-Athletic Club vs. Villarreal (LALIGA) 04/14 12:15 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 054 [LALIGA Soccer] En Español-Athletic Club vs. Villarreal (LALIGA) 04/14 12:15 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631459
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 055 [LALIGA 2 Soccer] En Español-Burgos vs. Racing Santander (Spanish Segunda Division) 04/14 12:20 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 055 [LALIGA 2 Soccer] En Español-Burgos vs. Racing Santander (Spanish Segunda Division) 04/14 12:20 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631460
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 056 [LALIGA 2 Soccer] Burgos vs. Racing Santander (Spanish Segunda Division) 04/14 12:20 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 056 [LALIGA 2 Soccer] Burgos vs. Racing Santander (Spanish Segunda Division) 04/14 12:20 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631461
 --
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97524
@@ -2092,8 +2077,8 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5308
 --
-#EXTINF:-1 tvg-id="79263" tvg-name="USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21838
+#EXTINF:-1 tvg-id="78002" tvg-name="USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21826
 --
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/Montecrispo/126728543/97524
@@ -2105,8 +2090,8 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/Montecrispo/126728543/5308
 --
-#EXTINF:-1 tvg-id="79263" tvg-name="USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm
-http://live.lordstreams.co:8080/Montecrispo/126728543/21838
+#EXTINF:-1 tvg-id="78002" tvg-name="USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm
+http://live.lordstreams.co:8080/Montecrispo/126728543/21826
 --
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/97524
@@ -2118,8 +2103,8 @@ http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/5308
 --
-#EXTINF:-1 tvg-id="79263" tvg-name="USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer18: Spain - La Liga : Cádiz vs Barcelona @ 03:00pm
-http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/21838
+#EXTINF:-1 tvg-id="78002" tvg-name="USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06: Spain - La Liga : Real Sociedad vs Almería @ 03:00pm
+http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/21826
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga FHD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/10918
@@ -2153,19 +2138,24 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2144812
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2211938
+#EXTINF:-1 tvg-id="" tvg-name="05:50 AM | EN ESPAñOL - OVIEDO VS MIRANDéS (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:50 AM | EN ESPAñOL - OVIEDO VS MIRANDéS (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212054
 --
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2211945
+#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212079
 --
-#EXTINF:-1 tvg-id="" tvg-name="10:00 AM | MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:00 AM | MALLORCA VS REAL MADRID (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2211947
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2211948
+#EXTINF:-1 tvg-id="" tvg-name="10:20 AM | EN ESPAñOL - BURGOS VS RACING SANTANDER (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:20 AM | EN ESPAñOL - BURGOS VS RACING SANTANDER (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212081
+#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212082
 --
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2211952
+#EXTINF:-1 tvg-id="" tvg-name="08:05 AM | EN ESPAñOL - FC ANDORRA VS SD EIBAR (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:05 AM | EN ESPAñOL - FC ANDORRA VS SD EIBAR (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212085
+#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - GRANADA VS ALAVéS (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:00 AM | EN ESPAñOL - GRANADA VS ALAVéS (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212086
+--
+#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - LAS PALMAS VS SEVILLA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:55 AM | EN ESPAñOL - LAS PALMAS VS SEVILLA (LALIGA)
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212090
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/197233
@@ -2272,19 +2262,24 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2211938
+#EXTINF:-1 tvg-id="" tvg-name="05:50 AM | EN ESPAñOL - OVIEDO VS MIRANDéS (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:50 AM | EN ESPAñOL - OVIEDO VS MIRANDéS (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212054
 --
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2211945
+#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212079
 --
-#EXTINF:-1 tvg-id="" tvg-name="10:00 AM | MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:00 AM | MALLORCA VS REAL MADRID (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2211947
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2211948
+#EXTINF:-1 tvg-id="" tvg-name="10:20 AM | EN ESPAñOL - BURGOS VS RACING SANTANDER (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:20 AM | EN ESPAñOL - BURGOS VS RACING SANTANDER (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212081
+#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212082
 --
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2211952
+#EXTINF:-1 tvg-id="" tvg-name="08:05 AM | EN ESPAñOL - FC ANDORRA VS SD EIBAR (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:05 AM | EN ESPAñOL - FC ANDORRA VS SD EIBAR (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212085
+#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - GRANADA VS ALAVéS (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:00 AM | EN ESPAñOL - GRANADA VS ALAVéS (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212086
+--
+#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - LAS PALMAS VS SEVILLA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:55 AM | EN ESPAñOL - LAS PALMAS VS SEVILLA (LALIGA)
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212090
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D| DAZN LaLigaTV HD
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/197233
@@ -2373,46 +2368,49 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/223873
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2211938
+#EXTINF:-1 tvg-id="" tvg-name="05:50 AM | EN ESPAñOL - OVIEDO VS MIRANDéS (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:50 AM | EN ESPAñOL - OVIEDO VS MIRANDéS (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212054
 --
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2211945
+#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212079
 --
-#EXTINF:-1 tvg-id="" tvg-name="10:00 AM | MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:00 AM | MALLORCA VS REAL MADRID (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2211947
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2211948
+#EXTINF:-1 tvg-id="" tvg-name="10:20 AM | EN ESPAñOL - BURGOS VS RACING SANTANDER (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:20 AM | EN ESPAñOL - BURGOS VS RACING SANTANDER (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212081
+#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212082
 --
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2211952
+#EXTINF:-1 tvg-id="" tvg-name="08:05 AM | EN ESPAñOL - FC ANDORRA VS SD EIBAR (SPANISH SEGUNDA DIVISION)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:05 AM | EN ESPAñOL - FC ANDORRA VS SD EIBAR (SPANISH SEGUNDA DIVISION)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212085
+#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - GRANADA VS ALAVéS (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",08:00 AM | EN ESPAñOL - GRANADA VS ALAVéS (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212086
+--
+#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - LAS PALMAS VS SEVILLA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="TV | PPV La Liga",05:55 AM | EN ESPAñOL - LAS PALMAS VS SEVILLA (LALIGA)
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212090
 --
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="USA SPORTS NETWORKS",USA | BEIN SPORTS LALIGA TV
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/12037
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S027 | 04/13 (LA LIGA) RAYO VALLECANO VS GETAFE 09:15 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S027 | 04/13 (LA LIGA) RAYO VALLECANO VS GETAFE 09:15 AM EST (PPV)
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/47559
+#EXTINF:-1 tvg-id="" tvg-name="  S006 | 04/14 (LA LIGA) REAL SOCIEDAD VS ALMERIA 02:00 PM EST (ESPD)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S006 | 04/14 (LA LIGA) REAL SOCIEDAD VS ALMERIA 02:00 PM EST (ESPD)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/47538
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S034 | 04/13 (LA LIGA) ATLETICO MADRID VS GIRONA 07:00 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S034 | 04/13 (LA LIGA) ATLETICO MADRID VS GIRONA 07:00 AM EST (PPV)
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/47566
+#EXTINF:-1 tvg-id="" tvg-name="  S008 | 04/14 (LA LIGA) ATHLETIC BILBAO VS VILLARREAL CF 11:30 AM EST (ESPN2)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S008 | 04/14 (LA LIGA) ATHLETIC BILBAO VS VILLARREAL CF 11:30 AM EST (ESPN2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/47540
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S019 | 04/13 (LA LIGA) CADIZ VS BARCELONA 01:50 PM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S019 | 04/13 (LA LIGA) CADIZ VS BARCELONA 01:50 PM EST (ESPN+)
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/47551
+#EXTINF:-1 tvg-id="" tvg-name="  S012 | 04/14 (LA LIGA) GRANADA VS DEPORTIVO ALAVÉS 09:15 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S012 | 04/14 (LA LIGA) GRANADA VS DEPORTIVO ALAVÉS 09:15 AM EST (PPV)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/47544
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S021 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID CF 11:30 AM EST (ESPD)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S021 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID CF 11:30 AM EST (ESPD)
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/47553
-#EXTINF:-1 tvg-id="" tvg-name="  S022 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID 11:30 AM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S022 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID 11:30 AM EST (ESPN+)
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/47554
+#EXTINF:-1 tvg-id="" tvg-name="  S017 | 04/14 (LA LIGA) LAS PALMAS VS SEVILLA 07:00 AM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S017 | 04/14 (LA LIGA) LAS PALMAS VS SEVILLA 07:00 AM EST (ESPN+)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/47549
 --
-#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="  S077 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S077 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/75830
-#EXTINF:-1 tvg-id="ESPN+ 073" tvg-name="  S078 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S078 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/75831
+#EXTINF:-1 tvg-id="ESPN+ 051" tvg-name="  S080 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S080 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/75833
+#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="  S081 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S081 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/75834
 --
-#EXTINF:-1 tvg-id="ESPN+ 154" tvg-name="  S083 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S083 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/75836
-#EXTINF:-1 tvg-id="ESPN+ 155" tvg-name="  S084 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S084 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/75837
+#EXTINF:-1 tvg-id="ESPN+ 144" tvg-name="  S085 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S085 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/75838
+#EXTINF:-1 tvg-id="ESPN+ 147" tvg-name="  S086 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S086 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/75839
 --
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA |  BEIN SPORTS LA LIGA" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="INTERNATIONAL SPORTS",USA |  BEIN SPORTS LA LIGA
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/47120
@@ -2427,27 +2425,28 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/59221
 #EXTINF:-1 tvg-id="" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",USA | BEIN SPORTS LALIGA TV
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/59222
 --
-#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="ESPN+ 005 | ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 005 | ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52690
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="ESPN+ 006 | EN ESPANOL-ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 006 | EN ESPANOL-ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52691
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="ESPN+ 007 | LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:50AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 007 | LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:50AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52692
+#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:55AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52693
 --
-#EXTINF:-1 tvg-id="ESPN+ 019" tvg-name="ESPN+ 019 | EN ESPANOL-RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 019 | EN ESPANOL-RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:00AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52704
+#EXTINF:-1 tvg-id="ESPN+ 016" tvg-name="ESPN+ 016 | EN ESPANOL-GRANADA VS. ALAVES (LALIGA) | 04/14-10:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 016 | EN ESPANOL-GRANADA VS. ALAVES (LALIGA) | 04/14-10:00AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52701
 --
-#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:20AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:20AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | GRANADA VS. ALAVES (LALIGA) | 04/14-10:20AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | GRANADA VS. ALAVES (LALIGA) | 04/14-10:20AM | ESPN+
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52707
 --
-#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="ESPN+ 054 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 054 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 051" tvg-name="ESPN+ 051 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 051 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52736
+--
+#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="ESPN+ 054 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 054 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52739
 --
-#EXTINF:-1 tvg-id="ESPN+ 073" tvg-name="ESPN+ 073 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 073 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52758
+#EXTINF:-1 tvg-id="ESPN+ 144" tvg-name="ESPN+ 144 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 144 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52829
 --
-#EXTINF:-1 tvg-id="ESPN+ 154" tvg-name="ESPN+ 154 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 154 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52839
-#EXTINF:-1 tvg-id="ESPN+ 155" tvg-name="ESPN+ 155 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 155 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52840
+#EXTINF:-1 tvg-id="ESPN+ 147" tvg-name="ESPN+ 147 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 147 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52832
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/59239
@@ -2455,96 +2454,27 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/59239
 #EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/36465
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S019 | 04/13 (LA LIGA) CADIZ VS BARCELONA 01:50 PM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S019 | 04/13 (LA LIGA) CADIZ VS BARCELONA 01:50 PM EST (ESPN+)
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/47551
+#EXTINF:-1 tvg-id="" tvg-name="  S006 | 04/14 (LA LIGA) REAL SOCIEDAD VS ALMERIA 02:00 PM EST (ESPD)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S006 | 04/14 (LA LIGA) REAL SOCIEDAD VS ALMERIA 02:00 PM EST (ESPD)
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47538
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S021 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID CF 11:30 AM EST (ESPD)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S021 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID CF 11:30 AM EST (ESPD)
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/47553
-#EXTINF:-1 tvg-id="" tvg-name="  S022 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID 11:30 AM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S022 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID 11:30 AM EST (ESPN+)
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/47554
+#EXTINF:-1 tvg-id="" tvg-name="  S008 | 04/14 (LA LIGA) ATHLETIC BILBAO VS VILLARREAL CF 11:30 AM EST (ESPN2)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S008 | 04/14 (LA LIGA) ATHLETIC BILBAO VS VILLARREAL CF 11:30 AM EST (ESPN2)
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47540
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S027 | 04/13 (LA LIGA) RAYO VALLECANO VS GETAFE 09:15 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S027 | 04/13 (LA LIGA) RAYO VALLECANO VS GETAFE 09:15 AM EST (PPV)
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/47559
+#EXTINF:-1 tvg-id="" tvg-name="  S012 | 04/14 (LA LIGA) GRANADA VS DEPORTIVO ALAVÉS 09:15 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S012 | 04/14 (LA LIGA) GRANADA VS DEPORTIVO ALAVÉS 09:15 AM EST (PPV)
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47544
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S034 | 04/13 (LA LIGA) ATLETICO MADRID VS GIRONA 07:00 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S034 | 04/13 (LA LIGA) ATLETICO MADRID VS GIRONA 07:00 AM EST (PPV)
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/47566
+#EXTINF:-1 tvg-id="" tvg-name="  S017 | 04/14 (LA LIGA) LAS PALMAS VS SEVILLA 07:00 AM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S017 | 04/14 (LA LIGA) LAS PALMAS VS SEVILLA 07:00 AM EST (ESPN+)
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47549
 --
-#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="  S077 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S077 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/75830
-#EXTINF:-1 tvg-id="ESPN+ 073" tvg-name="  S078 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S078 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/75831
+#EXTINF:-1 tvg-id="ESPN+ 051" tvg-name="  S080 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S080 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75833
+#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="  S081 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S081 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75834
 --
-#EXTINF:-1 tvg-id="ESPN+ 154" tvg-name="  S083 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S083 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/75836
-#EXTINF:-1 tvg-id="ESPN+ 155" tvg-name="  S084 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S084 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/75837
---
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="BEIN SPORTS",BEIN SPORTS LA LIGA - LA
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/59057
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LALIGA" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",BEIN SPORTS LALIGA
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/59058
---
-#EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/36465
---
-#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="ESPN+ 005 | ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 005 | ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52690
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="ESPN+ 006 | EN ESPANOL-ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 006 | EN ESPANOL-ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52691
---
-#EXTINF:-1 tvg-id="ESPN+ 019" tvg-name="ESPN+ 019 | EN ESPANOL-RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 019 | EN ESPANOL-RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:00AM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52704
---
-#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:20AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:20AM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52707
---
-#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="ESPN+ 054 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 054 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52739
---
-#EXTINF:-1 tvg-id="ESPN+ 073" tvg-name="ESPN+ 073 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 073 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52758
---
-#EXTINF:-1 tvg-id="ESPN+ 154" tvg-name="ESPN+ 154 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 154 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52839
-#EXTINF:-1 tvg-id="ESPN+ 155" tvg-name="ESPN+ 155 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 155 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/52840
---
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/59239
---
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA |  BEIN SPORTS LA LIGA" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="INTERNATIONAL SPORTS",USA |  BEIN SPORTS LA LIGA
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/47120
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | BEIN SPORTS LA LIGA" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png" group-title="BEIN SPORTS",USA | BEIN SPORTS LA LIGA
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/59221
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="USA SPORTS NETWORKS",USA | BEIN SPORTS LALIGA TV
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/12037
-#EXTINF:-1 tvg-id="" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",USA | BEIN SPORTS LALIGA TV
-http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/59222
---
-#EXTINF:-1 tvg-id="" tvg-name="  S019 | 04/13 (LA LIGA) CADIZ VS BARCELONA 01:50 PM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S019 | 04/13 (LA LIGA) CADIZ VS BARCELONA 01:50 PM EST (ESPN+)
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47551
---
-#EXTINF:-1 tvg-id="" tvg-name="  S021 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID CF 11:30 AM EST (ESPD)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S021 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID CF 11:30 AM EST (ESPD)
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47553
-#EXTINF:-1 tvg-id="" tvg-name="  S022 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID 11:30 AM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S022 | 04/13 (LA LIGA) MALLORCA VS REAL MADRID 11:30 AM EST (ESPN+)
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47554
---
-#EXTINF:-1 tvg-id="" tvg-name="  S027 | 04/13 (LA LIGA) RAYO VALLECANO VS GETAFE 09:15 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S027 | 04/13 (LA LIGA) RAYO VALLECANO VS GETAFE 09:15 AM EST (PPV)
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47559
---
-#EXTINF:-1 tvg-id="" tvg-name="  S034 | 04/13 (LA LIGA) ATLETICO MADRID VS GIRONA 07:00 AM EST (PPV)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S034 | 04/13 (LA LIGA) ATLETICO MADRID VS GIRONA 07:00 AM EST (PPV)
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/47566
---
-#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="  S077 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S077 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75830
-#EXTINF:-1 tvg-id="ESPN+ 073" tvg-name="  S078 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S078 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75831
---
-#EXTINF:-1 tvg-id="ESPN+ 154" tvg-name="  S083 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S083 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75836
-#EXTINF:-1 tvg-id="ESPN+ 155" tvg-name="  S084 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S084 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75837
+#EXTINF:-1 tvg-id="ESPN+ 144" tvg-name="  S085 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S085 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75838
+#EXTINF:-1 tvg-id="ESPN+ 147" tvg-name="  S086 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S086 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/75839
 --
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="BEIN SPORTS",BEIN SPORTS LA LIGA - LA
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/59057
@@ -2554,27 +2484,28 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/59058
 #EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/36465
 --
-#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="ESPN+ 005 | ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 005 | ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52690
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="ESPN+ 006 | EN ESPANOL-ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 006 | EN ESPANOL-ATLETICO DE MADRID VS. GIRONA (LALIGA) | 04/13-07:55AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52691
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="ESPN+ 007 | LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:50AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 007 | LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:50AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52692
+#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 04/14-07:55AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52693
 --
-#EXTINF:-1 tvg-id="ESPN+ 019" tvg-name="ESPN+ 019 | EN ESPANOL-RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 019 | EN ESPANOL-RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:00AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52704
+#EXTINF:-1 tvg-id="ESPN+ 016" tvg-name="ESPN+ 016 | EN ESPANOL-GRANADA VS. ALAVES (LALIGA) | 04/14-10:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 016 | EN ESPANOL-GRANADA VS. ALAVES (LALIGA) | 04/14-10:00AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52701
 --
-#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:20AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | RAYO VALLECANO VS. GETAFE (LALIGA) | 04/13-10:20AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | GRANADA VS. ALAVES (LALIGA) | 04/14-10:20AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | GRANADA VS. ALAVES (LALIGA) | 04/14-10:20AM | ESPN+
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52707
 --
-#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="ESPN+ 054 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 054 | MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 051" tvg-name="ESPN+ 051 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 051 | ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52736
+--
+#EXTINF:-1 tvg-id="ESPN+ 054" tvg-name="ESPN+ 054 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 054 | EN ESPANOL-ATHLETIC CLUB VS. VILLARREAL (LALIGA) | 04/14-12:15PM | ESPN+
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52739
 --
-#EXTINF:-1 tvg-id="ESPN+ 073" tvg-name="ESPN+ 073 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 073 | EN ESPANOL-MALLORCA VS. REAL MADRID (LALIGA) | 04/13-12:15PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52758
+#EXTINF:-1 tvg-id="ESPN+ 144" tvg-name="ESPN+ 144 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 144 | EN ESPANOL-REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:30PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52829
 --
-#EXTINF:-1 tvg-id="ESPN+ 154" tvg-name="ESPN+ 154 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 154 | EN ESPANOL-CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52839
-#EXTINF:-1 tvg-id="ESPN+ 155" tvg-name="ESPN+ 155 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 155 | CADIZ VS. FC BARCELONA (LALIGA) | 04/13-02:30PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52840
+#EXTINF:-1 tvg-id="ESPN+ 147" tvg-name="ESPN+ 147 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 147 | REAL SOCIEDAD VS. ALMERIA (LALIGA) | 04/14-02:50PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52832
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/59239
@@ -2680,75 +2611,11 @@ http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/355184
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/117124
 --
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/389401
+#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",12:30 PM | EN ESPAñOL - REAL SOCIEDAD VS ALMERíA (LALIGA)
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/390462
 --
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/389408
---
-#EXTINF:-1 tvg-id="" tvg-name="10:00 AM | MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",10:00 AM | MALLORCA VS REAL MADRID (LALIGA)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/389410
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/389411
---
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/389415
---
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180144
---
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/308350
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/308354
---
-#EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/355184
---
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117124
---
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/389401
---
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/389408
---
-#EXTINF:-1 tvg-id="" tvg-name="10:00 AM | MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",10:00 AM | MALLORCA VS REAL MADRID (LALIGA)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/389410
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/389411
---
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/389415
---
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/180144
---
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308350
-#EXTINF:-1 tvg-id="" tvg-name="laLiga Hypermotion 1 (X)(PPV)" tvg-logo="http://prox2.gotdns.ch:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_gBSDRNXvjq092nqUNbcUQ.png" group-title="EVENTOS PPV MUNDIAL",laLiga Hypermotion 1 (X)(PPV)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/308354
---
-#EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/355184
---
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117124
---
-#EXTINF:-1 tvg-id="" tvg-name="05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",05:55 AM | EN ESPAñOL - ATLETICO DE MADRID VS GIRONA (LALIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/389401
---
-#EXTINF:-1 tvg-id="" tvg-name="08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",08:00 AM | EN ESPAñOL - RAYO VALLECANO VS GETAFE (LALIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/389408
---
-#EXTINF:-1 tvg-id="" tvg-name="10:00 AM | MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",10:00 AM | MALLORCA VS REAL MADRID (LALIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/389410
-#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",10:15 AM | EN ESPAñOL - MALLORCA VS REAL MADRID (LALIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/389411
---
-#EXTINF:-1 tvg-id="" tvg-name="12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",12:30 PM | EN ESPAñOL - CADIZ VS FC BARCELONA (LALIGA)
-http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/389415
+#EXTINF:-1 tvg-id="" tvg-name="10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNF-8NYDGO-MnQ0o474zd5nQucHDPSyNne9mOTB-EukCk.png" group-title="EVENTOS PPV",10:15 AM | EN ESPAñOL - ATHLETIC CLUB VS VILLARREAL (LALIGA)
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/390465
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
