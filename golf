@@ -9,6 +9,19 @@ http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  9a4f
 http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 --
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF FHD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268094.ts
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268095.ts
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268096.ts
+--
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: GOL SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/laz.goltv.png" group-title="ES   MOVISTAR+",ES: GOL SD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/321261.ts
+--
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: GOL HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/laz.goltv.png" group-title="ES   MOVISTAR+",ES: GOL HD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/688185.ts
+--
 #EXTINF:-1 tvg-id="" tvg-name="GOLF Channel (i)" tvg-logo="" group-title="Deportes",GOLF Channel (i)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/158839
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel MX (p)" tvg-logo="https://budtv-ultra.com/posters/1611955732267.png" group-title="Deportes",Golf Channel MX (p)
@@ -36,9 +49,6 @@ http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16502
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/159334
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel (ES)(R)" tvg-logo="" group-title="Deportes",Golf Channel (ES)(R)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/159335
---
-#EXTINF:-1 tvg-id="" tvg-name="MastersGolf 1pm 13/ABR" tvg-logo="https://budtv-ultra.com/posters/1696004351353.png" group-title="Eventos Del Dia",MastersGolf 1pm 13/ABR
-http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/161333
 --
 #EXTINF:-1 tvg-id="" tvg-name="GOLF Channel (i)" tvg-logo="" group-title="Deportes",GOLF Channel (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158839
@@ -68,9 +78,6 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159334
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel (ES)(R)" tvg-logo="" group-title="Deportes",Golf Channel (ES)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159335
 --
-#EXTINF:-1 tvg-id="" tvg-name="MastersGolf 1pm 13/ABR" tvg-logo="https://budtv-ultra.com/posters/1696004351353.png" group-title="Eventos Del Dia",MastersGolf 1pm 13/ABR
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/161333
---
 #EXTINF:-1 tvg-id="" tvg-name="DEP | M. GOLF HD (ES)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="DEPORTES",DEP | M. GOLF HD (ES)
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1695
 --
@@ -79,12 +86,6 @@ http://disfruta.net:80/Justplay/CRYrHtUeVf/1904
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR GOLF HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Movistar_Golf.svg/revision/latest/scale-to-width-down/180?cb=20171026165109" group-title="ESPAÑA",ES | MOVISTAR GOLF HD
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1811
---
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
-http://eligestvone.info:2086/7dZB2KPPEddT/uJEVntufws8A/336416
---
-#EXTINF:-1 tvg-id="" tvg-name="Golf 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",Golf 2 FHD
-http://eligestvone.info:2086/7dZB2KPPEddT/uJEVntufws8A/499383
 --
 #EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
 http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336416
@@ -561,6 +562,15 @@ http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/233408
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63776927821.png" group-title="CANADÁ",CA: Golf Channel HD
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/479232
 --
+#EXTINF:-1 tvg-id="" tvg-name="El Dragón: El regreso de un guerrero S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltXNdh3k94dCOBGolfOExDC2RTO.jpg" group-title="Zona Netflix ",El Dragón: El regreso de un guerrero S01 E35
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/457949.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYusTGOlFsD18Tgfe4rzWNiBBb3.jpg" group-title="Anime",Pokémon S04 E03
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/433047.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sloborn S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xUcw57thHg5ShgoLFIMn2qNetX.jpg" group-title="Drama",Sloborn S01 E07
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/192258.mp4
+--
 #EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="" group-title="ARGENTINA",AR GOLF
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/2888
 --
@@ -713,17 +723,8 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/603381
 #EXTINF:-1 tvg-id="" tvg-name="USA NFL: Falcons" tvg-logo="https://teamgolfusa.com/wp-content/uploads/2016/07/ATLANTA_FALCONS_SINGLE.png" group-title="USA NFL",USA NFL: Falcons
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/390444
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 014 [Golf] The Masters: Woods & Rahm Featured Groups (Final Round) 04/14 09:30 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 014 [Golf] The Masters: Woods & Rahm Featured Groups (Final Round) 04/14 09:30 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631419
---
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 018 [Golf] The Masters: Holes 4  5 & 6 (Final Round) 04/14 10:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 018 [Golf] The Masters: Holes 4  5 & 6 (Final Round) 04/14 10:00 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631423
---
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 029 [Golf] The Masters: Amen Corner (Final Round) 04/14 11:45 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 029 [Golf] The Masters: Amen Corner (Final Round) 04/14 11:45 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631434
---
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 061 [Golf] The Masters: Holes 15 & 16 (Final Round) 04/14 12:30 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 061 [Golf] The Masters: Holes 15 & 16 (Final Round) 04/14 12:30 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631466
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 009 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 1) 04/15 11:30 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 009 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 1) 04/15 11:30 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631414
 --
 #EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="" group-title="ARGENTINA",AR GOLF
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2888
@@ -1061,30 +1062,8 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2145544
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168357
 --
-#EXTINF:-1 tvg-id="ESPN+ 014" tvg-name="  G061 | THE MASTERS: WOODS & RAHM FEATURED GROUPS (FINAL ROUND) | 04/14-09:30AM | ESPN+" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G061 | THE MASTERS: WOODS & RAHM FEATURED GROUPS (FINAL ROUND) | 04/14-09:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="  G061 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 1) | 04/15-11:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 1) | 04/15-11:30AM | ESPN+
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52563
-#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G062 | THE MASTERS: HOLES 4, 5 & 6 (FINAL ROUND) | 04/14-10:00AM | ESPN+" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G062 | THE MASTERS: HOLES 4, 5 & 6 (FINAL ROUND) | 04/14-10:00AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52564
-#EXTINF:-1 tvg-id="ESPN+ 029" tvg-name="  G063 | THE MASTERS: AMEN CORNER (FINAL ROUND) | 04/14-11:45AM | ESPN+" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G063 | THE MASTERS: AMEN CORNER (FINAL ROUND) | 04/14-11:45AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52565
-#EXTINF:-1 tvg-id="ESPN+ 061" tvg-name="  G064 | THE MASTERS: HOLES 15 & 16 (FINAL ROUND) | 04/14-12:30PM | ESPN+" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G064 | THE MASTERS: HOLES 15 & 16 (FINAL ROUND) | 04/14-12:30PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52566
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G080 | MASTERS 4K" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G080 | MASTERS 4K
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53380
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G081 | MASTERS ON THE RANGE" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G081 | MASTERS ON THE RANGE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53381
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G082 | BROADCAST THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G082 | BROADCAST THE MASTERS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53382
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G083 | FEATURED GROUPS THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G083 | FEATURED GROUPS THE MASTERS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53383
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G084 | FEATURED GROUPS PLUS THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G084 | FEATURED GROUPS PLUS THE MASTERS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53384
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G085 | AMEN CORNER THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G085 | AMEN CORNER THE MASTERS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53385
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G086 | HOLES 4 5 6 THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G086 | HOLES 4 5 6 THE MASTERS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53386
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G087 | HOLES 15 16 THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G087 | HOLES 15 16 THE MASTERS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53387
 --
 #EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA | GOLF CHANNEL" tvg-logo="https://i.ibb.co/b1h63HW/nbc-golf.png" group-title="USA SPORTS NETWORKS",USA | GOLF CHANNEL
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/12353
@@ -1120,6 +1099,9 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/52562
 #EXTINF:-1 tvg-id="EDH" tvg-name="ZA | DSTV SUPERSPORT GOLF" tvg-logo="https://i.ibb.co/x6bTnRW/supersport-golf-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT GOLF
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/43151
 --
+#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="ESPN+ 010 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 1) | 04/15-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 010 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 1) | 04/15-11:30AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52695
+--
 #EXTINF:-1 tvg-id="" tvg-name="PEACOCK 09 | GOLF | GRANT THORNTON INVIT RD. 3 (UK 10/12 5:00PM // ET 10/12 1:00PM)" tvg-logo="https://logo.iptveditor.com/nbcpeacockalt.png" group-title="PEACOCK",PEACOCK 09 | GOLF | GRANT THORNTON INVIT RD. 3 (UK 10/12 5:00PM // ET 10/12 1:00PM)
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/62345
 --
@@ -1144,29 +1126,6 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/40326
 #EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA-SD | GOLF CHANNEL (T)" tvg-logo="https://89.187.179.122:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEtaVXImTu7GWbfsZPQMm0hqdujrAOgTOMjrtKNax9UKQ.png" group-title="LOW BANDWIDTH CHANNELS",USA-SD | GOLF CHANNEL (T)
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/77749
 --
-#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G062 | THE MASTERS: HOLES 4, 5 & 6 (FINAL ROUND) | 04/14-10:00AM | ESPN+" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G062 | THE MASTERS: HOLES 4, 5 & 6 (FINAL ROUND) | 04/14-10:00AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52564
-#EXTINF:-1 tvg-id="ESPN+ 029" tvg-name="  G063 | THE MASTERS: AMEN CORNER (FINAL ROUND) | 04/14-11:45AM | ESPN+" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G063 | THE MASTERS: AMEN CORNER (FINAL ROUND) | 04/14-11:45AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52565
-#EXTINF:-1 tvg-id="ESPN+ 061" tvg-name="  G064 | THE MASTERS: HOLES 15 & 16 (FINAL ROUND) | 04/14-12:30PM | ESPN+" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G064 | THE MASTERS: HOLES 15 & 16 (FINAL ROUND) | 04/14-12:30PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52566
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G080 | MASTERS 4K" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G080 | MASTERS 4K
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53380
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G081 | MASTERS ON THE RANGE" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G081 | MASTERS ON THE RANGE
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53381
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G082 | BROADCAST THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G082 | BROADCAST THE MASTERS
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53382
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G083 | FEATURED GROUPS THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G083 | FEATURED GROUPS THE MASTERS
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53383
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G084 | FEATURED GROUPS PLUS THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G084 | FEATURED GROUPS PLUS THE MASTERS
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53384
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G085 | AMEN CORNER THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G085 | AMEN CORNER THE MASTERS
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53385
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G086 | HOLES 4 5 6 THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G086 | HOLES 4 5 6 THE MASTERS
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53386
-#EXTINF:-1 tvg-id="#N/A" tvg-name="  G087 | HOLES 15 16 THE MASTERS" tvg-logo="https://i.ibb.co/mT31dVN/the-masters.png" group-title="GOLF / TENNIS",  G087 | HOLES 15 16 THE MASTERS
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53387
---
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52548
 --
@@ -1178,6 +1137,9 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52549
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/90/DEBA2200008NL_20201208T050219.png" group-title="GOLF / TENNIS",DE | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52550
+--
+#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="ESPN+ 010 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 1) | 04/15-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 010 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 1) | 04/15-11:30AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52695
 --
 #EXTINF:-1 tvg-id="" tvg-name="IN | TENNIS CHANNEL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/40/INBA4900017K8_20210825T043649.png" group-title="GOLF / TENNIS",IN | TENNIS CHANNEL
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52551
@@ -1279,6 +1241,39 @@ http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/117137
 --
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/119367
+--
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/26767
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/26813
+--
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/117137
+--
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
+http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/119367
+--
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26767
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26813
+--
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117137
+--
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119367
+--
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26767
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26813
+--
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/117137
+--
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/119367
 --
 #EXTINF:-1 channel-id="samsung-USBB400000145" tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240319T022028SQUARE.png" tvg-chno="1155" group-title="United States" , GOLFPASS
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
