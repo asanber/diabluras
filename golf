@@ -9,19 +9,6 @@ http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  9a4f
 http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 --
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF FHD
-http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268094.ts
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
-http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268095.ts
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
-http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268096.ts
---
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: GOL SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/laz.goltv.png" group-title="ES   MOVISTAR+",ES: GOL SD
-http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/321261.ts
---
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: GOL HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/laz.goltv.png" group-title="ES   MOVISTAR+",ES: GOL HD
-http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/688185.ts
---
 #EXTINF:-1 tvg-id="" tvg-name="GOLF Channel (i)" tvg-logo="" group-title="Deportes",GOLF Channel (i)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/158839
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel MX (p)" tvg-logo="https://budtv-ultra.com/posters/1611955732267.png" group-title="Deportes",Golf Channel MX (p)
@@ -101,12 +88,6 @@ http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/499383
 --
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel FULL" tvg-logo="" group-title="FRANCIA",Golf Channel FULL
 http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/431685
---
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
-http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336416
---
-#EXTINF:-1 tvg-id="" tvg-name="Golf 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",Golf 2 FHD
-http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/499383
 --
 #EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
 http://eligestvone.info:2086/HayK2xrWHGrB/JZSdSvxbGRJm/336416
@@ -527,29 +508,6 @@ http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60347
 #EXTINF:-1 tvg-id="" tvg-name="ED• M+ GOLF 2 (HD) »3«" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="→ ESPAÑA DEPORTES ←",ED• M+ GOLF 2 (HD) »3«
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60348
 --
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF HD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF HD
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/12372
---
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF FHD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF FHD
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/12398
---
-#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Golf Channel" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Golf Channel
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/24827
---
-#EXTINF:-1 tvg-id="" tvg-name="MX ||  Televisa Del Golfo" tvg-logo="https://yt3.ggpht.com/onkp5-PmSZiYjIeOVw5R5AyuVTjv2EZIkaqB7N_hCRbin8XCMN9YSD2OCvu7rGqjtDzwTn4ltA=s48-c-k-c0x00ffffff-no-rj" group-title="→ MÉXICO II ←",MX ||  Televisa Del Golfo
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/59618
---
-#EXTINF:-1 tvg-id="" tvg-name="US: The Golf Channel" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/golf.png" group-title="→ USA ←",US: The Golf Channel
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/23397
---
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf HD" tvg-logo="https://i.imgur.com/ssTxmjL.png" group-title="→ USA ←",US: NBC Golf HD
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/23966
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf FHD" tvg-logo="https://i.imgur.com/ssTxmjL.png" group-title="→ USA ←",US: NBC Golf FHD
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/23967
---
-#EXTINF:-1 tvg-id="" tvg-name="US:The Golf Channel" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/golf.png" group-title="→ USA ←",US:The Golf Channel
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/24009
---
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="http://home-playtv.com:25461/images/7fc911dfb111b8dd2fae130be76c5a38.png" group-title="FRANCIA SPORTS",FR: GOLF+ HD
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/55588
 --
@@ -720,8 +678,11 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/603381
 #EXTINF:-1 tvg-id="" tvg-name="USA NFL: Falcons" tvg-logo="https://teamgolfusa.com/wp-content/uploads/2016/07/ATLANTA_FALCONS_SINGLE.png" group-title="USA NFL",USA NFL: Falcons
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/390444
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 075 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 2) 04/16 10:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 075 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 2) 04/16 10:00 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631480
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 002 [NJCAA Football Golf] 2024 American Women's Golf Championship 04/17 09:55 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 002 [NJCAA Football Golf] 2024 American Women's Golf Championship 04/17 09:55 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631407
+--
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 049 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 3) 04/17 10:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 049 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 3) 04/17 10:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631454
 --
 #EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="" group-title="ARGENTINA",AR GOLF
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2888
@@ -1059,12 +1020,14 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2145544
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168357
 --
-#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 04/16-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 04/16-12:00AM | 
+#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 04/17-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 04/17-12:00AM | 
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52563
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/16-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/16-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/17-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/17-12:00AM | 
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52564
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="  G063 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52565
+#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52566
 --
 #EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA | GOLF CHANNEL" tvg-logo="https://i.ibb.co/b1h63HW/nbc-golf.png" group-title="USA SPORTS NETWORKS",USA | GOLF CHANNEL
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/12353
@@ -1100,8 +1063,10 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/52562
 #EXTINF:-1 tvg-id="[213] GOLF" tvg-name="ZA | DSTV SUPERSPORT GOLF" tvg-logo="https://i.ibb.co/x6bTnRW/supersport-golf-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT GOLF
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/43151
 --
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="ESPN+ 006 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 006 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52691
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52687
+#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52688
 --
 #EXTINF:-1 tvg-id="" tvg-name="PEACOCK 09 | GOLF | GRANT THORNTON INVIT RD. 3 (UK 10/12 5:00PM // ET 10/12 1:00PM)" tvg-logo="https://logo.iptveditor.com/nbcpeacockalt.png" group-title="PEACOCK",PEACOCK 09 | GOLF | GRANT THORNTON INVIT RD. 3 (UK 10/12 5:00PM // ET 10/12 1:00PM)
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/62345
@@ -1127,10 +1092,12 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/40326
 #EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA-SD | GOLF CHANNEL (T)" tvg-logo="https://89.187.179.122:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEtaVXImTu7GWbfsZPQMm0hqdujrAOgTOMjrtKNax9UKQ.png" group-title="LOW BANDWIDTH CHANNELS",USA-SD | GOLF CHANNEL (T)
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/77749
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/16-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/16-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/17-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/17-12:00AM | 
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52564
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="  G063 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52565
+#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52566
 --
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52548
@@ -1144,8 +1111,10 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52549
 #EXTINF:-1 tvg-id="" tvg-name="DE | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/90/DEBA2200008NL_20201208T050219.png" group-title="GOLF / TENNIS",DE | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52550
 --
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="ESPN+ 006 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 006 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 2) | 04/16-11:30AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52691
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52687
+#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52688
 --
 #EXTINF:-1 tvg-id="" tvg-name="IN | TENNIS CHANNEL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/40/INBA4900017K8_20210825T043649.png" group-title="GOLF / TENNIS",IN | TENNIS CHANNEL
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52551
@@ -1200,6 +1169,43 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/43151
 #EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT TENNIS" tvg-logo="https://i.ibb.co/C1JjDNr/supersport-tennis-za.png" group-title="GOLF / TENNIS",ZA | DSTV SUPERSPORT TENNIS
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52562
 --
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF Channel HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="││TV││ ⛹️CANADA SPORTS ⛹️",CA: GOLF Channel HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/30671
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF_CHANNEL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="",GOLF_CHANNEL_HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/181576
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL USA FHD" tvg-logo="https://pnghq.com/wp-content/uploads/golf-channel-logo-png-full-hd-png-68512-768x232.png" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",GOLF CHANNEL USA FHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213753
+#EXTINF:-1 tvg-id="" tvg-name="GOLF por M+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1280px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",GOLF por M+ FHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213754
+--
+#EXTINF:-1 tvg-id="" tvg-name="|US| GOLF CHANNEL HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| GOLF CHANNEL HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/220264
+--
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF CHANNEL HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| NBC GOLF CHANNEL HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/220344
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF PASS FHD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| NBC GOLF PASS FHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/220345
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf SD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233298
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233299
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf FHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233300
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 SD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233301
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233302
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 FHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233303
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://127.0.0.1/" group-title="││TV││CANALES 2MB",Golf Channel
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/244263
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://127.0.0.1/" group-title="││TV││CANALES 2MB",Golf Channel
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/244264
+--
 #EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/26767
 #EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
@@ -1210,17 +1216,6 @@ http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/117137
 --
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/119367
---
-#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/26767
-#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/26813
---
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/117137
---
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
-http://tv.proyectox.vip:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/119367
 --
 #EXTINF:-1 channel-id="samsung-USBB400000145" tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240319T022028SQUARE.png" tvg-chno="1155" group-title="United States" , GOLFPASS
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
