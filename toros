@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL TORO TV HD" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/03/logo-eltorotv_blanco.png" group-title="ES MUNDOTORO PPV",ES: EL TORO TV HD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/321232.ts
+--
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: TOROS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES MUNDOTORO PPV",ES: TOROS FHD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/321445.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES MUNDOTORO PPV",ES: TOROS HD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/321446.ts
+#EXTINF:-1 tvg-id="TOROS" tvg-name="ES: TOROS SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES MUNDOTORO PPV",ES: TOROS SD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/321449.ts
+--
 #EXTINF:-1 tvg-id="" tvg-name="El Chacal de Nahueltoro LAT (1970)" tvg-logo="https://panel.budtv-ultra.com/posters/tjcWfo5AJgU7TIyG5TFTpVhgS0t.jpg" group-title="Ultimas Agregadas	",El Chacal de Nahueltoro LAT (1970)
 http://budtvlight.com:25461/movie/IvanKalkbrenner/YATQpN2TmwPT/132821.mkv
 --
@@ -42,14 +52,17 @@ http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/160089
 #EXTINF:-1 tvg-id="" tvg-name="Canal De Toros (i) op2" tvg-logo="" group-title="Espana",Canal De Toros (i) op2
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/160090
 --
-#EXTINF:-1 tvg-id="" tvg-name="21:35 Algodoneros vs Toros 16/ABR/ 09(p)" tvg-logo="https://budtv-ultra.com/posters/1707852836322.png" group-title="LMB-LMP-SDC",21:35 Algodoneros vs Toros 16/ABR/ 09(p)
-http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/126359
+#EXTINF:-1 tvg-id="" tvg-name="Toros TV HD (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Toros TV HD (ES)(R)
+http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162719
+#EXTINF:-1 tvg-id="" tvg-name="El Toro Valencia TV (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",El Toro Valencia TV (ES)(R)
+http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162720
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Mundotoro (ES)(R)
+http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162721
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro Op2 (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Mundotoro Op2 (ES)(R)
+http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162722
 --
-#EXTINF:-1 tvg-id="" tvg-name="Toronto vs Florida 5.30pm 16/ABR /NHL 05/" tvg-logo="https://panel.budtv-ultra.com/posters/1669912364439.png" group-title="NHL",Toronto vs Florida 5.30pm 16/ABR /NHL 05/
-http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/93590
---
-#EXTINF:-1 tvg-id="" tvg-name="21:35 Algodoneros vs Toros 16/ABR 09(i)" tvg-logo="https://budtv-ultra.com/posters/1707852836322.png" group-title="LMB-LMP-SDC",21:35 Algodoneros vs Toros 16/ABR 09(i)
-http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/161325
+#EXTINF:-1 tvg-id="" tvg-name="Algodoneros vs Toros 8.35pm 17/ABR/ 10(p)" tvg-logo="https://budtv-ultra.com/posters/1712946341462.png" group-title="LMB-LMP-SDC",Algodoneros vs Toros 8.35pm 17/ABR/ 10(p)
+http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/160873
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto-BLUEJAYS" tvg-logo="https://panel.budtv-ultra.com/posters/1659301472192.png" group-title="MLB",MLB | Toronto-BLUEJAYS
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/52825
@@ -107,14 +120,17 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/160089
 #EXTINF:-1 tvg-id="" tvg-name="Canal De Toros (i) op2" tvg-logo="" group-title="Espana",Canal De Toros (i) op2
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/160090
 --
-#EXTINF:-1 tvg-id="" tvg-name="21:35 Algodoneros vs Toros 16/ABR/ 09(p)" tvg-logo="https://budtv-ultra.com/posters/1707852836322.png" group-title="LMB-LMP-SDC",21:35 Algodoneros vs Toros 16/ABR/ 09(p)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/126359
+#EXTINF:-1 tvg-id="" tvg-name="Toros TV HD (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Toros TV HD (ES)(R)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162719
+#EXTINF:-1 tvg-id="" tvg-name="El Toro Valencia TV (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",El Toro Valencia TV (ES)(R)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162720
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Mundotoro (ES)(R)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162721
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro Op2 (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Mundotoro Op2 (ES)(R)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162722
 --
-#EXTINF:-1 tvg-id="" tvg-name="Toronto vs Florida 5.30pm 16/ABR /NHL 05/" tvg-logo="https://panel.budtv-ultra.com/posters/1669912364439.png" group-title="NHL",Toronto vs Florida 5.30pm 16/ABR /NHL 05/
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/93590
---
-#EXTINF:-1 tvg-id="" tvg-name="21:35 Algodoneros vs Toros 16/ABR 09(i)" tvg-logo="https://budtv-ultra.com/posters/1707852836322.png" group-title="LMB-LMP-SDC",21:35 Algodoneros vs Toros 16/ABR 09(i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/161325
+#EXTINF:-1 tvg-id="" tvg-name="Algodoneros vs Toros 8.35pm 17/ABR/ 10(p)" tvg-logo="https://budtv-ultra.com/posters/1712946341462.png" group-title="LMB-LMP-SDC",Algodoneros vs Toros 8.35pm 17/ABR/ 10(p)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/160873
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto-BLUEJAYS" tvg-logo="https://panel.budtv-ultra.com/posters/1659301472192.png" group-title="MLB",MLB | Toronto-BLUEJAYS
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/52825
@@ -163,6 +179,16 @@ http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/440715
 http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/440714
 #EXTINF:-1 tvg-id="" tvg-name="TOROLE hd" tvg-logo="https://i.postimg.cc/13xMW5Mf/TOROLE.png" group-title="ENTRETENIMIENTO",TOROLE hd
 http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/443089
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
+http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336207
+--
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES) " tvg-logo="https://i.postimg.cc/dVrFX3YX/MUNDO-TORO.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV HD (ES) 
+http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/440715
+#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV SD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV SD (ES)
+http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/440714
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE hd" tvg-logo="https://i.postimg.cc/13xMW5Mf/TOROLE.png" group-title="ENTRETENIMIENTO",TOROLE hd
+http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/443089
 --
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="TDT ESPAÑA",31- EL TORO TV
 http://eligestvone.info:2086/HayK2xrWHGrB/JZSdSvxbGRJm/336207
@@ -481,6 +507,31 @@ http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/236541
 #EXTINF:-1 tvg-id="" tvg-name="ED• ONETORO (HD) »3«" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" group-title="→ ESPAÑA DEPORTES ←",ED• ONETORO (HD) »3«
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/236542
 --
+#EXTINF:-1 tvg-id="" tvg-name="Torococo TV | VE" tvg-logo="https://i2.paste.pics/35108ebb25b382e0d009797b20f6d34a.png" group-title="→ VENEZUELA GEO ←",Torococo TV | VE
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/35035
+--
+#EXTINF:-1 tvg-id="" tvg-name="[ES] EL TORO TV  HD 720P" tvg-logo="https://logo.iptveditor.com/eltorotv.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] EL TORO TV  HD 720P
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/236322
+#EXTINF:-1 tvg-id="" tvg-name="[ES] EL TORO TV HD 1080P" tvg-logo="https://i.postimg.cc/k5ZqTXpC/Captura-de-pantalla-2024-02-01-133220-removebg-preview.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] EL TORO TV HD 1080P
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/236323
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES:TOROLE TV HD" tvg-logo="https://i.ibb.co/St6Dg05/torole.png" group-title="→ ESPAÑA ←",ES:TOROLE TV HD
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/12392
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto" tvg-logo="" group-title="→ CANADÁ ←",CA: CBC Toronto
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/31711
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto HD" tvg-logo="" group-title="→ CANADÁ ←",CA: CBC Toronto HD
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/31712
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04 | San Diego at Toronto	1:07pm" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="→ MLB (EVENTOS) ←",MLB 04 | San Diego at Toronto	1:07pm
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/59066
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="http://undergroundservice.xyz:8080/images/0ad15fb9c0afd94e92a286fd4e3e9955.jpg" group-title="→ MLB (EVENTOS) ←",USA: MLB TORONTO BLUE JAYS
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/59080
+--
+#EXTINF:-1 tvg-id="" tvg-name="NBA• TORONTO RAPTORS (HD)" tvg-logo="https://assets.stickpng.com/images/58419bf3a6515b1e0ad75a59.png" group-title="→ NBA (EVENTOS) ←",NBA• TORONTO RAPTORS (HD)
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/72504
+--
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | Movistar  Toros" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA",DEP ES | Movistar  Toros
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/33528
 --
@@ -517,6 +568,9 @@ http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/479370
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/517236
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | Movistar Toros HD" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA",DEP ES | Movistar Toros HD
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/517237
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6br33VonYKPwpLY51v0ZTOrOXLF.jpg" group-title="Zona Amazon Prime",Hanna S01 E03
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/458435.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Benicio Del Toro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Benicio_Del_Toro_-_Guardians_of_the_Galaxy_premiere_-_July_2014_%28cropped%29.jpg" group-title="24/7 MOVIES",24/7 Benicio Del Toro
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/551521
@@ -852,7 +906,7 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2168355
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212250
 --
 #EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana" tvg-logo="http://live.detodotvplay.com:8080/images/xu4ltaavS9QUsd13oqj5bseqH08_Cl_t1tm389JdmGTQ_IQPaq6yG8ha7DCQGQkhIAwsVePYUTtwEr9726IZTc2CSxRzaJvRWY_rgG5eu04.png" group-title="TV | PPV LMB 2024",LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana
-http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212284
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2212365
 --
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/126152
@@ -916,7 +970,7 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2168355
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212250
 --
 #EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana" tvg-logo="http://live.detodotvplay.com:8080/images/xu4ltaavS9QUsd13oqj5bseqH08_Cl_t1tm389JdmGTQ_IQPaq6yG8ha7DCQGQkhIAwsVePYUTtwEr9726IZTc2CSxRzaJvRWY_rgG5eu04.png" group-title="TV | PPV LMB 2024",LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana
-http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212284
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2212365
 --
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 http://lobo-tv.live:8080/Megatvplus/pZNvewtBmjTfAe/126152
@@ -969,13 +1023,10 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168355
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212250
 --
 #EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana" tvg-logo="http://live.detodotvplay.com:8080/images/xu4ltaavS9QUsd13oqj5bseqH08_Cl_t1tm389JdmGTQ_IQPaq6yG8ha7DCQGQkhIAwsVePYUTtwEr9726IZTc2CSxRzaJvRWY_rgG5eu04.png" group-title="TV | PPV LMB 2024",LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana
-http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212284
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2212365
 --
 #EXTINF:-1 tvg-id="pbseast.ca" tvg-name="USA | PBS" tvg-logo="https://i.ibb.co/fCBSvvv/wned-pbs-buffalo-toronto.png" group-title="USA ENTERTAINMENT",USA | PBS
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/6851
---
-#EXTINF:-1 tvg-id="MLB 09" tvg-name="MLB 09 | NEW YORK YANKEES @ TORONTO BLUE JAYS | 04/17-03:07PM | MLB NETWORK YES SPORTSNET" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 09 | NEW YORK YANKEES @ TORONTO BLUE JAYS | 04/17-03:07PM | MLB NETWORK YES SPORTSNET
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53057
 --
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/53090
@@ -983,14 +1034,8 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/53090
 #EXTINF:-1 tvg-id="NBA TOR" tvg-name="NBA TEAM | TORONTO RAPTORS" tvg-logo="https://i.ibb.co/HzbyNDm/toronto-raptors.png" group-title="NBA / WNBA PACKAGE",NBA TEAM | TORONTO RAPTORS
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/48176
 --
-#EXTINF:-1 tvg-id="NHL 01" tvg-name="NHL 01 | TORONTO MAPLE LEAFS @ TAMPA BAY LIGHTNING | 04/17-07:00PM | TNT TRUTV SPORTSNET" tvg-logo="https://i.ibb.co/Wp8NHzf/nhl-center-ice-us.png" group-title="NHL PACKAGE",NHL 01 | TORONTO MAPLE LEAFS @ TAMPA BAY LIGHTNING | 04/17-07:00PM | TNT TRUTV SPORTSNET
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/48234
---
 #EXTINF:-1 tvg-id="TorontoMapleLeafs.nhl" tvg-name="NHL TEAM | TORONTO MAPLE LEAFS" tvg-logo="https://i.ibb.co/nzC8kPn/maple-leafs.png" group-title="NHL PACKAGE",NHL TEAM | TORONTO MAPLE LEAFS
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/48273
---
-#EXTINF:-1 tvg-id="" tvg-name="AHL 03:ROCHESTER AMERICANS VS TORONTO MARLIES | 2004/24/17 19:05:00" tvg-logo="https://ddde457d3b16a8614480-1c5b19b429ddb017fc420c330826ace8.ssl.cf2.rackcdn.com/images/league_logos/100x50/AHL.png" group-title="AHL | OHL | WHL | ECHL | QMJHL",AHL 03:ROCHESTER AMERICANS VS TORONTO MARLIES | 2004/24/17 19:05:00
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/63186
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLS 06 | NEW ENGLAND REVOLUTION @ TORONTO FC | 04/20-07:30PM | APPLE TV" tvg-logo="https://www.nicepng.com/png/detail/178-1781250_major-league-soccer-logo-png-major-league-soccer.png" group-title="SOCCER / FUTBOL PACKAGE",MLS 06 | NEW ENGLAND REVOLUTION @ TORONTO FC | 04/20-07:30PM | APPLE TV
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/76050
@@ -1047,9 +1092,6 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/1193
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES | TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAIN",ES | TOROS TV
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/36451
 --
-#EXTINF:-1 tvg-id="MLB 09" tvg-name="MLB 09 | NEW YORK YANKEES @ TORONTO BLUE JAYS | 04/17-03:07PM | MLB NETWORK YES SPORTSNET" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 09 | NEW YORK YANKEES @ TORONTO BLUE JAYS | 04/17-03:07PM | MLB NETWORK YES SPORTSNET
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53057
---
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53090
 --
@@ -1058,9 +1100,6 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/76050
 --
 #EXTINF:-1 tvg-id="NBA TOR" tvg-name="NBA TEAM | TORONTO RAPTORS" tvg-logo="https://i.ibb.co/HzbyNDm/toronto-raptors.png" group-title="NBA / WNBA PACKAGE",NBA TEAM | TORONTO RAPTORS
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/48176
---
-#EXTINF:-1 tvg-id="NHL 01" tvg-name="NHL 01 | TORONTO MAPLE LEAFS @ TAMPA BAY LIGHTNING | 04/17-07:00PM | TNT TRUTV SPORTSNET" tvg-logo="https://i.ibb.co/Wp8NHzf/nhl-center-ice-us.png" group-title="NHL PACKAGE",NHL 01 | TORONTO MAPLE LEAFS @ TAMPA BAY LIGHTNING | 04/17-07:00PM | TNT TRUTV SPORTSNET
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/48234
 --
 #EXTINF:-1 tvg-id="TorontoMapleLeafs.nhl" tvg-name="NHL TEAM | TORONTO MAPLE LEAFS" tvg-logo="https://i.ibb.co/nzC8kPn/maple-leafs.png" group-title="NHL PACKAGE",NHL TEAM | TORONTO MAPLE LEAFS
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/48273
@@ -1073,9 +1112,6 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/1441
 --
 #EXTINF:-1 tvg-id="pbseast.ca" tvg-name="USA | PBS" tvg-logo="https://i.ibb.co/fCBSvvv/wned-pbs-buffalo-toronto.png" group-title="USA ENTERTAINMENT",USA | PBS
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/6851
---
-#EXTINF:-1 tvg-id="" tvg-name="AHL 03:ROCHESTER AMERICANS VS TORONTO MARLIES | 2004/24/17 19:05:00" tvg-logo="https://ddde457d3b16a8614480-1c5b19b429ddb017fc420c330826ace8.ssl.cf2.rackcdn.com/images/league_logos/100x50/AHL.png" group-title="AHL | OHL | WHL | ECHL | QMJHL",AHL 03:ROCHESTER AMERICANS VS TORONTO MARLIES | 2004/24/17 19:05:00
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/63186
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/30596
@@ -1104,6 +1140,23 @@ http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233225
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213774
 --
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - El Toros TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - El Toros TV (L)(720)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/267250
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/117206
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Toro Ole (T)(720)" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/336674
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAN- CBC Toronto (720)(M)" tvg-logo="" group-title="CANADA PREMIUM",CAN- CBC Toronto (720)(M)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/356618
+#EXTINF:-1 tvg-id="" tvg-name="CAN- CBC Toronto (720)(M)" tvg-logo="" group-title="CANADA PREMIUM",CAN- CBC Toronto (720)(M)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/356619
+--
+#EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana" tvg-logo="http://live.detodotvplay.com:8080/images/xu4ltaavS9QUsd13oqj5bseqH08_Cl_t1tm389JdmGTQ_IQPaq6yG8ha7DCQGQkhIAwsVePYUTtwEr9726IZTc2CSxRzaJvRWY_rgG5eu04.png" group-title="EVENTOS PPV",LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/391280
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - El Toros TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - El Toros TV (L)(720)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/267250
 --
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
@@ -1118,7 +1171,24 @@ http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/356618
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/356619
 --
 #EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana" tvg-logo="http://live.detodotvplay.com:8080/images/xu4ltaavS9QUsd13oqj5bseqH08_Cl_t1tm389JdmGTQ_IQPaq6yG8ha7DCQGQkhIAwsVePYUTtwEr9726IZTc2CSxRzaJvRWY_rgG5eu04.png" group-title="EVENTOS PPV",LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/391221
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/391280
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - El Toros TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - El Toros TV (L)(720)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/267250
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/117206
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Toro Ole (T)(720)" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336674
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAN- CBC Toronto (720)(M)" tvg-logo="" group-title="CANADA PREMIUM",CAN- CBC Toronto (720)(M)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/356618
+#EXTINF:-1 tvg-id="" tvg-name="CAN- CBC Toronto (720)(M)" tvg-logo="" group-title="CANADA PREMIUM",CAN- CBC Toronto (720)(M)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/356619
+--
+#EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana" tvg-logo="http://live.detodotvplay.com:8080/images/xu4ltaavS9QUsd13oqj5bseqH08_Cl_t1tm389JdmGTQ_IQPaq6yG8ha7DCQGQkhIAwsVePYUTtwEr9726IZTc2CSxRzaJvRWY_rgG5eu04.png" group-title="EVENTOS PPV",LMB: 20:35  Algodoneros de Unión Laguna vs Toros de Tijuana
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/391280
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv

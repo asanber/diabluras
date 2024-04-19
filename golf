@@ -9,6 +9,19 @@ http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  9a4f
 http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 --
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF FHD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268094.ts
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268095.ts
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/268096.ts
+--
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: GOL SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/laz.goltv.png" group-title="ES   MOVISTAR+",ES: GOL SD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/321261.ts
+--
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: GOL HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/laz.goltv.png" group-title="ES   MOVISTAR+",ES: GOL HD
+http://goodtv.napgoto413.xyz:80/play/phenixiptv-EX/45687kjdrSDEecdf@368/688185.ts
+--
 #EXTINF:-1 tvg-id="" tvg-name="GOLF Channel (i)" tvg-logo="" group-title="Deportes",GOLF Channel (i)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/158839
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel MX (p)" tvg-logo="https://budtv-ultra.com/posters/1611955732267.png" group-title="Deportes",Golf Channel MX (p)
@@ -28,6 +41,9 @@ http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/161279
 --
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Golf (p)" tvg-logo="https://budtv-ultra.com/posters/1652651412231.png" group-title="Espana",Movistar Golf (p)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/15143
+--
+#EXTINF:-1 tvg-id="" tvg-name="MOV. GOLF HD (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",MOV. GOLF HD (ES)(R)
+http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162768
 --
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GOLF%20CHANNEL.png" group-title="Estados Unidos",Golf Channel (p)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16502
@@ -56,6 +72,9 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/161279
 --
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Golf (p)" tvg-logo="https://budtv-ultra.com/posters/1652651412231.png" group-title="Espana",Movistar Golf (p)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/15143
+--
+#EXTINF:-1 tvg-id="" tvg-name="MOV. GOLF HD (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",MOV. GOLF HD (ES)(R)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162768
 --
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GOLF%20CHANNEL.png" group-title="Estados Unidos",Golf Channel (p)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/16502
@@ -88,6 +107,12 @@ http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/499383
 --
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel FULL" tvg-logo="" group-title="FRANCIA",Golf Channel FULL
 http://eligestvone.info:2086/AGHxghnnWvR7/dv8L2J3vbSJX/431685
+--
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
+http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336416
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",Golf 2 FHD
+http://eligestvone.info:2086/GMWsZtFETunJ/2HynLASEAQ6Z/499383
 --
 #EXTINF:-1 tvg-id="Bajo demanda" tvg-name="26- MOVISTAR GOLF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="M. DEPORTES",26- MOVISTAR GOLF 
 http://eligestvone.info:2086/HayK2xrWHGrB/JZSdSvxbGRJm/336416
@@ -508,6 +533,29 @@ http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60347
 #EXTINF:-1 tvg-id="" tvg-name="ED• M+ GOLF 2 (HD) »3«" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="→ ESPAÑA DEPORTES ←",ED• M+ GOLF 2 (HD) »3«
 http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/60348
 --
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF HD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF HD
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/12372
+--
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF FHD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF FHD
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/12398
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:Golf Channel" tvg-logo="" group-title="→ MÉXICO ←",LA_SD_MEX2:Golf Channel
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/24827
+--
+#EXTINF:-1 tvg-id="" tvg-name="MX ||  Televisa Del Golfo" tvg-logo="https://yt3.ggpht.com/onkp5-PmSZiYjIeOVw5R5AyuVTjv2EZIkaqB7N_hCRbin8XCMN9YSD2OCvu7rGqjtDzwTn4ltA=s48-c-k-c0x00ffffff-no-rj" group-title="→ MÉXICO II ←",MX ||  Televisa Del Golfo
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/59618
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: The Golf Channel" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/golf.png" group-title="→ USA ←",US: The Golf Channel
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/23397
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf HD" tvg-logo="https://i.imgur.com/ssTxmjL.png" group-title="→ USA ←",US: NBC Golf HD
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/23966
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf FHD" tvg-logo="https://i.imgur.com/ssTxmjL.png" group-title="→ USA ←",US: NBC Golf FHD
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/23967
+--
+#EXTINF:-1 tvg-id="" tvg-name="US:The Golf Channel" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/golf.png" group-title="→ USA ←",US:The Golf Channel
+http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/24009
+--
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="http://home-playtv.com:25461/images/7fc911dfb111b8dd2fae130be76c5a38.png" group-title="FRANCIA SPORTS",FR: GOLF+ HD
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/55588
 --
@@ -526,27 +574,30 @@ http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/233408
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63776927821.png" group-title="CANADÁ",CA: Golf Channel HD
 http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/479232
 --
+#EXTINF:-1 tvg-id="" tvg-name="El Dragón: El regreso de un guerrero S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltXNdh3k94dCOBGolfOExDC2RTO.jpg" group-title="Zona Netflix ",El Dragón: El regreso de un guerrero S01 E35
+http://home-playtv.com:8080/series/DalePlay/HetyJKgvjg73/457949.mp4
+--
 #EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="" group-title="ARGENTINA",AR GOLF
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/2888
 --
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: " tvg-logo="" group-title="SPORTS - GOLF",Golf 01: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: " tvg-logo="" group-title="SPORTS - GOLF",Golf 02: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: " tvg-logo="" group-title="SPORTS - GOLF",Golf 03: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: " tvg-logo="" group-title="SPORTS - GOLF",Golf 04: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: " tvg-logo="" group-title="SPORTS - GOLF",Golf 05: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: " tvg-logo="" group-title="SPORTS - GOLF",Golf 06: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: " tvg-logo="" group-title="SPORTS - GOLF",Golf 07: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: " tvg-logo="" group-title="SPORTS - GOLF",Golf 08: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632044
 #EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632045
@@ -608,21 +659,21 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: " tvg-logo="" group-title="SPORTS - GOLF",Golf 01: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: " tvg-logo="" group-title="SPORTS - GOLF",Golf 02: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: " tvg-logo="" group-title="SPORTS - GOLF",Golf 03: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: " tvg-logo="" group-title="SPORTS - GOLF",Golf 04: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: " tvg-logo="" group-title="SPORTS - GOLF",Golf 05: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: " tvg-logo="" group-title="SPORTS - GOLF",Golf 06: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: " tvg-logo="" group-title="SPORTS - GOLF",Golf 07: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: " tvg-logo="" group-title="SPORTS - GOLF",Golf 08: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632044
 #EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632045
@@ -678,11 +729,30 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/603381
 #EXTINF:-1 tvg-id="" tvg-name="USA NFL: Falcons" tvg-logo="https://teamgolfusa.com/wp-content/uploads/2016/07/ATLANTA_FALCONS_SINGLE.png" group-title="USA NFL",USA NFL: Falcons
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/390444
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 002 [NJCAA Football Golf] 2024 American Women's Golf Championship 04/17 09:55 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 002 [NJCAA Football Golf] 2024 American Women's Golf Championship 04/17 09:55 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631407
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 011 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 4) 04/18 11:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 011 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 4) 04/18 11:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631416
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 049 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 3) 04/17 10:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 049 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Round 3) 04/17 10:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 017 [PGA TOUR Golf] RBC Heritage: Featured Hole #17 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 017 [PGA TOUR Golf] RBC Heritage: Featured Hole #17 04/18 14:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631422
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 018 [PGA TOUR Golf] RBC Heritage: Featured Hole #7 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 018 [PGA TOUR Golf] RBC Heritage: Featured Hole #7 04/18 14:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631423
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 019 [PGA TOUR Golf] RBC Heritage: Featured Group 1 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 019 [PGA TOUR Golf] RBC Heritage: Featured Group 1 04/18 14:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631424
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 020 [PGA TOUR Golf] RBC Heritage: Featured Group 2 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 020 [PGA TOUR Golf] RBC Heritage: Featured Group 2 04/18 14:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631425
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 021 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Finals) 04/18 15:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 021 [NJCAA Football Golf] Sun Belt Women's Golf Championship (Finals) 04/18 15:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631426
+--
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 049 [PGA TOUR Golf] RBC Heritage: Main Feed 04/18 07:15 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 049 [PGA TOUR Golf] RBC Heritage: Main Feed 04/18 07:15 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/631454
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 050 [LPGA Golf] The Chevron Championship: Featured Groups (First Round) 04/18 08:30 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 050 [LPGA Golf] The Chevron Championship: Featured Groups (First Round) 04/18 08:30 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631455
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 051 [PGA TOUR Golf] RBC Heritage: Featured Groups 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 051 [PGA TOUR Golf] RBC Heritage: Featured Groups 04/18 08:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631456
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 052 [PGA TOUR Golf] RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 052 [PGA TOUR Golf] RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631457
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 053 [PGA TOUR Golf] RBC Heritage: Marquee Groups 04/18 08:15 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 053 [PGA TOUR Golf] RBC Heritage: Marquee Groups 04/18 08:15 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631458
 --
 #EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="" group-title="ARGENTINA",AR GOLF
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2888
@@ -690,21 +760,21 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: " tvg-logo="" group-title="SPORTS - GOLF",Golf 01: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: " tvg-logo="" group-title="SPORTS - GOLF",Golf 02: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: " tvg-logo="" group-title="SPORTS - GOLF",Golf 03: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: " tvg-logo="" group-title="SPORTS - GOLF",Golf 04: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: " tvg-logo="" group-title="SPORTS - GOLF",Golf 05: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: " tvg-logo="" group-title="SPORTS - GOLF",Golf 06: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: " tvg-logo="" group-title="SPORTS - GOLF",Golf 07: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: " tvg-logo="" group-title="SPORTS - GOLF",Golf 08: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632044
 #EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632045
@@ -766,21 +836,21 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/Montecrispo/126728543/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: " tvg-logo="" group-title="SPORTS - GOLF",Golf 01: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: " tvg-logo="" group-title="SPORTS - GOLF",Golf 02: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: " tvg-logo="" group-title="SPORTS - GOLF",Golf 03: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: " tvg-logo="" group-title="SPORTS - GOLF",Golf 04: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: " tvg-logo="" group-title="SPORTS - GOLF",Golf 05: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: " tvg-logo="" group-title="SPORTS - GOLF",Golf 06: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: " tvg-logo="" group-title="SPORTS - GOLF",Golf 07: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: " tvg-logo="" group-title="SPORTS - GOLF",Golf 08: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632044
 #EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
 http://live.lordstreams.co:8080/Montecrispo/126728543/632045
@@ -842,21 +912,21 @@ http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: " tvg-logo="" group-title="SPORTS - GOLF",Golf 01: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: RBC Heritage: Featured Hole #17 04/18 14:00 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: " tvg-logo="" group-title="SPORTS - GOLF",Golf 02: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: RBC Heritage: Featured Hole #7 04/18 14:00 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: " tvg-logo="" group-title="SPORTS - GOLF",Golf 03: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: RBC Heritage: Featured Group 1 04/18 14:00 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: " tvg-logo="" group-title="SPORTS - GOLF",Golf 04: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: RBC Heritage: Featured Group 2 04/18 14:00 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: " tvg-logo="" group-title="SPORTS - GOLF",Golf 05: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: RBC Heritage: Main Feed 04/18 07:15 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: " tvg-logo="" group-title="SPORTS - GOLF",Golf 06: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: RBC Heritage: Featured Groups 04/18 08:00 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: " tvg-logo="" group-title="SPORTS - GOLF",Golf 07: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: RBC Heritage: Featured Holes #4  #7  #14 & #17 04/18 08:00 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: " tvg-logo="" group-title="SPORTS - GOLF",Golf 08: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: RBC Heritage: Marquee Groups 04/18 08:15 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632044
 #EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632045
@@ -1020,14 +1090,28 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2145544
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2168357
 --
-#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 04/17-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 04/17-12:00AM | 
+#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 04/18-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 04/18-12:00AM | 
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52563
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/17-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/17-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/18-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/18-12:00AM | 
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52564
-#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="  G063 | RBC HERITAGE: FINAU & DAY FEATURED GROUPS (FIRST ROUND) | 04/18-09:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | RBC HERITAGE: FINAU & DAY FEATURED GROUPS (FIRST ROUND) | 04/18-09:00AM | ESPN+
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52565
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  G064 | RBC HERITAGE: FEATURED HOLES #4, #7, #14 & #17 (FIRST ROUND) | 04/18-09:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | RBC HERITAGE: FEATURED HOLES #4, #7, #14 & #17 (FIRST ROUND) | 04/18-09:00AM | ESPN+
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/52566
+#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="  G065 | RBC HERITAGE: CLARK & HOMA MARQUEE GROUPS (FIRST ROUND) | 04/18-10:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | RBC HERITAGE: CLARK & HOMA MARQUEE GROUPS (FIRST ROUND) | 04/18-10:30AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52567
+#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="  G066 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52568
+#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G067 | RBC HERITAGE: FEATURED HOLE #17 (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | RBC HERITAGE: FEATURED HOLE #17 (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52569
+#EXTINF:-1 tvg-id="ESPN+ 019" tvg-name="  G068 | RBC HERITAGE: FEATURED HOLE #14 (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | RBC HERITAGE: FEATURED HOLE #14 (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52570
+#EXTINF:-1 tvg-id="ESPN+ 020" tvg-name="  G069 | RBC HERITAGE: SCHEFFLER FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | RBC HERITAGE: SCHEFFLER FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52571
+#EXTINF:-1 tvg-id="ESPN+ 021" tvg-name="  G070 | RBC HERITAGE: MCILROY FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | RBC HERITAGE: MCILROY FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52572
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  G071 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52573
 --
 #EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA | GOLF CHANNEL" tvg-logo="https://i.ibb.co/b1h63HW/nbc-golf.png" group-title="USA SPORTS NETWORKS",USA | GOLF CHANNEL
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/12353
@@ -1063,10 +1147,11 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/52562
 #EXTINF:-1 tvg-id="[213] GOLF" tvg-name="ZA | DSTV SUPERSPORT GOLF" tvg-logo="https://i.ibb.co/x6bTnRW/supersport-golf-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT GOLF
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/43151
 --
-#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52687
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52688
+#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="ESPN+ 012 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 012 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52697
+--
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52707
 --
 #EXTINF:-1 tvg-id="" tvg-name="PEACOCK 09 | GOLF | GRANT THORNTON INVIT RD. 3 (UK 10/12 5:00PM // ET 10/12 1:00PM)" tvg-logo="https://logo.iptveditor.com/nbcpeacockalt.png" group-title="PEACOCK",PEACOCK 09 | GOLF | GRANT THORNTON INVIT RD. 3 (UK 10/12 5:00PM // ET 10/12 1:00PM)
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/62345
@@ -1092,12 +1177,26 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/40326
 #EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA-SD | GOLF CHANNEL (T)" tvg-logo="https://89.187.179.122:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEtaVXImTu7GWbfsZPQMm0hqdujrAOgTOMjrtKNax9UKQ.png" group-title="LOW BANDWIDTH CHANNELS",USA-SD | GOLF CHANNEL (T)
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/77749
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/17-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/17-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 04/18-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 04/18-12:00AM | 
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52564
-#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="  G063 | RBC HERITAGE: FINAU & DAY FEATURED GROUPS (FIRST ROUND) | 04/18-09:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | RBC HERITAGE: FINAU & DAY FEATURED GROUPS (FIRST ROUND) | 04/18-09:00AM | ESPN+
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52565
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  G064 | RBC HERITAGE: FEATURED HOLES #4, #7, #14 & #17 (FIRST ROUND) | 04/18-09:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | RBC HERITAGE: FEATURED HOLES #4, #7, #14 & #17 (FIRST ROUND) | 04/18-09:00AM | ESPN+
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52566
+#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="  G065 | RBC HERITAGE: CLARK & HOMA MARQUEE GROUPS (FIRST ROUND) | 04/18-10:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | RBC HERITAGE: CLARK & HOMA MARQUEE GROUPS (FIRST ROUND) | 04/18-10:30AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52567
+#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="  G066 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52568
+#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G067 | RBC HERITAGE: FEATURED HOLE #17 (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | RBC HERITAGE: FEATURED HOLE #17 (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52569
+#EXTINF:-1 tvg-id="ESPN+ 019" tvg-name="  G068 | RBC HERITAGE: FEATURED HOLE #14 (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | RBC HERITAGE: FEATURED HOLE #14 (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52570
+#EXTINF:-1 tvg-id="ESPN+ 020" tvg-name="  G069 | RBC HERITAGE: SCHEFFLER FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | RBC HERITAGE: SCHEFFLER FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52571
+#EXTINF:-1 tvg-id="ESPN+ 021" tvg-name="  G070 | RBC HERITAGE: MCILROY FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | RBC HERITAGE: MCILROY FEATURED GROUP (FIRST ROUND) | 04/18-02:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52572
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  G071 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52573
 --
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52548
@@ -1111,10 +1210,11 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52549
 #EXTINF:-1 tvg-id="" tvg-name="DE | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/90/DEBA2200008NL_20201208T050219.png" group-title="GOLF / TENNIS",DE | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52550
 --
-#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 002 | 2024 AMERICAN WOMENS GOLF CHAMPIONSHIP | 04/17-09:55AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52687
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 003 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 3) | 04/17-11:30AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52688
+#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="ESPN+ 012 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 012 | SUN BELT WOMENS GOLF CHAMPIONSHIP (ROUND 4) | 04/18-11:00AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52697
+--
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | SUN BELT WOMENS GOLF CHAMPIONSHIP (FINALS) | 04/18-03:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52707
 --
 #EXTINF:-1 tvg-id="" tvg-name="IN | TENNIS CHANNEL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/40/INBA4900017K8_20210825T043649.png" group-title="GOLF / TENNIS",IN | TENNIS CHANNEL
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52551
@@ -1207,6 +1307,17 @@ http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/244263
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/244264
 --
 #EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/26767
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/26813
+--
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/117137
+--
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/119367
+--
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/26767
 #EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/26813
@@ -1216,6 +1327,17 @@ http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/117137
 --
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/119367
+--
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/26767
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/26813
+--
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-lxEc7CffbNI/XztKCFu0UXI/AAAAAAAABGc/ewlblIooXkoBKueeyiHKGsSOQl0NEUS1QCLcBGAsYHQ/w200-h200/92%2BMovistar%2BGOLf.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/117137
+--
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CAN-Golf (T)(720)" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/119367
 --
 #EXTINF:-1 channel-id="samsung-USBB400000145" tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240319T022028SQUARE.png" tvg-chno="1155" group-title="United States" , GOLFPASS
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
