@@ -182,12 +182,6 @@ http://budtvlight.com:25461/movie/IvanKalkbrenner/YATQpN2TmwPT/143153.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La liga de los 5 LAT (2019)" tvg-logo="https://panel.budtv-ultra.com/posters/4eIOdLA8rfavDwJryXiqhegztSp.jpg" group-title="Accion	",La liga de los 5 LAT (2019)
 http://budtvlight.com:25461/movie/IvanKalkbrenner/YATQpN2TmwPT/143463.mp4
 --
-#EXTINF:-1 tvg-id="" tvg-name="DA-N La Liga (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1660595756497.png" group-title="Espana",DA-N La Liga (p)
-http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/46970
---
-#EXTINF:-1 tvg-id="" tvg-name="Scai LaLiga (p)" tvg-logo="https://budtv-ultra.com/posters/1645227888228.png" group-title="Deportes",Scai LaLiga (p)
-http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/130490
---
 #EXTINF:-1 tvg-id="" tvg-name="MOV. LA LIGA HD (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",MOV. LA LIGA HD (ES)(R)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162763
 --
@@ -196,9 +190,6 @@ http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162771
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga Hypermotion (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",La Liga Hypermotion (ES)(R)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/162779
---
-#EXTINF:-1 tvg-id="" tvg-name="BeinS LA LIGA (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/BEIN%20SPORTS.png" group-title="Deportes",BeinS LA LIGA (p)
-http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/126162
 --
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA (ES)(R)" tvg-logo="" group-title="Deportes",BEIN SPORTS LA LIGA (ES)(R)
 http://budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/159302
@@ -245,12 +236,6 @@ http://budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/143153.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La liga de los 5 LAT (2019)" tvg-logo="https://panel.budtv-ultra.com/posters/4eIOdLA8rfavDwJryXiqhegztSp.jpg" group-title="Accion	",La liga de los 5 LAT (2019)
 http://budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/143463.mp4
 --
-#EXTINF:-1 tvg-id="" tvg-name="DA-N La Liga (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1660595756497.png" group-title="Espana",DA-N La Liga (p)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/46970
---
-#EXTINF:-1 tvg-id="" tvg-name="Scai LaLiga (p)" tvg-logo="https://budtv-ultra.com/posters/1645227888228.png" group-title="Deportes",Scai LaLiga (p)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/130490
---
 #EXTINF:-1 tvg-id="" tvg-name="MOV. LA LIGA HD (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",MOV. LA LIGA HD (ES)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162763
 --
@@ -259,9 +244,6 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162771
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga Hypermotion (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",La Liga Hypermotion (ES)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162779
---
-#EXTINF:-1 tvg-id="" tvg-name="BeinS LA LIGA (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/BEIN%20SPORTS.png" group-title="Deportes",BeinS LA LIGA (p)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/126162
 --
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA (ES)(R)" tvg-logo="" group-title="Deportes",BEIN SPORTS LA LIGA (ES)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159302
@@ -1275,8 +1257,13 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/5308
 --
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 002 [LALIGA Soccer] LaLiga News 04/24 09:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 002 [LALIGA Soccer] LaLiga News 04/24 09:00 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631407
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 006 [LALIGA Soccer] LaLiga News 04/25 09:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 006 [LALIGA Soccer] LaLiga News 04/25 09:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631411
+--
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 013 [LALIGA Soccer] LaLiga Show 04/25 11:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 013 [LALIGA Soccer] LaLiga Show 04/25 11:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631418
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 014 [LALIGA Soccer] LaLiga Show 04/25 11:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 014 [LALIGA Soccer] LaLiga Show 04/25 11:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631419
 --
 #EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97524
@@ -1551,8 +1538,13 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/59221
 #EXTINF:-1 tvg-id="" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",USA | BEIN SPORTS LALIGA TV
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/59222
 --
-#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="ESPN+ 004 | LALIGA NEWS | 04/24-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 004 | LALIGA NEWS | 04/24-09:00AM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52689
+#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | LALIGA NEWS | 04/25-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | LALIGA NEWS | 04/25-09:00AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52693
+--
+#EXTINF:-1 tvg-id="ESPN+ 013" tvg-name="ESPN+ 013 | LALIGA SHOW | 04/25-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 013 | LALIGA SHOW | 04/25-11:00AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52698
+#EXTINF:-1 tvg-id="ESPN+ 014" tvg-name="ESPN+ 014 | LALIGA SHOW | 04/25-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 014 | LALIGA SHOW | 04/25-11:00AM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52699
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/59239
@@ -1568,8 +1560,13 @@ http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/59058
 #EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/36465
 --
-#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="ESPN+ 004 | LALIGA NEWS | 04/24-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 004 | LALIGA NEWS | 04/24-09:00AM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52689
+#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | LALIGA NEWS | 04/25-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | LALIGA NEWS | 04/25-09:00AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52693
+--
+#EXTINF:-1 tvg-id="ESPN+ 013" tvg-name="ESPN+ 013 | LALIGA SHOW | 04/25-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 013 | LALIGA SHOW | 04/25-11:00AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52698
+#EXTINF:-1 tvg-id="ESPN+ 014" tvg-name="ESPN+ 014 | LALIGA SHOW | 04/25-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 014 | LALIGA SHOW | 04/25-11:00AM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52699
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/59239
