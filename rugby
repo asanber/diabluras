@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="" group-title="SUPER SPORTS",SuperSport Rugby
-http://home-playtv.com:8080/DalePlay/HetyJKgvjg73/233403
---
 #EXTINF:-1 tvg-id="" tvg-name="Astro: RUGBY PASS TV" tvg-logo="" group-title="MALAYSIA",Astro: RUGBY PASS TV
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/587727
 --
 #EXTINF:-1 tvg-id="" tvg-name="Astro: RUGBY PASS TV" tvg-logo="" group-title="MALAYSIA",Astro: RUGBY PASS TV
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/587727
---
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 076 [SRA Rugby] En Español-Selknam vs. Cobras Brasil Rugby 04/27 12:15 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 076 [SRA Rugby] En Español-Selknam vs. Cobras Brasil Rugby 04/27 12:15 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631481
 --
 #EXTINF:-1 tvg-id="" tvg-name="Astro: RUGBY PASS TV" tvg-logo="" group-title="MALAYSIA",Astro: RUGBY PASS TV
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/587727
@@ -26,11 +20,17 @@ http://op.web24.live:8080/recycle_n24/network24_selfrestream/43142
 #EXTINF:-1 tvg-id="A11" tvg-name="ZA | DSTV SUPERSPORT RUGBY" tvg-logo="https://i.ibb.co/NtMhFmG/supersport-rugby-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT RUGBY
 http://op.web24.live:8080/recycle_n24/network24_selfrestream/43159
 --
-#EXTINF:-1 tvg-id="ESPN+ 076" tvg-name="ESPN+ 076 | EN ESPANOL-SELKNAM VS. COBRAS BRASIL RUGBY | 04/27-12:15PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 076 | EN ESPANOL-SELKNAM VS. COBRAS BRASIL RUGBY | 04/27-12:15PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52761
+#EXTINF:-1 tvg-id="ESPN+ 175" tvg-name="ESPN+ 175 | EN ESPANOL-AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 175 | EN ESPANOL-AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52860
 --
-#EXTINF:-1 tvg-id="ESPN+ 076" tvg-name="ESPN+ 076 | EN ESPANOL-SELKNAM VS. COBRAS BRASIL RUGBY | 04/27-12:15PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 076 | EN ESPANOL-SELKNAM VS. COBRAS BRASIL RUGBY | 04/27-12:15PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52761
+#EXTINF:-1 tvg-id="ESPN+ 177" tvg-name="ESPN+ 177 | AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 177 | AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/52862
+--
+#EXTINF:-1 tvg-id="ESPN+ 175" tvg-name="ESPN+ 175 | EN ESPANOL-AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 175 | EN ESPANOL-AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52860
+--
+#EXTINF:-1 tvg-id="ESPN+ 177" tvg-name="ESPN+ 177 | AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 177 | AMERICAN RAPTORS VS. PENAROL RUGBY | 04/28-05:00PM | ESPN+
+http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52862
 --
 #EXTINF:-1 tvg-id="[211] RUGBY" tvg-name="MY | ASTRO RUGBYPASS TV" tvg-logo="https://i.ibb.co/XkX7t78/astro-rugby-pass-tv.png" group-title="INTERNATIONAL SPORTS",MY | ASTRO RUGBYPASS TV
 http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/43142
