@@ -75,6 +75,10 @@ http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 17" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO", ML Campeones 17 SD  6029
 http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Halloween Baking Championship" tvg-logo="" group-title="ENG - USA 24H",24/7 Halloween Baking Championship
+http://161.97.139.200:2095/CmU6erw45zUX/8GRsEUdUkZSX/707771
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport world Of Champions" tvg-logo="" group-title="AF - South Africa",ZA: SuperSport world Of Champions
+http://161.97.139.200:2095/CmU6erw45zUX/8GRsEUdUkZSX/557357
 #EXTINF:-1 tvg-id="" tvg-name="Roger Federer A Champions Journey SUB (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/8UTX8gcyMYuR3smkzIgODHLr8ez.jpg" group-title="Documentales	",Roger Federer A Champions Journey SUB (2023)
 http://budtvlight.com:25461/movie/IvanKalkbrenner/YATQpN2TmwPT/132125.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="Ciencia Ficcion	",Escape Room Tournament of Champions SUB (2021)
@@ -207,22 +211,6 @@ http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/242833
 http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/243890
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY CASTELLANO 2" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY CASTELLANO 2
 http://emuligl.info:8080/spainexchange/xdGNa4YjkEFp/244367
-#EXTINF:-1 tvg-id="" tvg-name="|US| Strongman Champions League HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| Strongman Champions League HD
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/220338
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY castellano" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY castellano
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/242831
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY 1" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY 1
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/242833
-#EXTINF:-1 tvg-id="" tvg-name="Champions 3" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",Champions 3
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/243890
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY CASTELLANO 2" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY CASTELLANO 2
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/244367
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/215001
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/215002
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 3 4K
-http://emuligl.info:8080/tvpremiumcol/fs3XtkWUVXpj/215003
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
 http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/215001
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
@@ -271,26 +259,42 @@ http://emuligl.info:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/242833
 http://emuligl.info:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/243890
 #EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS HOY CASTELLANO 2" tvg-logo="" group-title="℗EVENTOS DEL DIA℗",CHAMPIONS HOY CASTELLANO 2
 http://emuligl.info:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/244367
-#EXTINF:-1 tvg-id="M+ Champions Tour HD" tvg-name="ES: Champions Tour HD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←",ES: Champions Tour HD
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/12464
-#EXTINF:-1 tvg-id="" tvg-name="US: Fight HD" tvg-logo="https://w7.pngwing.com/pngs/344/386/png-transparent-fight-channel-television-channel-boxing-final-fight-championship-boxing-television-angle-sport-thumbnail.png" group-title="→ USA ←",US: Fight HD
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/24038
-#EXTINF:-1 tvg-id="" tvg-name="TENIS• MALLORCA (HD) »1«" tvg-logo="https://i.postimg.cc/T1bXnB4v/Logo-Mallorca-Championships-Color-ATP250-2023-MALLORCA.png" group-title="→ TENIS (EVENTOS) ←",TENIS• MALLORCA (HD) »1«
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/57241
-#EXTINF:-1 tvg-id="" tvg-name="TENIS• MALLORCA (HD) »2«" tvg-logo="https://i.postimg.cc/T1bXnB4v/Logo-Mallorca-Championships-Color-ATP250-2023-MALLORCA.png" group-title="→ TENIS (EVENTOS) ←",TENIS• MALLORCA (HD) »2«
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/57242
-#EXTINF:-1 tvg-id="" tvg-name="TENIS• MALLORCA (HD) »3«" tvg-logo="https://i.postimg.cc/T1bXnB4v/Logo-Mallorca-Championships-Color-ATP250-2023-MALLORCA.png" group-title="→ TENIS (EVENTOS) ←",TENIS• MALLORCA (HD) »3«
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/57243
-#EXTINF:-1 tvg-id="" tvg-name="TENIS• MALLORCA (HD) »4«" tvg-logo="https://i.postimg.cc/T1bXnB4v/Logo-Mallorca-Championships-Color-ATP250-2023-MALLORCA.png" group-title="→ TENIS (EVENTOS) ←",TENIS• MALLORCA (HD) »4«
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/57244
-#EXTINF:-1 tvg-id="" tvg-name="Manchester City vs Real Madrid | SD | UCL" tvg-logo="https://i.ibb.co/x3nD2Yg/Champions-League-png-blanco.webp" group-title="→ CHAMPIONS LEAGUE ←",Manchester City vs Real Madrid | SD | UCL
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/72350
-#EXTINF:-1 tvg-id="" tvg-name="Manchester City vs Real Madrid | HD | UCL" tvg-logo="https://i.ibb.co/x3nD2Yg/Champions-League-png-blanco.webp" group-title="→ CHAMPIONS LEAGUE ←",Manchester City vs Real Madrid | HD | UCL
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/72351
-#EXTINF:-1 tvg-id="" tvg-name="Bayern München vs Arsenal | SD | UCL" tvg-logo="https://i.ibb.co/x3nD2Yg/Champions-League-png-blanco.webp" group-title="→ CHAMPIONS LEAGUE ←",Bayern München vs Arsenal | SD | UCL
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/72347
-#EXTINF:-1 tvg-id="" tvg-name="Bayern München vs Arsenal | HD | UCL" tvg-logo="https://i.ibb.co/x3nD2Yg/Champions-League-png-blanco.webp" group-title="→ CHAMPIONS LEAGUE ←",Bayern München vs Arsenal | HD | UCL
-http://fastream.xyz:8080/PLAYLIFE485166/gHAqfHJG52yu/72348
+#EXTINF:-1 tvg-id="" tvg-name="Roger Federer A Champions Journey SUB (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/8UTX8gcyMYuR3smkzIgODHLr8ez.jpg" group-title="Documentales	",Roger Federer A Champions Journey SUB (2023)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/132125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="Ciencia Ficcion	",Escape Room Tournament of Champions SUB (2021)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/147466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions LAT (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="Ciencia Ficcion	",Escape Room Tournament of Champions LAT (2021)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/147474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions DUAL V3 O ROKU (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="",Escape Room Tournament of Champions DUAL V3 O ROKU (2021)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/147489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="National Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/mHsshwVv5ze1NwDLe6gRA9jhrKB.jpg" group-title="Ultimas Agregadas	",National Champions SUB (2021)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/148721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Champions LAT (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/ijhizdoNcOdxqtEXZHB2IhyeahI.jpg" group-title="Ultimas Agregadas	",Heart of Champions LAT (2021)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/148801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/yhBhe8DjdFspNjMOyrqD8i9Gy60.jpg" group-title="Ultimas Agregadas	",Heart of Champions SUB (2021)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/150153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Champions SUB (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg" group-title="Drama	",Champions SUB (2023)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/152300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Champions LAT (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg" group-title="Ultimas Agregadas	",Champions LAT (2023)
+http://live.budtvlight.com:25461/movie/carlospix/Rx5HpkPqgp/152303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roger Federer A Champions Journey SUB (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/8UTX8gcyMYuR3smkzIgODHLr8ez.jpg" group-title="Documentales	",Roger Federer A Champions Journey SUB (2023)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/132125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="Ciencia Ficcion	",Escape Room Tournament of Champions SUB (2021)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/147466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions LAT (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="Ciencia Ficcion	",Escape Room Tournament of Champions LAT (2021)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/147474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions DUAL V3 O ROKU (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="",Escape Room Tournament of Champions DUAL V3 O ROKU (2021)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/147489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="National Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/mHsshwVv5ze1NwDLe6gRA9jhrKB.jpg" group-title="Ultimas Agregadas	",National Champions SUB (2021)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/148721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Champions LAT (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/ijhizdoNcOdxqtEXZHB2IhyeahI.jpg" group-title="Ultimas Agregadas	",Heart of Champions LAT (2021)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/148801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/yhBhe8DjdFspNjMOyrqD8i9Gy60.jpg" group-title="Ultimas Agregadas	",Heart of Champions SUB (2021)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/150153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Champions SUB (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg" group-title="Drama	",Champions SUB (2023)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/152300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Champions LAT (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg" group-title="Ultimas Agregadas	",Champions LAT (2023)
+http://live.budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/152303.mp4
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America s Got Talent The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America s Got Talent The Champions
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/511231
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America's Got Talent: The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America's Got Talent: The Champions
@@ -301,6 +305,10 @@ http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/331645
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/76319
 #EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35" tvg-logo="" group-title="SPORTS - FLOSPORTS",Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/642329
+#EXTINF:-1 tvg-id="77997" tvg-name="USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm" tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/38039
+#EXTINF:-1 tvg-id="77998" tvg-name="USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/21812
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America s Got Talent The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America s Got Talent The Champions
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/511231
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America's Got Talent: The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America's Got Talent: The Champions
@@ -311,12 +319,18 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/331645
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/76319
 #EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35" tvg-logo="" group-title="SPORTS - FLOSPORTS",Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/642329
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 004 [NJCAA Football Water Polo] ICSA Championship 04/29 13:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 004 [NJCAA Football Water Polo] ICSA Championship 04/29 13:00 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631409
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 007 [Championship Soccer] En Español-Preston North End vs. Leicester City 04/29 14:50 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 007 [Championship Soccer] En Español-Preston North End vs. Leicester City 04/29 14:50 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631412
-#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 008 [Championship Soccer] Preston North End vs. Leicester City 04/29 14:55 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 008 [Championship Soccer] Preston North End vs. Leicester City 04/29 14:55 ET
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/631413
+#EXTINF:-1 tvg-id="77997" tvg-name="USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm" tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/38039
+#EXTINF:-1 tvg-id="77998" tvg-name="USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/21812
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 009 [NCAAM Lacrosse Lacrosse] ASUN Men's Lacrosse Championship (First Round) 04/30 13:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 009 [NCAAM Lacrosse Lacrosse] ASUN Men's Lacrosse Championship (First Round) 04/30 13:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631414
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 011 [Championship Soccer] En Español-Coventry City vs. Ipswich Town 04/30 14:50 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 011 [Championship Soccer] En Español-Coventry City vs. Ipswich Town 04/30 14:50 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631416
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 012 [Championship Soccer] Coventry City vs. Ipswich Town 04/30 14:55 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 012 [Championship Soccer] Coventry City vs. Ipswich Town 04/30 14:55 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631417
+#EXTINF:-1 tvg-id="" tvg-name="[ESPN+] 026 [NCAAM Lacrosse Lacrosse] ASUN Men's Lacrosse Championship (First Round) 04/30 16:00 ET" tvg-logo="" group-title="SPORTS - ESPN EVENTS PLUS",[ESPN+] 026 [NCAAM Lacrosse Lacrosse] ASUN Men's Lacrosse Championship (First Round) 04/30 16:00 ET
+http://live.lordstreams.co:8080/Marky0416/2c1744538b/631431
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America s Got Talent The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America s Got Talent The Champions
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/511231
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America's Got Talent: The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America's Got Talent: The Champions
@@ -327,6 +341,10 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/331645
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/76319
 #EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35" tvg-logo="" group-title="SPORTS - FLOSPORTS",Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/642329
+#EXTINF:-1 tvg-id="77997" tvg-name="USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm" tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/38039
+#EXTINF:-1 tvg-id="77998" tvg-name="USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21812
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America s Got Talent The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America s Got Talent The Champions
 http://live.lordstreams.co:8080/Montecrispo/126728543/511231
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America's Got Talent: The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America's Got Talent: The Champions
@@ -337,6 +355,10 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/331645
 http://live.lordstreams.co:8080/Montecrispo/126728543/76319
 #EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35" tvg-logo="" group-title="SPORTS - FLOSPORTS",Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35
 http://live.lordstreams.co:8080/Montecrispo/126728543/642329
+#EXTINF:-1 tvg-id="77997" tvg-name="USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm" tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm
+http://live.lordstreams.co:8080/Montecrispo/126728543/38039
+#EXTINF:-1 tvg-id="77998" tvg-name="USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm
+http://live.lordstreams.co:8080/Montecrispo/126728543/21812
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America s Got Talent The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America s Got Talent The Champions
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/511231
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America's Got Talent: The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America's Got Talent: The Champions
@@ -347,6 +369,10 @@ http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/331645
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/76319
 #EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35" tvg-logo="" group-title="SPORTS - FLOSPORTS",Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/642329
+#EXTINF:-1 tvg-id="77997" tvg-name="USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm" tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: North America - CONCACAF Champions Cup : Pachuca vs América @ 09:15pm
+http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/38039
+#EXTINF:-1 tvg-id="77998" tvg-name="USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: Europe - UEFA Champions League : Bayern München vs Real Madrid @ 03:00pm
+http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/21812
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2199944
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS 2
@@ -365,6 +391,20 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/219731
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/belpley/sYqKZQrTZa/221868
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | FHD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | FHD |
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2214479
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2214480
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | SD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | SD |
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2214481
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |*" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |*
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2214482
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |**" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |**
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2214483
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | SD |***" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | SD |***
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2214484
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | CHAMPIONSHIP | Coventry City vs. Ipswich Town | HD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoWWHtbShk4SePSBTVofWTJVzpbmaZE6pSFWgC3gd9u8U.png" group-title="TV | EVENTOS",14:00 | CHAMPIONSHIP | Coventry City vs. Ipswich Town | HD |
+http://lobo-tv.live:8080/belpley/sYqKZQrTZa/2214485
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2199944
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS 2
@@ -383,6 +423,20 @@ http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/219731
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/221868
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | FHD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | FHD |
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2214479
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2214480
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | SD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | SD |
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2214481
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |*" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |*
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2214482
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |**" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |**
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2214483
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | SD |***" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | SD |***
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2214484
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | CHAMPIONSHIP | Coventry City vs. Ipswich Town | HD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoWWHtbShk4SePSBTVofWTJVzpbmaZE6pSFWgC3gd9u8U.png" group-title="TV | EVENTOS",14:00 | CHAMPIONSHIP | Coventry City vs. Ipswich Town | HD |
+http://lobo-tv.live:8080/fenixplay/pZFHj9uMLQXz2S/2214485
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2199944
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS 2
@@ -401,48 +455,110 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/219731
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/221868
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | FHD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | FHD |
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2214479
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2214480
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | SD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | SD |
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2214481
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |*" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |*
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2214482
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | HD |**" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | HD |**
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2214483
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | UCL | Bayern München vs. Real Madrid | SD |***" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoU9svokDT8OEHtcuRLMSDYAZ7kNru7XgDrC6TWB5s8f_.png" group-title="TV | UEFA Champions League",14:00 | UCL | Bayern München vs. Real Madrid | SD |***
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2214484
+#EXTINF:-1 tvg-id="" tvg-name="14:00 | CHAMPIONSHIP | Coventry City vs. Ipswich Town | HD |" tvg-logo="http://tv.dominiotv.xyz:80/images/yrZQhpKMcNyZ6rzERTCLoWWHtbShk4SePSBTVofWTJVzpbmaZE6pSFWgC3gd9u8U.png" group-title="TV | EVENTOS",14:00 | CHAMPIONSHIP | Coventry City vs. Ipswich Town | HD |
+http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/2214485
 #EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/43117
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/70247
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/70248
-#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="ESPN+ 007 | ICSA CHAMPIONSHIP | 04/29-01:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 007 | ICSA CHAMPIONSHIP | 04/29-01:00PM | ESPN+
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/52692
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/43117
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53844
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53844
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 2" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 2
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53845
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53845
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 3" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 3
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53846
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/53847
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53847
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/70247
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/70248
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | HALLOWEEN BAKING CHAMPIONSHIP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnEty9F5Df1gNSCa0vZynIZfPJS.jpg" group-title="24/7 CHANNELS",24/7 | HALLOWEEN BAKING CHAMPIONSHIP
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/71831
-#EXTINF:-1 tvg-id="" tvg-name="DE | UEFA-CHAMPIONS-LEAGUE EVENT" tvg-logo="noimage.png" group-title="AUSTRIA-SWISS-GERMANY",DE | UEFA-CHAMPIONS-LEAGUE EVENT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/77549
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/71831
 #EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/43117
+http://op.web24.live:8080/ozzie_skype/Brestream2020/43117
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53844
+http://op.web24.live:8080/ozzie_skype/Brestream2020/53844
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 2" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 2
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53845
+http://op.web24.live:8080/ozzie_skype/Brestream2020/53845
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 3" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 3
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53846
+http://op.web24.live:8080/ozzie_skype/Brestream2020/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/53847
-#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="ESPN+ 007 | ICSA CHAMPIONSHIP | 04/29-01:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 007 | ICSA CHAMPIONSHIP | 04/29-01:00PM | ESPN+
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/52692
+http://op.web24.live:8080/ozzie_skype/Brestream2020/53847
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/70247
+http://op.web24.live:8080/ozzie_skype/Brestream2020/70247
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
-http://op.web24.live:8080/tenwafer/DApQSRYnSDrx/70248
-#EXTINF:-1 tvg-id="" tvg-name="12:50 PM | PRESTON NORTH END VS LEICESTER CITY" tvg-logo="https://www.pngitem.com/pimgs/m/490-4901942_sky-bet-championship-logo-png-png-download-english.png" group-title="EVENTOS PPV",12:50 PM | PRESTON NORTH END VS LEICESTER CITY
-http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/392926
-#EXTINF:-1 tvg-id="" tvg-name="12:50 PM | PRESTON NORTH END VS LEICESTER CITY" tvg-logo="https://www.pngitem.com/pimgs/m/490-4901942_sky-bet-championship-logo-png-png-download-english.png" group-title="EVENTOS PPV",12:50 PM | PRESTON NORTH END VS LEICESTER CITY
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/392926
-#EXTINF:-1 tvg-id="" tvg-name="12:50 PM | PRESTON NORTH END VS LEICESTER CITY" tvg-logo="https://www.pngitem.com/pimgs/m/490-4901942_sky-bet-championship-logo-png-png-download-english.png" group-title="EVENTOS PPV",12:50 PM | PRESTON NORTH END VS LEICESTER CITY
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/392926
+http://op.web24.live:8080/ozzie_skype/Brestream2020/70248
+#EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/43117
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/70247
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/70248
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53844
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 2" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 2
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53845
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 3" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 3
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53846
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53847
+#EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26
+http://op.web24.live:8080/troica/654321/43117
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
+http://op.web24.live:8080/troica/654321/53844
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 2" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 2
+http://op.web24.live:8080/troica/654321/53845
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 3" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 3
+http://op.web24.live:8080/troica/654321/53846
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
+http://op.web24.live:8080/troica/654321/53847
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
+http://op.web24.live:8080/troica/654321/70247
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
+http://op.web24.live:8080/troica/654321/70248
+#EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26
+http://op.web24.live:8080/ultnew/password@2024/43117
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
+http://op.web24.live:8080/ultnew/password@2024/53844
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 2" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 2
+http://op.web24.live:8080/ultnew/password@2024/53845
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 3" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 3
+http://op.web24.live:8080/ultnew/password@2024/53846
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
+http://op.web24.live:8080/ultnew/password@2024/53847
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
+http://op.web24.live:8080/ultnew/password@2024/70247
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
+http://op.web24.live:8080/ultnew/password@2024/70248
+#EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 60 | 24.04.26
+http://op.web24.live:8080/ziadsa/streaming@2019/43117
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
+http://op.web24.live:8080/ziadsa/streaming@2019/53844
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 2" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 2
+http://op.web24.live:8080/ziadsa/streaming@2019/53845
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 3" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 3
+http://op.web24.live:8080/ziadsa/streaming@2019/53846
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
+http://op.web24.live:8080/ziadsa/streaming@2019/53847
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
+http://op.web24.live:8080/ziadsa/streaming@2019/70247
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
+http://op.web24.live:8080/ziadsa/streaming@2019/70248
+#EXTINF:-1 tvg-id="" tvg-name="CONCACAF | 19:15 Pachuca vs América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/CONCACAF_Champions_Cup.png" group-title="EVENTOS PPV",CONCACAF | 19:15 Pachuca vs América
+http://tv.fuxxionpro.online:8080/L0vjEGB3MC/ckgS8PMrmA/393161#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CHI-CDO Premium (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="CHILE",CHI-CDO Premium (M)(SD)
+#EXTINF:-1 tvg-id="" tvg-name="CONCACAF | 19:15 Pachuca vs América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/CONCACAF_Champions_Cup.png" group-title="EVENTOS PPV",CONCACAF | 19:15 Pachuca vs América
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/393161
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403" tvg-id="5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="USA" , Strongman Champions
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403" tvg-id="5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" , Strongman Champions
