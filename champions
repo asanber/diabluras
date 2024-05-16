@@ -76,9 +76,9 @@ http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 17" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO", ML Campeones 17 SD  6029
 http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Halloween Baking Championship" tvg-logo="" group-title="ENG - USA 24H",24/7 Halloween Baking Championship
-http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/707771
+http://161.97.139.200:2095/CmU6erw45zUX/8GRsEUdUkZSX/707771
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport world Of Champions" tvg-logo="" group-title="AF - South Africa",ZA: SuperSport world Of Champions
-http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/557357
+http://161.97.139.200:2095/CmU6erw45zUX/8GRsEUdUkZSX/557357
 #EXTINF:-1 tvg-id="" tvg-name="Roger Federer A Champions Journey SUB (2023)" tvg-logo="https://panel.budtv-ultra.com/posters/8UTX8gcyMYuR3smkzIgODHLr8ez.jpg" group-title="Documentales	",Roger Federer A Champions Journey SUB (2023)
 http://budtvlight.com:25461/movie/IvanKalkbrenner/YATQpN2TmwPT/132125.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Escape Room Tournament of Champions SUB (2021)" tvg-logo="https://panel.budtv-ultra.com/posters/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="Ciencia Ficcion	",Escape Room Tournament of Champions SUB (2021)
@@ -415,8 +415,10 @@ http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/219731
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/220432
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
 http://lobo-tv.live:8080/yestv/eVW6aPPbUCD8/221868
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52565
+#EXTINF:-1 tvg-id="#N/A" tvg-name="  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52566
 #EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/43117
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
@@ -427,16 +429,18 @@ http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53845
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53847
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
-http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52693
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52689
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/70247
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/70248
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | HALLOWEEN BAKING CHAMPIONSHIP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnEty9F5Df1gNSCa0vZynIZfPJS.jpg" group-title="24/7 CHANNELS",24/7 | HALLOWEEN BAKING CHAMPIONSHIP
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/71831
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52565
+#EXTINF:-1 tvg-id="#N/A" tvg-name="  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK
+http://op.web24.live:8080/ozzie_skype/Brestream2020/52566
 #EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10
 http://op.web24.live:8080/ozzie_skype/Brestream2020/43117
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
@@ -447,8 +451,8 @@ http://op.web24.live:8080/ozzie_skype/Brestream2020/53845
 http://op.web24.live:8080/ozzie_skype/Brestream2020/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
 http://op.web24.live:8080/ozzie_skype/Brestream2020/53847
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
-http://op.web24.live:8080/ozzie_skype/Brestream2020/52693
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
+http://op.web24.live:8080/ozzie_skype/Brestream2020/52689
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
 http://op.web24.live:8080/ozzie_skype/Brestream2020/70247
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
@@ -459,10 +463,12 @@ http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/43117
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/70247
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/70248
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52693
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52689
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52565
+#EXTINF:-1 tvg-id="#N/A" tvg-name="  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52566
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53844
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 2" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 2
@@ -471,8 +477,10 @@ http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53845
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53847
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
 http://op.web24.live:8080/troica/654321/52565
+#EXTINF:-1 tvg-id="#N/A" tvg-name="  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK
+http://op.web24.live:8080/troica/654321/52566
 #EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10
 http://op.web24.live:8080/troica/654321/43117
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
@@ -483,14 +491,16 @@ http://op.web24.live:8080/troica/654321/53845
 http://op.web24.live:8080/troica/654321/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
 http://op.web24.live:8080/troica/654321/53847
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
-http://op.web24.live:8080/troica/654321/52693
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
+http://op.web24.live:8080/troica/654321/52689
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
 http://op.web24.live:8080/troica/654321/70247
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
 http://op.web24.live:8080/troica/654321/70248
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52565
+#EXTINF:-1 tvg-id="#N/A" tvg-name="  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-06:00PM | PEACOCK
+http://op.web24.live:8080/ultnew/password@2024/52566
 #EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP ONE FRIDAY FIGHTS 62 | 24.05.10
 http://op.web24.live:8080/ultnew/password@2024/43117
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
@@ -501,8 +511,8 @@ http://op.web24.live:8080/ultnew/password@2024/53845
 http://op.web24.live:8080/ultnew/password@2024/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
 http://op.web24.live:8080/ultnew/password@2024/53847
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | TUESDAY AT THE PGA CHAMPIONSHIP | 05/14-12:00PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52693
+#EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 004 | WEDNESDAY AT THE PGA CHAMPIONSHIP | 05/15-12:00PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52689
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
 http://op.web24.live:8080/ultnew/password@2024/70247
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
