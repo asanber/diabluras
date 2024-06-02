@@ -17760,7 +17760,7 @@ http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/40290
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/40291
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA | 4K NAT GEO WILD" tvg-logo="https://i.postimg.cc/Kz5CSrRj/toppng-com-logo-4k-650x492.png" group-title="4K PACKAGE",USA | 4K NAT GEO WILD
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/62316#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 05/31-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 05/31-12:00AM | 
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/62316#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 06/01-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 06/01-12:00AM | 
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF | DISCOVERY CHANNEL" tvg-logo="" group-title="AFRICA",AF | DISCOVERY CHANNEL
 http://op.web24.live:8080/ultnew/password@2024/63265
@@ -18520,42 +18520,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20accountant.mkv
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="2016",Rogue one: Una historia de Star Wars (2016)
 http://vod.tuxchannel.mx/peliculas/720/rogue%20one%20a%20star%20wars%20story.mkv
---
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" , AMC Thrillers
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
---
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-id="5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" , AMC en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8
---
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" , Portlandia
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512.m3u8
---
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" , Stories by AMC
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba.m3u8
---
-#EXTINF:-1 channel-id="samsung-ES12000024R" tvg-id="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" tvg-chno="4205" group-title="Spain" , Historia y Vida
-https://i.mjh.nz/SamsungTVPlus/ES12000024R.m3u8
---
-#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" tvg-chno="4229" group-title="Spain" , Documentales - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
---
-#EXTINF:-1 channel-id="samsung-ITBD4400001X5" tvg-id="ITBD4400001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20231213T033155SQUARE.png_20231213033156.png" tvg-chno="4102" group-title="Italy" , DMAX
-https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
---
-#EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" tvg-chno="3809" group-title="United States" , AMC en Español
-https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
---
-#EXTINF:-1 channel-id="samsung-ES12000024R" tvg-id="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" tvg-chno="4205" group-title="Factual" , Historia y Vida
-https://i.mjh.nz/SamsungTVPlus/ES12000024R.m3u8
---
-#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" tvg-chno="4229" group-title="Factual" , Documentales - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
---
-#EXTINF:-1 channel-id="samsung-ITBD4400001X5" tvg-id="ITBD4400001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20231213T033155SQUARE.png_20231213033156.png" tvg-chno="4102" group-title="Intrattenimento" , DMAX
-https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
---
-#EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" tvg-chno="3809" group-title="Latino" , AMC en Español
-https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 --
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBKoWVRgUwtoovFz4LeUO7heI0i.jpg",Cosas de casa -003 La historia             
 https://ok.ru/video/5046099839570	

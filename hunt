@@ -2126,27 +2126,3 @@ http://vod.tuxchannel.mx/peliculas/720/monster%20hunter%202020.mkv
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/10/w1280/1nxYXbkuzJe5y3flRe7KmqvC0YW.jpg" group-title="2018",Hunter Killer: Caza en las profundidades (2018)
 http://vod.tuxchannel.mx/peliculas/720/hunter%20killer.mkv
---
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" tvg-id="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29c4fec6-9511-4368-9b02-5788f3eff6b1/Dog_the_Bounty_Hunter_WHT_Logo_1500x1000-_Ethan_Maisel.png" , Dog the Bounty Hunter
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a.m3u8
---
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" , Ghost Hunters Channel
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8
---
-#EXTINF:-1 channel-id="samsung-GB1200002ON" tvg-id="GB1200002ON" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200002ON_20240423T033440SQUARE.png" tvg-chno="4127" group-title="United Kingdom" , History Hunters
-https://i.mjh.nz/SamsungTVPlus/GB1200002ON.m3u8
---
-#EXTINF:-1 channel-id="samsung-GBBA3300038UZ" tvg-id="GBBA3300038UZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300038UZ_20221215T020815SQUARE.png_20221215020816.png" tvg-chno="4211" group-title="United Kingdom" , Homicide Hunter
-https://i.mjh.nz/SamsungTVPlus/GBBA3300038UZ.m3u8
---
-#EXTINF:-1 channel-id="samsung-US900002IH" tvg-id="US900002IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20240520T221457SQUARE.png" tvg-chno="1966" group-title="United States" , Dog the Bounty Hunter
-https://i.mjh.nz/SamsungTVPlus/US900002IH.m3u8
---
-#EXTINF:-1 channel-id="samsung-GB1200002ON" tvg-id="GB1200002ON" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200002ON_20240423T033440SQUARE.png" tvg-chno="4127" group-title="Entertainment" , History Hunters
-https://i.mjh.nz/SamsungTVPlus/GB1200002ON.m3u8
---
-#EXTINF:-1 channel-id="samsung-GBBA3300038UZ" tvg-id="GBBA3300038UZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300038UZ_20221215T020815SQUARE.png_20221215020816.png" tvg-chno="4211" group-title="Factual Entertainment" , Homicide Hunter
-https://i.mjh.nz/SamsungTVPlus/GBBA3300038UZ.m3u8
---
-#EXTINF:-1 channel-id="samsung-US900002IH" tvg-id="US900002IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20240520T221457SQUARE.png" tvg-chno="1966" group-title="Reality TV" , Dog the Bounty Hunter
-https://i.mjh.nz/SamsungTVPlus/US900002IH.m3u8
