@@ -264,6 +264,21 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158531
 #EXTINF:-1 tvg-id="" tvg-name="CBC TORONTO (CA)(i)" tvg-logo="https://budtv-ultra.com/posters/1712038105310.png" group-title="canada",CBC TORONTO (CA)(i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158532
 --
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TOROS TV FHD (ES)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="DEPORTES",DEP | TOROS TV FHD (ES)
+http://disfruta.net:80/Justplay/CRYrHtUeVf/1707
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES | TOROS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/TorosTV2016.png/revision/latest/scale-to-width-down/220?cb=20170225124357" group-title="ESPAÑA",ES | TOROS HD
+http://disfruta.net:80/Justplay/CRYrHtUeVf/1828
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITY TORONTO" tvg-logo="http://disfruta.fun:80/images/7601f5c8cdafa80b18633e3417e91068.png" group-title="CANADA",CA | CITY TORONTO
+http://disfruta.net:80/Justplay/CRYrHtUeVf/3094
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV TORONTO HD" tvg-logo="http://disfruta.fun:80/images/9de979f2d3fd85f5f92e02b11393f53a.png" group-title="CANADA",CA | CTV TORONTO HD
+http://disfruta.net:80/Justplay/CRYrHtUeVf/3101
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | GLOBAL TORONTO HD" tvg-logo="http://disfruta.net:80/images/d00ac222f0682ab744edef4cf929ebd0.png" group-title="CANADA",CA | GLOBAL TORONTO HD
+http://disfruta.net:80/Justplay/CRYrHtUeVf/3115
+--
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC Toronto CBLT" tvg-logo="http://tvstar.cc:8880/chimg/5725639265.png" group-title="││TV││CANADA",CA CBC Toronto CBLT
 http://gustvplay.com:8080/047telgram/VRNsCknpKbYG/30596
 #EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto (CBLT)" tvg-logo="http://tvstar.cc:8880/chimg/7765111150.png" group-title="││TV││CANADA",CA: CBC Toronto (CBLT)
@@ -526,6 +541,9 @@ http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/833
 #EXTINF:-1 tvg-id="" tvg-name="USA NHL Toronto Maple Leafs" tvg-logo="" group-title="USA NHL",USA NHL Toronto Maple Leafs
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/509731
 --
+#EXTINF:-1 tvg-id="TOR.nba" tvg-name="[NBA] TORONTO RAPTORS" tvg-logo="https://pbs.twimg.com/media/Ef46y0hXkAUa-27.png" group-title="USA NBA",[NBA] TORONTO RAPTORS
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/89086
+--
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Benicio Del Toro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Benicio_Del_Toro_-_Guardians_of_the_Galaxy_premiere_-_July_2014_%28cropped%29.jpg" group-title="24/7 MOVIES",24/7 Benicio Del Toro
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/551521
 --
@@ -712,9 +730,6 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/833
 #EXTINF:-1 tvg-id="" tvg-name="USA NHL Toronto Maple Leafs" tvg-logo="" group-title="USA NHL",USA NHL Toronto Maple Leafs
 http://live.lordstreams.co:8080/Montecrispo/126728543/509731
 --
-#EXTINF:-1 tvg-id="TOR.nba" tvg-name="[NBA] TORONTO RAPTORS" tvg-logo="https://pbs.twimg.com/media/Ef46y0hXkAUa-27.png" group-title="USA NBA",[NBA] TORONTO RAPTORS
-http://live.lordstreams.co:8080/Montecrispo/126728543/89086
---
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Benicio Del Toro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Benicio_Del_Toro_-_Guardians_of_the_Galaxy_premiere_-_July_2014_%28cropped%29.jpg" group-title="24/7 MOVIES",24/7 Benicio Del Toro
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/551521
 --
@@ -803,8 +818,8 @@ https://lobo-tv.live:443/belpley/sYqKZQrTZa/2168330
 #EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/2168355
 --
-#EXTINF:-1 tvg-id="" tvg-name="LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana" tvg-logo="https://i.pinimg.com/originals/ae/30/b6/ae30b6f0ed1311456f79a79ba68f056c.png" group-title="TV | PPV LMB 2024",LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2218570
+#EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Guerreros de Oaxaca vs Toros de Tijuana" tvg-logo="https://i.pinimg.com/originals/ae/30/b6/ae30b6f0ed1311456f79a79ba68f056c.png" group-title="TV | PPV LMB 2024",LMB: 20:35  Guerreros de Oaxaca vs Toros de Tijuana
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2218681
 --
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/126152
@@ -850,8 +865,8 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144844
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144846
 --
-#EXTINF:-1 tvg-id="" tvg-name="LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana" tvg-logo="https://i.pinimg.com/originals/ae/30/b6/ae30b6f0ed1311456f79a79ba68f056c.png" group-title="TV | PPV LMB 2024",LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2218570
+#EXTINF:-1 tvg-id="" tvg-name="LMB: 20:35  Guerreros de Oaxaca vs Toros de Tijuana" tvg-logo="https://i.pinimg.com/originals/ae/30/b6/ae30b6f0ed1311456f79a79ba68f056c.png" group-title="TV | PPV LMB 2024",LMB: 20:35  Guerreros de Oaxaca vs Toros de Tijuana
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2218681
 --
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144844
@@ -901,8 +916,8 @@ http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/1193
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES | TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAIN",ES | TOROS TV
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/36451
 --
-#EXTINF:-1 tvg-id="MLB 11" tvg-name="MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET" tvg-logo="" group-title="MLB PACKAGE",MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET
-http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53059
+#EXTINF:-1 tvg-id="MLB 01" tvg-name="MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53049
 --
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/53090
@@ -945,8 +960,8 @@ http://op.web24.live:8080/ozzie_skype/Brestream2020/1193
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES | TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAIN",ES | TOROS TV
 http://op.web24.live:8080/ozzie_skype/Brestream2020/36451
 --
-#EXTINF:-1 tvg-id="MLB 11" tvg-name="MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET" tvg-logo="" group-title="MLB PACKAGE",MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET
-http://op.web24.live:8080/ozzie_skype/Brestream2020/53059
+#EXTINF:-1 tvg-id="MLB 01" tvg-name="MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK
+http://op.web24.live:8080/ozzie_skype/Brestream2020/53049
 --
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/ozzie_skype/Brestream2020/53090
@@ -969,8 +984,8 @@ http://op.web24.live:8080/ozzie_skype/Brestream2020/6851
 #EXTINF:-1 tvg-id="pbseast.ca" tvg-name="USA | PBS" tvg-logo="https://i.ibb.co/fCBSvvv/wned-pbs-buffalo-toronto.png" group-title="USA ENTERTAINMENT",USA | PBS
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/6851
 --
-#EXTINF:-1 tvg-id="MLB 11" tvg-name="MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET" tvg-logo="" group-title="MLB PACKAGE",MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53059
+#EXTINF:-1 tvg-id="MLB 01" tvg-name="MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53049
 --
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/53090
@@ -1033,8 +1048,8 @@ http://op.web24.live:8080/ultnew/password@2024/1193
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES | TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAIN",ES | TOROS TV
 http://op.web24.live:8080/ultnew/password@2024/36451
 --
-#EXTINF:-1 tvg-id="MLB 11" tvg-name="MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET" tvg-logo="" group-title="MLB PACKAGE",MLB 11 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/05-07:07PM | MASN 2 SPORTSNET
-http://op.web24.live:8080/ultnew/password@2024/53059
+#EXTINF:-1 tvg-id="MLB 01" tvg-name="MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 01 | BALTI ORIOLES @ TORONTO BLUE JAYS | 06/06-01:07PM | MASN MLB NETWORK
+http://op.web24.live:8080/ultnew/password@2024/53049
 --
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/ultnew/password@2024/53090
@@ -1079,42 +1094,6 @@ http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/233225
 --
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/213774
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - El Toros TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - El Toros TV (L)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/267250
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/117206
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Toro Ole (T)(720)" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/336674
---
-#EXTINF:-1 tvg-id="" tvg-name="CAN-CITY TORONTO (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-CITY TORONTO (M)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/393741
---
-#EXTINF:-1 tvg-id="" tvg-name="CAN-GLOBAL TORONTO (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-GLOBAL TORONTO (M)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/393767
---
-#EXTINF:-1 tvg-id="" tvg-name="LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana" tvg-logo="https://i.pinimg.com/originals/ae/30/b6/ae30b6f0ed1311456f79a79ba68f056c.png" group-title="EVENTOS PPV",LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397342
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - El Toros TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - El Toros TV (L)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/267250
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/117206
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Toro Ole (T)(720)" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336674
---
-#EXTINF:-1 tvg-id="" tvg-name="CAN-CITY TORONTO (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-CITY TORONTO (M)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/393741
---
-#EXTINF:-1 tvg-id="" tvg-name="CAN-GLOBAL TORONTO (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-GLOBAL TORONTO (M)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/393767
---
-#EXTINF:-1 tvg-id="" tvg-name="LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana" tvg-logo="https://i.pinimg.com/originals/ae/30/b6/ae30b6f0ed1311456f79a79ba68f056c.png" group-title="EVENTOS PPV",LMB | Junio5 20:35  Guerreros de Oaxaca vs Toros de Tijuana
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397342
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv

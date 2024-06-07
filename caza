@@ -371,6 +371,12 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162760
 #EXTINF:-1 tvg-id="" tvg-name="Caza y Pezca (ES)(R)" tvg-logo="" group-title="Deportes",Caza y Pezca (ES)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159316
 --
+#EXTINF:-1 tvg-id="" tvg-name="ES | IBERALIA" tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/IberaliaTV_400x300.png" group-title="ESPAÑA",ES | IBERALIA
+http://disfruta.net:80/Justplay/CRYrHtUeVf/1861
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Los Cazafantasmas" tvg-logo="http://51.161.117.219:80/images/b160a3e6a171e2093e1abb021a62d43d.jpg" group-title="CANALES 24/7",24/7: Los Cazafantasmas
+http://disfruta.net:80/Justplay/CRYrHtUeVf/1482
+--
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││CAZA & PESCA FHD" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││CAZA & PESCA FHD
 http://gustvplay.com:8080/047telgram/VRNsCknpKbYG/786
 --
@@ -846,34 +852,6 @@ http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/233312
 http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/233313
 #EXTINF:-1 tvg-id="" tvg-name="SP: ES: Cazavision FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Cazavision FHD
 http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/233314
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Buffy La Cazavampiros (e)(720)" tvg-logo="https://1.bp.blogspot.com/-d97pUnD7Xns/Xu-H9QBalkI/AAAAAAAACNY/chIBJ--6wCoPquWU7PrncNIQbNrzzGO3wCLcBGAsYHQ/s200/buffy.png" group-title="24/7 SERIES",24/7 Buffy La Cazavampiros (e)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/38495
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mikami la Cazafantasmas (e)(720)" tvg-logo="https://1.bp.blogspot.com/-xTF4ogUAD9c/XploTWSK33I/AAAAAAAABrY/vLWmoGlaqZANe_SljTdbl91tn3TR89SGACLcBGAsYHQ/s200/Mikami%2BLa%2BCasafantasmas.png" group-title="24/7 ANIME",24/7 Mikami la Cazafantasmas (e)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/37748
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Caza Y Pesca (T)(720)" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="ESPAÑA",ESP - Caza Y Pesca (T)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/336687
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Cazavisión (T)(720)" tvg-logo="https://archivo.cazavision.com/sites/default/files/images/logocazavision.jpg" group-title="ESPAÑA",ESP - Cazavisión (T)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/336738
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Toro Ole (T)(720)" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/336674
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Buffy La Cazavampiros (e)(720)" tvg-logo="https://1.bp.blogspot.com/-d97pUnD7Xns/Xu-H9QBalkI/AAAAAAAACNY/chIBJ--6wCoPquWU7PrncNIQbNrzzGO3wCLcBGAsYHQ/s200/buffy.png" group-title="24/7 SERIES",24/7 Buffy La Cazavampiros (e)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/38495
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mikami la Cazafantasmas (e)(720)" tvg-logo="https://1.bp.blogspot.com/-xTF4ogUAD9c/XploTWSK33I/AAAAAAAABrY/vLWmoGlaqZANe_SljTdbl91tn3TR89SGACLcBGAsYHQ/s200/Mikami%2BLa%2BCasafantasmas.png" group-title="24/7 ANIME",24/7 Mikami la Cazafantasmas (e)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/37748
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Caza Y Pesca (T)(720)" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="ESPAÑA",ESP - Caza Y Pesca (T)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336687
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Cazavisión (T)(720)" tvg-logo="https://archivo.cazavision.com/sites/default/files/images/logocazavision.jpg" group-title="ESPAÑA",ESP - Cazavisión (T)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336738
---
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP - Toro Ole (T)(720)" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="ESPAÑA",ESP - Toro Ole (T)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336674
 --
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
 https://filemoon.sx/d/2alnlw7bmkfe

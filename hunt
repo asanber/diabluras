@@ -1443,6 +1443,18 @@ http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/560753
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA Outdoor Channel" tvg-logo="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png" group-title="USA ENTERTAINMENT",USA Outdoor Channel
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/5289
 --
+#EXTINF:-1 tvg-id="SPMNHD" tvg-name="USA SPORTSMAN CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA SPORTSMAN CHANNEL SD
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/97483
+--
+#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | ABC WCHS" tvg-logo="" group-title="USA LOCAL - ABC",WV | Huntington | ABC WCHS
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/637152
+#EXTINF:-1 tvg-id="7d4172d0-b53b-47fe-abcc-649948d3c744" tvg-name="WV | Huntington | CBS 13 WOWK" tvg-logo="" group-title="USA LOCAL - CBS",WV | Huntington | CBS 13 WOWK
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/89905
+#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | FOX 11 WCHS" tvg-logo="" group-title="USA LOCAL - FOX",WV | Huntington | FOX 11 WCHS
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/637227
+#EXTINF:-1 tvg-id="nbcwsaz.us" tvg-name="WV | Huntington | NBC WSAZ" tvg-logo="" group-title="USA LOCAL - NBC",WV | Huntington | NBC WSAZ
+http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/89906
+--
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Aussie Gold Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5ZjSKy357VtrYgITzuqgHNFOf1.jpg" group-title="24/7 ACTION & ADVENTURE",24/7 Aussie Gold Hunters
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/331656
 --
@@ -1758,18 +1770,6 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/560753
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA Outdoor Channel" tvg-logo="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png" group-title="USA ENTERTAINMENT",USA Outdoor Channel
 http://live.lordstreams.co:8080/Montecrispo/126728543/5289
 --
-#EXTINF:-1 tvg-id="SPMNHD" tvg-name="USA SPORTSMAN CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA SPORTSMAN CHANNEL SD
-http://live.lordstreams.co:8080/Montecrispo/126728543/97483
---
-#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | ABC WCHS" tvg-logo="" group-title="USA LOCAL - ABC",WV | Huntington | ABC WCHS
-http://live.lordstreams.co:8080/Montecrispo/126728543/637152
-#EXTINF:-1 tvg-id="7d4172d0-b53b-47fe-abcc-649948d3c744" tvg-name="WV | Huntington | CBS 13 WOWK" tvg-logo="" group-title="USA LOCAL - CBS",WV | Huntington | CBS 13 WOWK
-http://live.lordstreams.co:8080/Montecrispo/126728543/89905
-#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | FOX 11 WCHS" tvg-logo="" group-title="USA LOCAL - FOX",WV | Huntington | FOX 11 WCHS
-http://live.lordstreams.co:8080/Montecrispo/126728543/637227
-#EXTINF:-1 tvg-id="nbcwsaz.us" tvg-name="WV | Huntington | NBC WSAZ" tvg-logo="" group-title="USA LOCAL - NBC",WV | Huntington | NBC WSAZ
-http://live.lordstreams.co:8080/Montecrispo/126728543/89906
---
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Aussie Gold Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5ZjSKy357VtrYgITzuqgHNFOf1.jpg" group-title="24/7 ACTION & ADVENTURE",24/7 Aussie Gold Hunters
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/331656
 --
@@ -2081,18 +2081,6 @@ http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/213741
 --
 #EXTINF:-1 tvg-id="" tvg-name="|US| SPORTSMAN CHANNEL FHD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| SPORTSMAN CHANNEL FHD
 http://pltvsu.info:8080/047telgram/VRNsCknpKbYG/220279
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunter x Hunter 2011 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-r8lzqvgLAvY/XuwlfpTl7nI/AAAAAAAACMg/aYb6I-jY06M6UcRJ9uh5zHBQZ3e0FU5LwCLcBGAsYHQ/s200/HxH2011.png" group-title="24/7 ANIME",24/7 Hunter x Hunter 2011 (e)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/38420
---
-#EXTINF:-1 tvg-id="" tvg-name="USA-SportsMAN Channel (1080)(L)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/Sportsman-can.png" group-title="USA-SPORTS",USA-SportsMAN Channel (1080)(L)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/336627
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunter x Hunter 2011 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-r8lzqvgLAvY/XuwlfpTl7nI/AAAAAAAACMg/aYb6I-jY06M6UcRJ9uh5zHBQZ3e0FU5LwCLcBGAsYHQ/s200/HxH2011.png" group-title="24/7 ANIME",24/7 Hunter x Hunter 2011 (e)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/38420
---
-#EXTINF:-1 tvg-id="" tvg-name="USA-SportsMAN Channel (1080)(L)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/Sportsman-can.png" group-title="USA-SPORTS",USA-SportsMAN Channel (1080)(L)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336627
 --
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
 https://filemoon.sx/d/2alnlw7bmkfe
