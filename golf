@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png", M+ Golf 1080  858b
 acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  9a4f
-acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  0742
+acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
 --
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png", M+ Golf 1080  858b
 http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  9a4f
-http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  0742
+http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 --
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Golf HD" tvg-logo="" group-title="SUPERSPORTS AFRICA",DSTV: SuperSport Golf HD
 http://bandookk.xyz:61/boss1751/zhnj5XvsCq69/29418
@@ -618,15 +618,6 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159335
 #EXTINF:-1 tvg-id="" tvg-name="Scai Golf (i)" tvg-logo="https://budtv-ultra.com/posters/1688756371388.png" group-title="Deportes",Scai Golf (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/163452
 --
-#EXTINF:-1 tvg-id="" tvg-name="DEP | M. GOLF HD (ES)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="DEPORTES",DEP | M. GOLF HD (ES)
-http://disfruta.net:80/Justplay/CRYrHtUeVf/1695
---
-#EXTINF:-1 tvg-id="" tvg-name="DEP | MOVISTAR GOLF HD" tvg-logo="https://pbs.twimg.com/profile_images/1483728958067720197/9R1D_sLd_400x400.png" group-title="DEPORTES",DEP | MOVISTAR GOLF HD
-http://disfruta.net:80/Justplay/CRYrHtUeVf/1904
---
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR GOLF HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Movistar_Golf.svg/revision/latest/scale-to-width-down/180?cb=20171026165109" group-title="ESPAÑA",ES | MOVISTAR GOLF HD
-http://disfruta.net:80/Justplay/CRYrHtUeVf/1811
---
 #EXTINF:-1 tvg-id="" tvg-name="GOLF Channel (i)" tvg-logo="" group-title="Deportes",GOLF Channel (i)
 http://live.budtvlight.com:25461/carlospix/Rx5HpkPqgp/158839
 --
@@ -685,23 +676,23 @@ http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632044
-#EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632045
 #EXTINF:-1 tvg-id="" tvg-name="Golf 10: " tvg-logo="" group-title="SPORTS - GOLF",Golf 10: 
 http://live.lordstreams.co:8080/allsettv/TvFOj4Wb55/632046
@@ -761,23 +752,23 @@ http://live.lordstreams.co:8080/Marky0416/2c1744538b/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632044
-#EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632045
 #EXTINF:-1 tvg-id="" tvg-name="Golf 10: " tvg-logo="" group-title="SPORTS - GOLF",Golf 10: 
 http://live.lordstreams.co:8080/Marky0416/2c1744538b/632046
@@ -837,23 +828,23 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632044
-#EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632045
 #EXTINF:-1 tvg-id="" tvg-name="Golf 10: " tvg-logo="" group-title="SPORTS - GOLF",Golf 10: 
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632046
@@ -913,23 +904,23 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/Montecrispo/126728543/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632044
-#EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET
 http://live.lordstreams.co:8080/Montecrispo/126728543/632045
 #EXTINF:-1 tvg-id="" tvg-name="Golf 10: " tvg-logo="" group-title="SPORTS - GOLF",Golf 10: 
 http://live.lordstreams.co:8080/Montecrispo/126728543/632046
@@ -989,23 +980,23 @@ http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Hole #15 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: the Memorial Tournament presented by Workday: Featured Group 2 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: Featured Hole #16 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: the Memorial Tournament presented by Workday: TV Coverage (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: the Memorial Tournament presented by Workday: Featured Group 1 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Group 2 (Second Round) 06/07 14:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: the Memorial Tournament presented by Workday: Featured Hole #16 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Main Feed + McIlroy Group (Second Round) 06/07 07:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: the Memorial Tournament presented by Workday: Featured Hole #15 (Third Round) 06/08 12:30 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Second Round) 06/07 07:45 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: the Memorial Tournament presented by Workday: Main Feed (Third Round) 06/08 08:30 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Homa & Day Featured Groups (Second Round) 06/07 09:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: the Memorial Tournament presented by Workday: Lowry & Homa Marquee Groups (Third Round) 06/08 10:00 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Marquee Groups (Second Round) 06/07 08:15 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: the Memorial Tournament presented by Workday: Featured Holes #4  #12  #15 & #16 (Third Round) 06/08 10:15 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632044
-#EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
+#EXTINF:-1 tvg-id="" tvg-name="Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 09: the Memorial Tournament presented by Workday: Featured Groups (Third Round) 06/08 09:15 ET
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632045
 #EXTINF:-1 tvg-id="" tvg-name="Golf 10: " tvg-logo="" group-title="SPORTS - GOLF",Golf 10: 
 http://live.lordstreams.co:8080/raulvpd/ToBMEhJFs6/632046
@@ -1137,20 +1128,26 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100017
 #EXTINF:-1 tvg-id="" tvg-name="CA: Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGqG7YwUM5Q4vrcIwVr0uXSpFWSEsdngTV1SYdEH9Uaw0GNpTSgr4zZW8F-L4xL1V3g&usqp=CAU" group-title="TV | Canada",CA: Golf Channel
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168357
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/07-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/07-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/08-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/08-12:00AM | 
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52564
-#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52565
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52566
-#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52567
-#EXTINF:-1 tvg-id="ESPN+ 011" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52568
-#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 017" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52569
-#EXTINF:-1 tvg-id="ESPN+ 013" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52570
+#EXTINF:-1 tvg-id="ESPN+ 020" tvg-name="  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52571
+#EXTINF:-1 tvg-id="ESPN+ 021" tvg-name="  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52572
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52573
 --
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52548
@@ -1214,20 +1211,26 @@ http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/43151
 #EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT TENNIS" tvg-logo="https://i.ibb.co/C1JjDNr/supersport-tennis-za.png" group-title="GOLF / TENNIS",ZA | DSTV SUPERSPORT TENNIS
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/52562
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/07-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/07-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/08-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/08-12:00AM | 
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52564
-#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52565
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52566
-#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52567
-#EXTINF:-1 tvg-id="ESPN+ 011" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52568
-#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 017" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52569
-#EXTINF:-1 tvg-id="ESPN+ 013" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52570
+#EXTINF:-1 tvg-id="ESPN+ 020" tvg-name="  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/ozzie_skype/Brestream2020/52571
+#EXTINF:-1 tvg-id="ESPN+ 021" tvg-name="  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/ozzie_skype/Brestream2020/52572
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/ozzie_skype/Brestream2020/52573
 --
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/ozzie_skype/Brestream2020/52548
@@ -1303,22 +1306,28 @@ http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/43151
 #EXTINF:-1 tvg-id="" tvg-name="PEACOCK GOLF" tvg-logo="https://seeklogo.com/images/P/peacock-logo-9B84CDB551-seeklogo.com.png" group-title="PEACOCK",PEACOCK GOLF
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/75269
 --
-#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 06/07-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 06/07-12:00AM | 
+#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 06/08-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 06/08-12:00AM | 
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52563
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/07-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/07-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/08-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/08-12:00AM | 
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52564
-#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52565
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52566
-#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52567
-#EXTINF:-1 tvg-id="ESPN+ 011" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52568
-#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 017" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52569
-#EXTINF:-1 tvg-id="ESPN+ 013" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52570
+#EXTINF:-1 tvg-id="ESPN+ 020" tvg-name="  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52571
+#EXTINF:-1 tvg-id="ESPN+ 021" tvg-name="  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52572
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52573
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/52548
 #EXTINF:-1 tvg-id="" tvg-name="CH | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/CHBA22000080G_20201208T050218.png" group-title="GOLF / TENNIS",CH | TENNIS CHANNEL DEUTSCHLAND
@@ -1361,20 +1370,26 @@ http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/40319
 #EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE | VIASAT GOLF*" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_golf_hd.jpg" group-title="SWEDEN",SE | VIASAT GOLF*
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/40326
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/07-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/07-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/08-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/08-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52564
-#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + MCILROY GROUP (SECOND ROUND) | 06/07-07:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MAIN FEED + JUSTIN THOMAS GROUP (THIRD ROUND) | 06/08-09:15AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52565
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA & DAY FEATURED GROUPS (SECOND ROUND) | 06/07-09:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: LOWRY & HOMA MARQUEE GROUPS (THIRD ROUND) | 06/08-10:00AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52566
-#EXTINF:-1 tvg-id="ESPN+ 010" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLES #4, #12, #15 & #16 (THIRD ROUND) | 06/08-10:15AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52567
-#EXTINF:-1 tvg-id="ESPN+ 011" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HARMAN & BURNS FEATURED GROUPS (THIRD ROUND) | 06/08-10:30AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52568
-#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: MCILROY FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 017" tvg-name="  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: HOMA FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52569
-#EXTINF:-1 tvg-id="ESPN+ 013" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: SPIETH FEATURED GROUP (SECOND ROUND) | 06/07-02:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: TV COVERAGE (THIRD ROUND) | 06/08-12:30PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52570
+#EXTINF:-1 tvg-id="ESPN+ 020" tvg-name="  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: JUSTIN THOMAS FEATURED GROUP (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52571
+#EXTINF:-1 tvg-id="ESPN+ 021" tvg-name="  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #16 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52572
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | THE MEMORIAL TOURNAMENT PRESENTED BY WORKDAY: FEATURED HOLE #15 (THIRD ROUND) | 06/08-12:30PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52573
 --
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
 http://op.web24.live:8080/ultnew/password@2024/52548

@@ -1637,6 +1637,15 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5289
 #EXTINF:-1 tvg-id="SPMNHD" tvg-name="USA SPORTSMAN CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA SPORTSMAN CHANNEL SD
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97483
 --
+#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | ABC WCHS" tvg-logo="" group-title="USA LOCAL - ABC",WV | Huntington | ABC WCHS
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/637152
+#EXTINF:-1 tvg-id="7d4172d0-b53b-47fe-abcc-649948d3c744" tvg-name="WV | Huntington | CBS 13 WOWK" tvg-logo="" group-title="USA LOCAL - CBS",WV | Huntington | CBS 13 WOWK
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/89905
+#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | FOX 11 WCHS" tvg-logo="" group-title="USA LOCAL - FOX",WV | Huntington | FOX 11 WCHS
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/637227
+#EXTINF:-1 tvg-id="nbcwsaz.us" tvg-name="WV | Huntington | NBC WSAZ" tvg-logo="" group-title="USA LOCAL - NBC",WV | Huntington | NBC WSAZ
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/89906
+--
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Aussie Gold Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5ZjSKy357VtrYgITzuqgHNFOf1.jpg" group-title="24/7 ACTION & ADVENTURE",24/7 Aussie Gold Hunters
 http://live.lordstreams.co:8080/Montecrispo/126728543/331656
 --
@@ -1873,15 +1882,6 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/158475
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="S| Outdoor Channel" tvg-logo="http://ceoapps.org/logos/outdoorchannell.png" group-title="TV | USA Sports",S| Outdoor Channel
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/158475
 --
-#EXTINF:-1 tvg-id="" tvg-name="[24H] HUNTER X HUNTER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title=" 24HRS MARATONANDO",[24H] HUNTER X HUNTER
-http://ncw.one:80/24hp2/ZZXcTk55RL/209891
---
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MINDHUNTER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title=" 24HRS MARATONANDO",[24H] MINDHUNTER
-http://ncw.one:80/24hp2/ZZXcTk55RL/209935
---
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHADOWHUNTERS: INSTRUMENTOS MORTAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title=" 24HRS MARATONANDO",[24H] SHADOWHUNTERS: INSTRUMENTOS MORTAIS
-http://ncw.one:80/24hp2/ZZXcTk55RL/210055
---
 #EXTINF:-1 tvg-id="ABCWAAY.us" tvg-name="AL | HUNTSVILLE | ABC WAAY" tvg-logo="https://logo.iptveditor.com/abc31waay.png" group-title="ABC LOCAL NETWORKS",AL | HUNTSVILLE | ABC WAAY
 http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/32331
 #EXTINF:-1 tvg-id="FOX HUNTSVILLE AL WZDX" tvg-name="AL | HUNTSVILLE | FOX WZDX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/WZDX_Fox_54_logo.png/225px-WZDX_Fox_54_logo.png" group-title="FOX LOCAL NETWORKS",AL | HUNTSVILLE | FOX WZDX
@@ -1890,8 +1890,8 @@ http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/31867
 #EXTINF:-1 tvg-id="5ede45d7774672befe" tvg-name="DE | AUCTION HUNTERS" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO",DE | AUCTION HUNTERS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://lirp.cdn-website.com/c5a09bd2/dms3rep/multi/opt/Screen+Shot+2019-03-10+at+9.55.12+PM-1920w.png" group-title="PPV EVENTS",PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
-http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/54269
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV EVENTS",PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
+http://op.web24.live:8080/FEDERATION/CzgP8qeU97gc/40430
 --
 #EXTINF:-1 tvg-id="5f6b535a278bfe799484a" tvg-name="UK | DOG THE BOUNTY HUNTER" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" group-title="PLUTO",UK | DOG THE BOUNTY HUNTER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1947,8 +1947,8 @@ http://op.web24.live:8080/ozzie_skype/Brestream2020/31867
 #EXTINF:-1 tvg-id="5ede45d7774672befe" tvg-name="DE | AUCTION HUNTERS" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO",DE | AUCTION HUNTERS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://lirp.cdn-website.com/c5a09bd2/dms3rep/multi/opt/Screen+Shot+2019-03-10+at+9.55.12+PM-1920w.png" group-title="PPV EVENTS",PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
-http://op.web24.live:8080/ozzie_skype/Brestream2020/54269
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV EVENTS",PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
+http://op.web24.live:8080/ozzie_skype/Brestream2020/40430
 --
 #EXTINF:-1 tvg-id="5f6b535a278bfe799484a" tvg-name="UK | DOG THE BOUNTY HUNTER" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" group-title="PLUTO",UK | DOG THE BOUNTY HUNTER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2003,8 +2003,8 @@ http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/32452
 #EXTINF:-1 tvg-id="PBS.(WVPB).Huntington,.WV.us" tvg-name="WV | CHARLESTON PBS WVPB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="USA LOCAL NETWORKS",WV | CHARLESTON PBS WVPB
 http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/59387
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://lirp.cdn-website.com/c5a09bd2/dms3rep/multi/opt/Screen+Shot+2019-03-10+at+9.55.12+PM-1920w.png" group-title="PPV EVENTS",PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/54269
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV EVENTS",PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
+http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/40430
 --
 #EXTINF:-1 tvg-id="5ede45d7774672befe" tvg-name="DE | AUCTION HUNTERS" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO",DE | AUCTION HUNTERS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2029,8 +2029,8 @@ http://op.web24.live:8080/ultnew/password@2024/31867
 #EXTINF:-1 tvg-id="5ede45d7774672befe" tvg-name="DE | AUCTION HUNTERS" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO",DE | AUCTION HUNTERS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://lirp.cdn-website.com/c5a09bd2/dms3rep/multi/opt/Screen+Shot+2019-03-10+at+9.55.12+PM-1920w.png" group-title="PPV EVENTS",PPV  XTRA 01 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
-http://op.web24.live:8080/ultnew/password@2024/54269
+#EXTINF:-1 tvg-id="" tvg-name="PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/014fd384-d12b-4c2e-a7b2-8b248dad7dd3/eaa64db8-33bd-4374-8728-94e4dd654e79.png" group-title="PPV EVENTS",PPV EVENT 22 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
+http://op.web24.live:8080/ultnew/password@2024/40430
 --
 #EXTINF:-1 tvg-id="5f6b535a278bfe799484a" tvg-name="UK | DOG THE BOUNTY HUNTER" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" group-title="PLUTO",UK | DOG THE BOUNTY HUNTER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
