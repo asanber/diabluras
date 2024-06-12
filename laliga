@@ -914,16 +914,6 @@ http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/164143
 #EXTINF:-1 tvg-id="" tvg-name="Scai La Liga (i) op2" tvg-logo="https://budtv-ultra.com/posters/1688752275183.png" group-title="Deportes",Scai La Liga (i) op2
 http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/164144
 --
-#EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97524
---
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports La Liga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports La Liga
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5314
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="USA beIN SPORTS La Liga" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="USA SPORTS",USA beIN SPORTS La Liga
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/90427
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5308
---
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/2144812
 --
@@ -2092,13 +2082,13 @@ http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="2021",La Liga de la Justicia de Zack Snyder (2021)
 http://vod.tuxchannel.mx/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 --
-#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240507T094211SQUARE.png" tvg-chno="4006" group-title="Spain" , La Liga
+#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" tvg-chno="4006" group-title="Spain" , La Liga
 https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 --
 #EXTINF:-1 channel-id="samsung-ESBD4700001T2" tvg-id="ESBD4700001T2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20240313T073242SQUARE.png" tvg-chno="4501" group-title="Spain" , La Liga Inside
 https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
 --
-#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240507T094211SQUARE.png" tvg-chno="4006" group-title="Deportes" , La Liga
+#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" tvg-chno="4006" group-title="Deportes" , La Liga
 https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 --
 #EXTINF:-1 channel-id="samsung-ESBD4700001T2" tvg-id="ESBD4700001T2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20240313T073242SQUARE.png" tvg-chno="4501" group-title="Deportes" , La Liga Inside
