@@ -768,12 +768,6 @@ http://goldiptvofficiel.tv:25461/movie/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSL
 http://goldiptvofficiel.tv:25461/movie/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/54193.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="||CA|| NFL Network HD" tvg-logo="" group-title="CANADA",||CA|| NFL Network HD
-http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/42245.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="||CA|| NFL Network HD" tvg-logo="" group-title="CANADA",||CA|| NFL Network HD
-http://goldiptvofficiel.tv:25461/live/K2ree.worldtv@/rf8vn5dv345JFSHDKJFHSD/42245.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="||CA|| NFL Network HD" tvg-logo="" group-title="CANADA",||CA|| NFL Network HD
 http://goldiptvofficiel.tv:25461/live/SS6uYyfLTeAV/arsKx5mXaYzZ/42245.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NFL Network (i)" tvg-logo="https://budtv-ultra.com/posters/1647623958465.png" group-title="Deportes",NFL Network (i)
@@ -1413,33 +1407,6 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168289
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH9isrxYOEGr8-SLqG_0RZJWnvmfrBKbqCym_B0NfLyMylYWlfWLTErTULQhTrOUpXEc&usqp=CAU" group-title="TV | Canada",CA: History
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168363
---
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA-SD | NFL NETWORK" tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/NFLNetwork.us.png" group-title="LOW BANDWIDTH CHANNELS",USA-SD | NFL NETWORK
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/74954
---
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="USA | NFL NETWORK" tvg-logo="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3uolHRarJUv0vdghg0ahPSLc8hw=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/WT4M4XZPFNMDWBIHZPEUSLFKMI.jpg" group-title="USA SPORTS NETWORKS",USA | NFL NETWORK
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/6396
---
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NFL |  ESPN (MNF)" tvg-logo="https://i.ibb.co/2hnTxt8/espn-mnf.png" group-title="NFL PACKAGE",NFL |  ESPN (MNF)
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/48204
-#EXTINF:-1 tvg-id="NBCWXIA.us" tvg-name="NFL |  NBC (SNF)" tvg-logo="https://i.ibb.co/Xsx7BNF/nbc-sunday-night-football.png" group-title="NFL PACKAGE",NFL |  NBC (SNF)
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/48205
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL |  NFL REDZONE (SUNDAYS 1-8PM)" tvg-logo="https://i.ibb.co/fH9wYZP/nfl-red-zone-us.png" group-title="NFL PACKAGE",NFL |  NFL REDZONE (SUNDAYS 1-8PM)
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/55049
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL |  NFL REDZONE (SUNDAYS 1-8PM) B/U" tvg-logo="https://i.ibb.co/fH9wYZP/nfl-red-zone-us.png" group-title="NFL PACKAGE",NFL |  NFL REDZONE (SUNDAYS 1-8PM) B/U
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/55050
---
-#EXTINF:-1 tvg-id="5e2b73f2f8d53d739db7-689d8df682a32c348297" tvg-name="USA | POPCORNFLIX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/popcornflix_logo_dark-v2.png" group-title="PLEX",USA | POPCORNFLIX
-https://popcornflix-plex.amagi.tv/hls/amagi_hls_data_crackleAA-popcornflix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60089d8df682a3002c348297&caid=2518611_Behemoth_Sonar_Eng-11287776-11287776-1920x1080&coppa=0
---
-#EXTINF:-1 tvg-id="5ced7d5df64be98e7ed47b6" tvg-name="USA | NFL CHANNEL" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="PLUTO",USA | NFL CHANNEL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
---
-#EXTINF:-1 tvg-id="" tvg-name="CARIB | NFL NETWORK" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | NFL NETWORK
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/54002
---
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="SE | NFL NETWORK" tvg-logo="http://pixel.nymag.com/imgs/daily/sports/2012/08/16/17-nfl-network-logo.w190.h190.jpg" group-title="SWEDEN",SE | NFL NETWORK
-http://op.web24.live:8080/sw-apNIMSY-DP-5888/SwbNQQRIkA/40313
 --
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | NFL NETWORK" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | NFL NETWORK
 http://op.web24.live:8080/ultnew/password@2024/54002
@@ -3541,38 +3508,28 @@ http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/63659
 #EXTINF:-1 tvg-id="" tvg-name="USA-NFL Network (1080)(L)" tvg-logo="https://www.netclipart.com/pp/m/351-3514505_vector-nfl-logo-png-nfl-network-logo-png.png" group-title="USA-SPORTS",USA-NFL Network (1080)(L)
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/336613
 --
-#EXTINF:-1 tvg-id="" tvg-name="MLB_1 | Rockies VS Twins | 06/12/2024 11:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/twins.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_1 | Rockies VS Twins | 06/12/2024 11:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397835
-#EXTINF:-1 tvg-id="" tvg-name="MLB_2 | Blue Jays VS Brewers | 06/12/2024 12:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/brewers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_2 | Blue Jays VS Brewers | 06/12/2024 12:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397836
-#EXTINF:-1 tvg-id="" tvg-name="MLB_3 | Astros VS Giants | 06/12/2024 13:45:00" tvg-logo="http://82.165.213.129/mlbv3/images/giants.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_3 | Astros VS Giants | 06/12/2024 13:45:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397837
-#EXTINF:-1 tvg-id="" tvg-name="MLB_4 | Athletics VS Padres | 06/12/2024 14:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/padres.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_4 | Athletics VS Padres | 06/12/2024 14:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397838
-#EXTINF:-1 tvg-id="" tvg-name="MLB_5 | Braves VS Orioles | 06/12/2024 16:35:00" tvg-logo="http://82.165.213.129/mlbv3/images/orioles.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_5 | Braves VS Orioles | 06/12/2024 16:35:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397839
-#EXTINF:-1 tvg-id="" tvg-name="MLB_6 | Nationals VS Tigers | 06/12/2024 16:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/tigers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_6 | Nationals VS Tigers | 06/12/2024 16:40:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397840
-#EXTINF:-1 tvg-id="" tvg-name="MLB_7 | Cubs VS Rays | 06/12/2024 16:50:00" tvg-logo="http://82.165.213.129/mlbv3/images/rays.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_7 | Cubs VS Rays | 06/12/2024 16:50:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397841
-#EXTINF:-1 tvg-id="" tvg-name="MLB_8 | Guardians VS Reds | 06/12/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/reds.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_8 | Guardians VS Reds | 06/12/2024 17:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397842
-#EXTINF:-1 tvg-id="" tvg-name="MLB_9 | Phillies VS Red Sox | 06/12/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/redsox.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_9 | Phillies VS Red Sox | 06/12/2024 17:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397843
-#EXTINF:-1 tvg-id="" tvg-name="MLB_10 | Marlins VS Mets | 06/12/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/mets.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_10 | Marlins VS Mets | 06/12/2024 17:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397844
-#EXTINF:-1 tvg-id="" tvg-name="MLB_11 | Pirates VS Cardinals | 06/12/2024 17:45:00" tvg-logo="http://82.165.213.129/mlbv3/images/cardinals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_11 | Pirates VS Cardinals | 06/12/2024 17:45:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397845
-#EXTINF:-1 tvg-id="" tvg-name="MLB_12 | Yankees VS Royals | 06/12/2024 18:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/royals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_12 | Yankees VS Royals | 06/12/2024 18:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397846
-#EXTINF:-1 tvg-id="" tvg-name="MLB_13 | Angels VS D-backs | 06/12/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/d-backs.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_13 | Angels VS D-backs | 06/12/2024 19:40:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397847
-#EXTINF:-1 tvg-id="" tvg-name="MLB_14 | White Sox VS Mariners | 06/12/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/mariners.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_14 | White Sox VS Mariners | 06/12/2024 19:40:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397848
-#EXTINF:-1 tvg-id="" tvg-name="MLB_15 | Rangers VS Dodgers | 06/12/2024 20:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/dodgers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_15 | Rangers VS Dodgers | 06/12/2024 20:10:00
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397849
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Jun-12-2024 8:30PM | Boston Celtics at Dallas Mavericks" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | Jun-12-2024 8:30PM | Boston Celtics at Dallas Mavericks
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/397850
+#EXTINF:-1 tvg-id="" tvg-name="MLB_1 | Braves VS Orioles | 06/13/2024 11:05:00" tvg-logo="http://82.165.213.129/mlbv3/images/orioles.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_1 | Braves VS Orioles | 06/13/2024 11:05:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398010
+#EXTINF:-1 tvg-id="" tvg-name="MLB_2 | Nationals VS Tigers | 06/13/2024 11:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/tigers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_2 | Nationals VS Tigers | 06/13/2024 11:10:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398011
+#EXTINF:-1 tvg-id="" tvg-name="MLB_3 | Yankees VS Royals | 06/13/2024 12:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/royals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_3 | Yankees VS Royals | 06/13/2024 12:10:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398012
+#EXTINF:-1 tvg-id="" tvg-name="MLB_4 | Pirates VS Cardinals | 06/13/2024 12:15:00" tvg-logo="http://82.165.213.129/mlbv3/images/cardinals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_4 | Pirates VS Cardinals | 06/13/2024 12:15:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398013
+#EXTINF:-1 tvg-id="" tvg-name="MLB_5 | Cubs VS Rays | 06/13/2024 16:50:00" tvg-logo="http://82.165.213.129/mlbv3/images/rays.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_5 | Cubs VS Rays | 06/13/2024 16:50:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398014
+#EXTINF:-1 tvg-id="" tvg-name="MLB_6 | Phillies VS Red Sox | 06/13/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/redsox.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_6 | Phillies VS Red Sox | 06/13/2024 17:10:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398015
+#EXTINF:-1 tvg-id="" tvg-name="MLB_7 | Marlins VS Mets | 06/13/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/mets.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_7 | Marlins VS Mets | 06/13/2024 17:10:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398016
+#EXTINF:-1 tvg-id="" tvg-name="MLB_8 | Athletics VS Twins | 06/13/2024 17:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/twins.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_8 | Athletics VS Twins | 06/13/2024 17:40:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398017
+#EXTINF:-1 tvg-id="" tvg-name="MLB_9 | Angels VS D-backs | 06/13/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/d-backs.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_9 | Angels VS D-backs | 06/13/2024 19:40:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398018
+#EXTINF:-1 tvg-id="" tvg-name="MLB_10 | White Sox VS Mariners | 06/13/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/mariners.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_10 | White Sox VS Mariners | 06/13/2024 19:40:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398019
+#EXTINF:-1 tvg-id="" tvg-name="MLB_11 | Rangers VS Dodgers | 06/13/2024 20:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/dodgers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_11 | Rangers VS Dodgers | 06/13/2024 20:10:00
+http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/398020
 --
 #EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="|CA| Cottage Life TV" tvg-logo="data:image/png;base64,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" group-title="CANADA EN",|CA| Cottage Life TV
 http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/141142.ts
@@ -3662,38 +3619,28 @@ http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/63659
 #EXTINF:-1 tvg-id="" tvg-name="USA-NFL Network (1080)(L)" tvg-logo="https://www.netclipart.com/pp/m/351-3514505_vector-nfl-logo-png-nfl-network-logo-png.png" group-title="USA-SPORTS",USA-NFL Network (1080)(L)
 http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336613
 --
-#EXTINF:-1 tvg-id="" tvg-name="MLB_1 | Rockies VS Twins | 06/12/2024 11:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/twins.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_1 | Rockies VS Twins | 06/12/2024 11:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397835
-#EXTINF:-1 tvg-id="" tvg-name="MLB_2 | Blue Jays VS Brewers | 06/12/2024 12:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/brewers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_2 | Blue Jays VS Brewers | 06/12/2024 12:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397836
-#EXTINF:-1 tvg-id="" tvg-name="MLB_3 | Astros VS Giants | 06/12/2024 13:45:00" tvg-logo="http://82.165.213.129/mlbv3/images/giants.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_3 | Astros VS Giants | 06/12/2024 13:45:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397837
-#EXTINF:-1 tvg-id="" tvg-name="MLB_4 | Athletics VS Padres | 06/12/2024 14:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/padres.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_4 | Athletics VS Padres | 06/12/2024 14:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397838
-#EXTINF:-1 tvg-id="" tvg-name="MLB_5 | Braves VS Orioles | 06/12/2024 16:35:00" tvg-logo="http://82.165.213.129/mlbv3/images/orioles.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_5 | Braves VS Orioles | 06/12/2024 16:35:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397839
-#EXTINF:-1 tvg-id="" tvg-name="MLB_6 | Nationals VS Tigers | 06/12/2024 16:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/tigers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_6 | Nationals VS Tigers | 06/12/2024 16:40:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397840
-#EXTINF:-1 tvg-id="" tvg-name="MLB_7 | Cubs VS Rays | 06/12/2024 16:50:00" tvg-logo="http://82.165.213.129/mlbv3/images/rays.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_7 | Cubs VS Rays | 06/12/2024 16:50:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397841
-#EXTINF:-1 tvg-id="" tvg-name="MLB_8 | Guardians VS Reds | 06/12/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/reds.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_8 | Guardians VS Reds | 06/12/2024 17:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397842
-#EXTINF:-1 tvg-id="" tvg-name="MLB_9 | Phillies VS Red Sox | 06/12/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/redsox.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_9 | Phillies VS Red Sox | 06/12/2024 17:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397843
-#EXTINF:-1 tvg-id="" tvg-name="MLB_10 | Marlins VS Mets | 06/12/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/mets.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_10 | Marlins VS Mets | 06/12/2024 17:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397844
-#EXTINF:-1 tvg-id="" tvg-name="MLB_11 | Pirates VS Cardinals | 06/12/2024 17:45:00" tvg-logo="http://82.165.213.129/mlbv3/images/cardinals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_11 | Pirates VS Cardinals | 06/12/2024 17:45:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397845
-#EXTINF:-1 tvg-id="" tvg-name="MLB_12 | Yankees VS Royals | 06/12/2024 18:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/royals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_12 | Yankees VS Royals | 06/12/2024 18:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397846
-#EXTINF:-1 tvg-id="" tvg-name="MLB_13 | Angels VS D-backs | 06/12/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/d-backs.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_13 | Angels VS D-backs | 06/12/2024 19:40:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397847
-#EXTINF:-1 tvg-id="" tvg-name="MLB_14 | White Sox VS Mariners | 06/12/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/mariners.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_14 | White Sox VS Mariners | 06/12/2024 19:40:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397848
-#EXTINF:-1 tvg-id="" tvg-name="MLB_15 | Rangers VS Dodgers | 06/12/2024 20:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/dodgers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_15 | Rangers VS Dodgers | 06/12/2024 20:10:00
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397849
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Jun-12-2024 8:30PM | Boston Celtics at Dallas Mavericks" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | Jun-12-2024 8:30PM | Boston Celtics at Dallas Mavericks
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/397850
+#EXTINF:-1 tvg-id="" tvg-name="MLB_1 | Braves VS Orioles | 06/13/2024 11:05:00" tvg-logo="http://82.165.213.129/mlbv3/images/orioles.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_1 | Braves VS Orioles | 06/13/2024 11:05:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398010
+#EXTINF:-1 tvg-id="" tvg-name="MLB_2 | Nationals VS Tigers | 06/13/2024 11:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/tigers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_2 | Nationals VS Tigers | 06/13/2024 11:10:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398011
+#EXTINF:-1 tvg-id="" tvg-name="MLB_3 | Yankees VS Royals | 06/13/2024 12:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/royals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_3 | Yankees VS Royals | 06/13/2024 12:10:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398012
+#EXTINF:-1 tvg-id="" tvg-name="MLB_4 | Pirates VS Cardinals | 06/13/2024 12:15:00" tvg-logo="http://82.165.213.129/mlbv3/images/cardinals.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_4 | Pirates VS Cardinals | 06/13/2024 12:15:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398013
+#EXTINF:-1 tvg-id="" tvg-name="MLB_5 | Cubs VS Rays | 06/13/2024 16:50:00" tvg-logo="http://82.165.213.129/mlbv3/images/rays.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_5 | Cubs VS Rays | 06/13/2024 16:50:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398014
+#EXTINF:-1 tvg-id="" tvg-name="MLB_6 | Phillies VS Red Sox | 06/13/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/redsox.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_6 | Phillies VS Red Sox | 06/13/2024 17:10:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398015
+#EXTINF:-1 tvg-id="" tvg-name="MLB_7 | Marlins VS Mets | 06/13/2024 17:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/mets.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_7 | Marlins VS Mets | 06/13/2024 17:10:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398016
+#EXTINF:-1 tvg-id="" tvg-name="MLB_8 | Athletics VS Twins | 06/13/2024 17:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/twins.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_8 | Athletics VS Twins | 06/13/2024 17:40:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398017
+#EXTINF:-1 tvg-id="" tvg-name="MLB_9 | Angels VS D-backs | 06/13/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/d-backs.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_9 | Angels VS D-backs | 06/13/2024 19:40:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398018
+#EXTINF:-1 tvg-id="" tvg-name="MLB_10 | White Sox VS Mariners | 06/13/2024 19:40:00" tvg-logo="http://82.165.213.129/mlbv3/images/mariners.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_10 | White Sox VS Mariners | 06/13/2024 19:40:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398019
+#EXTINF:-1 tvg-id="" tvg-name="MLB_11 | Rangers VS Dodgers | 06/13/2024 20:10:00" tvg-logo="http://82.165.213.129/mlbv3/images/dodgers.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",MLB_11 | Rangers VS Dodgers | 06/13/2024 20:10:00
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/398020
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/u2wgVSoekTvbej9PB9BgL9LKD3Y.jpg" group-title="2022",Falsa influencer (2022)
 http://vod.tuxchannel.mx/peliculas/720/not%20okay%202022.mkv
