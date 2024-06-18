@@ -764,6 +764,19 @@ http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/3582.ts
 http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/3597.ts
 --
 #EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR FHD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="SPAIN",||ES|| LA LIGA TV BAR FHD
+http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/1923.ts
+#EXTINF:-1 tvg-id="MovistarLiga1.es" tvg-name="||ES|| M+ LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="SPAIN",||ES|| M+ LALIGA FHD
+http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/1924.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| BEIN LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/21417dd84f755d68af0ef39daa9e1350.png" group-title="SPAIN",||ES|| BEIN LALIGA FHD
+http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/3578.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| BEIN SPORTS LA LIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/21417dd84f755d68af0ef39daa9e1350.png" group-title="SPAIN",||ES|| BEIN SPORTS LA LIGA FHD
+http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/3582.ts
+--
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR HD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="SPAIN",||ES|| LA LIGA TV BAR HD
+http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/3597.ts
+--
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR FHD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="SPAIN",||ES|| LA LIGA TV BAR FHD
 http://goldiptvofficiel.tv:25461/live/K2ree.worldtv@/rf8vn5dv345JFSHDKJFHSD/1923.ts
 #EXTINF:-1 tvg-id="MovistarLiga1.es" tvg-name="||ES|| M+ LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="SPAIN",||ES|| M+ LALIGA FHD
 http://goldiptvofficiel.tv:25461/live/K2ree.worldtv@/rf8vn5dv345JFSHDKJFHSD/1924.ts
@@ -947,9 +960,6 @@ https://lobo-tv.live:443/belpley/sYqKZQrTZa/2133220
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/220429
 --
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank | 16/Jun | 10:30 | Real Oviedo vs Espanyol" tvg-logo="http://51.222.152.107:81/posters/1684679264244.png" group-title="TV | EVENTOS",LaLiga SmartBank | 16/Jun | 10:30 | Real Oviedo vs Espanyol
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2219435
---
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga FHD
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/10918
 --
@@ -1025,9 +1035,6 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/223953
 #EXTINF:-1 tvg-id="" tvg-name="D|  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D|  LaLiga SmartBank HD
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144863
 --
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank | 16/Jun | 10:30 | Real Oviedo vs Espanyol" tvg-logo="http://51.222.152.107:81/posters/1684679264244.png" group-title="TV | EVENTOS",LaLiga SmartBank | 16/Jun | 10:30 | Real Oviedo vs Espanyol
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2219435
---
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144812
 --
@@ -1091,77 +1098,49 @@ http://op.web24.live:8080/ultnew/password@2024/59222
 #EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT LALIGA" tvg-logo="https://i.ibb.co/6gp77Z8/supersport-laliga-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT LALIGA
 http://op.web24.live:8080/ultnew/password@2024/43153
 --
-#EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/355184
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN LaLiga
+http://premiumiptvmk.com:8080/F32962/7a3112d7/297787
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN LaLiga 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298745
 --
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/180144
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV
+http://premiumiptvmk.com:8080/F32962/7a3112d7/297788
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/18bb555912f34dff06c2de73b972737b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 1
+http://premiumiptvmk.com:8080/F32962/7a3112d7/297791
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/db1b5c362ed561b2c801433ba3e3f13b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/297790
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/202142881d4f8c20b932b94b581c0938.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 3
+http://premiumiptvmk.com:8080/F32962/7a3112d7/297789
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Bar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f17a72afc795aeb69406238055a55c0d.jpg" group-title="Spain ➾ Football",ES: LaLiga TV Bar
+http://premiumiptvmk.com:8080/F32962/7a3112d7/197711
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ccef25607c0695c121d55b5b40bb82a.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion
+http://premiumiptvmk.com:8080/F32962/7a3112d7/300830
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8b9d814866130fd62e4ccc22e7ebffe8.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/300831
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/74600f9d2e3f5255b425f5b19f1bac1a.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 3
+http://premiumiptvmk.com:8080/F32962/7a3112d7/300832
 --
-#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/144405
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Spain ➾ Football",ES: M+ LaLiga
+http://premiumiptvmk.com:8080/F32962/7a3112d7/302296
 --
-#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/394757
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: Movistar LaLiga
+http://premiumiptvmk.com:8080/F32962/7a3112d7/1141
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 2
+http://premiumiptvmk.com:8080/F32962/7a3112d7/5311
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 3
+http://premiumiptvmk.com:8080/F32962/7a3112d7/281772
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 4
+http://premiumiptvmk.com:8080/F32962/7a3112d7/269466
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 5
+http://premiumiptvmk.com:8080/F32962/7a3112d7/281792
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2d066efd0a3ae54514a638b6341b09dc.jpg" group-title="Spain ➾ Football",ES: Movistar LaLiga 7
+http://premiumiptvmk.com:8080/F32962/7a3112d7/194527
 --
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
-http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/117124
+#EXTINF:-1 tvg-id="" tvg-name="LA: LA LIGA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: LA LIGA
+http://premiumiptvmk.com:8080/F32962/7a3112d7/303810
 --
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="|.ES.D.| M LA LIGA" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| M LA LIGA
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59793.ts
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="|.ES.D.| M LA LIGA FHD" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| M LA LIGA FHD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59794.ts
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="|.ES.D.| M LA LIGA 1" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| M LA LIGA 1
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59795.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.ES.D.| LA LIGA TV BAR" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| LA LIGA TV BAR
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59799.ts
---
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="|.ES.D.| M  LA LIGA 2 " tvg-logo="https://i.postimg.cc/bYDT5P0Z/ezgif-1-b71d58dfdf.png" group-title="ESPANA",|.ES.D.| M  LA LIGA 2 
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/65993.ts
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="|.ES.D.| M  LA LIGA 3  HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_3.png" group-title="ESPANA",|.ES.D.| M  LA LIGA 3  HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/65995.ts
-#EXTINF:-1 tvg-id="MLaLiga4.es" tvg-name="|.ES.D.| M LA LIGA 4" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_4.png" group-title="ESPANA",|.ES.D.| M LA LIGA 4
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/65997.ts
---
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="|SP-M+| M+ LALIGA 4 HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 4 HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139255.ts
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="|SP-M+| M+ LALIGA 3" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 3
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139256.ts
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="|SP-M+| M+ LALIGA 2" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 2
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139257.ts
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="|SP-M+| M+ LALIGA 1" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 1
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139258.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA TV BAR HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA TV BAR HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139262.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA TV BAR HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA TV BAR HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139263.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA FHD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA FHD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139264.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139265.ts
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="|SP-M+| DAZN LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="ESPANA",|SP-M+| DAZN LALIGA HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139267.ts
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="|SP-M+| DAZN LALIGA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="ESPANA",|SP-M+| DAZN LALIGA 1 HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139268.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| DAZN LALIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="ESPANA",|SP-M+| DAZN LALIGA 2 HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139269.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="|.LATINO.| BEIN SPORTS  LA LIGA" tvg-logo=" http://one-iptv.com/imageslogo/pu_320px-BeIN_Sports.png" group-title="LATINO",|.LATINO.| BEIN SPORTS  LA LIGA
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/67323.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="4K: LaLiga 4K (Only Device 4K)" tvg-logo="https://cdn.pixabay.com/photo/2022/05/14/19/34/resolution-7196313_960_720.png" group-title="EVENTOS 4K (SOLO EVENTOS)",4K: LaLiga 4K (Only Device 4K)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/355184
---
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga (L)(PPV)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga (L)(PPV)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/180144
---
-#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/144405
---
-#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/394757
---
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ESP - M. LaLiga (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ESPAÑA",ESP - M. LaLiga (TV)(1080)
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/117124
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
+http://premiumiptvmk.com:8080/F32962/7a3112d7/194358
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
