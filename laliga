@@ -1074,6 +1074,11 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/220429
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga FHD
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/10918
 --
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="  S064 | EN ESPANOL - LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S064 | EN ESPANOL - LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75817
+#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  S065 | LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S065 | LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75818
+--
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="BEIN SPORTS",BEIN SPORTS LA LIGA - LA
 http://op.web24.live:8080/ultnew/password@2024/59057
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LALIGA" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",BEIN SPORTS LALIGA
@@ -1081,6 +1086,11 @@ http://op.web24.live:8080/ultnew/password@2024/59058
 --
 #EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
 http://op.web24.live:8080/ultnew/password@2024/36465
+--
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="ESPN+ 007 | EN ESPANOL - LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 007 | EN ESPANOL - LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52692
+#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="ESPN+ 008 | LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 008 | LALIGA BEST GOALKEEPER | 06/27-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52693
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/ultnew/password@2024/59239
@@ -1137,47 +1147,11 @@ http://premiumiptvmk.com:8080/F32962/7a3112d7/194527
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
 http://premiumiptvmk.com:8080/F32962/7a3112d7/194358
 --
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="|.ES.D.| M LA LIGA" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| M LA LIGA
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59793.ts
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="|.ES.D.| M LA LIGA FHD" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| M LA LIGA FHD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59794.ts
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="|.ES.D.| M LA LIGA 1" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| M LA LIGA 1
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59795.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.ES.D.| LA LIGA TV BAR" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| LA LIGA TV BAR
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59799.ts
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
+http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
 --
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="|.ES.D.| M  LA LIGA 2 " tvg-logo="https://i.postimg.cc/bYDT5P0Z/ezgif-1-b71d58dfdf.png" group-title="ESPANA",|.ES.D.| M  LA LIGA 2 
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/65993.ts
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="|.ES.D.| M  LA LIGA 3  HD" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_3.png" group-title="ESPANA",|.ES.D.| M  LA LIGA 3  HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/65995.ts
-#EXTINF:-1 tvg-id="MLaLiga4.es" tvg-name="|.ES.D.| M LA LIGA 4" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_4.png" group-title="ESPANA",|.ES.D.| M LA LIGA 4
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/65997.ts
---
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="|SP-M+| M+ LALIGA 4 HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 4 HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139255.ts
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="|SP-M+| M+ LALIGA 3" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 3
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139256.ts
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="|SP-M+| M+ LALIGA 2" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 2
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139257.ts
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="|SP-M+| M+ LALIGA 1" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LALIGA 1
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139258.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA TV BAR HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA TV BAR HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139262.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA TV BAR HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA TV BAR HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139263.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA FHD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA FHD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139264.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| M+ LA LIGA HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" group-title="ESPANA",|SP-M+| M+ LA LIGA HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139265.ts
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="|SP-M+| DAZN LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="ESPANA",|SP-M+| DAZN LALIGA HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139267.ts
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="|SP-M+| DAZN LALIGA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="ESPANA",|SP-M+| DAZN LALIGA 1 HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139268.ts
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| DAZN LALIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="ESPANA",|SP-M+| DAZN LALIGA 2 HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139269.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="|.LATINO.| BEIN SPORTS  LA LIGA" tvg-logo=" http://one-iptv.com/imageslogo/pu_320px-BeIN_Sports.png" group-title="LATINO",|.LATINO.| BEIN SPORTS  LA LIGA
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/67323.ts
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="2021",La Liga de la Justicia de Zack Snyder (2021)
+http://vod.tuxchannel.mx/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 --
 #EXTINF:-1 channel-id="samsung-ESBD4700001T2" tvg-id="ESBD4700001T2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20240313T073242SQUARE.png" tvg-chno="4501" group-title="Spain" , La Liga Inside
 https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
