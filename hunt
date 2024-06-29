@@ -1806,6 +1806,24 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/874
 #EXTINF:-1 tvg-id="" tvg-name="USA Bally Sports Ohio 9 (Charleston Huntington Feed) (DTV)" tvg-logo="" group-title="USA SPORTS",USA Bally Sports Ohio 9 (Charleston Huntington Feed) (DTV)
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/663241
 --
+#EXTINF:-1 tvg-id="" tvg-name="USA Hunt Channel" tvg-logo="" group-title="USA SPORTS",USA Hunt Channel
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/560753
+--
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA Outdoor Channel" tvg-logo="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png" group-title="USA ENTERTAINMENT",USA Outdoor Channel
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5289
+--
+#EXTINF:-1 tvg-id="SPMNHD" tvg-name="USA SPORTSMAN CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA SPORTSMAN CHANNEL SD
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97483
+--
+#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | ABC WCHS" tvg-logo="" group-title="USA LOCAL - ABC",WV | Huntington | ABC WCHS
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/637152
+#EXTINF:-1 tvg-id="7d4172d0-b53b-47fe-abcc-649948d3c744" tvg-name="WV | Huntington | CBS 13 WOWK" tvg-logo="" group-title="USA LOCAL - CBS",WV | Huntington | CBS 13 WOWK
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/89905
+#EXTINF:-1 tvg-id="" tvg-name="WV | Huntington | FOX 11 WCHS" tvg-logo="" group-title="USA LOCAL - FOX",WV | Huntington | FOX 11 WCHS
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/637227
+#EXTINF:-1 tvg-id="nbcwsaz.us" tvg-name="WV | Huntington | NBC WSAZ" tvg-logo="" group-title="USA LOCAL - NBC",WV | Huntington | NBC WSAZ
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/89906
+--
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="S| Outdoor Channel" tvg-logo="http://ceoapps.org/logos/outdoorchannell.png" group-title="TV | USA Sports",S| Outdoor Channel
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/158475
 --
@@ -1898,6 +1916,9 @@ http://premiumiptvmk.com:8080/F32962/7a3112d7/295043
 --
 #EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/0bc18a32ddd6c8a9f82f6f0d4fd30771.png" group-title="Australia",AU: Outdoor Channel
 http://premiumiptvmk.com:8080/F32962/7a3112d7/304036
+--
+#EXTINF:-1 tvg-id="SportsmanChannel.ca" tvg-name="|CA| SPORTSMAN CHANNEL" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2018/12/ogm-sc-logo-300x110.png" group-title="CANADA EN",|CA| SPORTSMAN CHANNEL
+http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/141278.ts
 --
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
 https://filemoon.sx/d/2alnlw7bmkfe
