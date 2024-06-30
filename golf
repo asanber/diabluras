@@ -415,6 +415,32 @@ http://disfruta.net:80/Justplay/CRYrHtUeVf/1695
 #EXTINF:-1 tvg-id="" tvg-name="DEP | MOVISTAR GOLF HD" tvg-logo="https://pbs.twimg.com/profile_images/1483728958067720197/9R1D_sLd_400x400.png" group-title="DEPORTES",DEP | MOVISTAR GOLF HD
 http://disfruta.net:80/Justplay/CRYrHtUeVf/1904
 --
+#EXTINF:-1 tvg-id="" tvg-name="||CA|| GOLF Channel HD" tvg-logo="http://obsfullhd.tv:25461/images/1bf0d448100527d2c086b8f0c4d7e51c.png" group-title="CANADA",||CA|| GOLF Channel HD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/42100.ts
+--
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="||FR|| GOLF CHANNEL FHD" tvg-logo="http://obsfullhd.tv:25461/images/2fb6ffa35b57bf015b3ab48c30aaa405.png" group-title="FRANCE",||FR|| GOLF CHANNEL FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/1982.ts
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="||FR|| GOLF+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/a6057a0585099d04a210f79432e1730e.png" group-title="FRANCE",||FR|| GOLF+ FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/1983.ts
+--
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="||FR|| GOLF CHANNEL HD" tvg-logo="http://obsfullhd.tv:25461/images/613134fb44bd84a537efd5ec497ea6fd.png" group-title="FRANCE",||FR|| GOLF CHANNEL HD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/100.ts
+--
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="||FR|| GOLF+ HD" tvg-logo="http://obsfullhd.tv:25461/images/402e9d8af444614f165eb5518ac3dd00.png" group-title="FRANCE",||FR|| GOLF+ HD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/1984.ts
+--
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="||ES|| MOVISTAR GOLF FHD" tvg-logo="http://obsfullhd.tv:25461/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="SPAIN",||ES|| MOVISTAR GOLF FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/1932.ts
+--
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="||ES|| MOVISTAR GOLF HD" tvg-logo="http://obsfullhd.tv:25461/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="SPAIN",||ES|| MOVISTAR GOLF HD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/3614.ts
+--
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="||UK|| SKY SPORTS GOLF FHD" tvg-logo="" group-title="UNITED OF KINGDOM",||UK|| SKY SPORTS GOLF FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/2100.ts
+--
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="||UK|| SKY SPORTS GOLF HD" tvg-logo="" group-title="UNITED OF KINGDOM",||UK|| SKY SPORTS GOLF HD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/1417.ts
+--
 #EXTINF:-1 tvg-id="" tvg-name="Terminagolf (1996)" tvg-logo="http://obsfullhd.tv:25461/images/594217ebdef0e163771751ece08b3aa5.jpg" group-title="NETFLIX MOVIES",Terminagolf (1996)
 http://goldiptvofficiel.tv:25461/movie/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/83254.mkv
 --
@@ -569,21 +595,21 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2888
 #EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3101
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: Rocket Mortgage Classic: Main Feed 06/28 06:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: Rocket Mortgage Classic: Main Feed 06/28 06:45 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: En Español- Rocket Mortgage Classic: Featured Group 1 06/29 13:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 01: En Español- Rocket Mortgage Classic: Featured Group 1 06/29 13:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: Rocket Mortgage Classic: Featured Group 1 06/28 15:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: Rocket Mortgage Classic: Featured Group 1 06/28 15:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: Rocket Mortgage Classic: Featured Group 2 06/29 13:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 02: Rocket Mortgage Classic: Featured Group 2 06/29 13:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: Rocket Mortgage Classic: Featured Group 2 06/28 15:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: Rocket Mortgage Classic: Featured Group 2 06/28 15:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03: Rocket Mortgage Classic: Featured Holes #5  #11  #15 & #17 06/29 13:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 03: Rocket Mortgage Classic: Featured Holes #5  #11  #15 & #17 06/29 13:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: En Español- Rocket Mortgage Classic: Featured Group 1 06/28 15:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: En Español- Rocket Mortgage Classic: Featured Group 1 06/28 15:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04: En Español- Rocket Mortgage Classic: Main Feed 06/29 07:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 04: En Español- Rocket Mortgage Classic: Main Feed 06/29 07:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: Rocket Mortgage Classic: Featured Hole #5  #11  #15 & #17 06/28 15:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: Rocket Mortgage Classic: Featured Hole #5  #11  #15 & #17 06/28 15:00 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: Rocket Mortgage Classic: Featured Groups 06/29 07:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 05: Rocket Mortgage Classic: Featured Groups 06/29 07:45 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: Rocket Mortgage Classic: Featured Groups 06/28 07:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: Rocket Mortgage Classic: Featured Groups 06/28 07:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06: Rocket Mortgage Classic: Marquee Group 06/29 08:00 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 06: Rocket Mortgage Classic: Marquee Group 06/29 08:00 ET
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: En Español Rocket Mortgage Classic: Main Feed 06/28 06:45 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 07: En Español Rocket Mortgage Classic: Main Feed 06/28 06:45 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07: " tvg-logo="" group-title="SPORTS - GOLF",Golf 07: 
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: Rocket Mortgage Classic: Fowler Marquee Group 06/28 07:30 ET" tvg-logo="" group-title="SPORTS - GOLF",Golf 08: Rocket Mortgage Classic: Fowler Marquee Group 06/28 07:30 ET
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08: " tvg-logo="" group-title="SPORTS - GOLF",Golf 08: 
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632044
 #EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632045
@@ -657,24 +683,24 @@ https://lobo-tv.live:443/belpley/sYqKZQrTZa/2168357
 #EXTINF:-1 tvg-id="" tvg-name="M | Televisa del Golfo (Tamaulipas)" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa del Golfo (Tamaulipas)
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/2195293
 --
-#EXTINF:-1 tvg-id="" tvg-name="DP World Tour Golf | 28/Jun | 05:00 | Italian Open" tvg-logo="http://51.222.152.107:81/posters/1648299881324.jpeg" group-title="TV | EVENTOS",DP World Tour Golf | 28/Jun | 05:00 | Italian Open
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221572
-#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour Golf | 28/Jun | 08:00 | Dow Championship" tvg-logo="http://51.222.152.107:81/posters/1648911771583.png" group-title="TV | EVENTOS",LPGA Tour Golf | 28/Jun | 08:00 | Dow Championship
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221573
+#EXTINF:-1 tvg-id="" tvg-name="DP World Tour Golf | 29/Jun | 05:30 | Italian Open" tvg-logo="http://51.222.152.107:81/posters/1648299881324.jpeg" group-title="TV | EVENTOS",DP World Tour Golf | 29/Jun | 05:30 | Italian Open
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221936
 --
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf | 28/Jun | 13:00 | Rocket Mortgage Classic" tvg-logo="http://51.222.152.107:81/posters/1648912201321.png" group-title="TV | EVENTOS",PGA Tour Golf | 28/Jun | 13:00 | Rocket Mortgage Classic
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221578
+#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf | 29/Jun | 11:00 | Rocket Mortgage" tvg-logo="http://51.222.152.107:81/posters/1648912201321.png" group-title="TV | EVENTOS",PGA Tour Golf | 29/Jun | 11:00 | Rocket Mortgage
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221945
 --
-#EXTINF:-1 tvg-id="" tvg-name="DP World Tour | 28/Jun 05:00 | Italian Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",DP World Tour | 28/Jun 05:00 | Italian Open | Golf Channel USA
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221688
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour | 28/Jun 13:00 | Rocket Mortgage Classic | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour | 28/Jun 13:00 | Rocket Mortgage Classic | Golf Channel USA
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221689
+#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour Golf | 29/Jun | 15:00 | Dow Championship" tvg-logo="http://51.222.152.107:81/posters/1648911771583.png" group-title="TV | EVENTOS",LPGA Tour Golf | 29/Jun | 15:00 | Dow Championship
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221953
 --
-#EXTINF:-1 tvg-id="" tvg-name="USGA | 28/Jun 10:00 | U.S. Senior Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",USGA | 28/Jun 10:00 | U.S. Senior Open | Golf Channel USA
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221691
+#EXTINF:-1 tvg-id="" tvg-name="PGA Tour | 29/Jun 11:00 | Rocket Mortgage Classic | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour | 29/Jun 11:00 | Rocket Mortgage Classic | Golf Channel USA
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2222138
+#EXTINF:-1 tvg-id="" tvg-name="DP World Tour | 29/Jun 05:30 | Italian Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",DP World Tour | 29/Jun 05:30 | Italian Open | Golf Channel USA
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2222139
 --
-#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour | 28/Jun 08:00 | Dow Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/lpga.png" group-title="TV | EVENTOS",LPGA Tour | 28/Jun 08:00 | Dow Championship | Golf Channel USA
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/2221693
+#EXTINF:-1 tvg-id="" tvg-name="USGA | 29/Jun 13:00 | U.S. Senior Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",USGA | 29/Jun 13:00 | U.S. Senior Open | Golf Channel USA
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2222143
+#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour | 29/Jun 15:00 | Dow Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/lpga.png" group-title="TV | EVENTOS",LPGA Tour | 29/Jun 15:00 | Dow Championship | Golf Channel USA
+https://lobo-tv.live:443/belpley/sYqKZQrTZa/2222144
 --
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="D| NBC Golf" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| NBC Golf
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/10948
@@ -724,24 +750,24 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2100017
 #EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2145544
 --
-#EXTINF:-1 tvg-id="" tvg-name="DP World Tour Golf | 28/Jun | 05:00 | Italian Open" tvg-logo="http://51.222.152.107:81/posters/1648299881324.jpeg" group-title="TV | EVENTOS",DP World Tour Golf | 28/Jun | 05:00 | Italian Open
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221572
-#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour Golf | 28/Jun | 08:00 | Dow Championship" tvg-logo="http://51.222.152.107:81/posters/1648911771583.png" group-title="TV | EVENTOS",LPGA Tour Golf | 28/Jun | 08:00 | Dow Championship
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221573
+#EXTINF:-1 tvg-id="" tvg-name="DP World Tour Golf | 29/Jun | 05:30 | Italian Open" tvg-logo="http://51.222.152.107:81/posters/1648299881324.jpeg" group-title="TV | EVENTOS",DP World Tour Golf | 29/Jun | 05:30 | Italian Open
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221936
 --
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf | 28/Jun | 13:00 | Rocket Mortgage Classic" tvg-logo="http://51.222.152.107:81/posters/1648912201321.png" group-title="TV | EVENTOS",PGA Tour Golf | 28/Jun | 13:00 | Rocket Mortgage Classic
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221578
+#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Golf | 29/Jun | 11:00 | Rocket Mortgage" tvg-logo="http://51.222.152.107:81/posters/1648912201321.png" group-title="TV | EVENTOS",PGA Tour Golf | 29/Jun | 11:00 | Rocket Mortgage
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221945
 --
-#EXTINF:-1 tvg-id="" tvg-name="DP World Tour | 28/Jun 05:00 | Italian Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",DP World Tour | 28/Jun 05:00 | Italian Open | Golf Channel USA
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221688
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour | 28/Jun 13:00 | Rocket Mortgage Classic | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour | 28/Jun 13:00 | Rocket Mortgage Classic | Golf Channel USA
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221689
+#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour Golf | 29/Jun | 15:00 | Dow Championship" tvg-logo="http://51.222.152.107:81/posters/1648911771583.png" group-title="TV | EVENTOS",LPGA Tour Golf | 29/Jun | 15:00 | Dow Championship
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221953
 --
-#EXTINF:-1 tvg-id="" tvg-name="USGA | 28/Jun 10:00 | U.S. Senior Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",USGA | 28/Jun 10:00 | U.S. Senior Open | Golf Channel USA
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221691
+#EXTINF:-1 tvg-id="" tvg-name="PGA Tour | 29/Jun 11:00 | Rocket Mortgage Classic | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour | 29/Jun 11:00 | Rocket Mortgage Classic | Golf Channel USA
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2222138
+#EXTINF:-1 tvg-id="" tvg-name="DP World Tour | 29/Jun 05:30 | Italian Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | EVENTOS",DP World Tour | 29/Jun 05:30 | Italian Open | Golf Channel USA
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2222139
 --
-#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour | 28/Jun 08:00 | Dow Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/lpga.png" group-title="TV | EVENTOS",LPGA Tour | 28/Jun 08:00 | Dow Championship | Golf Channel USA
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2221693
+#EXTINF:-1 tvg-id="" tvg-name="USGA | 29/Jun 13:00 | U.S. Senior Open | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",USGA | 29/Jun 13:00 | U.S. Senior Open | Golf Channel USA
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2222143
+#EXTINF:-1 tvg-id="" tvg-name="LPGA Tour | 29/Jun 15:00 | Dow Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/lpga.png" group-title="TV | EVENTOS",LPGA Tour | 29/Jun 15:00 | Dow Championship | Golf Channel USA
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2222144
 --
 #EXTINF:-1 tvg-id="" tvg-name="D| Golf Channel AR" tvg-logo="http://ceoapps.org/logos/golfchannel2.png" group-title="TV | Deportes",D| Golf Channel AR
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2145544
@@ -761,41 +787,41 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168357
 #EXTINF:-1 tvg-id="" tvg-name="M | Televisa del Golfo (Tamaulipas)" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa del Golfo (Tamaulipas)
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2195293
 --
-#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="  G061 | SUPERSPORT GOLF | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G061 | SUPERSPORT GOLF | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52563
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52564
-#EXTINF:-1 tvg-id="" tvg-name="  G063 | PGA 01 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | PGA 01 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G063 | PGA 01 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | PGA 01 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52565
-#EXTINF:-1 tvg-id="" tvg-name="  G064 | PGA 02 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | PGA 02 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G064 | PGA 02 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | PGA 02 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52566
-#EXTINF:-1 tvg-id="" tvg-name="  G065 | PGA 03 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | PGA 03 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G065 | PGA 03 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | PGA 03 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52567
-#EXTINF:-1 tvg-id="" tvg-name="  G066 | PGA 04 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | PGA 04 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G066 | PGA 04 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | PGA 04 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52568
-#EXTINF:-1 tvg-id="" tvg-name="  G067 | PGA 05 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | PGA 05 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G067 | PGA 05 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | PGA 05 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52569
-#EXTINF:-1 tvg-id="" tvg-name="  G068 | PGA 06 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | PGA 06 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G068 | PGA 06 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | PGA 06 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52570
-#EXTINF:-1 tvg-id="" tvg-name="  G069 | PGA 07 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | PGA 07 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G069 | PGA 07 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | PGA 07 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52571
-#EXTINF:-1 tvg-id="" tvg-name="  G070 | PGA 08 | 06/28-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | PGA 08 | 06/28-12:00AM | 
+#EXTINF:-1 tvg-id="" tvg-name="  G070 | PGA 08 | 06/29-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | PGA 08 | 06/29-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52572
-#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  G071 | ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/28-06:45AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/28-06:45AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="  G071 | EN ESPANOL- ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/29-10:45AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G071 | EN ESPANOL- ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/29-10:45AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52573
-#EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="  G072 | ROCKET MORTGAGE CLASSIC: BHATIA & KUCHAR FEATURED GROUPS | 06/28-07:15AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G072 | ROCKET MORTGAGE CLASSIC: BHATIA & KUCHAR FEATURED GROUPS | 06/28-07:15AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  G072 | ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/29-10:45AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G072 | ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/29-10:45AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/77775
-#EXTINF:-1 tvg-id="ESPN+ 007" tvg-name="  G073 | EN ESPANOL - ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/28-07:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G073 | EN ESPANOL - ROCKET MORTGAGE CLASSIC: MAIN FEED | 06/28-07:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 009" tvg-name="  G073 | ROCKET MORTGAGE CLASSIC: FOWLER & DUNLAP FEATURED GROUPS | 06/29-10:45AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G073 | ROCKET MORTGAGE CLASSIC: FOWLER & DUNLAP FEATURED GROUPS | 06/29-10:45AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/77776
-#EXTINF:-1 tvg-id="ESPN+ 008" tvg-name="  G074 | ROCKET MORTGAGE CLASSIC: FOWLER MARQUEE GROUP | 06/28-07:30AM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G074 | ROCKET MORTGAGE CLASSIC: FOWLER MARQUEE GROUP | 06/28-07:30AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 012" tvg-name="  G074 | ROCKET MORTGAGE CLASSIC: KNAPP MARQUEE GROUP | 06/29-12:15PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G074 | ROCKET MORTGAGE CLASSIC: KNAPP MARQUEE GROUP | 06/29-12:15PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/77777
-#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  G075 | ROCKET MORTGAGE CLASSIC: TOM KIM FEATURED GROUP | 06/28-03:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G075 | ROCKET MORTGAGE CLASSIC: TOM KIM FEATURED GROUP | 06/28-03:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 013" tvg-name="  G075 | EN ESPANOL- ROCKET MORTGAGE CLASSIC: VEGAS FEATURED GROUP | 06/29-01:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G075 | EN ESPANOL- ROCKET MORTGAGE CLASSIC: VEGAS FEATURED GROUP | 06/29-01:00PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/77778
-#EXTINF:-1 tvg-id="ESPN+ 023" tvg-name="  G076 | ROCKET MORTGAGE CLASSIC: DUNLAP FEATURED GROUP | 06/28-03:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G076 | ROCKET MORTGAGE CLASSIC: DUNLAP FEATURED GROUP | 06/28-03:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 014" tvg-name="  G076 | ROCKET MORTGAGE CLASSIC: KNAPP FEATURED GROUP | 06/29-01:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G076 | ROCKET MORTGAGE CLASSIC: KNAPP FEATURED GROUP | 06/29-01:00PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/77779
-#EXTINF:-1 tvg-id="ESPN+ 024" tvg-name="  G077 | EN ESPANOL- ROCKET MORTGAGE CLASSIC: TOM KIM FEATURED GROUP | 06/28-03:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G077 | EN ESPANOL- ROCKET MORTGAGE CLASSIC: TOM KIM FEATURED GROUP | 06/28-03:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 015" tvg-name="  G077 | ROCKET MORTGAGE CLASSIC: VEGAS FEATURED GROUP | 06/29-01:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G077 | ROCKET MORTGAGE CLASSIC: VEGAS FEATURED GROUP | 06/29-01:00PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/77780
-#EXTINF:-1 tvg-id="ESPN+ 025" tvg-name="  G078 | ROCKET MORTGAGE CLASSIC: FEATURED HOLE  #17 | 06/28-03:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G078 | ROCKET MORTGAGE CLASSIC: FEATURED HOLE  #17 | 06/28-03:00PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 016" tvg-name="  G078 | ROCKET MORTGAGE CLASSIC: FEATURED HOLE #17 | 06/29-01:00PM | ESPN+" tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G078 | ROCKET MORTGAGE CLASSIC: FEATURED HOLE #17 | 06/29-01:00PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/77781
 --
 #EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
@@ -859,112 +885,6 @@ http://op.web24.live:8080/ultnew/password@2024/43151
 --
 #EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT TENNIS" tvg-logo="https://i.ibb.co/C1JjDNr/supersport-tennis-za.png" group-title="GOLF / TENNIS",ZA | DSTV SUPERSPORT TENNIS
 http://op.web24.live:8080/ultnew/password@2024/52562
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/004c3db0072c16475396c8bc5757637e.png" group-title="France ➾ Sports",FR: Golf Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/279613
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d5b56071d971d8a599b10a1899d5d3a.png" group-title="France ➾ Sports",FR: GOLF+
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1934
---
-#EXTINF:-1 tvg-id="" tvg-name="BE: Play Sports GOLF" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7d2e41e6c120b447066e34bd0de1035.jpg" group-title="Belgium",BE: Play Sports GOLF
-http://premiumiptvmk.com:8080/F32962/7a3112d7/276476
---
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="UK ➾ Sports",UK: Sky Sports Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/264
---
-#EXTINF:-1 tvg-id="golfchannel.pl" tvg-name="PL: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5901f5d9b6bb1640c6e7e8a1b44e138e.png" group-title="Poland ➾ Sports",PL: Golf Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/26575
---
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4563870d73aeb6a4e7dc80094393537e.png" group-title="Germany ➾ Sports",DE: Sky Sport Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/298379
---
-#EXTINF:-1 tvg-id="" tvg-name="US: Golf Channel / NBC Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5164471a041a09ae2a58dbfc5978f766.png" group-title="USA ➾ Sports",US: Golf Channel / NBC Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/5845
-#EXTINF:-1 tvg-id="" tvg-name="US: Golf Kingdom" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: Golf Kingdom
-http://premiumiptvmk.com:8080/F32962/7a3112d7/301487
---
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: Ziggo Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/afe050374551a2767019f331cf74dc05.png" group-title="Netherlands ➾ Sports",NL: Ziggo Sport Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/4514
---
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" group-title="Italy ➾ Sports",IT: Sky Sport Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/147371
---
-#EXTINF:-1 tvg-id="" tvg-name="PK: One Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/4402953dd8c838973ad669ab5d674750.png" group-title="Pakistan",PK: One Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/287727
---
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: Movistar Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bce4e1371881d88c660da7804e154dd6.png" group-title="Spain ➾ Sports",ES: Movistar Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1142
---
-#EXTINF:-1 tvg-id="" tvg-name="LA: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2f7cf34df9b0ceec221e79a887171cf9.png" group-title="Latino",LA: Golf Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/76257
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/0f3ec53e3a88942f81f84686e3f90ef8.png" group-title="Mexico",MX: Golf Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/49383
---
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/913be3dd5506bb664db6b276ae3131be.png" group-title="EX-YU",EX-YU: Sport Klub Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/299649
---
-#EXTINF:-1 tvg-id="" tvg-name="SI: Sport Klub Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/ae9aa3e191f7b342791dc7259fea9e86.png" group-title="Slovenia",SI: Sport Klub Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/25657
---
-#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/83b598c539acd4887c5f17f1162fccb8.png" group-title="Norway ➾ Sports",NO: V Sport Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/304243
---
-#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/845f246ff9105ba49eec3b6d1c00c427.png" group-title="Denmark ➾ Sports",DK: V Sport Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/298451
---
-#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE: V Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0de9b5c2e3ed2fc0346a675d5bfde849.png" group-title="Sweden ➾ Sports",SE: V Sport Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/10652
---
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="South Africa ➾ Sports",ZA: SuperSport Golf
-http://premiumiptvmk.com:8080/F32962/7a3112d7/11641
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5aa846ad8e3b339954183db98908c80a.png" group-title="Czech Republic ➾ Sports",CZ: Golf Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/294997
---
-#EXTINF:-1 tvg-id="" tvg-name="|CA| GOLF" tvg-logo="https://banner2.cleanpng.com/20180608/owl/kisspng-canadian-open-canadian-women-s-open-glen-abbey-gol-canadian-junior-golf-association-5b1ae6b3580e00.3533995315284896513607.jpg" group-title="CANADA EN",|CA| GOLF
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/141301.ts
---
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="|US| The Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="USA",|US| The Golf Channel
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/141709.ts
---
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS GOLF HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsGolf.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS GOLF HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/31087.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS GOLF " tvg-logo="http://one-iptv.com/imageslogo/SkySportsGolf.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS GOLF 
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/30942.ts
---
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="|.ES.D.| M GOLF" tvg-logo="http://one-iptv.com/imageslogo/MovistarGolf.es.png" group-title="ESPANA",|.ES.D.| M GOLF
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59819.ts
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="|.ES.| M GOLF FHD" tvg-logo="http://one-iptv.com/imageslogo/MovistarGolf.es.png" group-title="ESPANA",|.ES.| M GOLF FHD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59820.ts
---
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="|SP-M+| M+ GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="ESPANA",|SP-M+| M+ GOLF HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139297.ts
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="|SP-M+| M+ GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="ESPANA",|SP-M+| M+ GOLF FHD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/139298.ts
---
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="|.ES.D.| MOVISTAR GOLF HD IG" tvg-logo="http://one-iptv.com/imageslogo/MovistarGolf.es.png" group-title="ESPANA",|.ES.D.| MOVISTAR GOLF HD IG
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/66033.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="|.LATIN.| GOLF CH" tvg-logo="http://one-iptv.com/imageslogo/Golf.fr.png" group-title="LATINO",|.LATIN.| GOLF CH
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/78464.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.LATIN.|D GOLF CHANNEL" tvg-logo="http://one-iptv.com/imageslogo/Golf.fr.png" group-title="LATINO",|.LATIN.|D GOLF CHANNEL
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/78465.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.LATIN.|D GOLF LATIN AMERICA" tvg-logo="http://one-iptv.com/imageslogo/Golf.fr.png" group-title="LATINO",|.LATIN.|D GOLF LATIN AMERICA
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/78466.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.LATIN.|D G" tvg-logo="http://one-iptv.com/imageslogo/Golf.fr.png" group-title="LATINO",|.LATIN.|D G
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/78467.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="|.LATIN.|D NBC GOLF FHD" tvg-logo="http://one-iptv.com/imageslogo/NBC5KSDK.us.png" group-title="LATINO",|.LATIN.|D NBC GOLF FHD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/78500.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="|.LATINO.| GOLF CHANNEL" tvg-logo=" http://one-iptv.com/imageslogo/Golf.fr.png" group-title="LATINO",|.LATINO.| GOLF CHANNEL
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/67382.ts
---
-#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-name="|.NL.S.| ZIGGO SPORT GOLF HD" tvg-logo="http://one-iptv.com/imageslogo/ZiggoSportGolf.nl.png" group-title="NEDERLAND",|.NL.S.| ZIGGO SPORT GOLF HD
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/62970.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="|.NL.S.| ZIGGO GOLF" tvg-logo="" group-title="NEDERLAND 4K HEVC",|.NL.S.| ZIGGO GOLF
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/63954.ts
 --
 #EXTINF:-1 channel-id="samsung-USBB400000145" tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240520T215845SQUARE.png" tvg-chno="2438" group-title="United States" , GOLFPASS
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8

@@ -1812,6 +1812,9 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/560753
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA Outdoor Channel" tvg-logo="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png" group-title="USA ENTERTAINMENT",USA Outdoor Channel
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5289
 --
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV15: Rage in the Cage OKC 100: Donovan Beard vs Zevan Hunt (fite tv) @ 08:00 PM" tvg-logo="" group-title="USA PPV",USA PPV15: Rage in the Cage OKC 100: Donovan Beard vs Zevan Hunt (fite tv) @ 08:00 PM
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/524647
+--
 #EXTINF:-1 tvg-id="SPMNHD" tvg-name="USA SPORTSMAN CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA SPORTSMAN CHANNEL SD
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97483
 --
@@ -1878,47 +1881,6 @@ http://op.web24.live:8080/ultnew/password@2024/59387
 http://op.web24.live:8080/ultnew/password@2024/32451
 #EXTINF:-1 tvg-id="NBCWSAZ.us" tvg-name="WV | HUNTINGTON | NBC WSAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/WSAZ-TV.png/200px-WSAZ-TV.png" group-title="NBC LOCAL NETWORKS",WV | HUNTINGTON | NBC WSAZ
 http://op.web24.live:8080/ultnew/password@2024/32452
---
-#EXTINF:-1 tvg-id="fishinghunting.ro" tvg-name="RO: The Fishing & Hunting Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9b4cebb56ca774204e68d006b287689e.png" group-title="Romania ➾ Nature",RO: The Fishing & Hunting Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2247
---
-#EXTINF:-1 tvg-id="" tvg-name="GR: Outdoor Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3d2437b31d56ffb42ee6655d7c7d888d.png" group-title="Greece ➾ LifeStyle",GR: Outdoor Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/300079
---
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Huntsville Alabama WAAY TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3829b996f6cb925440ad48b384594601.png" group-title="USA ➾ News",US: ABC Huntsville Alabama WAAY TV
-http://premiumiptvmk.com:8080/F32962/7a3112d7/299972
---
-#EXTINF:-1 tvg-id="cbs13wowk.us" tvg-name="US: CBS Huntington West Virginia WOWK TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/6a1f48e0eed732c46b2e58d5ee788d51.png" group-title="USA ➾ News",US: CBS Huntington West Virginia WOWK TV
-http://premiumiptvmk.com:8080/F32962/7a3112d7/295411
---
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox 54.1 Huntsville" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="USA",US: Fox 54.1 Huntsville
-http://premiumiptvmk.com:8080/F32962/7a3112d7/299971
---
-#EXTINF:-1 tvg-id="" tvg-name="US: Hunt Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: Hunt Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/304013
---
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Huntington West Virginia WSAZ TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/74bdd60acbab9dbaa0dc6d3a62b9b43c.png" group-title="USA ➾ News",US: NBC Huntington West Virginia WSAZ TV
-http://premiumiptvmk.com:8080/F32962/7a3112d7/295405
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Huntsville Alabama WAFF" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b8397f444719f0b2df5994246b30a398.png" group-title="USA ➾ News",US: NBC Huntsville Alabama WAFF
-http://premiumiptvmk.com:8080/F32962/7a3112d7/150834
---
-#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22a9dab1ec54dc5f2667539a09e58f2b.png" group-title="USA ➾ LifeStyle",US: Outdoor Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/15075
---
-#EXTINF:-1 tvg-id="" tvg-name="US: Sportsman Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/4d3be2d2fe87b116a6880e896bf6f45e.png" group-title="USA ➾ Sports",US: Sportsman Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/30847
---
-#EXTINF:-1 tvg-id="" tvg-name="HU: The Fishing & Hunting Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5a6327e1e885ed2e316b11788ba398af.png" group-title="Hungary ➾ Nature",HU: The Fishing & Hunting Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/23929
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: The Fishing & Hunting Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/77ee6442ba057769768386b5a659f7aa.png" group-title="Czech Republic ➾ Nature",CZ: The Fishing & Hunting Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/295043
---
-#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/0bc18a32ddd6c8a9f82f6f0d4fd30771.png" group-title="Australia",AU: Outdoor Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/304036
---
-#EXTINF:-1 tvg-id="SportsmanChannel.ca" tvg-name="|CA| SPORTSMAN CHANNEL" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2018/12/ogm-sc-logo-300x110.png" group-title="CANADA EN",|CA| SPORTSMAN CHANNEL
-http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/141278.ts
 --
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
 https://filemoon.sx/d/2alnlw7bmkfe
