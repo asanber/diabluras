@@ -730,6 +730,19 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/164143
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/164144
 --
 #EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR FHD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="SPAIN",||ES|| LA LIGA TV BAR FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/1923.ts
+#EXTINF:-1 tvg-id="MovistarLiga1.es" tvg-name="||ES|| M+ LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="SPAIN",||ES|| M+ LALIGA FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/1924.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| BEIN LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/21417dd84f755d68af0ef39daa9e1350.png" group-title="SPAIN",||ES|| BEIN LALIGA FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/3578.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| BEIN SPORTS LA LIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/21417dd84f755d68af0ef39daa9e1350.png" group-title="SPAIN",||ES|| BEIN SPORTS LA LIGA FHD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/3582.ts
+--
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR HD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="SPAIN",||ES|| LA LIGA TV BAR HD
+http://goldiptvofficiel.tv:25461/live/demopad1/Pb9Zgq85P2FK/3597.ts
+--
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="||ES|| LA LIGA TV BAR FHD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" group-title="SPAIN",||ES|| LA LIGA TV BAR FHD
 http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/1923.ts
 #EXTINF:-1 tvg-id="MovistarLiga1.es" tvg-name="||ES|| M+ LALIGA FHD" tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="SPAIN",||ES|| M+ LALIGA FHD
 http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/1924.ts
@@ -1099,6 +1112,9 @@ http://premiumiptvmk.com:8080/F32962/7a3112d7/281772
 http://premiumiptvmk.com:8080/F32962/7a3112d7/269466
 #EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2d066efd0a3ae54514a638b6341b09dc.jpg" group-title="Spain ➾ Football",ES: Movistar LaLiga 7
 http://premiumiptvmk.com:8080/F32962/7a3112d7/194527
+--
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
+http://premiumiptvmk.com:8080/F32962/7a3112d7/194358
 --
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="|.ES.D.| M LA LIGA" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png" group-title="ESPANA",|.ES.D.| M LA LIGA
 http://x.tvprovip.com:25443/live/HAJG6/k7bKPqg05y/59793.ts
