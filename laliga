@@ -1053,6 +1053,11 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/220429
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga FHD
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/10918
 --
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="  S064 | EN ESPANOL - LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S064 | EN ESPANOL - LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75817
+#EXTINF:-1 tvg-id="ESPN+ 023" tvg-name="  S065 | LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S065 | LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75818
+--
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="BEIN SPORTS",BEIN SPORTS LA LIGA - LA
 http://op.web24.live:8080/ultnew/password@2024/59057
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LALIGA" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",BEIN SPORTS LALIGA
@@ -1060,6 +1065,11 @@ http://op.web24.live:8080/ultnew/password@2024/59058
 --
 #EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
 http://op.web24.live:8080/ultnew/password@2024/36465
+--
+#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | EN ESPANOL - LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | EN ESPANOL - LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52707
+#EXTINF:-1 tvg-id="ESPN+ 023" tvg-name="ESPN+ 023 | LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 023 | LALIGA 2024/25: PROMOTED TEAMS | 07/04-11:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52708
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/ultnew/password@2024/59239
