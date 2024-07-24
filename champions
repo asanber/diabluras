@@ -191,8 +191,6 @@ http://op.web24.live:8080/ultnew/password@2024/53845
 http://op.web24.live:8080/ultnew/password@2024/53846
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 4" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 4
 http://op.web24.live:8080/ultnew/password@2024/53847
-#EXTINF:-1 tvg-id="ESPN+ 022" tvg-name="ESPN+ 022 | MEMPHIS GRIZZLIES VS. MIAMI HEAT (CHAMPIONSHIP) | 07/22-08:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 022 | MEMPHIS GRIZZLIES VS. MIAMI HEAT (CHAMPIONSHIP) | 07/22-08:00PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52707
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 001 | MEN UCONN DIV 1 CHAMPIONS 2024 | 04/08-09:20AM | TBS
 http://op.web24.live:8080/ultnew/password@2024/70247
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="NCAA PACKAGE",NCAAB 002 | WOMEN SOUTH CAROLINA DIV 1 CHAMPIONS 2024 | 04/07-10:20AM | ESPN
@@ -211,7 +209,7 @@ https://jmp2.uk/SamsungTVPlus/CHBA3300011A6.m3u8
 https://jmp2.uk/SamsungTVPlus/DEBA3300016EV.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC90001089" tvg-id="GBBC90001089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20230614T010130SQUARE.png_20230614010130.png" tvg-chno="4555" group-title="United Kingdom" , Strongman Champions League
 https://jmp2.uk/SamsungTVPlus/GBBC90001089.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" tvg-chno="4525" group-title="Italy" , GCTV (Global Champions TV)
+#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20240723T045116SQUARE.png" tvg-chno="4525" group-title="Italy" , GCTV (Global Champions TV)
 https://jmp2.uk/SamsungTVPlus/ITBD3600001Z9.m3u8
 #EXTINF:-1 channel-id="samsung-ATBA3300010PU" tvg-id="ATBA3300010PU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png" tvg-chno="4557" group-title="Sport" , Strongman Champions League
 https://jmp2.uk/SamsungTVPlus/ATBA3300010PU.m3u8
@@ -221,7 +219,7 @@ https://jmp2.uk/SamsungTVPlus/CHBA3300011A6.m3u8
 https://jmp2.uk/SamsungTVPlus/DEBA3300016EV.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC90001089" tvg-id="GBBC90001089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20230614T010130SQUARE.png_20230614010130.png" tvg-chno="4555" group-title="Extreme Sport" , Strongman Champions League
 https://jmp2.uk/SamsungTVPlus/GBBC90001089.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20230926T032334SQUARE.png_20230926032335.png" tvg-chno="4525" group-title="Sport" , GCTV (Global Champions TV)
+#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20240723T045116SQUARE.png" tvg-chno="4525" group-title="Sport" , GCTV (Global Champions TV)
 https://jmp2.uk/SamsungTVPlus/ITBD3600001Z9.m3u8
 #EXTINF:-1 tvg-id="ATBA3300010PU" tvg-chno="4557" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png" group-title="🏆 Sports", Strongman Champions League
 https://809d23b857dd4cbb8b088884111f8ac8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-at_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1203&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
