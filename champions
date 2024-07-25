@@ -177,11 +177,7 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/221868
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2199945
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2199944
-#EXTINF:-1 tvg-id="" tvg-name="10 REPLAY | MMA BUDO SENTO CHAMPIONSHIP 23 | 24.06.28" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",10 REPLAY | MMA BUDO SENTO CHAMPIONSHIP 23 | 24.06.28
-http://op.web24.live:8080/ultnew/password@2024/43115
-#EXTINF:-1 tvg-id="" tvg-name="11 REPLAY | MMA ONE CHAMPIONSHIP FIGHTS NIGHT 23 | 24.07.06" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",11 REPLAY | MMA ONE CHAMPIONSHIP FIGHTS NIGHT 23 | 24.07.06
-http://op.web24.live:8080/ultnew/password@2024/43116
-#EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP FRIDAY FIGHTS 69 | 24.07.05" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP FRIDAY FIGHTS 69 | 24.07.05
+#EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | MMA ONE CHAMPIONSHIP FRIDAY FIGHTS 71 | 24.07.19" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="PPV REPLAYS",12 REPLAY | MMA ONE CHAMPIONSHIP FRIDAY FIGHTS 71 | 24.07.19
 http://op.web24.live:8080/ultnew/password@2024/43117
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | CHAMPIONS LEAUGE 1" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | CHAMPIONS LEAUGE 1
 http://op.web24.live:8080/ultnew/password@2024/53844
@@ -209,8 +205,6 @@ https://jmp2.uk/SamsungTVPlus/CHBA3300011A6.m3u8
 https://jmp2.uk/SamsungTVPlus/DEBA3300016EV.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC90001089" tvg-id="GBBC90001089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20230614T010130SQUARE.png_20230614010130.png" tvg-chno="4555" group-title="United Kingdom" , Strongman Champions League
 https://jmp2.uk/SamsungTVPlus/GBBC90001089.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20240723T045116SQUARE.png" tvg-chno="4525" group-title="Italy" , GCTV (Global Champions TV)
-https://jmp2.uk/SamsungTVPlus/ITBD3600001Z9.m3u8
 #EXTINF:-1 channel-id="samsung-ATBA3300010PU" tvg-id="ATBA3300010PU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png" tvg-chno="4557" group-title="Sport" , Strongman Champions League
 https://jmp2.uk/SamsungTVPlus/ATBA3300010PU.m3u8
 #EXTINF:-1 channel-id="samsung-CHBA3300011A6" tvg-id="CHBA3300011A6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300011A6_20230614T010046SQUARE.png_20230614010047.png" tvg-chno="4557" group-title="Sport" , Strongman Champions League
@@ -219,8 +213,6 @@ https://jmp2.uk/SamsungTVPlus/CHBA3300011A6.m3u8
 https://jmp2.uk/SamsungTVPlus/DEBA3300016EV.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC90001089" tvg-id="GBBC90001089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20230614T010130SQUARE.png_20230614010130.png" tvg-chno="4555" group-title="Extreme Sport" , Strongman Champions League
 https://jmp2.uk/SamsungTVPlus/GBBC90001089.m3u8
-#EXTINF:-1 channel-id="samsung-ITBD3600001Z9" tvg-id="ITBD3600001Z9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600001Z9_20240723T045116SQUARE.png" tvg-chno="4525" group-title="Sport" , GCTV (Global Champions TV)
-https://jmp2.uk/SamsungTVPlus/ITBD3600001Z9.m3u8
 #EXTINF:-1 tvg-id="ATBA3300010PU" tvg-chno="4557" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png" group-title="🏆 Sports", Strongman Champions League
 https://809d23b857dd4cbb8b088884111f8ac8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-at_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1203&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="🏆 Sports",AbuDhabiSports Channel 1
