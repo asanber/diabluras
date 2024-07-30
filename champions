@@ -75,12 +75,18 @@ http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 17" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO", ML Campeones 17 SD  6029
 http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 tvg-id="" tvg-name="AT:Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png" group-title="AUSTRIA",AT:Strongman Champions League
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/44852
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America s Got Talent The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America s Got Talent The Champions
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/511231
 #EXTINF:-1 tvg-id="" tvg-name="24/7 America's Got Talent: The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 America's Got Talent: The Champions
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/52576
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Americas Got Talent The Champions" tvg-logo="" group-title="24/7 SHOWS",24/7 Americas Got Talent The Champions
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/331645
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spring Baking Championship" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAGdJhUoN3DzzI1X06upUPOvwTf.jpg" group-title="24/7 REALITY",24/7 Spring Baking Championship
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/76319
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35" tvg-logo="" group-title="SPORTS - FLOSPORTS",Flo (FLSP) 48: 2023 Ogden Raptors vs Billings Mustangs - PBL Championship Game #3 - 20/09 01:35
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/642329
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS 2
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2199945
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
@@ -99,22 +105,6 @@ https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/220429
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/219731
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | MOVISTAR LIGA DE CAMPEONES
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/219402
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship" tvg-logo="http://51.222.152.107:81/posters/1648911398435.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228678
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228777
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228778
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228779
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228780
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228781
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228782
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2228839
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS 2
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2199945
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
@@ -133,56 +123,6 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/220429
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/219731
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | MOVISTAR LIGA DE CAMPEONES
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/219402
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship" tvg-logo="http://51.222.152.107:81/posters/1648911398435.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228678
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228777
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228778
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228779
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228780
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228781
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228782
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2228839
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS 2
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2199945
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2199944
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN ARG
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/221869
-#EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA| Espn 2 ARG
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/221868
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | TUDN US" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | TUDN US
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/220432
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN SUR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN SUR
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/220431
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/220429
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | TNT MX" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | TNT MX
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/219731
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | MOVISTAR LIGA DE CAMPEONES
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/219402
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship" tvg-logo="http://51.222.152.107:81/posters/1648911398435.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228678
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228777
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228778
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228779
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228780
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228781
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228782
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2228839
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS 2" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS 2
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2199945
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | DIRECTV SPORTS" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | DIRECTV SPORTS
@@ -201,38 +141,6 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/220429
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/219731
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | MOVISTAR LIGA DE CAMPEONES
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/219402
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship" tvg-logo="http://51.222.152.107:81/posters/1648911398435.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228678
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228777
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228778
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228779
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228780
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228781
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228782
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA
-https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2228839
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship" tvg-logo="http://51.222.152.107:81/posters/1648911398435.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul | 05:30 | Senior Open Championship
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228678
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228777
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports New Orleans
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228778
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Oklahoma
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228779
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest SA
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228780
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 18:30 | Memphis 901 Vs. San Antonio | Bally Sports Southwest Extra
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228781
-#EXTINF:-1 tvg-id="" tvg-name="USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN" tvg-logo="http://panel.maxmax.live/png/sports/usl.png" group-title="TV | PPV USL",USL Championship | 27/Jul 17:30 | Rhode Island Vs. North Carolina FC | NESN
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228782
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA" tvg-logo="http://panel.maxmax.live/png/sports/pgatour.png" group-title="TV | EVENTOS",PGA Tour Champions | 27/Jul 05:30 | Senior Open Championship | Golf Channel USA
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2228839
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN ARG
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/221869
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | ESPN SUR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | ESPN SUR
