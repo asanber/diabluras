@@ -698,16 +698,6 @@ http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162771
 #EXTINF:-1 tvg-id="" tvg-name="La Liga Hypermotion (ES)(R)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",La Liga Hypermotion (ES)(R)
 http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162779
 --
-#EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97524
---
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports La Liga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports La Liga
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5314
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="USA beIN SPORTS La Liga" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="USA SPORTS",USA beIN SPORTS La Liga
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/90427
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5308
---
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D | DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D | DAZN LaLigaTV HD
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/197233
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga
@@ -750,6 +740,28 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/223873
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/157373
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/223953
+--
+#EXTINF:-1 tvg-id="" tvg-name="D |  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D |  LaLiga SmartBank HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144863
+--
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D | DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D | DAZN LaLigaTV HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/197233
+--
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga HD" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/157372
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/157371
+--
+#EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/220429
+--
+#EXTINF:-1 tvg-id="" tvg-name="SE| Movistar La Liga" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | Soccer Europa",SE| Movistar La Liga
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/223873
+--
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/157373
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/223953
 --
 #EXTINF:-1 tvg-id="" tvg-name="D |  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D |  LaLiga SmartBank HD
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144863
@@ -878,10 +890,10 @@ http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="2021",La Liga de la Justicia de Zack Snyder (2021)
 http://vod.tuxchannel.mx/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 --
-#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" tvg-chno="4502" group-title="Spain" , La Liga
+#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240730T065330SQUARE.png" tvg-chno="4502" group-title="Spain" , La Liga
 https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
 --
-#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" tvg-chno="4502" group-title="Deportes" , La Liga
+#EXTINF:-1 channel-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240730T065330SQUARE.png" tvg-chno="4502" group-title="Deportes" , La Liga
 https://jmp2.uk/SamsungTVPlus/ESBD3600001Q1.m3u8
 --
 #EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-name="La Liga Premier | Paramount+" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="🏆 Sports", La Liga Premier | Paramount+

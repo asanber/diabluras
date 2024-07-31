@@ -1283,6 +1283,15 @@ http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/164205
 #EXTINF:-1 tvg-id="" tvg-name="AMC (US)(R)" tvg-logo="https://budtv-ultra.com/posters/1714088208222.png" group-title="Estados Unidos",AMC (US)(R)
 http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/164213
 --
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (US)(B)" tvg-logo="" group-title="Estados Unidos",Discovery Channel (US)(B)
+http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/181120
+--
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild (US)(B)" tvg-logo="" group-title="Estados Unidos",Nat Geo Wild (US)(B)
+http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/181126
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (US)(B)" tvg-logo="" group-title="Estados Unidos",AMC (US)(B)
+http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/181132
+--
 #EXTINF:-1 tvg-id="" tvg-name="AMC (CA)(i)" tvg-logo="https://budtv-ultra.com/posters/1712038105310.png" group-title="canada",AMC (CA)(i)
 http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/158534
 --
@@ -1356,90 +1365,6 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/92712
 --
 #EXTINF:-1 tvg-id="" tvg-name="IT DMAX_HD" tvg-logo="" group-title="ITALY",IT DMAX_HD
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/588594
---
-#EXTINF:-1 tvg-id="amchd.mx" tvg-name="MX AMC" tvg-logo="" group-title="MEXICO",MX AMC
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/1613
---
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX Discovery Channel HD" tvg-logo="" group-title="MEXICO",MX Discovery Channel HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/4206
---
-#EXTINF:-1 tvg-id="" tvg-name="MX National Geographic Channel" tvg-logo="" group-title="MEXICO",MX National Geographic Channel
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/1655
---
-#EXTINF:-1 tvg-id="" tvg-name="PL: AMC" tvg-logo="" group-title="POLAND",PL: AMC
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/673179
---
-#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO Wild" tvg-logo="" group-title="POLAND",PL: NAT GEO Wild
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/673251
---
-#EXTINF:-1 tvg-id="" tvg-name="PT AMC" tvg-logo="" group-title="PORTUGAL",PT AMC
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/963
-#EXTINF:-1 tvg-id="" tvg-name="PT AMC HD" tvg-logo="" group-title="PORTUGAL",PT AMC HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/962
---
-#EXTINF:-1 tvg-id="" tvg-name="PT DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT DISCOVERY CHANNEL
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/931
-#EXTINF:-1 tvg-id="" tvg-name="PT DISCOVERY CHANNEL HD" tvg-logo="" group-title="PORTUGAL",PT DISCOVERY CHANNEL HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/930
---
-#EXTINF:-1 tvg-id="" tvg-name="PT HISTORIA" tvg-logo="" group-title="PORTUGAL",PT HISTORIA
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/895
---
-#EXTINF:-1 tvg-id="" tvg-name="PT NAT GEO WILD HD" tvg-logo="" group-title="PORTUGAL",PT NAT GEO WILD HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/880
-#EXTINF:-1 tvg-id="" tvg-name="PT NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGAL",PT NATIONAL GEOGRAPHIC HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/879
---
-#EXTINF:-1 tvg-id="905c9908-9bfd-43d7-aa79-7fa25e445487" tvg-name="TX | Lubbock | ABC 28 KAMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/KAMC_2013_Logo.png" group-title="USA LOCAL - ABC",TX | Lubbock | ABC 28 KAMC
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/38303
---
-#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK AMC" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="UK General",UK AMC
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2367
---
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK DMAX HD" tvg-logo="https://res.cloudinary.com/uktv/image/upload/v1474640968/uttlencimysvuz2gs41p.jpg" group-title="UK ENTERTAINMENT",UK DMAX HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2295
---
-#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK Nat Geo Wild" tvg-logo="https://1.bp.blogspot.com/-57LmKp3r8Yc/W1IaKpMa0HI/AAAAAAAAH3w/CHG21k-ARJQLg1oks8Qpnv02C1I6LGqTQCLcBGAs/s1600/nat-geo-wild-logo-featured.jpg" group-title="UK DOCUMENTARIES",UK Nat Geo Wild
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2239
---
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC East (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/1200px-Amc_theatres_logo.svg.png" group-title="USA LOW BANDWIDTH",USA AMC East (SD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21554
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC East (SHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="USA ENTERTAINMENT",USA AMC East (SHD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3843
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC East LHD" tvg-logo="https://w7.pngwing.com/pngs/816/921/png-transparent-amc-theatres-cinema-amc-flatiron-crossing-14-amc-arrowhead-14-amc-superstition-east-12-movie-theatre-miscellaneous-text-trademark.png" group-title="USA ENTERTAINMENT",USA AMC East LHD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3702
-#EXTINF:-1 tvg-id="AMCPRES" tvg-name="USA AMC Presents" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="USA ENTERTAINMENT",USA AMC Presents
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/339688
-#EXTINF:-1 tvg-id="" tvg-name="USA AMC Thrillers" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8662623e2b182f7ac9e511bd75425ae4.png" group-title="USA MOVIES",USA AMC Thrillers
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/606994
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC UHD" tvg-logo="https://tv.bt.com/images/amc-logo-hero-136407005253902601-160818144213.jpg" group-title="USA ENTERTAINMENT",USA AMC UHD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3608
-#EXTINF:-1 tvg-id="I254.59337.zap2it.com" tvg-name="USA AMC West (SHD)" tvg-logo="" group-title="USA ENTERTAINMENT",USA AMC West (SHD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/643834
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="USA ENTERTAINMENT",USA AMC+
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/339687
---
-#EXTINF:-1 tvg-id="BANDAUS" tvg-name="USA Latin Bandamax" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="USA LATIN",USA Latin Bandamax
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/1617
-#EXTINF:-1 tvg-id="BANDAUS" tvg-name="USA Latin BANDAMAX" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="USA LATIN",USA Latin BANDAMAX
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/40640
---
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East (SD)" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/logos/seo.ngsversion.1565614141405.jpg" group-title="USA LOW BANDWIDTH",USA Nat Geo East (SD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21575
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East (SHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="USA ENTERTAINMENT",USA Nat Geo East (SHD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3750
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East UHD" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/logos/seo.ngsversion.1565614141405.jpg" group-title="USA ENTERTAINMENT",USA Nat Geo East UHD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3665
---
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild (SHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="USA ENTERTAINMENT",USA Nat Geo Wild (SHD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3749
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild East SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/NGWild.png" group-title="USA LOW BANDWIDTH",USA Nat Geo Wild East SD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21614
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild East UHD" tvg-logo="" group-title="USA ENTERTAINMENT",USA Nat Geo Wild East UHD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3666
---
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="USA NHL Network (SD)" tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="USA LOW BANDWIDTH",USA NHL Network (SD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21615
 --
 #EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | Cultura",C | Discovery Channel
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/10409
@@ -1528,6 +1453,50 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2171018
 --
 #EXTINF:-1 tvg-id="" tvg-name="PY*| ABC TV (PY)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIHEBESBxASERUVFRUVERUWFRcRFhAQFRIeGBUSFRYZHSggGSYxGxUVIjEjJSovLi47GSA0OTgsOCotLisBCgoKDg0OGxAQGi8mICYrLS0tLTAtMy02Ly0vLS04Ly0tLy0tLS0vLy0tLS0tLS0vLS0tLS0rLS0tLystLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQcEBgIDCAH/xABKEAACAQMBBAUEDAsHBQAAAAAAAQIDBBEFBhIhMQcTQVGRYXGBoSIyMzRSYnJzdJOysxQkNUKCkqKxwdHSFhcjQ1SD4RVEU2Pi/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAEDAgQFBgf/xAA3EQACAQIDBQYEBQMFAAAAAAAAAQIDEQQhMQUSQVFhE3GBkaGxIjPB8AYycrLhgsLRIyQ0QlL/2gAMAwEAAhEDEQA/ALLAB8kOsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADjvrvXiRcHIHHrF3rxG+u9eIugcgfFJPk14n0JgAN45nB1IrnJeKJJOYOp3MFznD9dHx3NNc6tL6yP8yd18id18juBju+ornXo/WR/mcqN1TrvFCpCTXNRmpYXfwY3XyIaa1R3A1HWNrpW1z1WnqlJLEZSnFv2blhtSU0sLPqZs0b6lJNqvSaWN5qpHCzwWePDiX1cLVpRjKS/Mrr+eRdUw9SnGMpLXNfzyMgHTRuqdd4oVKc3zajNSaXfwZ8rXdOg8V6tOD54lNReO/DZRuu9rFNnex3g4Uasa6zRlGS74tSXijmQ007MAAAgAAAAAAAH0EnwAAgAH0EnTde5z+TP7J5OUn3vxZ6yuvc5/Jn9k8lpnsPwrfdq/wBP9xp4rgc99978WN9978WcQetuzTNn6NpN6tZZb90fb8SR6QPN3Rr+VrL5x/dyPSJ4f8UO+Jh+n6s3sL+VmNcyIm5kSdxFy5JkbcW85coS8DkYWy1Z1aHeRF1Mh7qZN3NhVl7WlU/UkRlxpNxLlb1H+hI7lCpBayXmjr0Zx/8AS80QFzJvtJfTPxiyrU6NVwnGU69SPsvZ0owUIU95cPbzlwfejFq6Hcy5W9X9SX8jJhY1dMtLid1TnB1J0aS3lutxblOWPq4I3K1SEoRUZq+9Hinxtpxte/ek+BuVJxlFRUle64p8eWd7a+vAwNH0yWrVo06TSym95rKioru8F6TbVs49JsrzrZxqScd/Kyt2NN7zXH0kPsNd0bGpVqX1SMPYYhntbkm8fqrxN+ukry3nucVOlPHlUqXD95zNp42vTrKCyh8L01ae9rx4ceBztoYurCturKHwvveT1+9DRej+qqVxVdR4XU1G33JTg2yNvKs9oLyXUp+znuwT/NgpYhnzLi/SR9tdStus6vhvxcH8ltNr9nHpN12A0rq4yuK64yzGn5En7Ofpax6H3m/imsLOpinq0ox+/vJPmbeJaw8qmIetlGPf9+iZtVhaRsaUKdH2sEkvL3t+VvL9J3gHjpScm29WeXbbd3qAAQQAAADSto+kyx0VuFGTuai4ONLDjF90qj4eGTSelPbid9VqWWlTcaMG4VpReHXmuEoZ+CnlY7ePYVmer2b+HlOCq4lvPNRWXm+vJeZqVcRZ2iWVf9Md3Vf4jb21JfG36svHMV6jBXS1qXfb/Vf/AEaGDvx2RgYqypR8c/e5r9rPmWXY9Ml1T9/W1vUXxHOk/W5L1G06T0u2V3hahCrbPva62HjHj6iiwU1dg4Gayhu9U39W16GUa81xLL1/pXuo3NZaM6XUKWKTlT3nKKWN7Oe1pv0kf/ezqXfQ+q/5NEBfHZGCUUuyi7cWvcx7WfM3v+9nUn20Pqv+Tu0TpCu726t6VenabtStShLFvFPdnUUXh57mV8Smy/v6z+k0PvomFbZuDhSk40o5JvTowqk76m79OFnTtbq2lbU4wc6Ut9xSjvbtTEW8duHjJWhaXTz7vZ/NVPtoq0jYkm8BTvyfuya/zGT+wl5T0/UbWreTVOnCbc5PlFbsu4tHVemC0tsrTaNW4fY3ijB+l5l+yUgfTPF7Kw+KqqpVu7K1r2XHx48xCrKCtEsa86Yryq/xShbUl5VOpLx3kvURtXpT1Ofta1KPmowf2kzSQZQ2Vgo6UY+Kv73IdWfM36z6WtRoNdf1FZdu9T3W15HBrHgbps/0tWt+1DVqcrWT4b2espZz2ySzH0rHlKNPpTX2Hgay+XuvnHL009DKNea4nqHWtehplq7qnCpc00lL8XUamYP/ADM5xjvfYVlf9KdHWf8AC1C0nTot5VSE1Uqwmvaz3WlFrmms9prXR7tjPZmvFV5OVtUeK0HxUM8OtguxrtS5r0YyelTZeOg3Ma2nRSoXCcoJe1p1FxlBdyaakvO0uRysJsmhh8T2NZXbzhNNrTVW0Ul4p+jvWIqK1Sm7NfdyRes6bTW9+FV5r4MLeSl5szluiPSzWpXEFbU4q0i6UdyUVKr1MMKb3k0t54k+7jgrY+HalsuhNWrXnlb4rZX4qyWfXhwJxO0cRiElUlp0S9iypa9pcm5dfd4zy/B48s8s9YbbonSlps1GnNVraMcRhvw3o7q4LjBtrhjmiiDkU1tjUa8bVZydtM0reUUvNPoTW2liK1u0le3RfQ9W2N9S1GCqWFWnVg+UoSU1nuyv3GQVx0Ffk+v9Kl9zTLHPB4ygqFedJO+67XLoS3opgAGsZAidrNRek2N1XpvEoUpuD7qrWIP9ZoljW+keg7nSb2MOynv+inNTfqiy/CxjKvCM9HKKfddX9LmM21F2PNp8APqpygAfeQBvmzPRbd61TjVuJwtoSScN9OU5RfKW4sYXnZnap0O3NvBy064o12lnccXRcvJFttZ87Rv2zG39lrFKHW16dvVwlOlVkqeJY/MlLCku7HHyIktT2vsNMi5XN5Q4LO7CpGrN92IRbZ4ittfaka+7u2d/y7t/5fen1XJbqpUt3U803FCVtOULiLjKLcZxaw4yTw00dRL7V6qtdvK9zCG4qk8xi+aioqMc+XEU35yIPawcnFOSs7K61s7Zo03rkCU2X9/Wf0mh99EiyU2X9/Wf0mh99ErxPyZ/pfswtUb908+72fzVT7aKtLS6efd7P5qp9tFWnP2H/wACn3P9zLa/zGCxdD6I7vUIKeo1YW2VlQcXUqJfGimlHzZyaHp107GtSqxipOnUhUUXyk4SUsPwPRWh7c2GsQjKlc06Unzp1ZRozjLHGOJPEvOslO28Zi8NCLw8cnrK17cly469OHGaMISvvMrTWOiG6s4OenVqdzhZcN10pv5KbafmyiuqkHTbU0008NPg01zTR6T1jbWw0iEpV7qlUaXCnSlGrUk+xKMXw9OEeddYvv8AqVxXruKh1tSpU3V+bvybx5efMx2JjcXiYy7eOS0la1+luPetON8rK8IRtumGADvFALc1BPXNlaU6izO33Wn2/wCFVdJvPzbZUZcWlw/AtlKrr8N+FVrP/sr7sPHh4nH2w93sJJZqrG3je6++hdR4roVDSputKMaScpSaUUuLlJvCS9JaWi9Dk6sFLWbnq5PnTpxU3HyObeM+Zella6Vd/wDT7ihWxvdVVp1MfCUJpteo9N6LrVvrlNVNLqxqRa4pNb8H8GcecXx5M1tv47FYVR7HJO95WvnllpZd/Hhpnnh4RlfeNDl0N2uPY3Vwn5VTfq3SPu+hd/8AZX3onS/jGX8C3MGDf6zbab+ULmjS+XUjBt9yTeWeap7b2hf4ajfgn9DZlQp8UQPRxszV2VtqtG+nTm5V5VIuDbW46UYrOUsPMWbYYGja1b65Cc9KqqrGE3TlJKSW+optLKWeElxXAzzQxU6k60pVV8TeeVs+4zgklZaAAFBkDrr0Y3EJQrpSjKLhJPlKMlhp+hnYADzHtbs9U2aup0LhNxy3Rn2VaTfsZefsfc0yEPUe0Oz9vtHS6rVKe8ucJLhOnL4UJdn7n2lO7R9FV5prctKxd0+xRxGrFeWDfsuz2ry+5Hvdnbeo14KNeW7Pro+qeifR8dOmhUoSjpoV8DvurWpZS3bunOlL4M4uD8JI6cnfWaujXPgxjkc6cHVajSTk3ySTk36EbLo+wOo6s11VrOlF/n1v8CKXfiXsn6EyutXp0Y71WSiursSk5ZI1cGVqNnPTatSjdrdnTk4TXlT7O9dqZi5LI/ErrNEAlNl/f1n9JoffRIvJKbLv8es/pND76JViYvsZ5f8AV+zJWqN+6efd7P5qp9tFWlpdPPCvZ5/8VT7xFW5OfsNf7Cl3P9zLK/zGBzJXZvQq20dwrfTt3ecZSbk2owjFcXJpNrjhcubRnarsRqGlZ/CbSpJfCprro478wzj04N+WIown2cppS5NpP1+hhutq9jXMY5A5SjuPE+DXNPg0/MfMl9mYnwH3eNg0HY2+15r8Ct5qL/zaidKml37zXsv0csqq1YUo71SSS5t29yUm9CM0XTKms3FK3s1mdSSivirnKT8iSbfmLQ6YNRhpVpa6bYPGFCU13Uaa3acX55LP6HlJ3R9modH1rVr2tCrfXTjh9XBtv4kUsuMcpNvi34JUrtBeV7+4q1dXUlVm8zUouG72KKi+SSwl5jjUZraWLVWHy6WnOUnxtqktVf8Ayi5rs4tPV+xHHOEnTacG01yaeGvSjhkZO8rooMqtf1q6xWrVZLuc5SWPM2Yu6d9rbVLx7tpTnUfdCLm/BI2fSejjUtTw3b9RF/nVn1WP0OM/2SitiKVBf6klHvdvTXw1MoxctEWF0Ffk+v8ASpfc0yxzXNgtl/7J20qM6vWynUdSUlHdSbjGO6ll/BXE2M+a7Qqwq4qpODunJtM6VNNQSYABpmYAAAAABwq0o1litFSXdJKS8GYT0G0by7O1z39TT/pJAEptaC1zqoW8LbhbwhD5EVH9x2gEPPNhGFc6RbXUnO5taFST5ylShKTwsLLay+B1f2fs/wDRWv1NP+kkgZb8uZFkRv8AZ+z/ANFa/U0/6TlDQrSm1KnZ2yaaaao00008pp44EgBvy5vzFkYl7plDUGnf0KNZrhFzpxm0u5OS4GOtnrNcrK1+pp/0kmApyStdk2Ri2mmULFt2NCjRbWG4U40213NxRlAGLbeoWR0XFpTuvfVKnU+XCM/3oj6my1jUeZ2Fo/8AYp/yJcGUZyjo2u529hZGDaaLbWXvS1oU33xpQi/FIzgCJScndu/eFkDhWpRrrFeMZrumlJes5gjqCLqbN2VX3SytX/s0v5HKjs9Z2/uNnax81Gmv4EkDLtJ835kWXI404KksUkoruSwvUcgDEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//Z" group-title="TV | PARAGUAY",PY*| ABC TV (PY)
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2107646
+--
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="2MB | AMC LQ" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | 2 Megas",2MB | AMC LQ
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2092602
+--
+#EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="2MB | Discovery Channel" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | 2 Megas",2MB | Discovery Channel
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2092592
+--
+#EXTINF:-1 tvg-id="National.Geographic.Channel.(West./.Mexico).(NGC).mx" tvg-name="2MB | Nat Geo" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | 2 Megas",2MB | Nat Geo
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2092567
+--
+#EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel CO" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel CO
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2218858
+#EXTINF:-1 tvg-id="National.Geographic.Channel.(West./.Mexico).(NGC).mx" tvg-name="C | Nat Geo HD" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2218856
+#EXTINF:-1 tvg-id="National.Geographic.Channel.(West./.Mexico).(NGC).mx" tvg-name="C | Nat Geo" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2218855
+--
+#EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel CL HD" tvg-logo="https://sdmx.vip:443/images/-kRhDmGtaRfxVEGEnqonPcd94cZrc7TmL0Zais5quslrivoFm5GcJgTolD3RxhoT.png" group-title="TV | Cultura",C | Discovery Channel CL HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2218850
+--
+#EXTINF:-1 tvg-id="" tvg-name="C | Filmex Documentales" tvg-logo="http://ceoapps.org/logos/filmex.png" group-title="TV | Cultura",C | Filmex Documentales
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2218846
+--
+#EXTINF:-1 tvg-id="National.Geographic.Channel.(West./.Mexico).(NGC).mx" tvg-name="C | Nat Geo HD" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/10414
+--
+#EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel HD" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/10410
+#EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | Cultura",C | Discovery Channel
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/10409
+--
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="E | AMC HD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | Entretenimiento",E | AMC HD
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/10548
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="E | AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | Entretenimiento",E | AMC
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/10547
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR | NAT GEO" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Brasil",BR | NAT GEO
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2171104
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR | AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | Brasil",BR | AMC
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2171018
+--
+#EXTINF:-1 tvg-id="" tvg-name="PY*| ABC TV (PY)" tvg-logo="data:image/jpeg;base64,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" group-title="TV | PARAGUAY",PY*| ABC TV (PY)
+https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2107646
 --
 #EXTINF:-1 tvg-id="amc.mx" tvg-name="2MB | AMC LQ" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | 2 Megas",2MB | AMC LQ
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2092602
@@ -1630,6 +1599,42 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2171018
 --
 #EXTINF:-1 tvg-id="" tvg-name="PY*| ABC TV (PY)" tvg-logo="data:image/jpeg;base64,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" group-title="TV | PARAGUAY",PY*| ABC TV (PY)
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2107646
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC FHD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | España",ES: AMC FHD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100648
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | España",ES: AMC HD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100647
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC SD" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV | España",ES: AMC SD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100646
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: NatGeo Wild FHD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | España",ES: NatGeo Wild FHD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100613
+#EXTINF:-1 tvg-id="" tvg-name="ES: NatGeo Wild HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo Wild HD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100612
+#EXTINF:-1 tvg-id="" tvg-name="ES: NatGeo Wild SD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | España",ES: NatGeo Wild SD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100611
+#EXTINF:-1 tvg-id="" tvg-name="ES: NatGeo FHD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo FHD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100610
+#EXTINF:-1 tvg-id="" tvg-name="ES: NatGeo HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo HD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100609
+#EXTINF:-1 tvg-id="" tvg-name="ES: NatGeo SD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo SD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100608
+#EXTINF:-1 tvg-id="" tvg-name="ES: Historia FHD" tvg-logo="http://l3d.us:25461/images/838a653f2110c40cc1a1393bd306a2ac.png" group-title="TV | España",ES: Historia FHD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100607
+#EXTINF:-1 tvg-id="" tvg-name="ES: Historia SD" tvg-logo="http://l3d.us:25461/images/2ce124f0a3a2c8ca5358b6c7b10b0506.png" group-title="TV | España",ES: Historia SD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100606
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel FHD" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | España",ES: Discovery Channel FHD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100605
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel SD" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | España",ES: Discovery Channel SD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100604
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea FHD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | España",ES: Odisea FHD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100584
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea SD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | España",ES: Odisea SD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100583
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX SD" tvg-logo="http://l3d.us:25461/images/888d0d03549e54793050d64651d143fa.png" group-title="TV | España",ES: DMAX SD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2100575
 --
 #EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel FHD" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel FHD
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/148703
@@ -2146,9 +2151,6 @@ http://premiumiptvmk.com:8080/F32962/7a3112d7/148330
 --
 #EXTINF:-1 tvg-id="" tvg-name="AFG: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/0c358d0d3e0d28c5eb9205a57ae44918.png" group-title="Afghanistan",AFG: AMC
 http://premiumiptvmk.com:8080/F32962/7a3112d7/66385
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d97724551d759196827296c7738de682.png" group-title="Czech Republic ➾ Movie",CZ: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/23314
 --
 #EXTINF:-1 tvg-id="" tvg-name="CZ: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d1fa6297b43fef8c81ecbb0d5377a5a8.png" group-title="Czech Republic ➾ Nature",CZ: NAT GEO Wild
 http://premiumiptvmk.com:8080/F32962/7a3112d7/23311
