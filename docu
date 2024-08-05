@@ -1359,6 +1359,28 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/643834
 #EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="USA ENTERTAINMENT",USA AMC+
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/339687
 --
+#EXTINF:-1 tvg-id="BANDAUS" tvg-name="USA Latin Bandamax" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="USA LATIN",USA Latin Bandamax
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/1617
+#EXTINF:-1 tvg-id="BANDAUS" tvg-name="USA Latin BANDAMAX" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="USA LATIN",USA Latin BANDAMAX
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/40640
+--
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East (SD)" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/logos/seo.ngsversion.1565614141405.jpg" group-title="USA LOW BANDWIDTH",USA Nat Geo East (SD)
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21575
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East (SHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="USA ENTERTAINMENT",USA Nat Geo East (SHD)
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3750
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East UHD" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/logos/seo.ngsversion.1565614141405.jpg" group-title="USA ENTERTAINMENT",USA Nat Geo East UHD
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3665
+--
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild (SHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="USA ENTERTAINMENT",USA Nat Geo Wild (SHD)
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3749
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild East SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/NGWild.png" group-title="USA LOW BANDWIDTH",USA Nat Geo Wild East SD
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21614
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild East UHD" tvg-logo="" group-title="USA ENTERTAINMENT",USA Nat Geo Wild East UHD
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3666
+--
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="USA NHL Network (SD)" tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="USA LOW BANDWIDTH",USA NHL Network (SD)
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21615
+--
 #EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | Cultura",C | Discovery Channel
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/10409
 #EXTINF:-1 tvg-id="The.Discovery.Channel.(Mexico).(DSC).mx" tvg-name="C | Discovery Channel HD" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel HD
@@ -1868,305 +1890,6 @@ http://op.web24.live:8080/ultnew/password@2024/77758
 http://op.web24.live:8080/ultnew/password@2024/74957
 #EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="USA-SD | NATIONAL GEOGRAPHIC CHANNEL (T)" tvg-logo="https://89.187.179.122:443/images/a8ZLybME7nvmZTj1j3E8s4_TDMsZgXBoScc6PgXqK0MtxC6y7HYjY1Iy_O9CDKOp.png" group-title="LOW BANDWIDTH CHANNELS",USA-SD | NATIONAL GEOGRAPHIC CHANNEL (T)
 http://op.web24.live:8080/ultnew/password@2024/77759
---
-#EXTINF:-1 tvg-id="" tvg-name="AR: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3bff988adeb13074c9ba75fd30646984.png" group-title="Arabic",AR: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/196037
---
-#EXTINF:-1 tvg-id="amc.ro" tvg-name="RO: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/caeb5aab52a02ecd3b88bb5a98b44a00.png" group-title="Romania ➾ Movie",RO: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/14854
---
-#EXTINF:-1 tvg-id="natgeo.ro" tvg-name="RO: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/cb8b055eecbdcfd97b524cfa64c5e495.png" group-title="Romania ➾ Documentary",RO: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2252
-#EXTINF:-1 tvg-id="natgeowild.ro" tvg-name="RO: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/7c1b14f0b36c27d31e7977e3621552e8.png" group-title="Romania ➾ Nature",RO: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2253
---
-#EXTINF:-1 tvg-id="" tvg-name="GR: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0d30c4f3c95445396249455231476c8e.png" group-title="Greece ➾ Documentary",GR: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/24963
---
-#EXTINF:-1 tvg-id="" tvg-name="GR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db133939dc207e29ad2cef4f8a3e7a6a.png" group-title="Greece ➾ Nature",GR: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/291128
---
-#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/68d809c9589d34424c06003f941b186d.png" group-title="France ➾ Documentary",FR: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/187
-#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3f408995121c2952c38014d30cac1a6a.png" group-title="France ➾ Nature",FR: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/278459
---
-#EXTINF:-1 tvg-id="" tvg-name="BE: Nat Geo Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f76964375c9d1dafdb14a8fbc434573c.png" group-title="Belgium",BE: Nat Geo Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/298625
---
-#EXTINF:-1 tvg-id="" tvg-name="CH: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/84dfb87e522df8221cdd3a3d07e89214.png" group-title="Switzerland ➾ Nature",CH: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/148048
---
-#EXTINF:-1 tvg-id="" tvg-name="UK: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/971eb7c085fbaa522dcf37653153c546.png" group-title="UK ➾ Movie",UK: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/4669
---
-#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/15e5cd004d609028edf73514b493c1bf.png" group-title="UK ➾ Documentary",UK: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/708
---
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK: DMAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f4da07a802fec387b6b52048f87851ac.png" group-title="UK ➾ Documentary",UK: DMAX
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1604
---
-#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/525fe2486b5af4891ec9a91dd826290d.png" group-title="UK ➾ Nature",UK: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1101
-#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f948b290a5db64efd6899586fb77810b.png" group-title="UK ➾ Nature",UK: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/724
---
-#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="Malaysia",MY: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/157528
---
-#EXTINF:-1 tvg-id="amc.pl" tvg-name="PL: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2926a999892b88ddfd688a81b56e4206.png" group-title="Poland ➾ Movie",PL: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/26539
---
-#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="PL: Discovery History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e4546f701d423acc4cafdfad8454c28a.png" group-title="Poland ➾ Documentary",PL: Discovery History
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1710
---
-#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e07007a40c8cfbb9b1f3da67edc37a.png" group-title="Poland ➾ Nature",PL: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1702
-#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: NAT GEO People" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84d273256ce861d31dbe7c3df444e1c0.png" group-title="Poland ➾ Documentary",PL: NAT GEO People
-http://premiumiptvmk.com:8080/F32962/7a3112d7/16663
-#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac4845bdac7ba84eed8649971e472708.png" group-title="Poland ➾ Nature",PL: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/278637
---
-#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="PL: TVP History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6552f2cce0d6a8ee371d17ce8ed79ecf.png" group-title="Poland ➾ Documentary",PL: TVP History
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2675
---
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="Germany ➾ Documentary",DE: DMAX
-http://premiumiptvmk.com:8080/F32962/7a3112d7/895
---
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="Germany ➾ Nature",DE: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2095
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="Germany ➾ Nature",DE: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1666
---
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Lubbock Texas KAMC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/ef6a8582c34a486da417e4b60530f5f0.png" group-title="USA ➾ News",US: ABC Lubbock Texas KAMC TV
-http://premiumiptvmk.com:8080/F32962/7a3112d7/298968
---
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5bb3f9aa12c2cba0aa25e490840e57ba.png" group-title="USA ➾ Movie",US: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/751
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC +" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="USA",US: AMC +
-http://premiumiptvmk.com:8080/F32962/7a3112d7/200388
---
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2494761535aad69b6250769697fa97cf.png" group-title="USA ➾ Documentary",US: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/23301
---
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7a9fd08d12f6c76c620bcef76c1438c7.png" group-title="USA ➾ Documentary",US: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/749
---
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fa9e9e44d448684c2043bbb9f38655ff.png" group-title="USA ➾ Nature",US: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/6503
---
-#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d43019d899bda40802bf0fa6e3d8666f.png" group-title="Canada ➾ Movie",CA: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/503
---
-#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2b3f7b83b3365022f4bc98fe09d96b72.png" group-title="Canada ➾ Documentary",CA: History
-http://premiumiptvmk.com:8080/F32962/7a3112d7/462
---
-#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1a1f5bef159f74abd349b746d3c592d2.png" group-title="Canada ➾ Documentary",CA: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/456
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/177fc2d876f98de1cd0ceccc0f3b6057.png" group-title="Canada ➾ Nature",CA: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/457
---
-#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" group-title="Turkey ➾ LifeStyle",TR: DMAX
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1805
---
-#EXTINF:-1 tvg-id="natgeopeople.tr" tvg-name="TR: Love Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b1d42705f4a58d673b5d7ffab3e86fd6.png" group-title="Turkey ➾ Nature",TR: Love Nature
-http://premiumiptvmk.com:8080/F32962/7a3112d7/837
---
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" group-title="Turkey ➾ Nature",TR: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/838
---
-#EXTINF:-1 tvg-id="" tvg-name="KU: KurdMax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/def5768d2ab3f337c19997958bab5400.png" group-title="Kurdistan",KU: KurdMax
-http://premiumiptvmk.com:8080/F32962/7a3112d7/801
-#EXTINF:-1 tvg-id="" tvg-name="KU: KurdMax Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e51dbbb8d51f1b9ba7dc4994f4c24e9a.jpg" group-title="Kurdistan",KU: KurdMax Music
-http://premiumiptvmk.com:8080/F32962/7a3112d7/799
-#EXTINF:-1 tvg-id="" tvg-name="KU: Kurdmax Pepula" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Kurdistan",KU: Kurdmax Pepula
-http://premiumiptvmk.com:8080/F32962/7a3112d7/193428
-#EXTINF:-1 tvg-id="" tvg-name="KU: KurdMax Show" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/19501836666ee1ef8b37faaf5aaca291.png" group-title="Kurdistan",KU: KurdMax Show
-http://premiumiptvmk.com:8080/F32962/7a3112d7/800
---
-#EXTINF:-1 tvg-id="natgeo.nl" tvg-name="NL: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bc00af729a5e1c577361ae06ebba02dd.png" group-title="Netherlands ➾ Documentary",NL: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2476
-#EXTINF:-1 tvg-id="natgeowild.nl" tvg-name="NL: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87b97295a8979f02e78e291c0dc601d6.png" group-title="Netherlands ➾ Nature",NL: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2475
---
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="IT: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0de1927f10af26a018abb19d1a94ac49.png" group-title="Italy ➾ Documentary",IT: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/7868
---
-#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT: DMAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/58eee1d2403900d8ded25fe6e9cf8922.png" group-title="Italy ➾ Documentary",IT: DMAX
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2006
---
-#EXTINF:-1 tvg-id="natgeo.it" tvg-name="IT: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4dcc7772f88e74b3b7f35f49811ec300.png" group-title="Italy ➾ Documentary",IT: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2512
-#EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d5b282a5217e4a6c42bdc7221f5687f6.png" group-title="Italy ➾ Nature",IT: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/279657
---
-#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8ba2d41f5a186346b45808c1373f8c52.png" group-title="India ➾ Documentary",IN: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/295292
---
-#EXTINF:-1 tvg-id="" tvg-name="IN: Filamchi Bhojpuri" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/49bc1ffccf9429b0b6c4d1835dcbfaaa.png" group-title="India",IN: Filamchi Bhojpuri
-http://premiumiptvmk.com:8080/F32962/7a3112d7/272573
---
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png" group-title="Spain ➾ Movie",ES: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1174
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Break" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/9a21b76a7e3d1750ac4c0fbc614f50ac.jpg" group-title="Spain ➾ Movie",ES: AMC Break
-http://premiumiptvmk.com:8080/F32962/7a3112d7/297245
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Odisea" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="Spain ➾ Nature",ES: Canal Odisea
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2194
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3fc73f3c664e7a9f6d4cb5e55d8b1478.png" group-title="Spain ➾ Movie",ES: DMAX
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2762
---
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="Spain ➾ Documentary",ES: Historia
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1155
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Documentales" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7ea401e202cb4c84475bf27b8caf5b3e.jpg" group-title="Spain ➾ Documentary",ES: Movistar Documentales
-http://premiumiptvmk.com:8080/F32962/7a3112d7/300839
---
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Spain ➾ Documentary",ES: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1138
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e3b9d45a12bb5904d2de532e80d45214.png" group-title="Spain ➾ Nature",ES: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1137
---
-#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/1c8441caf45385a7f3acc1c0494f28dd.png" group-title="Albania",AL: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/301663
---
-#EXTINF:-1 tvg-id="" tvg-name="AL: Nat Geo Wild" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",AL: Nat Geo Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/23753
---
-#EXTINF:-1 tvg-id="amchd.pt" tvg-name="PT: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="Portugal ➾ Movie",PT: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1473
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Break" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/0543568e9c7c0d015a60cae8d40e87e2.svg" group-title="Portugal ➾ Documentary",PT: AMC Break
-http://premiumiptvmk.com:8080/F32962/7a3112d7/302757
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/1e90dfa040dfc0b5a501c08e3078693b.svg" group-title="Portugal ➾ Documentary",PT: AMC Crime
-http://premiumiptvmk.com:8080/F32962/7a3112d7/302758
---
-#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: Historia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="Portugal ➾ Documentary",PT: Historia
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1525
---
-#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Portugal ➾ Nature",PT: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1531
---
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/170f470424e5b9c40404492047bcab2d.png" group-title="Latino",LA: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/281050
---
-#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6571f8f4e51ded8b78e6028593640aee.png" group-title="Latino",LA: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/8745
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/db7232f349d96b8ed9fae2fcacaaa50e.png" group-title="Mexico ➾ Movie",MX: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/9083
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",MX: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/280388
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png" group-title="Mexico",MX: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/9072
---
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil ➾ Movie",BR: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/8845
---
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/d14d252c13e235b24691090c4fd47fc6.png" group-title="Brazil ➾ Documentary",BR: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/299696
---
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/2ffcbd5676076e9ba265226e0d30b4ec.png" group-title="Brazil ➾ Nature",BR: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/8905
---
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/7869eca9586b44e92468ac2235338af9.png" group-title="Argentina",ARG: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/38654
---
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/75e48322567d65f1f20b24133b57315b.png" group-title="Argentina",ARG: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/38698
---
-#EXTINF:-1 tvg-id="" tvg-name="CO: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5f2dbbe8d8a29a698d9aaed52654847b.png" group-title="Colombia",CO: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/172601
---
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a7fbf15ad668dc2ec1d532915071d713.png" group-title="EX-YU",EX-YU: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/20166
---
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Nat Geo Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3400587dd3c8901b1f37db760ded9f0b.png" group-title="EX-YU",EX-YU: Nat Geo Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/4178
---
-#EXTINF:-1 tvg-id="" tvg-name="RS: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84926dfdd209c787387dbbd325be24ba.png" group-title="Serbia ➾ Nature",RS: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/51700
---
-#EXTINF:-1 tvg-id="amc.hr" tvg-name="HR: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/636f40d407c3c5edcd4b1dd4607ac4e6.png" group-title="Croatia ➾ Movie",HR: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/65778
---
-#EXTINF:-1 tvg-id="natgeowild.hr" tvg-name="HR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/330b3b21ad24d9696ead334dba4eee0c.png" group-title="Croatia ➾ Nature",HR: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/16595
---
-#EXTINF:-1 tvg-id="natgeowild.no" tvg-name="NO: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a44ae0c7054790ee5393a6b87be73909.png" group-title="Norway ➾ Nature",NO: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/84113
---
-#EXTINF:-1 tvg-id="natgeowild.dk" tvg-name="DK: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ecbfd20148c8ea8fb49c1d5bdcd7daca.png" group-title="Denmark ➾ Nature",DK: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/13581
---
-#EXTINF:-1 tvg-id="natgeo.se" tvg-name="SE: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bb7b8711a99482843f6e233e25cb9e44.png" group-title="Sweden ➾ Nature",SE: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/10641
-#EXTINF:-1 tvg-id="natgeowild.se" tvg-name="SE: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b9439d6d1087106fca437d51fb513ba.png" group-title="Sweden ➾ Nature",SE: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/20327
---
-#EXTINF:-1 tvg-id="" tvg-name="IL: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/28b698b15c5120c081c3f8ce17a19804.png" group-title="Israel",IL: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/163446
---
-#EXTINF:-1 tvg-id="" tvg-name="IL: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/d3adec9a5b269bf920bc63c8a57041ef.png" group-title="Israel",IL: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/163469
---
-#EXTINF:-1 tvg-id="" tvg-name="BIH: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/dd26455a68322149c38ec434e2d6e0d6.png" group-title="Bosnia",BIH: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/67762
---
-#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d63d8ce131e79a2ee2d93a55fee4d5a7.png" group-title="Hungary ➾ Movie",HU: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/72597
---
-#EXTINF:-1 tvg-id="" tvg-name="HU: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c3cdd713de8c6f4f64ff8841cf81504d.png" group-title="Hungary ➾ Nature",HU: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/72633
---
-#EXTINF:-1 tvg-id="amc.bg" tvg-name="BG: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/0742584c913f87b4965f2d25d360ff9a.png" group-title="Bulgaria ➾ Movie",BG: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/31994
---
-#EXTINF:-1 tvg-id="natgeohd.bg" tvg-name="BG: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/32d9484e63dbb07887c08c71ef151af4.png" group-title="Bulgaria ➾ Nature",BG: NAT GEO
-http://premiumiptvmk.com:8080/F32962/7a3112d7/25855
-#EXTINF:-1 tvg-id="natgeowild.bg" tvg-name="BG: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e373072b6f192ac552d3d95c6e7349ed.png" group-title="Bulgaria ➾ Nature",BG: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/25849
---
-#EXTINF:-1 tvg-id="" tvg-name="SUR: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b7cfe83bafc3756759299495c4c48ae.png" group-title="Suriname",SUR: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/298147
---
-#EXTINF:-1 tvg-id="" tvg-name="ZA: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/7b34d6a176a503fc18822e95dd170bdb.png" group-title="South Africa ➾ Documentary",ZA: Discovery Channel
-http://premiumiptvmk.com:8080/F32962/7a3112d7/193274
---
-#EXTINF:-1 tvg-id="" tvg-name="ZA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/74547c99cef10aaa623adf2924688524.png" group-title="South Africa ➾ Nature",ZA: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/193286
---
-#EXTINF:-1 tvg-id="" tvg-name="RU: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e61f884c01a6009b322db9abfc1cc06.png" group-title="Russia ➾ Nature",RU: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/19054
---
-#EXTINF:-1 tvg-id="" tvg-name="UKR: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0bb0282c5e4c6d57b38763b82daf10be.png" group-title="Ukraine",UKR: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/148330
---
-#EXTINF:-1 tvg-id="" tvg-name="AFG: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/0c358d0d3e0d28c5eb9205a57ae44918.png" group-title="Afghanistan",AFG: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/66385
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d1fa6297b43fef8c81ecbb0d5377a5a8.png" group-title="Czech Republic ➾ Nature",CZ: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/23311
---
-#EXTINF:-1 tvg-id="" tvg-name="FI: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/67073f806bf3ae269795a968989693b5.png" group-title="Finland",FI: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/72606
---
-#EXTINF:-1 tvg-id="" tvg-name="QA: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/d2295d933a496e03f54e50027080ab7f.png" group-title="Qatar ➾ Movie",QA: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/280250
---
-#EXTINF:-1 tvg-id="" tvg-name="QA: DMAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="Qatar ➾ Movie",QA: DMAX
-http://premiumiptvmk.com:8080/F32962/7a3112d7/280251
---
-#EXTINF:-1 tvg-id="" tvg-name="QA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fee54ff84b28d06ce00c70570b2571f9.png" group-title="Qatar ➾ Nature",QA: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/290302
---
-#EXTINF:-1 tvg-id="" tvg-name="AE: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6feca35d9f1c521dd925e4ba60cb943d.png" group-title="UAE ➾ Movie",AE: AMC
-http://premiumiptvmk.com:8080/F32962/7a3112d7/43878
---
-#EXTINF:-1 tvg-id="" tvg-name="AE: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/84a5e402fa87824ee22baa68a77f7c3c.png" group-title="UAE ➾ Nature",AE: NAT GEO Wild
-http://premiumiptvmk.com:8080/F32962/7a3112d7/3704
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/iMAWgK9Z3C2L0MaI17VqwdZi8bJ.jpg" group-title="2022",Devotion: Historia de honor (2022)
 http://144.217.180.205/Peliculas/Aventura/Ver%20Devotion.%20Una%20historia%20de%20h%c3%a9roes%20(2022)%20Online%20Cuevana%203.mp4
