@@ -200,18 +200,39 @@ https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144844
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144846
 --
-#EXTINF:-1 tvg-id="" tvg-name="MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | MASN 2" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | MASN 2
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230681
-#EXTINF:-1 tvg-id="" tvg-name="MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230682
-#EXTINF:-1 tvg-id="" tvg-name="MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Pacific" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Pacific
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230683
-#EXTINF:-1 tvg-id="" tvg-name="MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Ontario" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Ontario
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230684
-#EXTINF:-1 tvg-id="" tvg-name="MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet East" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet East
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230685
-#EXTINF:-1 tvg-id="" tvg-name="MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet West" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 06/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet West
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230686
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/126152
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/126151
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto-BlueJays" tvg-logo="http://ceoapps.org/logos/mlbtv2.png" group-title="TV | MLB Network",MLB | Toronto-BlueJays
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2229484
+--
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144844
+--
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144846
+--
+#EXTINF:-1 tvg-id="" tvg-name="Algodoneros Laguna en Toros Tijuana | 8:35PM| Latin America Sport" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",Algodoneros Laguna en Toros Tijuana | 8:35PM| Latin America Sport
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230817
+#EXTINF:-1 tvg-id="" tvg-name="Algodoneros Laguna en Toros Tijuana | 8:35PM | Multimedios" tvg-logo="http://panel.maxmax.live/png/sports/lmb.png" group-title="TV | PPV LMB 2024",Algodoneros Laguna en Toros Tijuana | 8:35PM | Multimedios
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230818
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | MASN 2" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | MASN 2
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230875
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet One" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet One
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230876
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230877
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Pacific" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Pacific
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230878
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Ontario" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet Ontario
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230879
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet East" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet East
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230880
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet West" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 07/Aug 17:07 | Toronto Blue Jays Vs. Baltimore Orioles | Sportsnet West
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2230881
 --
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144844
@@ -241,15 +262,6 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168355
 #EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto-BlueJays" tvg-logo="http://ceoapps.org/logos/mlbtv2.png" group-title="TV | MLB Network",MLB | Toronto-BlueJays
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2229484
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S014 | 08/06  S032 |  (LEAGUESCUP) PACHUCA VS TORONTO FC 07:00 PM EST (ATV)" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/5/5e/LeaguesCupLogo.png/revision/latest?cb=20190529175133&path-prefix=es" group-title="SOCCER / FUTBOL PACKAGE",  S014 | 08/06  S032 |  (LEAGUESCUP) PACHUCA VS TORONTO FC 07:00 PM EST (ATV)
-http://op.web24.live:8080/ultnew/password@2024/47546
---
-#EXTINF:-1 tvg-id="" tvg-name="  S031 | 08/06  S015 |   06:00:PM ? PACHUCA VS TORONTO FC" tvg-logo="http://miarea.vip:8080/images/835ef7af5193c3d4c78c2b08b2c654c9.png" group-title="SOCCER / FUTBOL PACKAGE",  S031 | 08/06  S015 |   06:00:PM ? PACHUCA VS TORONTO FC
-http://op.web24.live:8080/ultnew/password@2024/47563
---
-#EXTINF:-1 tvg-id="" tvg-name="  S042 | 08/06  S004 |  MLS 04 | TORONTO FC @ PACHUCA | -08:00PM | APPLE TV+ TSN3 TSN" tvg-logo="https://www.nicepng.com/png/detail/178-1781250_major-league-soccer-logo-png-major-league-soccer.png" group-title="SOCCER / FUTBOL PACKAGE",  S042 | 08/06  S004 |  MLS 04 | TORONTO FC @ PACHUCA | -08:00PM | APPLE TV+ TSN3 TSN
-http://op.web24.live:8080/ultnew/password@2024/47574
---
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC NEWS TORONTO" tvg-logo="https://www.cbc.ca/toronto/features/is-2011/images/cbcnews-toronto-300.gif" group-title="CANADA",CA | CBC NEWS TORONTO
 http://op.web24.live:8080/ultnew/password@2024/1245
 --
@@ -273,8 +285,8 @@ http://op.web24.live:8080/ultnew/password@2024/1193
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES | TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAIN",ES | TOROS TV
 http://op.web24.live:8080/ultnew/password@2024/36451
 --
-#EXTINF:-1 tvg-id="MLB 06" tvg-name="MLB 06 | BALTIMORE ORIOLES @ TORONTO BLUE JAYS | 08/06-07:07PM | MASN 2 SPORTSNET" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 06 | BALTIMORE ORIOLES @ TORONTO BLUE JAYS | 08/06-07:07PM | MASN 2 SPORTSNET
-http://op.web24.live:8080/ultnew/password@2024/53054
+#EXTINF:-1 tvg-id="MLB 11" tvg-name="MLB 11 | BALTIMORE ORIOLES @ TORONTO BLUE JAYS | 08/07-07:07PM | SPORTSNET MASN 2" tvg-logo="" group-title="MLB PACKAGE",MLB 11 | BALTIMORE ORIOLES @ TORONTO BLUE JAYS | 08/07-07:07PM | SPORTSNET MASN 2
+http://op.web24.live:8080/ultnew/password@2024/53059
 --
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/ultnew/password@2024/53090

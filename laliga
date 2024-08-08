@@ -748,6 +748,28 @@ https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/157373
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/223953
 --
+#EXTINF:-1 tvg-id="" tvg-name="D |  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D |  LaLiga SmartBank HD
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144863
+--
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D | DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D | DAZN LaLigaTV HD
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/197233
+--
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga HD" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga HD
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/157372
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/157371
+--
+#EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/220429
+--
+#EXTINF:-1 tvg-id="" tvg-name="SE| Movistar La Liga" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | Soccer Europa",SE| Movistar La Liga
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/223873
+--
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/157373
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
+https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/223953
+--
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144812
 --
