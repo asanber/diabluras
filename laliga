@@ -556,6 +556,22 @@ http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/11230
 #EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ Full HD HEVC" tvg-logo="" group-title="SPAIN",ES | Movistar LaLigaⓧ Full HD HEVC
 http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/17823
 --
+#EXTINF:-1 tvg-id="" tvg-name="PPVV| MOVISTAR LA LIGA FHD" tvg-logo="" group-title="SPORTS",PPVV| MOVISTAR LA LIGA FHD
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/13865
+--
+#EXTINF:-1 tvg-id="" tvg-name="PPVV| LA LIGA TV BAR  ULTRA HD" tvg-logo="" group-title="SPORTS",PPVV| LA LIGA TV BAR  ULTRA HD
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/13893
+#EXTINF:-1 tvg-id="" tvg-name="PPVV| MOVISTAR LA LIGA 2K ULTRA HD**" tvg-logo="" group-title="SPORTS",PPVV| MOVISTAR LA LIGA 2K ULTRA HD**
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/13894
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports La Liga | HD" tvg-logo="" group-title="SPORTS",UK: beIN Sports La Liga | HD
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/14477
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LALIGA 3 FHD" tvg-logo="" group-title="SPORTS",ES: Movistar LALIGA 3 FHD
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/15049
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LALIGA 4" tvg-logo="" group-title="SPORTS",ES: Movistar LALIGA 4
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/15050
+--
 #EXTINF:-1 tvg-id="" tvg-name="USA | LaLiga TV en Español FHD" tvg-logo="http://xplatinmedia.com:8080/images/542e56446000fce5f5948051042de58b.png" group-title="USA",USA | LaLiga TV en Español FHD
 http://bandookk.xyz:61/skyott/HafizKhan56584De552324/42488
 --
@@ -776,8 +792,7 @@ http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc
 http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/201192
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="03 - M+ DAZN ESPAÑA ",DAZN LA LIGA 2 FHD
 http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/201193
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LIGA 3 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="03 - M+ DAZN ESPAÑA ",DAZN LIGA 3 FHD 
-http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/207247
+--
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LIGA 4 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="03 - M+ DAZN ESPAÑA ",DAZN LIGA 4 FHD 
 http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/207248
 --
@@ -999,6 +1014,11 @@ http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/440268
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (DAZN La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (DAZN La Liga 2)
 http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/440269
 --
+#EXTINF:-1 tvg-id="" tvg-name="10:55 AM | ATHLETIC CLUB VS GETAFE (LALIGA)" tvg-logo="http://lotvservice.us:8880/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sFH1v13G9b2UQ2K5mrYBOwy9cTEBNuJCEq_0Dt28lFXpKZ3uD2lTpunHdWx4Ji2aI.png" group-title="EVENTOS FUTBOL",10:55 AM | ATHLETIC CLUB VS GETAFE (LALIGA)
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/552880
+#EXTINF:-1 tvg-id="" tvg-name="01:25 PM | REAL BETIS VS GIRONA (LALIGA)" tvg-logo="http://lotvservice.us:8880/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sFH1v13G9b2UQ2K5mrYBOwy9cTEBNuJCEq_0Dt28lFXpKZ3uD2lTpunHdWx4Ji2aI.png" group-title="EVENTOS FUTBOL",01:25 PM | REAL BETIS VS GIRONA (LALIGA)
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/552881
+--
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN SPORTS La Liga" tvg-logo="http://tvstar.live:8880/chimg/1603498410.png" group-title="BEIN SPORTS ",US: beIN SPORTS La Liga
 http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/214737
 --
@@ -1148,6 +1168,31 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/157372
 #EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/220429
 --
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 15/Aug | 11:00 | Athletic Club vs Getafe" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 15/Aug | 11:00 | Athletic Club vs Getafe
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232775
+--
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 15/Aug | 13:30 | Real Betis vs Girona" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 15/Aug | 13:30 | Real Betis vs Girona
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232780
+--
+#EXTINF:-1 tvg-id="" tvg-name="Liga de España | 15/Aug 10:50 | Athletic Bilbao vs. Getafe | ESPN 2" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | PPV La Liga",Liga de España | 15/Aug 10:50 | Athletic Bilbao vs. Getafe | ESPN 2
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232842
+#EXTINF:-1 tvg-id="" tvg-name="Liga de España | 15/Aug 13:20 | Real Betis vs. Girona | ESPN 2" tvg-logo="http://panel.maxmax.live/png/sports/sports.png" group-title="TV | PPV La Liga",Liga de España | 15/Aug 13:20 | Real Betis vs. Girona | ESPN 2
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232843
+--
+#EXTINF:-1 tvg-id="" tvg-name="La Liga | 15/Aug 11:00 | Athletic Club Vs. Getafe | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 15/Aug 11:00 | Athletic Club Vs. Getafe | ESPN Deportes
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232902
+#EXTINF:-1 tvg-id="" tvg-name="La Liga | 15/Aug 13:30 | Real Betis Vs. Girona | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 15/Aug 13:30 | Real Betis Vs. Girona | ESPN Deportes
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232903
+--
+#EXTINF:-1 tvg-id="" tvg-name="12:00 | LALIGA | Athletic Club vs. Getafe | HD | SPA" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",12:00 | LALIGA | Athletic Club vs. Getafe | HD | SPA
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232957
+#EXTINF:-1 tvg-id="" tvg-name="12:00 | LALIGA | Athletic Club vs. Getafe | SD |" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",12:00 | LALIGA | Athletic Club vs. Getafe | SD |
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232958
+#EXTINF:-1 tvg-id="" tvg-name="14:30 | LALIGA | Real Betis vs. Girona | HD | SPA" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",14:30 | LALIGA | Real Betis vs. Girona | HD | SPA
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232959
+#EXTINF:-1 tvg-id="" tvg-name="14:30 | LALIGA | Real Betis vs. Girona | SD |" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",14:30 | LALIGA | Real Betis vs. Girona | SD |
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2232960
+--
 #EXTINF:-1 tvg-id="" tvg-name="D |  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D |  LaLiga SmartBank HD
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144863
 --
@@ -1191,72 +1236,6 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/223873
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/157373
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/223953
---
-#EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144812
---
-#EXTINF:-1 tvg-id="" tvg-name="D |  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D |  LaLiga SmartBank HD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144863
---
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D | DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D | DAZN LaLigaTV HD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/197233
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/157371
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga HD" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga HD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/157372
---
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D| Movistar La Liga" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",D| Movistar La Liga
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/157373
---
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/223953
---
-#EXTINF:-1 tvg-id="" tvg-name="SE| Movistar La Liga" tvg-logo="http://l3d.us:8080/images/975a9b01bff1dc14ee1325846b25918f.png" group-title="TV | Soccer Europa",SE| Movistar La Liga
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/223873
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn 2 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Dazn 2 HD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2133202
-#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn Formula 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Dazn Formula 1 HD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2133206
-#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: Dazn Formula 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: Dazn Formula 1 HD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2133234
-#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Liga de Campeones 1 SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: M. Liga de Campeones 1 SD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2133221
-#EXTINF:-1 tvg-id="" tvg-name="SP: La Liga: M. Liga de Campeones HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",SP: La Liga: M. Liga de Campeones HD
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2133220
---
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | LALIGA TV BAR" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | LALIGA TV BAR
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/220429
---
-#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="  S061 | WED, 8/14 - LALIGA NEWS | 08/14-09:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S061 | WED, 8/14 - LALIGA NEWS | 08/14-09:00AM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/75814
---
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="BEIN SPORTS",BEIN SPORTS LA LIGA - LA
-http://op.web24.live:8080/ultnew/password@2024/59057
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LALIGA" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",BEIN SPORTS LALIGA
-http://op.web24.live:8080/ultnew/password@2024/59058
---
-#EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
-http://op.web24.live:8080/ultnew/password@2024/36465
---
-#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="ESPN+ 001 | WED, 8/14 - LALIGA NEWS | 08/14-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 001 | WED, 8/14 - LALIGA NEWS | 08/14-09:00AM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52686
---
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
-http://op.web24.live:8080/ultnew/password@2024/59239
---
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA |  BEIN SPORTS LA LIGA" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="INTERNATIONAL SPORTS",USA |  BEIN SPORTS LA LIGA
-http://op.web24.live:8080/ultnew/password@2024/47120
---
-#EXTINF:-1 tvg-id="" tvg-name="USA | BEIN SPORTS LA LIGA" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png" group-title="BEIN SPORTS",USA | BEIN SPORTS LA LIGA
-http://op.web24.live:8080/ultnew/password@2024/59221
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="USA SPORTS NETWORKS",USA | BEIN SPORTS LALIGA TV
-http://op.web24.live:8080/ultnew/password@2024/12037
-#EXTINF:-1 tvg-id="" tvg-name="USA | BEIN SPORTS LALIGA TV" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png" group-title="BEIN SPORTS",USA | BEIN SPORTS LALIGA TV
-http://op.web24.live:8080/ultnew/password@2024/59222
---
-#EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT LALIGA" tvg-logo="https://i.ibb.co/6gp77Z8/supersport-laliga-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT LALIGA
-http://op.web24.live:8080/ultnew/password@2024/43153
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN LaLiga
 http://premiumiptvmk.com:8080/F32962/7a3112d7/297787
