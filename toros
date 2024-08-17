@@ -224,9 +224,6 @@ http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/517237
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="NBA: Toronto Raptors" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1200px-Toronto_Raptors_logo.svg.png" group-title="TESTING/FIXING/OFFSEASON",NBA: Toronto Raptors
 http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/57056
 --
-#EXTINF:-1 tvg-id="" tvg-name="MLB: TORONTO BLUEJAYS" tvg-logo="" group-title="TESTING/FIXING/OFFSEASON",MLB: TORONTO BLUEJAYS
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/83797
---
 #EXTINF:-1 tvg-id="" tvg-name="MLS: TORONTO FC" tvg-logo="" group-title="USA MLS",MLS: TORONTO FC
 http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/94176
 --
@@ -253,9 +250,6 @@ http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46839
 --
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="NBA: Toronto Raptors" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1200px-Toronto_Raptors_logo.svg.png" group-title="TESTING/FIXING/OFFSEASON",NBA: Toronto Raptors
 http://jabawalkies.club:8080/kypxj9EKBK/F3x4mka53S/57056
---
-#EXTINF:-1 tvg-id="" tvg-name="MLB: TORONTO BLUEJAYS" tvg-logo="" group-title="TESTING/FIXING/OFFSEASON",MLB: TORONTO BLUEJAYS
-http://jabawalkies.club:8080/kypxj9EKBK/F3x4mka53S/83797
 --
 #EXTINF:-1 tvg-id="" tvg-name="MLS: TORONTO FC" tvg-logo="" group-title="USA MLS",MLS: TORONTO FC
 http://jabawalkies.club:8080/kypxj9EKBK/F3x4mka53S/94176
@@ -326,6 +320,24 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/87962
 #EXTINF:-1 tvg-id="" tvg-name="CA TV 16 Toronto (Asian)" tvg-logo="" group-title="CANADA",CA TV 16 Toronto (Asian)
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/87963
 --
+#EXTINF:-1 tvg-id="abc7wxyz.us" tvg-name="MI | Detroit | ABC 7 WXYZ" tvg-logo="https://www.cantoromarket.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-07-at-10.00.17-AM.png" group-title="USA LOCAL - ABC",MI | Detroit | ABC 7 WXYZ
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2690
+--
+#EXTINF:-1 tvg-id="TOR.mlb" tvg-name="MLB Toronto Blue Jays" tvg-logo="https://f1.pngfuel.com/png/491/452/964/mlb-logo-toronto-blue-jays-toronto-blue-jays-baseball-club-st-louis-cardinals-symbol-organization-perfect-cut-emblem-png-clip-art-thumbnail.png" group-title="USA MLB",MLB Toronto Blue Jays
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/390426
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLS Toronto DC (HD)" tvg-logo="" group-title="USA MLS",MLS Toronto DC (HD)
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/647821
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT TOROS TV" tvg-logo="" group-title="PORTUGAL",PT TOROS TV
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/833
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL Toronto Maple Leafs" tvg-logo="" group-title="USA NHL",USA NHL Toronto Maple Leafs
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/509731
+--
+#EXTINF:-1 tvg-id="TOR.nba" tvg-name="[NBA] TORONTO RAPTORS" tvg-logo="https://pbs.twimg.com/media/Ef46y0hXkAUa-27.png" group-title="USA NBA",[NBA] TORONTO RAPTORS
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/89086
+--
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -368,6 +380,12 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/126151
 --
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 16/Aug 12:20 | Chicago Cubs Vs. Toronto Blue Jays | Fubo Sports US" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 16/Aug 12:20 | Chicago Cubs Vs. Toronto Blue Jays | Fubo Sports US
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233109
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 13:20 | Chicago Cubs vs. Toronto Blue Jays | HD |" tvg-logo="https://od.lk/s/MzlfNDMwOTkwNjZf/mlb.png" group-title="TV | PPV MLB",MLB | 13:20 | Chicago Cubs vs. Toronto Blue Jays | HD |
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233253
+--
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -395,6 +413,81 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144844
 --
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/2144846
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 16/Aug 12:20 | Chicago Cubs Vs. Toronto Blue Jays | Fubo Sports US" tvg-logo="http://panel.maxmax.live/png/sports/mlb.png" group-title="TV | PPV MLB",MLB | 16/Aug 12:20 | Chicago Cubs Vs. Toronto Blue Jays | Fubo Sports US
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233109
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB | 13:20 | Chicago Cubs vs. Toronto Blue Jays | HD |" tvg-logo="https://od.lk/s/MzlfNDMwOTkwNjZf/mlb.png" group-title="TV | PPV MLB",MLB | 13:20 | Chicago Cubs vs. Toronto Blue Jays | HD |
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233253
+--
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144844
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144846
+--
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/126152
+#EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/126151
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581432928232-cbc-toronto.png" group-title="TV | Canada",CA | CBC Toronto
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168281
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jo3mMNT6kLCMfF80nhlZ2EIaa1aHtTXn80wzGKTJdMi7_o51r_ftr4eBYUI_M9BMumA&usqp=CAU" group-title="TV | Canada",CA: CBC Toronto
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168304
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: City Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvo16Q2gKzEDJEUuFRsrG86Zc2pkfWqxEooX5YWKeMB7CUfv3NbfwSoN2Q8ZNjIvOxsI&usqp=CAU" group-title="TV | Canada",CA: City Toronto
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168312
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuh_Ty1xtoaoI6ORnMNcuJh3mQ4MR9_hK6sSAaDr9kRQtkt5CdxyOPfOZDap3er5DnrY4&usqp=CAU" group-title="TV | Canada",CA: CTV Toronto
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168330
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global Toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmW6aZcI1RJ3k-K5d8wRn9mW3fI_Rz908dddTXVE-2gF8I64rW_MV87VE7va-mCYxpKsE&usqp=CAU" group-title="TV | Canada",CA: Global Toronto
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2168355
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto-BlueJays" tvg-logo="http://ceoapps.org/logos/mlbtv2.png" group-title="TV | PPV MLB Pass",MLB | Toronto-BlueJays
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2229484
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC NEWS TORONTO" tvg-logo="https://www.cbc.ca/toronto/features/is-2011/images/cbcnews-toronto-300.gif" group-title="CANADA",CA | CBC NEWS TORONTO
+http://op.web24.live:8080/ultnew/password@2024/1245
+--
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA | CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Logo_of_CITY_TV.png" group-title="CANADA",CA | CITY TV
+http://op.web24.live:8080/ultnew/password@2024/1230
+--
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA | CITY TV TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Logo_of_CITY_TV.png" group-title="CANADA",CA | CITY TV TORONTO
+http://op.web24.live:8080/ultnew/password@2024/1232
+--
+#EXTINF:-1 tvg-id="ctv2toronto.ca" tvg-name="CA | CTV 2  TORONTO" tvg-logo="https://i.ibb.co/YTsgY1D/CTV2.png" group-title="CANADA",CA | CTV 2  TORONTO
+http://op.web24.live:8080/ultnew/password@2024/62218
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV TORONTO" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/ctv_toronto_1.png" group-title="CANADA",CA | CTV TORONTO
+http://op.web24.live:8080/ultnew/password@2024/1212
+#EXTINF:-1 tvg-id="ctv2toronto.ca" tvg-name="CA | CTV TWO" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2-490x490.png" group-title="CANADA",CA | CTV TWO
+http://op.web24.live:8080/ultnew/password@2024/1211
+--
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA | GLOBAL TORONTO" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/global_toronto_0.png" group-title="CANADA",CA | GLOBAL TORONTO
+http://op.web24.live:8080/ultnew/password@2024/1193
+--
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES | TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAIN",ES | TOROS TV
+http://op.web24.live:8080/ultnew/password@2024/36451
+--
+#EXTINF:-1 tvg-id="MLB 01" tvg-name="MLB 01 | TORONTO BLUE JAYS @ CHICAGO CUBS | 08/16-02:20PM | APPLE TV+" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 01 | TORONTO BLUE JAYS @ CHICAGO CUBS | 08/16-02:20PM | APPLE TV+
+http://op.web24.live:8080/ultnew/password@2024/53049
+--
+#EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
+http://op.web24.live:8080/ultnew/password@2024/53090
+--
+#EXTINF:-1 tvg-id="NBA TOR" tvg-name="NBA TEAM | TORONTO RAPTORS" tvg-logo="https://i.ibb.co/HzbyNDm/toronto-raptors.png" group-title="NBA / WNBA PACKAGE",NBA TEAM | TORONTO RAPTORS
+http://op.web24.live:8080/ultnew/password@2024/48176
+--
+#EXTINF:-1 tvg-id="TorontoMapleLeafs.nhl" tvg-name="NHL TEAM | TORONTO MAPLE LEAFS" tvg-logo="https://i.ibb.co/nzC8kPn/maple-leafs.png" group-title="NHL PACKAGE",NHL TEAM | TORONTO MAPLE LEAFS
+http://op.web24.live:8080/ultnew/password@2024/48273
+--
+#EXTINF:-1 tvg-id="Toros TV PT" tvg-name="PT | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="PORTUGAL",PT | TOROS TV
+http://op.web24.live:8080/ultnew/password@2024/1448
+--
+#EXTINF:-1 tvg-id="pbseast.ca" tvg-name="USA | PBS" tvg-logo="https://i.ibb.co/fCBSvvv/wned-pbs-buffalo-toronto.png" group-title="USA ENTERTAINMENT",USA | PBS
+http://op.web24.live:8080/ultnew/password@2024/6851
 --
 #EXTINF:-1 tvg-id="" tvg-name="IR: Toronto Farsi Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/293fc15e79848e8b042406b7a4393681.jpg" group-title="Iran",IR: Toronto Farsi Network
 http://premiumiptvmk.com:8080/F32962/7a3112d7/301191
@@ -444,3 +537,11 @@ https://jmp2.uk/SamsungTVPlus/CA1500002Q4.m3u8
 --
 #EXTINF:-1 channel-id="samsung-CA1500002Q4" tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20240730T012845SQUARE.png" tvg-chno="1046" group-title="News & Opinion" , CBC News Toronto
 https://jmp2.uk/SamsungTVPlus/CA1500002Q4.m3u8
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="🏆 Sports",EL TORO TV HD
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="🏆 Sports",EL TORO TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+--
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ad19zZ358FoVrpp0z4HP4EoNj1j.jpg",Toro Rosa
+https://archive.org/download/la-pantera-rosa/01x14%20Toro%20Rosa.mp4
