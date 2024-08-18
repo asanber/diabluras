@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD ep  8286
 acestream://8286183314d367940409b760bbf887f3fb923f60
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD  dce1
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  aa82
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  7d8c
@@ -83,6 +85,8 @@ acestream://7b975804279b0aa421496538ad21397cc06ddfb8
 --
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD ep  8286
 http://127.0.0.1:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD  dce1
+http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  aa82
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  7d8c
@@ -698,6 +702,8 @@ http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc
 http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/846689
 #EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LA LIGA TV BAR SD" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" group-title="02 - M+ FÚTBOL ESPAÑA",LA LIGA TV BAR SD
 http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/598039
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LA LIGA TV BAR HD" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" group-title="02 - M+ FÚTBOL ESPAÑA",LA LIGA TV BAR HD
+http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/598038
 #EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LA LIGA TV BAR FHD" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" group-title="02 - M+ FÚTBOL ESPAÑA",LA LIGA TV BAR FHD
 http://eurogenius.pro:8080/9UuXeRumwugbResharePro@EliTe@@/UnZzJyKcdRcs@@UnZzJyKc/598037
 #EXTINF:-1 tvg-id="LALIGATVBAR2" tvg-name="LA LIGA TV BAR 2 FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA1.png" group-title="02 - M+ FÚTBOL ESPAÑA",LA LIGA TV BAR 2 FHD 
@@ -1012,6 +1018,19 @@ http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/440268
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | La Liga (DAZN La Liga 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="DEPORTES ESPAÑA",DEP ES | La Liga (DAZN La Liga 2)
 http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/440269
 --
+#EXTINF:-1 tvg-id="" tvg-name="004 ES: La Liga / Osasuna vs Leganes 11:00AM - Valencia vs Barcelona 1:30PM - La Liga TVBAR" tvg-logo="" group-title="EVENTOS FUTBOL",004 ES: La Liga / Osasuna vs Leganes 11:00AM - Valencia vs Barcelona 1:30PM - La Liga TVBAR
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/553021
+--
+#EXTINF:-1 tvg-id="" tvg-name="10:55 AM | OSASUNA VS LEGANéS (LALIGA)" tvg-logo="http://lotvservice.us:8880/images/1fszp8a5fSvMpy8DGy8EYy7eW0hcUf-zxrOozd2ITbYCgcrZHK08ljqDXRWcYhYlHj9ea3ryj4VAH7rVa-djApolI-kUbRGiLZjUH3nSO1_087y0zO_j_HoJlUnKsce60qdPgJCrMZwrExVVDW4Ggw.png" group-title="EVENTOS FUTBOL",10:55 AM | OSASUNA VS LEGANéS (LALIGA)
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/553090
+#EXTINF:-1 tvg-id="" tvg-name="01:00 PM | VALENCIA VS FC BARCELONA (LALIGA)" tvg-logo="http://lotvservice.us:8880/images/1fszp8a5fSvMpy8DGy8EYy7eW0hcUf-zxrOozd2ITbYCgcrZHK08ljqDXRWcYhYlHj9ea3ryj4VAH7rVa-djApolI-kUbRGiLZjUH3nSO1_087y0zO_j_HoJlUnKsce60qdPgJCrMZwrExVVDW4Ggw.png" group-title="EVENTOS FUTBOL",01:00 PM | VALENCIA VS FC BARCELONA (LALIGA)
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/553091
+--
+#EXTINF:-1 tvg-id="" tvg-name="10:55 AM | EN ESPAñOL - OSASUNA VS LEGANéS (LALIGA)" tvg-logo="http://lotvservice.us:8880/images/1fszp8a5fSvMpy8DGy8EYy7eW0hcUf-zxrOozd2ITbYCgcrZHK08ljqDXRWcYhYlHj9ea3ryj4VAH7rVa-djApolI-kUbRGiLZjUH3nSO1_087y0zO_j_HoJlUnKsce60qdPgJCrMZwrExVVDW4Ggw.png" group-title="EVENTOS FUTBOL",10:55 AM | EN ESPAñOL - OSASUNA VS LEGANéS (LALIGA)
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/553139
+#EXTINF:-1 tvg-id="" tvg-name="01:00 PM | EN ESPAñOL - VALENCIA VS FC BARCELONA (LALIGA)" tvg-logo="http://lotvservice.us:8880/images/1fszp8a5fSvMpy8DGy8EYy7eW0hcUf-zxrOozd2ITbYCgcrZHK08ljqDXRWcYhYlHj9ea3ryj4VAH7rVa-djApolI-kUbRGiLZjUH3nSO1_087y0zO_j_HoJlUnKsce60qdPgJCrMZwrExVVDW4Ggw.png" group-title="EVENTOS FUTBOL",01:00 PM | EN ESPAñOL - VALENCIA VS FC BARCELONA (LALIGA)
+http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/553140
+--
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN SPORTS La Liga" tvg-logo="http://tvstar.live:8880/chimg/1603498410.png" group-title="BEIN SPORTS ",US: beIN SPORTS La Liga
 http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/214737
 --
@@ -1051,33 +1070,6 @@ http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/233428
 http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/415404
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="World Sports",ES: M. LaLiga HD
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/9187
---
-#EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport LaLiga
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/47220
---
-#EXTINF:-1 tvg-id="360north.us" tvg-name="US: BEIN EXTRA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/team_logos/bein-laliga_c.png" group-title="World Sports",US: BEIN EXTRA
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/9769
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: MOVISTAR LA LIGA SD" tvg-logo="" group-title="Spanish HD",SP: MOVISTAR LA LIGA SD
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46858
-#EXTINF:-1 tvg-id="" tvg-name="SP: MOVISTAR LA LIGA HD 1080P B" tvg-logo="" group-title="Spanish HD",SP: MOVISTAR LA LIGA HD 1080P B
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46859
-#EXTINF:-1 tvg-id="" tvg-name="SP: MOVISTAR LA LIGA HD 720P" tvg-logo="" group-title="Spanish HD",SP: MOVISTAR LA LIGA HD 720P
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46860
-#EXTINF:-1 tvg-id="" tvg-name="SP: MOVISTAR LA LIGA SD" tvg-logo="" group-title="Spanish HD",SP: MOVISTAR LA LIGA SD
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46861
-#EXTINF:-1 tvg-id="" tvg-name="SP: LA LIGA TV BAR HD 1080P" tvg-logo="" group-title="Spanish HD",SP: LA LIGA TV BAR HD 1080P
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46862
-#EXTINF:-1 tvg-id="" tvg-name="SP: LA LIGA TV BAR HD 720P" tvg-logo="" group-title="Spanish HD",SP: LA LIGA TV BAR HD 720P
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46863
-#EXTINF:-1 tvg-id="" tvg-name="SP: LA LIGA TV BAR SD" tvg-logo="" group-title="Spanish HD",SP: LA LIGA TV BAR SD
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46864
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: MOVISTAR LA LIGA 1 HD 1080P" tvg-logo="" group-title="Spanish HD",SP: MOVISTAR LA LIGA 1 HD 1080P
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46910
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="World Sports",ES: M. LaLiga HD
 http://jabawalkies.club:8080/kypxj9EKBK/F3x4mka53S/9187
 --
 #EXTINF:-1 tvg-id="" tvg-name="WSP:  SuperSport LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg" group-title="World Sports",WSP:  SuperSport LaLiga
@@ -1114,10 +1106,10 @@ http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/90427
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5308
 --
-#EXTINF:-1 tvg-id="77998" tvg-name="USA Soccer02: Spain - La Liga : Celta de Vigo vs Deportivo Alavés @ 01:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: Spain - La Liga : Celta de Vigo vs Deportivo Alavés @ 01:00pm
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21812
-#EXTINF:-1 tvg-id="77999" tvg-name="USA Soccer03: Spain - La Liga : Las Palmas vs Sevilla @ 03:30pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer03: Spain - La Liga : Las Palmas vs Sevilla @ 03:30pm
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21823
+#EXTINF:-1 tvg-id="78101" tvg-name="USA Soccer11: Spain - La Liga : Osasuna vs Leganés @ 01:00pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer11: Spain - La Liga : Osasuna vs Leganés @ 01:00pm
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21831
+#EXTINF:-1 tvg-id="78103" tvg-name="USA Soccer12: Spain - La Liga : Valencia vs Barcelona @ 03:30pm" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer12: Spain - La Liga : Valencia vs Barcelona @ 03:30pm
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21832
 --
 #EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport La Liga" tvg-logo="" group-title="SOUTH AFRICA",South Africa SuperSport La Liga
 http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/59001
@@ -1182,25 +1174,13 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/220429
 #EXTINF:-1 tvg-id="" tvg-name="PPV | SKY SPORTS LA LIGA" tvg-logo="http://ceoapps.org/logos/skysportslaligamx.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS LA LIGA
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233019
 --
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | ESPN Deportes" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | ESPN Deportes
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233026
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | Canal 5" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | Canal 5
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233027
+#EXTINF:-1 tvg-id="" tvg-name="12:00 | Osasuna vs. Leganés | LALIGA | HD | SPA" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",12:00 | Osasuna vs. Leganés | LALIGA | HD | SPA
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233300
 --
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 16/Aug | 13:30 | Las Palmas vs Sevilla" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 16/Aug | 13:30 | Las Palmas vs Sevilla
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233038
---
-#EXTINF:-1 tvg-id="" tvg-name="Athletic vs Getafe 11:00AM | Betis vs Girona 1:30PM | La Liga TVBAR" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",Athletic vs Getafe 11:00AM | Betis vs Girona 1:30PM | La Liga TVBAR
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233070
---
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | ESPN Deportes
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233170
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | Fubo Sports US" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | Fubo Sports US
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233171
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | ESPN Deportes
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233172
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | Fubo Sports US" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | Fubo Sports US
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233173
+#EXTINF:-1 tvg-id="" tvg-name="14:30 | Valencia vs. Barcelona | LALIGA | HD | ENG" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",14:30 | Valencia vs. Barcelona | LALIGA | HD | ENG
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233313
+#EXTINF:-1 tvg-id="" tvg-name="14:30 | Valencia vs. Barcelona | LALIGA | HD | SPA" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",14:30 | Valencia vs. Barcelona | LALIGA | HD | SPA
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233314
 --
 #EXTINF:-1 tvg-id="" tvg-name="D |  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D |  LaLiga SmartBank HD
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144863
@@ -1246,25 +1226,22 @@ https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/157373
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
 https://lobo-tv.live:443/restreamiptv/uHbQMnZaPxaQ/223953
 --
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | ESPN Deportes" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | ESPN Deportes
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233026
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | Canal 5" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 16/Aug | 11:00 | Celta de Vigo vs Deportivo Alavés | Canal 5
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233027
+#EXTINF:-1 tvg-id="" tvg-name="12:00 | Osasuna vs. Leganés | LALIGA | HD | SPA" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",12:00 | Osasuna vs. Leganés | LALIGA | HD | SPA
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233300
 --
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga | 16/Aug | 13:30 | Las Palmas vs Sevilla" tvg-logo="http://51.222.152.107:81/posters/1684679206212.png" group-title="TV | PPV La Liga",LaLiga | 16/Aug | 13:30 | Las Palmas vs Sevilla
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233038
+#EXTINF:-1 tvg-id="" tvg-name="14:30 | Valencia vs. Barcelona | LALIGA | HD | ENG" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",14:30 | Valencia vs. Barcelona | LALIGA | HD | ENG
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233313
+#EXTINF:-1 tvg-id="" tvg-name="14:30 | Valencia vs. Barcelona | LALIGA | HD | SPA" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",14:30 | Valencia vs. Barcelona | LALIGA | HD | SPA
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233314
 --
-#EXTINF:-1 tvg-id="" tvg-name="Athletic vs Getafe 11:00AM | Betis vs Girona 1:30PM | La Liga TVBAR" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",Athletic vs Getafe 11:00AM | Betis vs Girona 1:30PM | La Liga TVBAR
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233070
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LaLiga | Eibar vs CD Castellon | 9:00 AM" tvg-logo="" group-title="PPV | Futbol Soccer Internacional",PPV | LaLiga | Eibar vs CD Castellon | 9:00 AM
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233382
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | ESPN Deportes
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233170
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | Fubo Sports US" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 13:30 | Las Palmas Vs. Sevilla | Fubo Sports US
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233171
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | ESPN Deportes" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | ESPN Deportes
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233172
-#EXTINF:-1 tvg-id="" tvg-name="La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | Fubo Sports US" tvg-logo="http://panel.maxmax.live/png/sports/laliga2.png" group-title="TV | PPV La Liga",La Liga | 16/Aug 11:00 | Celta de Vigo Vs. Deportivo Alavés | Fubo Sports US
-https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233173
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LaLiga | Osasuna vs Leganes | 11:00 AM" tvg-logo="" group-title="PPV | Futbol Soccer Internacional",PPV | LaLiga | Osasuna vs Leganes | 11:00 AM
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233390
+--
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LaLiga | Valencia vs Barcelona | 1:30 PM" tvg-logo="" group-title="PPV | Futbol Soccer Internacional",PPV | LaLiga | Valencia vs Barcelona | 1:30 PM
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233404
 --
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144812
@@ -1305,22 +1282,32 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/220429
 #EXTINF:-1 tvg-id="" tvg-name="PPV | SKY SPORTS LA LIGA" tvg-logo="http://ceoapps.org/logos/skysportslaligamx.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS LA LIGA
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233019
 --
-#EXTINF:-1 tvg-id="" tvg-name="  S020 | 08/16 (LA LIGA) LAS PALMAS VS SEVILLA FC 02:30 PM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S020 | 08/16 (LA LIGA) LAS PALMAS VS SEVILLA FC 02:30 PM EST (ESPN+)
-http://op.web24.live:8080/ultnew/password@2024/47552
+#EXTINF:-1 tvg-id="" tvg-name="  S009 | 08/17  S075 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | -03:25PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S009 | 08/17  S075 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | -03:25PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/47541
 --
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="  S061 | FRI, 8/16 - LALIGA NEWS | 08/16-09:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S061 | FRI, 8/16 - LALIGA NEWS | 08/16-09:00AM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/75814
+#EXTINF:-1 tvg-id="" tvg-name="  S012 | 08/17  S072 | LAS PALMAS VS. SEVILLA (LALIGA) | -03:20PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S012 | 08/17  S072 | LAS PALMAS VS. SEVILLA (LALIGA) | -03:20PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/47544
 --
-#EXTINF:-1 tvg-id="ESPN+ 017" tvg-name="  S067 | CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:50PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S067 | CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:50PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/75820
-#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="  S068 | EN ESPANOL-CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:55PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S068 | EN ESPANOL-CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:55PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/75821
+#EXTINF:-1 tvg-id="" tvg-name="  S016 | 08/17  S068 | EN ESPANOL-CELTA DE VIGO VS. ALAVES (LALIGA) | -12:55PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S016 | 08/17  S068 | EN ESPANOL-CELTA DE VIGO VS. ALAVES (LALIGA) | -12:55PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/47548
+#EXTINF:-1 tvg-id="" tvg-name="  S017 | 08/17  S067 | CELTA DE VIGO VS. ALAVES (LALIGA) | -12:50PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S017 | 08/17  S067 | CELTA DE VIGO VS. ALAVES (LALIGA) | -12:50PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/47549
 --
-#EXTINF:-1 tvg-id="ESPN+ 027" tvg-name="  S072 | LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:20PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S072 | LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:20PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/75825
+#EXTINF:-1 tvg-id="" tvg-name="  S023 | 08/17 S061 | FRI, 8/16 - LALIGA NEWS | -09:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S023 | 08/17 S061 | FRI, 8/16 - LALIGA NEWS | -09:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/47555
 --
-#EXTINF:-1 tvg-id="ESPN+ 030" tvg-name="  S075 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:25PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S075 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:25PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/75828
+#EXTINF:-1 tvg-id="" tvg-name="  S027 | 08/17  S020 |  (LA LIGA) LAS PALMAS VS SEVILLA FC 02:30 PM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",  S027 | 08/17  S020 |  (LA LIGA) LAS PALMAS VS SEVILLA FC 02:30 PM EST (ESPN+)
+http://op.web24.live:8080/ultnew/password@2024/47559
+--
+#EXTINF:-1 tvg-id="ESPN+ 015" tvg-name="  S070 | OSASUNA VS. LEGANES (LALIGA) | 08/17-12:50PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S070 | OSASUNA VS. LEGANES (LALIGA) | 08/17-12:50PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75823
+#EXTINF:-1 tvg-id="ESPN+ 016" tvg-name="  S071 | EN ESPANOL-OSASUNA VS. LEGANES (LALIGA) | 08/17-12:55PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S071 | EN ESPANOL-OSASUNA VS. LEGANES (LALIGA) | 08/17-12:55PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75824
+--
+#EXTINF:-1 tvg-id="ESPN+ 029" tvg-name="  S077 | EN ESPANOL-VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S077 | EN ESPANOL-VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75830
+#EXTINF:-1 tvg-id="ESPN+ 030" tvg-name="  S078 | VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S078 | VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75831
 --
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="BEIN SPORTS",BEIN SPORTS LA LIGA - LA
 http://op.web24.live:8080/ultnew/password@2024/59057
@@ -1330,19 +1317,18 @@ http://op.web24.live:8080/ultnew/password@2024/59058
 #EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
 http://op.web24.live:8080/ultnew/password@2024/36465
 --
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="ESPN+ 003 | FRI, 8/16 - LALIGA NEWS | 08/16-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 003 | FRI, 8/16 - LALIGA NEWS | 08/16-09:00AM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52688
+#EXTINF:-1 tvg-id="ESPN+ 015" tvg-name="ESPN+ 015 | OSASUNA VS. LEGANES (LALIGA) | 08/17-12:50PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 015 | OSASUNA VS. LEGANES (LALIGA) | 08/17-12:50PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52700
+#EXTINF:-1 tvg-id="ESPN+ 016" tvg-name="ESPN+ 016 | EN ESPANOL-OSASUNA VS. LEGANES (LALIGA) | 08/17-12:55PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 016 | EN ESPANOL-OSASUNA VS. LEGANES (LALIGA) | 08/17-12:55PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52701
 --
-#EXTINF:-1 tvg-id="ESPN+ 017" tvg-name="ESPN+ 017 | CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:50PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 017 | CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:50PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52702
-#EXTINF:-1 tvg-id="ESPN+ 018" tvg-name="ESPN+ 018 | EN ESPANOL-CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:55PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 018 | EN ESPANOL-CELTA DE VIGO VS. ALAVES (LALIGA) | 08/16-12:55PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52703
---
-#EXTINF:-1 tvg-id="ESPN+ 027" tvg-name="ESPN+ 027 | LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:20PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 027 | LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:20PM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52712
---
-#EXTINF:-1 tvg-id="ESPN+ 030" tvg-name="ESPN+ 030 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:25PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 030 | EN ESPANOL-LAS PALMAS VS. SEVILLA (LALIGA) | 08/16-03:25PM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 029" tvg-name="ESPN+ 029 | EN ESPANOL-VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 029 | EN ESPANOL-VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52714
+#EXTINF:-1 tvg-id="ESPN+ 030" tvg-name="ESPN+ 030 | VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 030 | VALENCIA VS. FC BARCELONA (LALIGA) | 08/17-03:00PM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52715
+--
+#EXTINF:-1 tvg-id="" tvg-name="REPLAY | 08/17 (LA LIGA) LAS PALMAS VS SEVILLA FC 02:30 PM EST (ESPN+)" tvg-logo="https://pbs.twimg.com/profile_images/1678328302476337152/v92fpqsq_400x400.jpg" group-title="SOCCER / FUTBOL PACKAGE",REPLAY | 08/17 (LA LIGA) LAS PALMAS VS SEVILLA FC 02:30 PM EST (ESPN+)
+http://op.web24.live:8080/ultnew/password@2024/47598
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/ultnew/password@2024/59239
@@ -1359,37 +1345,6 @@ http://op.web24.live:8080/ultnew/password@2024/59222
 --
 #EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT LALIGA" tvg-logo="https://i.ibb.co/6gp77Z8/supersport-laliga-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT LALIGA
 http://op.web24.live:8080/ultnew/password@2024/43153
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN LaLiga
-http://premiumiptvmk.com:8080/F32962/7a3112d7/297787
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN LaLiga 2
-http://premiumiptvmk.com:8080/F32962/7a3112d7/298745
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Bar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f17a72afc795aeb69406238055a55c0d.jpg" group-title="Spain ➾ Football",ES: LaLiga TV Bar
-http://premiumiptvmk.com:8080/F32962/7a3112d7/197711
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ccef25607c0695c121d55b5b40bb82a.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion
-http://premiumiptvmk.com:8080/F32962/7a3112d7/300830
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8b9d814866130fd62e4ccc22e7ebffe8.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 2
-http://premiumiptvmk.com:8080/F32962/7a3112d7/300831
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Hypermotion 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/74600f9d2e3f5255b425f5b19f1bac1a.png" group-title="Spain ➾ Football",ES: LaLiga TV Hypermotion 3
-http://premiumiptvmk.com:8080/F32962/7a3112d7/300832
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Spain ➾ Football",ES: M+ LaLiga
-http://premiumiptvmk.com:8080/F32962/7a3112d7/302296
---
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: Movistar LaLiga
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1141
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 2
-http://premiumiptvmk.com:8080/F32962/7a3112d7/5311
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 3
-http://premiumiptvmk.com:8080/F32962/7a3112d7/281772
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: Movistar LaLiga 4
-http://premiumiptvmk.com:8080/F32962/7a3112d7/269466
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2d066efd0a3ae54514a638b6341b09dc.jpg" group-title="Spain ➾ Football",ES: Movistar LaLiga 7
-http://premiumiptvmk.com:8080/F32962/7a3112d7/194527
---
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
-http://premiumiptvmk.com:8080/F32962/7a3112d7/194358
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv

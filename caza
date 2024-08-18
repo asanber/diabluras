@@ -156,18 +156,6 @@ http://home-playtv.com:8080/L@100.-qaS/WZDfQjrnsQN3/484036
 http://home-playtv.com:8080/movie/L@100.-qaS/WZDfQjrnsQN3/165269.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: IBERALIA es" tvg-logo="" group-title="Portuguese ",PT: IBERALIA es
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/104917
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 1080P
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46817
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 720P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 720P
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46818
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA SD" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA SD
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46819
-#EXTINF:-1 tvg-id="" tvg-name="SP: IBERALIA TV SD" tvg-logo="" group-title="Spanish HD",SP: IBERALIA TV SD
-http://jabawalkies.club:8080/B71CfqiIlXh5I12/qRAF7NwJzR/46821
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: IBERALIA es" tvg-logo="" group-title="Portuguese ",PT: IBERALIA es
 http://jabawalkies.club:8080/kypxj9EKBK/F3x4mka53S/104917
 --
 #EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 1080P
@@ -211,15 +199,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa41
 --
 #EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="PT | CACA E PESCA" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="PORTUGAL",PT | CACA E PESCA
 http://op.web24.live:8080/ultnew/password@2024/1607
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" group-title="Spain ➾ LifeStyle",ES: Caza y Pesca
-http://premiumiptvmk.com:8080/F32962/7a3112d7/1165
---
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: Iberalia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" group-title="Spain ➾ Nature",ES: Iberalia TV
-http://premiumiptvmk.com:8080/F32962/7a3112d7/2793
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: Caza y Pesca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/a1b305ea7b0e852adefe7dbb105da387.png" group-title="Portugal ➾ Nature",PT: Caza y Pesca
-http://premiumiptvmk.com:8080/F32962/7a3112d7/297997
 --
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
 https://filemoon.sx/d/2alnlw7bmkfe
