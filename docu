@@ -1,19 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DStv | Discovery Channel" tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="DSTV",DStv | Discovery Channel
-http://bandookk.xyz:61/classmarka/hasankcs9/43168
---
 #EXTINF:-1 tvg-id="" tvg-name="DStv | Nat Geo WILD" tvg-logo="http://xplatinmedia.com:8080/images/9a3112670d7e4ccf92e6b55e013f911b.png" group-title="DSTV",DStv | Nat Geo WILD
 http://bandookk.xyz:61/classmarka/hasankcs9/43222
 #EXTINF:-1 tvg-id="" tvg-name="DStv | National Geographic" tvg-logo="http://xplatinmedia.com:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="DSTV",DStv | National Geographic
 http://bandookk.xyz:61/classmarka/hasankcs9/43223
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF.DSTV Discovery Channel" tvg-logo="" group-title="DSTV",AF.DSTV Discovery Channel
-http://bandookk.xyz:61/classmarka/hasankcs9/43306
+#EXTINF:-1 tvg-id="" tvg-name="DStv | DISCOVERY CHANNEL" tvg-logo="" group-title="DSTV",DStv | DISCOVERY CHANNEL
+http://bandookk.xyz:61/classmarka/hasankcs9/46020
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF.DSTV National Geographic" tvg-logo="" group-title="DSTV",AF.DSTV National Geographic
-http://bandookk.xyz:61/classmarka/hasankcs9/43319
-#EXTINF:-1 tvg-id="" tvg-name="AF.DSTV National Geographic WILD" tvg-logo="" group-title="DSTV",AF.DSTV National Geographic WILD
-http://bandookk.xyz:61/classmarka/hasankcs9/43320
+#EXTINF:-1 tvg-id="" tvg-name="DStv | NAT GEO WILD" tvg-logo="" group-title="DSTV",DStv | NAT GEO WILD
+http://bandookk.xyz:61/classmarka/hasankcs9/46082
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: DMAX" tvg-logo="" group-title="UK",UK: DMAX
 http://bandookk.xyz:61/classmarka/hasankcs9/105
@@ -346,21 +341,16 @@ http://bandookk.xyz:61/classmarka/hasankcs9/34619
 #EXTINF:-1 tvg-id="" tvg-name="IND: NAT GEO WILD" tvg-logo="" group-title="DOCUMENTARY (Indian)",IND: NAT GEO WILD
 http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/29437
 --
-#EXTINF:-1 tvg-id="" tvg-name="DStv | Discovery Channel" tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="DSTV",DStv | Discovery Channel
-http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/43168
---
 #EXTINF:-1 tvg-id="" tvg-name="DStv | Nat Geo WILD" tvg-logo="http://xplatinmedia.com:8080/images/9a3112670d7e4ccf92e6b55e013f911b.png" group-title="DSTV",DStv | Nat Geo WILD
 http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/43222
 #EXTINF:-1 tvg-id="" tvg-name="DStv | National Geographic" tvg-logo="http://xplatinmedia.com:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="DSTV",DStv | National Geographic
 http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/43223
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF.DSTV Discovery Channel" tvg-logo="" group-title="DSTV",AF.DSTV Discovery Channel
-http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/43306
+#EXTINF:-1 tvg-id="" tvg-name="DStv | DISCOVERY CHANNEL" tvg-logo="" group-title="DSTV",DStv | DISCOVERY CHANNEL
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/46020
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF.DSTV National Geographic" tvg-logo="" group-title="DSTV",AF.DSTV National Geographic
-http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/43319
-#EXTINF:-1 tvg-id="" tvg-name="AF.DSTV National Geographic WILD" tvg-logo="" group-title="DSTV",AF.DSTV National Geographic WILD
-http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/43320
+#EXTINF:-1 tvg-id="" tvg-name="DStv | NAT GEO WILD" tvg-logo="" group-title="DSTV",DStv | NAT GEO WILD
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/46082
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: DMAX" tvg-logo="" group-title="UK",UK: DMAX
 http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/105
@@ -5880,7 +5870,23 @@ http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1073557.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La solidaridad no se cancela" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9evWFUNb1shEPGWQsSJU36nKfbu.jpg" group-title="DOCUMENTALES",La solidaridad no se cancela
 http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1073559.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Todos quieren ser el próximo Weismann (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/adCyXbDWAcHJXbMJdjqa6gezuDZ.jpg" group-title="DOCUMENTALES",Todos quieren ser el próximo Weismann (2020)
-http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1073560.mkv#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24H FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/24H" group-title="00 - TDT ESPAÑA",24H FHD
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1073560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alergias, la paranoia inmunologica (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zOi4rjqVku7i8lEUGFEhTwtz2F9.jpg" group-title="DOCUMENTALES",Alergias, la paranoia inmunologica (2022)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1091594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Zaranda, teatro inestable (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ozC7e6qoTiC9Y10ZPlpviO1VcJV.jpg" group-title="DOCUMENTALES",La Zaranda, teatro inestable (2020)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1091595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salvador Dalí: En busca de la inmortalidad (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rIzx9edH6HZB3kZlnEkBai9Qi14.jpg" group-title="DOCUMENTALES",Salvador Dalí: En busca de la inmortalidad (2018)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1091599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mugaritz, campo a través (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d5rUZ45Ed0DeV4bqs6KAkDwyLB1.jpg" group-title="DOCUMENTALES",Mugaritz, campo a través (2015)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1091604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tramoyistas La magia del teatro (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kz6kJCjPykSafIBlU8XMLR42knd.jpg" group-title="DOCUMENTALES",Tramoyistas La magia del teatro (2017)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1091605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la mente de un perro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6LaKqj4QfXNAIYdutd1oRpqBuv.jpg" group-title="DOCUMENTALES",En la mente de un perro (2024)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1054467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Attenborough y el monstruo jurásico (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMKQDVCXTqPI2hvDqhCvnOoaU.jpg" group-title="DOCUMENTALES",Attenborough y el monstruo jurásico (2024)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1054468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Girl Blue (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6xgdSKiFM8ydzY7tDXn2TCQYDiE.jpg" group-title="DOCUMENTALES",Little Girl Blue (2023)
+http://eurogenius.pro:8080/movie/trasmorenReSHARE1/85UtE6EnH2Nj/1054473.mkv#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24H FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/24H" group-title="00 - TDT ESPAÑA",24H FHD
 --
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="00 - TDT ESPAÑA",DMAX
 http://eurogenius.pro:8080/Vg3EMu7ezDx345fgsc/rrX7s3fbtLtc6578gjhfc/18008
