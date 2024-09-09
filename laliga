@@ -1948,6 +1948,19 @@ http://jabawalkies.club:8080/o6kjTRJPpiIl0oOlmMn7jV/UGG0tbIilLi0Oo03pXKVQE/46864
 #EXTINF:-1 tvg-id="" tvg-name="SP: MOVISTAR LA LIGA 1 HD 1080P" tvg-logo="" group-title="Spanish HD",SP: MOVISTAR LA LIGA 1 HD 1080P
 http://jabawalkies.club:8080/o6kjTRJPpiIl0oOlmMn7jV/UGG0tbIilLi0Oo03pXKVQE/46910
 --
+#EXTINF:-1 tvg-id="BEIN2" tvg-name="USA beIN La Liga SD" tvg-logo="" group-title="USA LOW BANDWIDTH",USA beIN La Liga SD
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/97524
+--
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA BeIN Sports La Liga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports La Liga
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5314
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="USA beIN SPORTS La Liga" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="USA SPORTS",USA beIN SPORTS La Liga
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/90427
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA SPORTS",USA BeIN Sports LaLiga
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/5308
+--
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport La Liga" tvg-logo="" group-title="SOUTH AFRICA",South Africa SuperSport La Liga
+http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/59001
+--
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="D | DAZN LaLigaTV HD" tvg-logo="http://ceoapps.org/logos/daznl.png" group-title="TV | Deportes",D | DAZN LaLigaTV HD
 https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/197233
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="D| La Liga" tvg-logo="http://ceoapps.org/logos/ligadecampeones.png" group-title="TV | Deportes",D| La Liga
