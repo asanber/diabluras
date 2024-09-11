@@ -95,6 +95,12 @@ http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/11246
 #EXTINF:-1 tvg-id="" tvg-name="ES | EL Toro TVⓧ FHD" tvg-logo="" group-title="SPAIN",ES | EL Toro TVⓧ FHD
 http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/17842
 --
+#EXTINF:-1 tvg-id="" tvg-name="GR | NET TV Toronto" tvg-logo="http://platinumxmedia.xyz:8080/images/f8f1d66cc9655c6a0a323826d071ad61.png" group-title="GREEK",GR | NET TV Toronto
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/31057
+--
+#EXTINF:-1 tvg-id="" tvg-name="(B) NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="SPORTS",(B) NHL TORONTO MAPLE LEAFS
+http://bandookk.xyz:61/Fr3eak/ALxRpPwQVvMd/17419
+--
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto" tvg-logo="http://xplatinmedia.com:8080/images/672dbb23eb20f097c24919846b9c1a99.png" group-title="CANADA",CA | CBC Toronto
 http://bandookk.xyz:61/skyott/HafizKhan56584De552324/46236
 --
@@ -392,6 +398,9 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/126151
 --
+#EXTINF:-1 tvg-id="" tvg-name="17:07 | Toronto Blue Jays vs. New York Mets | MLB | HD |" tvg-logo="https://od.lk/s/MzlfNDMwOTkwNjZf/mlb.png" group-title="TV | PPV MLB",17:07 | Toronto Blue Jays vs. New York Mets | MLB | HD |
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236707
+--
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/126152
 #EXTINF:-1 tvg-id="toros.es" tvg-name="D| Mundo Toros HD" tvg-logo="http://ceoapps.org/logos/mundotoro.png" group-title="TV | Deportes",D| Mundo Toros HD
@@ -405,6 +414,9 @@ https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144844
 --
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144846
+--
+#EXTINF:-1 tvg-id="" tvg-name="17:07 | Toronto Blue Jays vs. New York Mets | MLB | HD |" tvg-logo="https://od.lk/s/MzlfNDMwOTkwNjZf/mlb.png" group-title="TV | PPV MLB",17:07 | Toronto Blue Jays vs. New York Mets | MLB | HD |
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2236707
 --
 #EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144844
@@ -457,8 +469,8 @@ http://op.web24.live:8080/ultnew/password@2024/1193
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES | TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAIN",ES | TOROS TV
 http://op.web24.live:8080/ultnew/password@2024/36451
 --
-#EXTINF:-1 tvg-id="MLB 05" tvg-name="MLB 05 | NEW YORK METS @ TORONTO BLUE JAYS | 09/09-07:07PM | SNY SPORTSNET" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 05 | NEW YORK METS @ TORONTO BLUE JAYS | 09/09-07:07PM | SNY SPORTSNET
-http://op.web24.live:8080/ultnew/password@2024/53053
+#EXTINF:-1 tvg-id="MLB 06" tvg-name="MLB 06 | NEW YORK METS @ TORONTO BLUE JAYS | 09/10-07:07PM | SNY SPORTSNET" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB PACKAGE",MLB 06 | NEW YORK METS @ TORONTO BLUE JAYS | 09/10-07:07PM | SNY SPORTSNET
+http://op.web24.live:8080/ultnew/password@2024/53054
 --
 #EXTINF:-1 tvg-id="MLB TOR" tvg-name="MLB TEAM | TORONTO BLUE JAYS" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" group-title="MLB PACKAGE",MLB TEAM | TORONTO BLUE JAYS
 http://op.web24.live:8080/ultnew/password@2024/53090
@@ -477,6 +489,40 @@ http://op.web24.live:8080/ultnew/password@2024/1448
 --
 #EXTINF:-1 tvg-id="pbseast.ca" tvg-name="USA | PBS" tvg-logo="https://i.ibb.co/fCBSvvv/wned-pbs-buffalo-toronto.png" group-title="USA ENTERTAINMENT",USA | PBS
 http://op.web24.live:8080/ultnew/password@2024/6851
+--
+#EXTINF:-1 tvg-id="" tvg-name="IR: Toronto Farsi Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/293fc15e79848e8b042406b7a4393681.jpg" group-title="Iran",IR: Toronto Farsi Network
+http://premiumiptvmk.com:8080/F32962/7a3112d7/301191
+--
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC Toronto CBLT DT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/fa9327f7cb5583629396952f0ae9e322.jpeg" group-title="Canada ➾ News",CA: CBC Toronto CBLT DT
+http://premiumiptvmk.com:8080/F32962/7a3112d7/429
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CityNews Toronto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2bc7a5ae342739230d452248505d37e2.svg" group-title="Canada ➾ News",CA: CityNews Toronto
+http://premiumiptvmk.com:8080/F32962/7a3112d7/296809
+#EXTINF:-1 tvg-id="" tvg-name="CA: Citytv Toronto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/f70ec1717d774e2802169567b5bebaeb.png" group-title="Canada",CA: Citytv Toronto
+http://premiumiptvmk.com:8080/F32962/7a3112d7/1727
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Toronto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/4473c97c2f845834909b6dfbdae68958.png" group-title="Canada",CA: CTV Toronto
+http://premiumiptvmk.com:8080/F32962/7a3112d7/298187
+--
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA: Global TV Toronto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2c84507bc5d845992d38cecfe553c8f8.png" group-title="Canada ➾ News",CA: Global TV Toronto
+http://premiumiptvmk.com:8080/F32962/7a3112d7/465
+--
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC Toronto" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0cf910b0fecb4cc5c2a2d68c005f9c3a.png" group-title="India",IN: BBC Toronto
+http://premiumiptvmk.com:8080/F32962/7a3112d7/49640
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: Toronto 360 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/feb201bc9bd290b7630e401f766bae9e.png" group-title="Pakistan",PK: Toronto 360 TV
+http://premiumiptvmk.com:8080/F32962/7a3112d7/49513
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Toro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d9fb5b061640c5a49be14ab5a9d95331.jpg" group-title="Spain",ES: El Toro TV
+http://premiumiptvmk.com:8080/F32962/7a3112d7/201928
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: Onetoro" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain ➾ Sports",ES: Onetoro
+http://premiumiptvmk.com:8080/F32962/7a3112d7/303884
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: Torole TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/8effebf7a3a4b1bbd70ebf20a39f2c08.jpg" group-title="Spain ➾ LifeStyle",ES: Torole TV
+http://premiumiptvmk.com:8080/F32962/7a3112d7/300837
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: Toros" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f759ede38ff362a172ae68212c1cfbee.png" group-title="Spain ➾ Sports",ES: Toros
+http://premiumiptvmk.com:8080/F32962/7a3112d7/1132
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
