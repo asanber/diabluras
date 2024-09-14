@@ -677,23 +677,6 @@ http://bandookk.xyz:61/zohaib/luckyg5@844/15049
 #EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LALIGA 4" tvg-logo="" group-title="SPORTS",ES: Movistar LALIGA 4
 http://bandookk.xyz:61/zohaib/luckyg5@844/15050
 --
-#EXTINF:-1 tvg-id="I9581.116634.schedulesdirect.org" tvg-name="Bar TV La Liga" tvg-logo="https://i.ibb.co/J5qrZJ5/meta-image.jpg" group-title="DEPORTES",Bar TV La Liga
-http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/6854
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Bein Sports La Liga (España)" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports La Liga (España)
-http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3419
---
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA " tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 
-http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/53496
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA HD" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA HD
-http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/53497
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA 2" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 2
-http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/53498
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA 2 HD" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 2 HD
-http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/53499
---
-#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar La Liga
-http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/50584
---
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="ORANGE LIGA (FIBRA)" tvg-logo="https://freelogopng.com/images/all_img/1683000787orange-icon-png.png" group-title="02 - M+ FÚTBOL ESPAÑA",ORANGE LIGA (FIBRA)
 http://eurogenius.pro:8080/ResharePremium00762/uassBAT7vAv4/99005
 #EXTINF:-1 tvg-id="M+ LaLiga UHD" tvg-name="LA LIGA TV UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="02 - M+ FÚTBOL ESPAÑA",LA LIGA TV UHD
@@ -1467,6 +1450,9 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/220429
 #EXTINF:-1 tvg-id="" tvg-name="PPV | SKY SPORTS LA LIGA" tvg-logo="http://ceoapps.org/logos/skysportslaligamx.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS LA LIGA
 https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2233019
 --
+#EXTINF:-1 tvg-id="" tvg-name="13:00 | Real Betis vs. Leganés | LALIGA | HD |" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",13:00 | Real Betis vs. Leganés | LALIGA | HD |
+https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236896
+--
 #EXTINF:-1 tvg-id="" tvg-name="D |  LaLiga SmartBank HD" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png" group-title="TV | Deportes",D |  LaLiga SmartBank HD
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2144863
 --
@@ -1488,6 +1474,9 @@ https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/223873
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/157373
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png" group-title="TV | La Liga Movistar",LALIGA | MOVISTAR LALIGA 1
 https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/223953
+--
+#EXTINF:-1 tvg-id="" tvg-name="13:00 | Real Betis vs. Leganés | LALIGA | HD |" tvg-logo="https://od.lk/s/MzlfNDM1NTM3NDVf/laliga.png" group-title="TV | PPV La Liga",13:00 | Real Betis vs. Leganés | LALIGA | HD |
+https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2236896
 --
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN LA LIGA" tvg-logo="http://ceoapps.org/logos/bnsports.png" group-title="TV | Bein Sports Channels",D | BEIN LA LIGA
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2144812
@@ -1528,8 +1517,13 @@ https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/220429
 #EXTINF:-1 tvg-id="" tvg-name="PPV | SKY SPORTS LA LIGA" tvg-logo="http://ceoapps.org/logos/skysportslaligamx.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS LA LIGA
 https://lobo-tv.live:443/yestv/eVW6aPPbUCD8/2233019
 --
-#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="  S061 | WED, 9/11 - LALIGA NEWS | 09/11-09:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S061 | WED, 9/11 - LALIGA NEWS | 09/11-09:00AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="  S061 | FRI, 9/13 - LALIGA NEWS | 09/13-09:00AM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S061 | FRI, 9/13 - LALIGA NEWS | 09/13-09:00AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/75814
+--
+#EXTINF:-1 tvg-id="ESPN+ 037" tvg-name="  S065 | REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:50PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S065 | REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:50PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75818
+#EXTINF:-1 tvg-id="ESPN+ 038" tvg-name="  S066 | EN ESPANOL-REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:55PM | ESPN+" tvg-logo="https://i.imgur.com/O9Mil7q.png" group-title="SOCCER / FUTBOL PACKAGE",  S066 | EN ESPANOL-REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:55PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/75819
 --
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="BEIN SPORTS",BEIN SPORTS LA LIGA - LA
 http://op.web24.live:8080/ultnew/password@2024/59057
@@ -1539,14 +1533,13 @@ http://op.web24.live:8080/ultnew/password@2024/59058
 #EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="ES | MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES | MOVISTAR LALIGA
 http://op.web24.live:8080/ultnew/password@2024/36465
 --
-#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="ESPN+ 001 | THU, 9/12 - LALIGA NEWS | 09/12-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 001 | THU, 9/12 - LALIGA NEWS | 09/12-09:00AM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52686
---
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="ESPN+ 003 | EN ESPANOL - JUE, 9/12 - LALIGA SHOW | 09/12-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 003 | EN ESPANOL - JUE, 9/12 - LALIGA SHOW | 09/12-11:00AM | ESPN+
-http://op.web24.live:8080/ultnew/password@2024/52688
---
-#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="ESPN+ 005 | THU, 9/12 - LALIGA SHOW | 09/12-11:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 005 | THU, 9/12 - LALIGA SHOW | 09/12-11:00AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="ESPN+ 005 | FRI, 9/13 - LALIGA NEWS | 09/13-09:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 005 | FRI, 9/13 - LALIGA NEWS | 09/13-09:00AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52690
+--
+#EXTINF:-1 tvg-id="ESPN+ 037" tvg-name="ESPN+ 037 | REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:50PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 037 | REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:50PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52722
+#EXTINF:-1 tvg-id="ESPN+ 038" tvg-name="ESPN+ 038 | EN ESPANOL-REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:55PM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 038 | EN ESPANOL-REAL BETIS VS. LEGANES (LALIGA) | 09/13-02:55PM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52723
 --
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK | LA LIGA TV" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png" group-title="UK SPORTS NETWORKS",UK | LA LIGA TV
 http://op.web24.live:8080/ultnew/password@2024/59239
