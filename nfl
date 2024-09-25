@@ -183,12 +183,12 @@ http://op.web24.live:8080/ultnew/password@2024/76190
 --
 #EXTINF:-1 tvg-id="" tvg-name="12 REPLAY | NFL RAMS  (0-2) 10 VS CARDINALS (1-1) 41 [ 04:05PM 09.15 ]" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="NFL REPLAYS",12 REPLAY | NFL RAMS  (0-2) 10 VS CARDINALS (1-1) 41 [ 04:05PM 09.15 ]
 http://op.web24.live:8080/ultnew/password@2024/76191
+--
 #EXTINF:-1 tvg-id="" tvg-name="13 REPLAY | NFL STEELERS (2-0) 13 VS BRONCOS (0-2) 06 [ 04:25PM 09.15 ]" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="NFL REPLAYS",13 REPLAY | NFL STEELERS (2-0) 13 VS BRONCOS (0-2) 06 [ 04:25PM 09.15 ]
 http://op.web24.live:8080/ultnew/password@2024/76192
 --
 #EXTINF:-1 tvg-id="" tvg-name="14 REPLAY | NFL BENGALS (0-2) 25 VS CHIEFS (2-0) 26 [ 04:25PM 09.15 ]" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="NFL REPLAYS",14 REPLAY | NFL BENGALS (0-2) 25 VS CHIEFS (2-0) 26 [ 04:25PM 09.15 ]
 http://op.web24.live:8080/ultnew/password@2024/76193
---
 #EXTINF:-1 tvg-id="" tvg-name="15 REPLAY | NFL BEARS (1-1) 13 VS TEXANS (2-0) 19 [ 08:20PM 09.15 ]" tvg-logo="https://i.imgur.com/TV8HjbK.png" group-title="NFL REPLAYS",15 REPLAY | NFL BEARS (1-1) 13 VS TEXANS (2-0) 19 [ 08:20PM 09.15 ]
 http://op.web24.live:8080/ultnew/password@2024/76194
 --
@@ -201,33 +201,15 @@ http://op.web24.live:8080/ultnew/password@2024/76196
 #EXTINF:-1 tvg-id="" tvg-name="CARIB | NFL NETWORK" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | NFL NETWORK
 http://op.web24.live:8080/ultnew/password@2024/54002
 --
-#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="ESPN+ 002 | NFL PRIMETIME ON ESPN+ | 09/23-02:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 002 | NFL PRIMETIME ON ESPN+ | 09/23-02:00AM | ESPN+
+#EXTINF:-1 tvg-id="ESPN+ 001" tvg-name="ESPN+ 001 | NFL PRIMETIME ON ESPN+ | 09/24-02:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 001 | NFL PRIMETIME ON ESPN+ | 09/24-02:00AM | ESPN+
+http://op.web24.live:8080/ultnew/password@2024/52686
+#EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="ESPN+ 002 | NFL PRIMETIME ON ESPN+ | 09/24-02:00AM | ESPN+" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/espnp.png" group-title="ESPN PLUS",ESPN+ 002 | NFL PRIMETIME ON ESPN+ | 09/24-02:00AM | ESPN+
 http://op.web24.live:8080/ultnew/password@2024/52687
 --
-#EXTINF:-1 tvg-id="NFL 01" tvg-name="NFL 01 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466509971466/JAGUARS-BILLS.PNG?ex=66f2c400&is=66f17280&hm=21641aadc6c39774d2c014864b413586ae8d082cfd20a43e0c57efc7e0c83b70&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL 01 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES
+#EXTINF:-1 tvg-id="NFL 01" tvg-name="NFL 01 | COWBOYS(1-2) @ GIANTS(1-2) | 09/26-08:15PM | PRIME VIDEO" tvg-logo="https://i.ibb.co/c2jB8gF/nfl.png" group-title="NFL PACKAGE",NFL 01 | COWBOYS(1-2) @ GIANTS(1-2) | 09/26-08:15PM | PRIME VIDEO
 http://op.web24.live:8080/ultnew/password@2024/55051
-#EXTINF:-1 tvg-id="NFL 02" tvg-name="NFL 02 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466509971466/JAGUARS-BILLS.PNG?ex=66f2c400&is=66f17280&hm=21641aadc6c39774d2c014864b413586ae8d082cfd20a43e0c57efc7e0c83b70&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL 02 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES
-http://op.web24.live:8080/ultnew/password@2024/55052
-#EXTINF:-1 tvg-id="NFL 03" tvg-name="NFL 03 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466509971466/JAGUARS-BILLS.PNG?ex=66f2c400&is=66f17280&hm=21641aadc6c39774d2c014864b413586ae8d082cfd20a43e0c57efc7e0c83b70&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL 03 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES
-http://op.web24.live:8080/ultnew/password@2024/55053
-#EXTINF:-1 tvg-id="NFL 04" tvg-name="NFL 04 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466916814898/COMMANDERS-BENGALS.PNG?ex=66f2c400&is=66f17280&hm=5dc18d14a2a500ff2493f117fec025fc80db87519820e143b77a6b4cfa9fc0b1&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL 04 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+
-http://op.web24.live:8080/ultnew/password@2024/55054
-#EXTINF:-1 tvg-id="NFL 05" tvg-name="NFL 05 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466916814898/COMMANDERS-BENGALS.PNG?ex=66f2c400&is=66f17280&hm=5dc18d14a2a500ff2493f117fec025fc80db87519820e143b77a6b4cfa9fc0b1&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL 05 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+
-http://op.web24.live:8080/ultnew/password@2024/55055
-#EXTINF:-1 tvg-id="NFL 06" tvg-name="NFL 06 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466916814898/COMMANDERS-BENGALS.PNG?ex=66f2c400&is=66f17280&hm=5dc18d14a2a500ff2493f117fec025fc80db87519820e143b77a6b4cfa9fc0b1&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL 06 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+
-http://op.web24.live:8080/ultnew/password@2024/55056
-#EXTINF:-1 tvg-id="NFL 01" tvg-name="NFL SD 01 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466509971466/JAGUARS-BILLS.PNG?ex=66f2c400&is=66f17280&hm=21641aadc6c39774d2c014864b413586ae8d082cfd20a43e0c57efc7e0c83b70&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL SD 01 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES
+#EXTINF:-1 tvg-id="NFL 01" tvg-name="NFL SD 01 | COWBOYS(1-2) @ GIANTS(1-2) | 09/26-08:15PM | PRIME VIDEO" tvg-logo="https://i.ibb.co/c2jB8gF/nfl.png" group-title="NFL PACKAGE",NFL SD 01 | COWBOYS(1-2) @ GIANTS(1-2) | 09/26-08:15PM | PRIME VIDEO
 http://op.web24.live:8080/ultnew/password@2024/78196
-#EXTINF:-1 tvg-id="NFL 02" tvg-name="NFL SD 02 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466509971466/JAGUARS-BILLS.PNG?ex=66f2c400&is=66f17280&hm=21641aadc6c39774d2c014864b413586ae8d082cfd20a43e0c57efc7e0c83b70&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL SD 02 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES
-http://op.web24.live:8080/ultnew/password@2024/78197
-#EXTINF:-1 tvg-id="NFL 03" tvg-name="NFL SD 03 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466509971466/JAGUARS-BILLS.PNG?ex=66f2c400&is=66f17280&hm=21641aadc6c39774d2c014864b413586ae8d082cfd20a43e0c57efc7e0c83b70&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL SD 03 | JAGUARS(0-2) @ BILLS(2-0) | 09/23-07:30PM | ESPN, ESPN DEPORTES
-http://op.web24.live:8080/ultnew/password@2024/78198
-#EXTINF:-1 tvg-id="NFL 04" tvg-name="NFL SD 04 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466916814898/COMMANDERS-BENGALS.PNG?ex=66f2c400&is=66f17280&hm=5dc18d14a2a500ff2493f117fec025fc80db87519820e143b77a6b4cfa9fc0b1&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL SD 04 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+
-http://op.web24.live:8080/ultnew/password@2024/78199
-#EXTINF:-1 tvg-id="NFL 05" tvg-name="NFL SD 05 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466916814898/COMMANDERS-BENGALS.PNG?ex=66f2c400&is=66f17280&hm=5dc18d14a2a500ff2493f117fec025fc80db87519820e143b77a6b4cfa9fc0b1&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL SD 05 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+
-http://op.web24.live:8080/ultnew/password@2024/78200
-#EXTINF:-1 tvg-id="NFL 06" tvg-name="NFL SD 06 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+" tvg-logo="https://media.discordapp.net/attachments/529521075646889994/1287773466916814898/COMMANDERS-BENGALS.PNG?ex=66f2c400&is=66f17280&hm=5dc18d14a2a500ff2493f117fec025fc80db87519820e143b77a6b4cfa9fc0b1&=&format=webp&quality=lossless" group-title="NFL PACKAGE",NFL SD 06 | COMMANDERS(1-1) @ BENGALS(0-2) | 09/23-08:15PM | ABC, ESPN+
-http://op.web24.live:8080/ultnew/password@2024/78201
 #EXTINF:-1 tvg-id="SP: RED ZONERED ZONE" tvg-name="NFL SD | REDZONE" tvg-logo="https://i.ibb.co/fH9wYZP/nfl-red-zone-us.png" group-title="NFL PACKAGE",NFL SD | REDZONE
 http://op.web24.live:8080/ultnew/password@2024/78195
 #EXTINF:-1 tvg-id="espn.us" tvg-name="NFL |  ESPN (MNF)" tvg-logo="https://i.ibb.co/2hnTxt8/espn-mnf.png" group-title="NFL PACKAGE",NFL |  ESPN (MNF)
@@ -272,11 +254,3 @@ https://archive.org/download/01_20220423_20220423_1838/01.mp4
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/9/w1280/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg" group-title="2020",Amor garantizado (2020)
 http://vod.tuxchannel.mx/peliculas/720/love%20guaranteed%202020.mkv
---
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="🏆 Sports",Pluto TV NFL Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
-#EXTINF:-1 channel-id="pluto-657759efb9adc40008ff3911" tvg-id="657759efb9adc40008ff3911" tvg-logo="https://images.pluto.tv/channels/657759efb9adc40008ff3911/colorLogoPNG.png" group-title="🏆 Sports",NFL Super Bowl Classics
-https://r.mjh.nz/PlutoTV/657759efb9adc40008ff3911-alt.m3u8
---
-#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="🏆 Sports",Best Cable Sports Perú
-https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
