@@ -9,6 +9,114 @@ http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  0742
 http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 --
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="|DE| Sky Sport Golf 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-SkySport/skysportgolf.png" group-title="DE : Sky Sports",|DE| Sky Sport Golf 4K+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/84790
+--
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="|NL| Ziggo Sport Golf 4K+" tvg-logo="" group-title="NL : Sport",|NL| Ziggo Sport Golf 4K+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/290
+--
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="|NL| Ziggo Sport Golf HD+" tvg-logo="" group-title="NL : Sport",|NL| Ziggo Sport Golf HD+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/304
+--
+#EXTINF:-1 tvg-id="gold.fr" tvg-name="|FR| Golf+ 4K+" tvg-logo="" group-title="FR : Sport",|FR| Golf+ 4K+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/835
+--
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Sports Golf 4K+" tvg-logo="" group-title="UK : Sport",|UK| Sky Sports Golf 4K+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/13894
+--
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|ES| Movistar Golf 4K+" tvg-logo="" group-title="ES : Sport",|ES| Movistar Golf 4K+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/13988
+--
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Golf Channel HD+" tvg-logo="" group-title="PL : Polska",|PL| Golf Channel HD+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/15429
+--
+#EXTINF:-1 tvg-id="" tvg-name="|CZ| Golf Channel" tvg-logo="" group-title="CZ : Czech Republik",|CZ| Golf Channel
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/15128
+--
+#EXTINF:-1 tvg-id="" tvg-name="|IN| Ten Golf 4K+" tvg-logo="" group-title="IN : Sport",|IN| Ten Golf 4K+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/15724
+--
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC Golf 4K+" tvg-logo="" group-title="US : Sport",|US| NBC Golf 4K+
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/15925
+--
+#EXTINF:-1 tvg-id="" tvg-name="|DK| Viasat Golf" tvg-logo="" group-title="SC : Scandinavie",|DK| Viasat Golf
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/16067
+--
+#EXTINF:-1 tvg-id="" tvg-name="|SW| Viasat Sport Golf" tvg-logo="" group-title="SC : Scandinavie",|SW| Viasat Sport Golf
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/16176
+--
+#EXTINF:-1 tvg-id="" tvg-name="|SW| C More Golf" tvg-logo="" group-title="SC : Scandinavie",|SW| C More Golf
+http://62.182.83.91:80/star.kozom/naMNzJJpBRdE/16185
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | GOLF HD" tvg-logo="" group-title="Canada",CA | GOLF HD
+http://cdn1host.online:2999/happy2024/newyear/1925
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
+http://cdn1host.online:2999/happy2024/newyear/138
+--
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="ES | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="Espana",ES | Golf Channel
+http://cdn1host.online:2999/happy2024/newyear/89
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
+http://cdn1host.online:2999/velous/OyEDBHzcaE/138
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | GOLF HD" tvg-logo="" group-title="Canada",CA | GOLF HD
+http://cdn1host.online:2999/velous/OyEDBHzcaE/1925
+--
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="ES | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="Espana",ES | Golf Channel
+http://cdn1host.online:2999/velous/OyEDBHzcaE/89
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/138
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | GOLF HD" tvg-logo="" group-title="Canada",CA | GOLF HD
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/1925
+--
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="ES | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="Espana",ES | Golf Channel
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/89
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/138
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | GOLF HD" tvg-logo="" group-title="Canada",CA | GOLF HD
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/1925
+--
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="ES | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="Espana",ES | Golf Channel
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/89
+--
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel
+http://directo.ddns.me:2082/rest9437ky862hs73/hs57483feucn45234/3099
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
+http://directo.ddns.me:2082/rest9437ky862hs73/hs57483feucn45234/38903
+--
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
+http://directo.ddns.me:2082/rest9437ky862hs73/hs57483feucn45234/3103
+--
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel
+http://directo.ddns.me:2082/restreamJRX200/VnGWupVNjG3L/3099
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
+http://directo.ddns.me:2082/restreamJRX200/VnGWupVNjG3L/38903
+--
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
+http://directo.ddns.me:2082/restreamJRX200/VnGWupVNjG3L/3103
+--
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3099
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/38903
+--
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3103
+--
+#EXTINF:-1 tvg-id="" tvg-name="One Golf (720p)" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="OTROS",One Golf (720p)
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/70201
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sportcast Golf 2 (博斯高球2) (720p)" tvg-logo="https://i.imgur.com/AAS6FS3.png" group-title="OTROS",Sportcast Golf 2 (博斯高球2) (720p)
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72041
+--
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Del Golfo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="OTROS",Televisa Del Golfo (720p) [Not 24/7]
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72581
+--
 #EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel
 http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3099
 #EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
@@ -26,81 +134,159 @@ http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72041
 #EXTINF:-1 tvg-id="" tvg-name="Televisa Del Golfo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="OTROS",Televisa Del Golfo (720p) [Not 24/7]
 http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72581
 --
-#EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="" group-title="ARGENTINA",AR GOLF
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2888
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar-golf-es.png" group-title="ES | DEPORTES",ES: M+ GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/5649
 --
-#EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="CA GOLF" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/97/04/golf-logo-design-with-white-golf-ball-vector-25619704.jpg" group-title="CANADA",CA GOLF
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3101
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar-golf2-es.png" group-title="ES | DEPORTES",ES: M+ GOLF 2
+http://megity.top:8080/xxxrestream/fghiBrdf55/57256
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf 01: " tvg-logo="" group-title="SPORTS - GOLF",Golf 01: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632037
-#EXTINF:-1 tvg-id="" tvg-name="Golf 02: " tvg-logo="" group-title="SPORTS - GOLF",Golf 02: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632038
-#EXTINF:-1 tvg-id="" tvg-name="Golf 03: " tvg-logo="" group-title="SPORTS - GOLF",Golf 03: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632039
-#EXTINF:-1 tvg-id="" tvg-name="Golf 04: " tvg-logo="" group-title="SPORTS - GOLF",Golf 04: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632040
-#EXTINF:-1 tvg-id="" tvg-name="Golf 05: " tvg-logo="" group-title="SPORTS - GOLF",Golf 05: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632041
-#EXTINF:-1 tvg-id="" tvg-name="Golf 06: " tvg-logo="" group-title="SPORTS - GOLF",Golf 06: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632042
-#EXTINF:-1 tvg-id="" tvg-name="Golf 07: " tvg-logo="" group-title="SPORTS - GOLF",Golf 07: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632043
-#EXTINF:-1 tvg-id="" tvg-name="Golf 08: " tvg-logo="" group-title="SPORTS - GOLF",Golf 08: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632044
-#EXTINF:-1 tvg-id="" tvg-name="Golf 09: " tvg-logo="" group-title="SPORTS - GOLF",Golf 09: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632045
-#EXTINF:-1 tvg-id="" tvg-name="Golf 10: " tvg-logo="" group-title="SPORTS - GOLF",Golf 10: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632046
-#EXTINF:-1 tvg-id="" tvg-name="Golf 11: " tvg-logo="" group-title="SPORTS - GOLF",Golf 11: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632047
-#EXTINF:-1 tvg-id="" tvg-name="Golf 12: " tvg-logo="" group-title="SPORTS - GOLF",Golf 12: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632048
-#EXTINF:-1 tvg-id="" tvg-name="Golf 13: " tvg-logo="" group-title="SPORTS - GOLF",Golf 13: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632049
-#EXTINF:-1 tvg-id="" tvg-name="Golf 14: " tvg-logo="" group-title="SPORTS - GOLF",Golf 14: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632050
-#EXTINF:-1 tvg-id="" tvg-name="Golf 15: " tvg-logo="" group-title="SPORTS - GOLF",Golf 15: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632051
-#EXTINF:-1 tvg-id="" tvg-name="Golf 16: " tvg-logo="" group-title="SPORTS - GOLF",Golf 16: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632052
-#EXTINF:-1 tvg-id="" tvg-name="Golf 17: " tvg-logo="" group-title="SPORTS - GOLF",Golf 17: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632053
-#EXTINF:-1 tvg-id="" tvg-name="Golf 18: " tvg-logo="" group-title="SPORTS - GOLF",Golf 18: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632054
-#EXTINF:-1 tvg-id="" tvg-name="Golf 19: " tvg-logo="" group-title="SPORTS - GOLF",Golf 19: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632055
-#EXTINF:-1 tvg-id="" tvg-name="Golf 20: " tvg-logo="" group-title="SPORTS - GOLF",Golf 20: 
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/632056
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="https://docdog.top/logo/countries/france/golf-plus-fr.png" group-title="FR | SPORT",FR: GOLF+
+http://megity.top:8080/xxxrestream/fghiBrdf55/57342
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="FR: GOLF Channel" tvg-logo="" group-title="FR | SPORT",FR: GOLF Channel
+http://megity.top:8080/xxxrestream/fghiBrdf55/57377
 --
-#EXTINF:-1 tvg-id="" tvg-name="MX Golf HD" tvg-logo="" group-title="MEXICO",MX Golf HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/4269
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="DE: Sky Sport Golf" tvg-logo="https://docdog.top/logo/countries/germany/sky-sports-golf-hz-uk.png" group-title="DE | GERMANY",DE: Sky Sport Golf
+http://megity.top:8080/xxxrestream/fghiBrdf55/29619
 --
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK Sky Sports Golf" tvg-logo="https://media.info/i/lf/0/1507600318/1110.png" group-title="UK SPORTS",UK Sky Sports Golf
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2187
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK Sky Sports Golf HD" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="UK SPORTS",UK Sky Sports Golf HD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2186
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/poland/golfchannel.png" group-title="PL | SPORT",PL: GOLF CHANNEL
+http://megity.top:8080/xxxrestream/fghiBrdf55/10174
 --
-#EXTINF:-1 tvg-id="" tvg-name="US Golf US Open  (PC)" tvg-logo="" group-title="USA ENTERTAINMENT",US Golf US Open  (PC)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/660932
+#EXTINF:-1 tvg-id="Ziggo Sport Golf [TV]" tvg-name="NL: ZIGGO SPORT GOLF" tvg-logo="https://docdog.top/logo/countries/netherlands/ziggosportgolf.png" group-title="NL | NETHERLANDS",NL: ZIGGO SPORT GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/9965
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA Golf (SD)" tvg-logo="" group-title="USA LOW BANDWIDTH",USA Golf (SD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/21570
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA Golf Channel (SHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="USA SPORTS",USA Golf Channel (SHD)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/2385
-#EXTINF:-1 tvg-id="golf.us" tvg-name="USA Golf Channel LHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="USA SPORTS",USA Golf Channel LHD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3738
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA Golf Channel UHD" tvg-logo="https://lezebre.lu/images/detailed/20/Volkswagen_golf_logo_2.png" group-title="USA SPORTS",USA Golf Channel UHD
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/3651
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT GOLF" tvg-logo="" group-title="IT | ITALY",IT: SKY SPORT GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/24456
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA NBC Golf Pass (PC)" tvg-logo="" group-title="USA SPORTS",USA NBC Golf Pass (PC)
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/603381
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS GOLF" tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="UK",UK: VIP SKY SPORTS GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/29679
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA NFL: Falcons" tvg-logo="https://teamgolfusa.com/wp-content/uploads/2016/07/ATLANTA_FALCONS_SINGLE.png" group-title="USA NFL",USA NFL: Falcons
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/390444
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SUPERSPORT GOLF" tvg-logo="https://docdog.top/logo/countries/uk/supersportgolf.png" group-title="UK",UK: VIP SUPERSPORT GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/29733
 --
-#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Golf" tvg-logo="" group-title="SOUTH AFRICA",South Africa SuperSport Golf
-http://live.lordstreams.co:8080/monstercable/Dq6jjknxCr/470016
+#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/cz/golfchannel.png" group-title="EURO | CZ & SLOVAK",CZ: GOLF CHANNEL
+http://megity.top:8080/xxxrestream/fghiBrdf55/8372
+--
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT KLUB 9" tvg-logo="https://docdog.top/logo/countries/exyu/sportklubgolf.png" group-title="EURO | EX-YU",EX-YU: SPORT KLUB 9
+http://megity.top:8080/xxxrestream/fghiBrdf55/51874
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT KLUB GOLF" tvg-logo="https://docdog.top/logo/countries/exyu/sportklubgolf.png" group-title="EURO | EX-YU",EX-YU: SPORT KLUB GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/51875
+--
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT GOLF" tvg-logo="https://docdog.top/logo/countries/sweden/viasatgolf.png" group-title="EURO | SWEDEN",SWE: VIASAT GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/5537
+--
+#EXTINF:-1 tvg-id="" tvg-name="DK: VIASAT GOLF" tvg-logo="https://docdog.top/logo/countries/denmark/viasatgolf.png" group-title="EURO | DENMARK",DK: VIASAT GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/9044
+--
+#EXTINF:-1 tvg-id="" tvg-name="AF: VIP SUPERSPORT GOLF" tvg-logo="https://docdog.top/logo/countries/africa/supersportgolf.png" group-title="AFR | AFRICA",AF: VIP SUPERSPORT GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/52178
+--
+#EXTINF:-1 tvg-id="" tvg-name="SAF: SuperSport Golf FHD" tvg-logo="" group-title="AFR | SOUTH AFRICA",SAF: SuperSport Golf FHD
+http://megity.top:8080/xxxrestream/fghiBrdf55/57451
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/us/golfchannel.png" group-title="NAME | USA",USA: VIP GOLF CHANNEL
+http://megity.top:8080/xxxrestream/fghiBrdf55/50461
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP NBC GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/us/nbcgolfchannel.png" group-title="NAME | USA",USA: VIP NBC GOLF CHANNEL
+http://megity.top:8080/xxxrestream/fghiBrdf55/51089
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP PPV GOLF TOURNAMENTS LIVE EVENTS" tvg-logo="https://docdog.top/logo/countries/us/ppvevents.png" group-title="NAME | USA",USA: VIP PPV GOLF TOURNAMENTS LIVE EVENTS
+http://megity.top:8080/xxxrestream/fghiBrdf55/51111
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/canada/golfchannel.png" group-title="NAME | CA",CA: GOLF CHANNEL
+http://megity.top:8080/xxxrestream/fghiBrdf55/23761
+--
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="LAME | ARGENTINA",ARG: GOLF CHANNEL
+http://megity.top:8080/xxxrestream/fghiBrdf55/10020
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLF CH" tvg-logo="https://docdog.top/logo/countries/mexico/golfchannel.png" group-title="LAME | MEXICO",MEX: GOLF CH
+http://megity.top:8080/xxxrestream/fghiBrdf55/52540
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NBC GOLF" tvg-logo="https://docdog.top/logo/countries/mexico/nbcgolf.png" group-title="LAME | MEXICO",MEX: NBC GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/52560
+--
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN GOLF" tvg-logo="https://docdog.top/logo/countries/india/tengolf.png" group-title="ASIA | INDIA",IN: TEN GOLF
+http://megity.top:8080/xxxrestream/fghiBrdf55/53666
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52564
+#EXTINF:-1 tvg-id="" tvg-name="  G063 | PGA 01 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G063 | PGA 01 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52565
+#EXTINF:-1 tvg-id="" tvg-name="  G064 | PGA 02 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G064 | PGA 02 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52566
+#EXTINF:-1 tvg-id="" tvg-name="  G065 | PGA 03 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G065 | PGA 03 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52567
+#EXTINF:-1 tvg-id="" tvg-name="  G066 | PGA 04 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G066 | PGA 04 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52568
+#EXTINF:-1 tvg-id="" tvg-name="  G067 | PGA 05 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G067 | PGA 05 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52569
+#EXTINF:-1 tvg-id="" tvg-name="  G068 | PGA 06 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G068 | PGA 06 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52570
+#EXTINF:-1 tvg-id="" tvg-name="  G069 | PGA 07 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G069 | PGA 07 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52571
+#EXTINF:-1 tvg-id="" tvg-name="  G070 | PGA 08 | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G070 | PGA 08 | 09/25-12:00AM | 
+http://myfuturetv.com:8080/megaott2024/987654321/52572
+--
+#EXTINF:-1 tvg-id="" tvg-name="AT | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ATBA2200008XN_20201208T050219.png" group-title="GOLF / TENNIS",AT | TENNIS CHANNEL DEUTSCHLAND
+http://myfuturetv.com:8080/megaott2024/987654321/52548
+--
+#EXTINF:-1 tvg-id="" tvg-name="CARIB | GOLF" tvg-logo="https://mapchart.net/dist/img/og/logo-caribbean.png" group-title="CARIBBEAN",CARIB | GOLF
+http://myfuturetv.com:8080/megaott2024/987654321/53928
+--
+#EXTINF:-1 tvg-id="" tvg-name="CH | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/CHBA22000080G_20201208T050218.png" group-title="GOLF / TENNIS",CH | TENNIS CHANNEL DEUTSCHLAND
+http://myfuturetv.com:8080/megaott2024/987654321/52549
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE | TENNIS CHANNEL DEUTSCHLAND" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/90/DEBA2200008NL_20201208T050219.png" group-title="GOLF / TENNIS",DE | TENNIS CHANNEL DEUTSCHLAND
+http://myfuturetv.com:8080/megaott2024/987654321/52550
+--
+#EXTINF:-1 tvg-id="" tvg-name="IN | TENNIS CHANNEL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/40/INBA4900017K8_20210825T043649.png" group-title="GOLF / TENNIS",IN | TENNIS CHANNEL
+http://myfuturetv.com:8080/megaott2024/987654321/52551
+#EXTINF:-1 tvg-id="" tvg-name="IN | TENNIS CHANNEL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/62/INBB3000024G3_20210825T013233.png" group-title="GOLF / TENNIS",IN | TENNIS CHANNEL
+http://myfuturetv.com:8080/megaott2024/987654321/52552
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT | SUPER TENNIS" tvg-logo="" group-title="GOLF / TENNIS",IT | SUPER TENNIS
+http://myfuturetv.com:8080/megaott2024/987654321/52553
+--
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="LA | GOLF CHANNEL" tvg-logo="https://www.thengfq.com/site/wp-content/uploads/2018/01/Q_Top100_Logos_GolfChannel-1.jpg" group-title="LATINO",LA | GOLF CHANNEL
+http://myfuturetv.com:8080/megaott2024/987654321/38715
+--
+#EXTINF:-1 tvg-id="" tvg-name="NL | ZIGGO SPORT GOLF" tvg-logo="" group-title="NETHERLANDS",NL | ZIGGO SPORT GOLF
+http://myfuturetv.com:8080/megaott2024/987654321/45019
+--
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK GOLF" tvg-logo="https://seeklogo.com/images/P/peacock-logo-9B84CDB551-seeklogo.com.png" group-title="PEACOCK",PEACOCK GOLF
+http://myfuturetv.com:8080/megaott2024/987654321/75269
+--
+#EXTINF:-1 tvg-id="cmoregolf.se" tvg-name="SE | C MORE GOLF." tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_play.jpg" group-title="SWEDEN",SE | C MORE GOLF.
+http://myfuturetv.com:8080/megaott2024/987654321/40319
+--
+#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE | VIASAT GOLF*" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_golf_hd.jpg" group-title="SWEDEN",SE | VIASAT GOLF*
+http://myfuturetv.com:8080/megaott2024/987654321/40326
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK | TENNIS CHANNEL INTERNATIONAL" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20201208T050201.png" group-title="GOLF / TENNIS",UK | TENNIS CHANNEL INTERNATIONAL
+http://myfuturetv.com:8080/megaott2024/987654321/52555
+--
+#EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA | GOLF CHANNEL" tvg-logo="https://i.ibb.co/b1h63HW/nbc-golf.png" group-title="USA SPORTS NETWORKS",USA | GOLF CHANNEL
+http://myfuturetv.com:8080/megaott2024/987654321/12353
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | TENNIS CHANNEL" tvg-logo="https://i.ibb.co/2nF1Rb5/tennis-channel.png" group-title="GOLF / TENNIS",USA | TENNIS CHANNEL
+http://myfuturetv.com:8080/megaott2024/987654321/52556
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA | TENNIS CHANNEL PLUS" tvg-logo="https://tinyurl.com/y2umyew3" group-title="GOLF / TENNIS",USA | TENNIS CHANNEL PLUS
+http://myfuturetv.com:8080/megaott2024/987654321/52557
+#EXTINF:-1 tvg-id="" tvg-name="USA | TENNIS PLUS 1" tvg-logo="https://i.postimg.cc/sxRnDXkP/tri-angela-us-ru.png" group-title="GOLF / TENNIS",USA | TENNIS PLUS 1
+http://myfuturetv.com:8080/megaott2024/987654321/52558
+#EXTINF:-1 tvg-id="" tvg-name="USA | TENNIS PLUS 3" tvg-logo="https://i.postimg.cc/sxRnDXkP/tri-angela-us-ru.png" group-title="GOLF / TENNIS",USA | TENNIS PLUS 3
+http://myfuturetv.com:8080/megaott2024/987654321/52560
+#EXTINF:-1 tvg-id="" tvg-name="USA | TENNIS PLUS 4" tvg-logo="https://i.postimg.cc/sxRnDXkP/tri-angela-us-ru.png" group-title="GOLF / TENNIS",USA | TENNIS PLUS 4
+http://myfuturetv.com:8080/megaott2024/987654321/52561
+--
+#EXTINF:-1 tvg-id="SP: NBC GOLF" tvg-name="USA-SD | GOLF CHANNEL (T)" tvg-logo="https://89.187.179.122:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvEtaVXImTu7GWbfsZPQMm0hqdujrAOgTOMjrtKNax9UKQ.png" group-title="LOW BANDWIDTH CHANNELS",USA-SD | GOLF CHANNEL (T)
+http://myfuturetv.com:8080/megaott2024/987654321/77749
+--
+#EXTINF:-1 tvg-id="[213] GOLF" tvg-name="ZA | DSTV SUPERSPORT GOLF" tvg-logo="https://i.ibb.co/x6bTnRW/supersport-golf-za.png" group-title="INTERNATIONAL SPORTS",ZA | DSTV SUPERSPORT GOLF
+http://myfuturetv.com:8080/megaott2024/987654321/43151
+--
+#EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT TENNIS" tvg-logo="https://i.ibb.co/C1JjDNr/supersport-tennis-za.png" group-title="GOLF / TENNIS",ZA | DSTV SUPERSPORT TENNIS
+http://myfuturetv.com:8080/megaott2024/987654321/52562
 --
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="  G062 | GOLF CHANNEL | 09/25-12:00AM | " tvg-logo="https://i.pinimg.com/736x/66/42/4f/66424fe499578d80774b0b6079225806.jpg" group-title="GOLF / TENNIS",  G062 | GOLF CHANNEL | 09/25-12:00AM | 
 http://op.web24.live:8080/ultnew/password@2024/52564
@@ -182,6 +368,217 @@ http://op.web24.live:8080/ultnew/password@2024/43151
 --
 #EXTINF:-1 tvg-id="" tvg-name="ZA | DSTV SUPERSPORT TENNIS" tvg-logo="https://i.ibb.co/C1JjDNr/supersport-tennis-za.png" group-title="GOLF / TENNIS",ZA | DSTV SUPERSPORT TENNIS
 http://op.web24.live:8080/ultnew/password@2024/52562
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD:  GOLF CHANNEL" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD:  GOLF CHANNEL
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/181833
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (LAT)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (LAT)
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/181874
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (USA)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (USA)
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/181875
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR GOLF" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg" group-title="DEPORTES ʜᴅ",DEP HD: MOVISTAR GOLF
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/181879
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS GOLF" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",DEP HD: SKY SPORTS GOLF
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/181892
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Golf Channel Latinoamerica" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",SP: MX: Golf Channel Latinoamerica
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/148420
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/265642
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/265643
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/265839
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/265840
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/228295
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/228369
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/228370
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/228380
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/03f43ae0f7765f569b058136f1e443a3.png" group-title="CANADA",Golf Channel ʜᴅ
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/220470
+--
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="" group-title="HOLANDA",NL: ZIGGO SPORT GOLF HD
+https://pro.boxdigital.org:2087/cmd@serviciosvisuales/YtGAVAF4@mag/128626
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD:  GOLF CHANNEL" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD:  GOLF CHANNEL
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/181833
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (LAT)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (LAT)
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/181874
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (USA)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (USA)
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/181875
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR GOLF" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg" group-title="DEPORTES ʜᴅ",DEP HD: MOVISTAR GOLF
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/181879
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS GOLF" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",DEP HD: SKY SPORTS GOLF
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/181892
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Golf Channel Latinoamerica" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",SP: MX: Golf Channel Latinoamerica
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/148420
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/265642
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/265643
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/265839
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/265840
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/228295
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/228369
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/228370
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/228380
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/03f43ae0f7765f569b058136f1e443a3.png" group-title="CANADA",Golf Channel ʜᴅ
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/220470
+--
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="" group-title="HOLANDA",NL: ZIGGO SPORT GOLF HD
+https://pro.boxdigital.org:2087/restreamport/1mj3rNaiFodX/128626
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD:  GOLF CHANNEL" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD:  GOLF CHANNEL
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/181833
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (LAT)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (LAT)
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/181874
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (USA)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (USA)
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/181875
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR GOLF" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg" group-title="DEPORTES ʜᴅ",DEP HD: MOVISTAR GOLF
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/181879
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS GOLF" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",DEP HD: SKY SPORTS GOLF
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/181892
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Golf Channel Latinoamerica" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",SP: MX: Golf Channel Latinoamerica
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/148420
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/265642
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/265643
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/265839
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/265840
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/228295
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/228369
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/228370
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/228380
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/03f43ae0f7765f569b058136f1e443a3.png" group-title="CANADA",Golf Channel ʜᴅ
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/220470
+--
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="" group-title="HOLANDA",NL: ZIGGO SPORT GOLF HD
+https://pro.boxdigital.org:2087/SvW6WjwybV/HbFKcCjTSh/128626
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD:  GOLF CHANNEL" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD:  GOLF CHANNEL
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/181833
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (LAT)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (LAT)
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/181874
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: GOLF CHANNEL (USA)" tvg-logo="https://img.aelieve.com/wYiwMmE-HWQ7xrVh/w:234/h:234/q:74/https://cdn.aelieve.com/toptere/Golfchannel.jpg" group-title="DEPORTES ʜᴅ",DEP HD: GOLF CHANNEL (USA)
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/181875
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: MOVISTAR GOLF" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg" group-title="DEPORTES ʜᴅ",DEP HD: MOVISTAR GOLF
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/181879
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: SKY SPORTS GOLF" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",DEP HD: SKY SPORTS GOLF
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/181892
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Golf Channel Latinoamerica" tvg-logo="https://th.bing.com/th/id/R.2a89db2b1e74518ebcf30bc7149c3023?rik=40rbWgjmz2TUYA&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",SP: MX: Golf Channel Latinoamerica
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/148420
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/265642
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/265643
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/265839
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="https://i.imgur.com/uQzkqvt.png" group-title="ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/265840
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF FHD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/228295
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 FHD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/228369
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="" group-title="DEPORTES ESPAÑA",M+ GOLF 2 HD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/228370
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="http://boxdigital.xyz:8080/images/ed2c26150da2884373223aec3dde32f4.png" group-title="DEPORTES ESPAÑA",GOLF HD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/228380
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/03f43ae0f7765f569b058136f1e443a3.png" group-title="CANADA",Golf Channel ʜᴅ
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/220470
+--
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="" group-title="HOLANDA",NL: ZIGGO SPORT GOLF HD
+https://pro.boxdigital.org:2087/tinoconstvnous/GcjgKnKSNg/128626
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF Channel HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="││TV││ ⛹️CANADA SPORTS ⛹️",CA: GOLF Channel HD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/30671
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="││TV││CANALES 2MB",Golf Channel
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/245779
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF_CHANNEL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="",GOLF_CHANNEL_HD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/181576
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL USA FHD" tvg-logo="https://pnghq.com/wp-content/uploads/golf-channel-logo-png-full-hd-png-68512-768x232.png" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",GOLF CHANNEL USA FHD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/213753
+#EXTINF:-1 tvg-id="" tvg-name="GOLF por M+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1280px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE EUROPA ⛹️",GOLF por M+ FHD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/213754
+--
+#EXTINF:-1 tvg-id="" tvg-name="|US| GOLF CHANNEL HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| GOLF CHANNEL HD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/220264
+--
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF CHANNEL HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| NBC GOLF CHANNEL HD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/220344
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC GOLF PASS FHD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| NBC GOLF PASS FHD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/220345
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf SD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/233298
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf HD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/233299
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Golf FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: M. Golf FHD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/233300
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 SD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 SD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/233301
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 HD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 HD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/233302
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Golf 2 FHD" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",SP: ES: Golf 2 FHD
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/233303
 --
 #EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport Golfⓧ" tvg-logo="" group-title="ALL AFRICA",DStv | SuperSport Golfⓧ
 http://ultrahd.live:2086/avenger/68nLeasPde/129666
