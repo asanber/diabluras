@@ -8,7 +8,7 @@
 "groups":
     [
         {
-         "name": "GEN_Fri27Sep_202409271154",
+         "name": "GEN_Fri27Sep_202409271202",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -92,11 +92,11 @@
              "url": "https://megalista.vercel.app/megalista.w3u"
              },
              {
-             "name": "ChukyHood",
-             "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
+             "name": "ChukyDeporte",
+             "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
              },
              {
-             "name": "chukycine",
+             "name": "ChukyCine",
              "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
              },
              {
