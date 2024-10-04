@@ -100,6 +100,40 @@ http://directo.ddns.me:2082/restreamJRX200/VnGWupVNjG3L/38903
 #EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
 http://directo.ddns.me:2082/restreamJRX200/VnGWupVNjG3L/3103
 --
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3099
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/38903
+--
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3103
+--
+#EXTINF:-1 tvg-id="" tvg-name="One Golf (720p)" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="OTROS",One Golf (720p)
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/70201
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sportcast Golf 2 (博斯高球2) (720p)" tvg-logo="https://i.imgur.com/AAS6FS3.png" group-title="OTROS",Sportcast Golf 2 (博斯高球2) (720p)
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72041
+--
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Del Golfo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="OTROS",Televisa Del Golfo (720p) [Not 24/7]
+http://directo.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72581
+--
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3099
+#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/38903
+--
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3103
+--
+#EXTINF:-1 tvg-id="" tvg-name="One Golf (720p)" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="OTROS",One Golf (720p)
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/70201
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sportcast Golf 2 (博斯高球2) (720p)" tvg-logo="https://i.imgur.com/AAS6FS3.png" group-title="OTROS",Sportcast Golf 2 (博斯高球2) (720p)
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72041
+--
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Del Golfo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="OTROS",Televisa Del Golfo (720p) [Not 24/7]
+http://eros.football:2082/restreamtvplux/Mhsi3wMSJSEjska343255/72581
+--
 #EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar-golf-es.png" group-title="ES | DEPORTES",ES: M+ GOLF
 http://megity.top:8080/xxxrestream/fghiBrdf55/5649
 --
