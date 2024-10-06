@@ -1,10 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png", M+ Golf 1080  688c
-acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  0742
-acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
---
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png", M+ Golf 1080  688c
 http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  0742
 http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
@@ -65,6 +60,11 @@ http://cdn1host.online:2999/velous/OyEDBHzcaE/1925
 --
 #EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="ES | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="Espana",ES | Golf Channel
 http://cdn1host.online:2999/velous/OyEDBHzcaE/89
+--
+#EXTINF:-1 tvg-id="" tvg-name="G061 | SUPERSPORT GOLF | 10/05-12:00AM |" tvg-logo="" group-title="VIP Event Section (Oct 05)",G061 | SUPERSPORT GOLF | 10/05-12:00AM |
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/30178
+#EXTINF:-1 tvg-id="" tvg-name="G062 | GOLF CHANNEL | 10/05-12:00AM |" tvg-logo="" group-title="VIP Event Section (Oct 05)",G062 | GOLF CHANNEL | 10/05-12:00AM |
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/30177
 --
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/138
