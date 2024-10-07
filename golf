@@ -1,5 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png", M+ Golf 1080  688c
+acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  0742
+acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
+--
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png", M+ Golf 1080  688c
 http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  0742
 http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
@@ -60,11 +65,6 @@ http://cdn1host.online:2999/velous/OyEDBHzcaE/1925
 --
 #EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="ES | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="Espana",ES | Golf Channel
 http://cdn1host.online:2999/velous/OyEDBHzcaE/89
---
-#EXTINF:-1 tvg-id="" tvg-name="G061 | SUPERSPORT GOLF | 10/05-12:00AM |" tvg-logo="" group-title="VIP Event Section (Oct 05)",G061 | SUPERSPORT GOLF | 10/05-12:00AM |
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/30178
-#EXTINF:-1 tvg-id="" tvg-name="G062 | GOLF CHANNEL | 10/05-12:00AM |" tvg-logo="" group-title="VIP Event Section (Oct 05)",G062 | GOLF CHANNEL | 10/05-12:00AM |
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/30177
 --
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/138
@@ -162,50 +162,6 @@ http://megity.top:8080/xxxrestream/fghiBrdf55/29679
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: VIP SUPERSPORT GOLF" tvg-logo="https://docdog.top/logo/countries/uk/supersportgolf.png" group-title="UK",UK: VIP SUPERSPORT GOLF
 http://megity.top:8080/xxxrestream/fghiBrdf55/29733
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/cz/golfchannel.png" group-title="EURO | CZ & SLOVAK",CZ: GOLF CHANNEL
-http://megity.top:8080/xxxrestream/fghiBrdf55/8372
---
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT KLUB 9" tvg-logo="https://docdog.top/logo/countries/exyu/sportklubgolf.png" group-title="EURO | EX-YU",EX-YU: SPORT KLUB 9
-http://megity.top:8080/xxxrestream/fghiBrdf55/51874
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT KLUB GOLF" tvg-logo="https://docdog.top/logo/countries/exyu/sportklubgolf.png" group-title="EURO | EX-YU",EX-YU: SPORT KLUB GOLF
-http://megity.top:8080/xxxrestream/fghiBrdf55/51875
---
-#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT GOLF" tvg-logo="https://docdog.top/logo/countries/sweden/viasatgolf.png" group-title="EURO | SWEDEN",SWE: VIASAT GOLF
-http://megity.top:8080/xxxrestream/fghiBrdf55/5537
---
-#EXTINF:-1 tvg-id="" tvg-name="DK: VIASAT GOLF" tvg-logo="https://docdog.top/logo/countries/denmark/viasatgolf.png" group-title="EURO | DENMARK",DK: VIASAT GOLF
-http://megity.top:8080/xxxrestream/fghiBrdf55/9044
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: VIP SUPERSPORT GOLF" tvg-logo="https://docdog.top/logo/countries/africa/supersportgolf.png" group-title="AFR | AFRICA",AF: VIP SUPERSPORT GOLF
-http://megity.top:8080/xxxrestream/fghiBrdf55/52178
---
-#EXTINF:-1 tvg-id="" tvg-name="SAF: SuperSport Golf FHD" tvg-logo="" group-title="AFR | SOUTH AFRICA",SAF: SuperSport Golf FHD
-http://megity.top:8080/xxxrestream/fghiBrdf55/57451
---
-#EXTINF:-1 tvg-id="" tvg-name="USA: VIP GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/us/golfchannel.png" group-title="NAME | USA",USA: VIP GOLF CHANNEL
-http://megity.top:8080/xxxrestream/fghiBrdf55/50461
---
-#EXTINF:-1 tvg-id="" tvg-name="USA: VIP NBC GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/us/nbcgolfchannel.png" group-title="NAME | USA",USA: VIP NBC GOLF CHANNEL
-http://megity.top:8080/xxxrestream/fghiBrdf55/51089
---
-#EXTINF:-1 tvg-id="" tvg-name="USA: VIP PPV GOLF TOURNAMENTS LIVE EVENTS" tvg-logo="https://docdog.top/logo/countries/us/ppvevents.png" group-title="NAME | USA",USA: VIP PPV GOLF TOURNAMENTS LIVE EVENTS
-http://megity.top:8080/xxxrestream/fghiBrdf55/51111
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries/canada/golfchannel.png" group-title="NAME | CA",CA: GOLF CHANNEL
-http://megity.top:8080/xxxrestream/fghiBrdf55/23761
---
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="LAME | ARGENTINA",ARG: GOLF CHANNEL
-http://megity.top:8080/xxxrestream/fghiBrdf55/10020
---
-#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLF CH" tvg-logo="https://docdog.top/logo/countries/mexico/golfchannel.png" group-title="LAME | MEXICO",MEX: GOLF CH
-http://megity.top:8080/xxxrestream/fghiBrdf55/52540
---
-#EXTINF:-1 tvg-id="" tvg-name="MEX: NBC GOLF" tvg-logo="https://docdog.top/logo/countries/mexico/nbcgolf.png" group-title="LAME | MEXICO",MEX: NBC GOLF
-http://megity.top:8080/xxxrestream/fghiBrdf55/52560
---
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN GOLF" tvg-logo="https://docdog.top/logo/countries/india/tengolf.png" group-title="ASIA | INDIA",IN: TEN GOLF
-http://megity.top:8080/xxxrestream/fghiBrdf55/53666
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA: GOLF Channel HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="││TV││ ⛹️CANADA SPORTS ⛹️",CA: GOLF Channel HD
 http://tvgusplay.info:8080/mlml2022/2X8t783vmdnt/30671
