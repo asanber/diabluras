@@ -8,13 +8,13 @@
 "groups":
     [
         {
-         "name": "GEN_Sun13Oct_202410130151",
+         "name": "GEN_Sun13Oct_202410131325",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "data13Oct0151",
+         "name": "data13Oct1325",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -92,12 +92,20 @@
              "url": "https://megalista.vercel.app/megalista.w3u"
              },
              {
+             "name": "Chuky-Hood",
+             "url": "https://pastebin.com/raw/D8VpScaM"
+             },
+             {
              "name": "ChukyDeporte",
              "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
              },
              {
              "name": "ChukyCine",
-             "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
+             "url": "https://pastebin.com/raw/fLchA7yv"
+             },
+             {
+             "name": "Af1cionados",
+             "url": "https://af1c1onados.vercel.app/af1cionados.w3u"
              },
              {
              "name": "Public_IPTV",
