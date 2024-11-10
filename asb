@@ -8,13 +8,13 @@
 "groups":
     [
         {
-         "name": "GEN_Sun10Nov_202411100008",
+         "name": "GEN_Mon11Nov_202411110005",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "data10Nov0007",
+         "name": "data11Nov0005",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -118,6 +118,10 @@
              {
              "name": "Mi_TV_telegram",
              "url": "https://raw.githubusercontent.com/Jayoir/1/main/index"
+             },
+             {
+             "name": "IPTV_España_Premium",
+             "url": "http://bit.ly/josepimbatv"
              },
              {
              "name": "Public_IPTV",

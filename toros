@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Global News Toronto" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" group-title="PLUTO CANADA",Global News Toronto
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/325905
+--
+#EXTINF:-1 tvg-id="" tvg-name="Global News Toronto" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" group-title="PLUTO CANADA",Global News Toronto
 http://24horas.fun:8080/veo83764A/zP12xYRAkBwS/325905
 --
 #EXTINF:-1 tvg-id="" tvg-name="Global News Toronto" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" group-title="PLUTO CANADA",Global News Toronto
@@ -35,25 +38,29 @@ http://cdn1host.online:2999/velous/OyEDBHzcaE/2003
 #EXTINF:-1 tvg-id="" tvg-name="ES | One Toro" tvg-logo="" group-title="Espana",ES | One Toro
 http://cdn1host.online:2999/velous/OyEDBHzcaE/1781
 --
-#EXTINF:-1 tvg-id="" tvg-name="09/11 ESPN + 06:30 PM | MONTREAL CANADIENS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="VIP Event Section (Nov 09)",09/11 ESPN + 06:30 PM | MONTREAL CANADIENS VS TORONTO MAPLE LEAFS
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/35366
+#EXTINF:-1 tvg-id="" tvg-name="11  8:30PM | Toronto Raptors at Los Angeles Lakers" tvg-logo="" group-title="VIP Event Section (Nov 10)",11  8:30PM | Toronto Raptors at Los Angeles Lakers
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/36365
 --
-#EXTINF:-1 tvg-id="" tvg-name="9/11 10:30pm Los Angeles Clippers vs Toronto Raptors" tvg-logo="" group-title="VIP Event Section (Nov 09)",9/11 10:30pm Los Angeles Clippers vs Toronto Raptors
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/35613
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers vs Toronto Raptors 09:30 PM EST (LIVE4K)" tvg-logo="" group-title="VIP Event Section (Nov 10)",Los Angeles Lakers vs Toronto Raptors 09:30 PM EST (LIVE4K)
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/36225
 --
-#EXTINF:-1 tvg-id="" tvg-name="9/11 7:00pm Toronto Maple Leafs vs Montreal Canadiens" tvg-logo="" group-title="VIP Event Section (Nov 09)",9/11 7:00pm Toronto Maple Leafs vs Montreal Canadiens
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/35645
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11 | TORONTO RAPTORS @ LOS ANGELES LAKERS | 11/10-09:30PM | SPECTRUM SPORTSNET SPECTRUM SPORTSNET+ TSN3" tvg-logo="" group-title="VIP Event Section (Nov 10)",NBA 11 | TORONTO RAPTORS @ LOS ANGELES LAKERS | 11/10-09:30PM | SPECTRUM SPORTSNET SPECTRUM SPORTSNET+ TSN3
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/35940
 --
-#EXTINF:-1 tvg-id="" tvg-name="Basketball (NBA) Los Angeles Clippers vs Toronto Raptors 10:30 PM EST (NBA)" tvg-logo="" group-title="VIP Event Section (Nov 09)",Basketball (NBA) Los Angeles Clippers vs Toronto Raptors 10:30 PM EST (NBA)
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/35177
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC TORONTO" tvg-logo="" group-title="Canada",CA | CBC TORONTO
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/1993
 --
-#EXTINF:-1 tvg-id="" tvg-name="Hockey (NHL) Toronto Maple Leafs vs Montreal Canadiens 07:00 PM EST (NHL CENTER ICE)" tvg-logo="" group-title="VIP Event Section (Nov 09)",Hockey (NHL) Toronto Maple Leafs vs Montreal Canadiens 07:00 PM EST (NHL CENTER ICE)
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/35209
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITY TORONTO" tvg-logo="" group-title="Canada",CA | CITY TORONTO
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/2001
 --
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Nov-9-2024 9:30PM | Toronto Raptors at LA Clippers" tvg-logo="" group-title="VIP Event Section (Nov 09)",NBA 04 | Nov-9-2024 9:30PM | Toronto Raptors at LA Clippers
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/35789
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | TORONTO RAPTORS @ LOS ANGELES CLIPPERS | 11/9-10:30PM | FDSN SOCAL NBA TV CLIPPERVISION TSN1" tvg-logo="" group-title="VIP Event Section (Nov 09)",NBA 04 | TORONTO RAPTORS @ LOS ANGELES CLIPPERS | 11/9-10:30PM | FDSN SOCAL NBA TV CLIPPERVISION TSN1
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/34748
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV TORONTO" tvg-logo="" group-title="Canada",CA | CTV TORONTO
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/2010
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | GLOBAL TORONTO" tvg-logo="" group-title="Canada",CA | GLOBAL TORONTO
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/2003
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES | One Toro" tvg-logo="" group-title="Espana",ES | One Toro
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/1781
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC TORONTO" tvg-logo="" group-title="Canada",CA | CBC TORONTO
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1993
@@ -312,11 +319,8 @@ http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/517236
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | Movistar Toros HD" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA",DEP ES | Movistar Toros HD
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/517237
 --
-#EXTINF:-1 tvg-id="" tvg-name="NHL | 05:30 PM | MONTREAL CANADIENS VS TORONTO MAPLE LEAFS" tvg-logo="http://lotvservice.us:8880/images/tqEmdN0IPYNx1UXDlhojEbgfGxVZU2avSRVw_YHyOFxl0ojlKhXKn3GG5Utzsy1gD1NbCjgOHTR0C9rU2KXobw.png" group-title="EVENTOS ",NHL | 05:30 PM | MONTREAL CANADIENS VS TORONTO MAPLE LEAFS
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/566820
---
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Nov-9-2024 9:30PM | Toronto Raptors at LA Clippers" tvg-logo="http://lotvservice.us:8880/images/_GvdAkVPIH7f8wRd9PojIVGFxsRnNsUgcVBLEIC6cgHioJ-VSX6WrvMJPDv3lAydAIUj4b_whZHqHKYwRWU1Sg.png" group-title="EVENTOS NBA",NBA 04 | Nov-9-2024 9:30PM | Toronto Raptors at LA Clippers
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/566838
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11 | Nov-10-2024 8:30PM | Toronto Raptors at Los Angeles Lakers" tvg-logo="http://lotvservice.us:8880/images/_GvdAkVPIH7f8wRd9PojIVGFxsRnNsUgcVBLEIC6cgHioJ-VSX6WrvMJPDv3lAydAIUj4b_whZHqHKYwRWU1Sg.png" group-title="EVENTOS NBA",NBA 11 | Nov-10-2024 8:30PM | Toronto Raptors at Los Angeles Lakers
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/566971
 --
 #EXTINF:-1 tvg-id="" tvg-name="Toro Loco: Sangriento (2015)*25sc**156pelis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF4tkGMKfzAU0qaBLYsL40MIsYT.jpg" group-title="Estrenos 2020",Toro Loco: Sangriento (2015)*25sc**156pelis
 http://home-playtv.com:8080/movie/zuihaod3/PbQKHfpUqDxD/173526.mp4
@@ -894,11 +898,8 @@ http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/517236
 #EXTINF:-1 tvg-id="" tvg-name="DEP ES | Movistar Toros HD" tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" group-title="DEPORTES ESPAÑA",DEP ES | Movistar Toros HD
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/517237
 --
-#EXTINF:-1 tvg-id="" tvg-name="NHL | 05:30 PM | MONTREAL CANADIENS VS TORONTO MAPLE LEAFS" tvg-logo="http://lotvservice.us:8880/images/tqEmdN0IPYNx1UXDlhojEbgfGxVZU2avSRVw_YHyOFxl0ojlKhXKn3GG5Utzsy1gD1NbCjgOHTR0C9rU2KXobw.png" group-title="EVENTOS ",NHL | 05:30 PM | MONTREAL CANADIENS VS TORONTO MAPLE LEAFS
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/566820
---
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Nov-9-2024 9:30PM | Toronto Raptors at LA Clippers" tvg-logo="http://lotvservice.us:8880/images/_GvdAkVPIH7f8wRd9PojIVGFxsRnNsUgcVBLEIC6cgHioJ-VSX6WrvMJPDv3lAydAIUj4b_whZHqHKYwRWU1Sg.png" group-title="EVENTOS NBA",NBA 04 | Nov-9-2024 9:30PM | Toronto Raptors at LA Clippers
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/566838
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11 | Nov-10-2024 8:30PM | Toronto Raptors at Los Angeles Lakers" tvg-logo="http://lotvservice.us:8880/images/_GvdAkVPIH7f8wRd9PojIVGFxsRnNsUgcVBLEIC6cgHioJ-VSX6WrvMJPDv3lAydAIUj4b_whZHqHKYwRWU1Sg.png" group-title="EVENTOS NBA",NBA 11 | Nov-10-2024 8:30PM | Toronto Raptors at Los Angeles Lakers
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/566971
 --
 #EXTINF:-1 tvg-id="" tvg-name="Toro Loco: Sangriento (2015)*25sc**156pelis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF4tkGMKfzAU0qaBLYsL40MIsYT.jpg" group-title="Estrenos 2020",Toro Loco: Sangriento (2015)*25sc**156pelis
 http://home-playtv.com:8080/movie/zuihaod3/PbQKHfpUqDxD/173526.mp4
