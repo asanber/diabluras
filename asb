@@ -8,13 +8,13 @@
 "groups":
     [
         {
-         "name": "GEN_Thu12Dec_202412120009",
+         "name": "GEN_Thu12Dec_202412122358",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "data12Dec0009",
+         "name": "data12Dec2358",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -122,6 +122,10 @@
              {
              "name": "IPTV_España_Premium",
              "url": "http://bit.ly/josepimbatv"
+             },
+             {
+             "name": "TINWORLD",
+             "url": "https://tinworld.vercel.app/Tinworld.w3u"
              },
              {
              "name": "Public_IPTV",
