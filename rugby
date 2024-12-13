@@ -1,96 +1,84 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVN6HAB1eaGUgy1PQv4tLfKRYFjvJFGvbG-S7xiQ7boVKN5eDw_CYfi2H3njdwRuTUt6A9F7EBk-kDrq_HGp_kmCK8kqN8N37uTXFFA-n1DCEw.png" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY HEVC
-http://10738511903312712.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/312712.ts
+http://559378411732312712.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/312712.ts
 --
 #EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY FHD
-http://10738511903339007.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/339007.ts
+http://559378411732339007.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/339007.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: FR | CANAL+ TOP 14 RUGBY HD" tvg-logo="http://xplatinmedia.com:8080/images/ad7773da0761d0ed70ce8cf4bd89cf1e.png" group-title="France",FR: FR | CANAL+ TOP 14 RUGBY HD
-http://10738511903978312.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/978312.ts
+http://559378411732978312.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/978312.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY HD
-http://10738511903985689.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY FHD
+http://559378411732985689.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985689.ts
 --
 #EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6H2ltoUTN66h1wc0eZbPu5HhBb1Rbd0jCISyKU1UO8OdtFZItBJxpJah2p40nny2pyJuuy3mKGMQkvk4Vx_iax3OiivExBL-aGV2ZgCYYRDHs9rzIiTyir9hoIvWHsh4IDXBo4PsOtL5Mge4GXGg2uUwIkBjO7TvEkjmImY68DAvA.png" group-title="SVIP SPORTS",ZA: SUPERSPORT RUGBY HD
-http://10738511903985691.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985691.ts
+http://559378411732985691.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985691.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn2fsz1KRfsu9Z2A-yyLanxjxmAXbOuOj3ThRv1vER8t7A.png" group-title="SVIP SPORTS",AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD
-http://10738511903986270.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/986270.ts
---
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY FHD
-http://10738511903985022.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985022.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY HD
+http://559378411732985022.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985022.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT RUGBY FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT RUGBY FHD
-http://10738511903985484.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985484.ts
+http://559378411732985484.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985484.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVN6HAB1eaGUgy1PQv4tLfKRYFjvJFGvbG-S7xiQ7boVKN5eDw_CYfi2H3njdwRuTUt6A9F7EBk-kDrq_HGp_kmCK8kqN8N37uTXFFA-n1DCEw.png" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY HEVC
-http://806738712591312712.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/312712.ts
+http://533378612918312712.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/312712.ts
 --
 #EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY FHD
-http://806738712591339007.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/339007.ts
+http://533378612918339007.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/339007.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: FR | CANAL+ TOP 14 RUGBY HD" tvg-logo="http://xplatinmedia.com:8080/images/ad7773da0761d0ed70ce8cf4bd89cf1e.png" group-title="France",FR: FR | CANAL+ TOP 14 RUGBY HD
-http://806738712591978312.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/978312.ts
+http://533378612918978312.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/978312.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY HD
-http://806738712591985689.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY FHD
+http://533378612918985689.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985689.ts
 --
 #EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6H2ltoUTN66h1wc0eZbPu5HhBb1Rbd0jCISyKU1UO8OdtFZItBJxpJah2p40nny2pyJuuy3mKGMQkvk4Vx_iax3OiivExBL-aGV2ZgCYYRDHs9rzIiTyir9hoIvWHsh4IDXBo4PsOtL5Mge4GXGg2uUwIkBjO7TvEkjmImY68DAvA.png" group-title="SVIP SPORTS",ZA: SUPERSPORT RUGBY HD
-http://806738712591985691.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985691.ts
+http://533378612918985691.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985691.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn2fsz1KRfsu9Z2A-yyLanxjxmAXbOuOj3ThRv1vER8t7A.png" group-title="SVIP SPORTS",AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD
-http://806738712591986270.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/986270.ts
---
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY FHD
-http://806738712591985022.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985022.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY HD
+http://533378612918985022.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985022.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT RUGBY FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT RUGBY FHD
-http://806738712591985484.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985484.ts
+http://533378612918985484.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985484.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVN6HAB1eaGUgy1PQv4tLfKRYFjvJFGvbG-S7xiQ7boVKN5eDw_CYfi2H3njdwRuTUt6A9F7EBk-kDrq_HGp_kmCK8kqN8N37uTXFFA-n1DCEw.png" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY HEVC
-http://627739617989312712.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/312712.ts
+http://674379017653312712.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/312712.ts
 --
 #EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY FHD
-http://627739617989339007.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/339007.ts
+http://674379017653339007.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/339007.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: FR | CANAL+ TOP 14 RUGBY HD" tvg-logo="http://xplatinmedia.com:8080/images/ad7773da0761d0ed70ce8cf4bd89cf1e.png" group-title="France",FR: FR | CANAL+ TOP 14 RUGBY HD
-http://627739617989978312.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/978312.ts
+http://674379017653978312.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/978312.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY HD
-http://627739617989985689.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY FHD
+http://674379017653985689.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985689.ts
 --
 #EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6H2ltoUTN66h1wc0eZbPu5HhBb1Rbd0jCISyKU1UO8OdtFZItBJxpJah2p40nny2pyJuuy3mKGMQkvk4Vx_iax3OiivExBL-aGV2ZgCYYRDHs9rzIiTyir9hoIvWHsh4IDXBo4PsOtL5Mge4GXGg2uUwIkBjO7TvEkjmImY68DAvA.png" group-title="SVIP SPORTS",ZA: SUPERSPORT RUGBY HD
-http://627739617989985691.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985691.ts
+http://674379017653985691.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985691.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn2fsz1KRfsu9Z2A-yyLanxjxmAXbOuOj3ThRv1vER8t7A.png" group-title="SVIP SPORTS",AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD
-http://627739617989986270.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/986270.ts
---
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY FHD
-http://627739617989985022.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985022.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY HD
+http://674379017653985022.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985022.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT RUGBY FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT RUGBY FHD
-http://627739617989985484.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985484.ts
+http://674379017653985484.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985484.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVN6HAB1eaGUgy1PQv4tLfKRYFjvJFGvbG-S7xiQ7boVKN5eDw_CYfi2H3njdwRuTUt6A9F7EBk-kDrq_HGp_kmCK8kqN8N37uTXFFA-n1DCEw.png" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY HEVC
-http://393740210394312712.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312712.ts
+http://233379310794312712.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312712.ts
 --
 #EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY FHD
-http://393740210394339007.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339007.ts
+http://233379310794339007.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339007.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: FR | CANAL+ TOP 14 RUGBY HD" tvg-logo="http://xplatinmedia.com:8080/images/ad7773da0761d0ed70ce8cf4bd89cf1e.png" group-title="France",FR: FR | CANAL+ TOP 14 RUGBY HD
-http://393740210394978312.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/978312.ts
+http://233379310794978312.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/978312.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY HD
-http://393740210394985689.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT RUGBY FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOpJZjJlGfiLLbX7dkezevjA3DzRnlV3oUlcn4rgw4AeXwSag0kBjSK4v31I8qGxnI.png" group-title="SVIP SPORTS",ZA SUPERSPORT RUGBY FHD
+http://233379310794985689.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985689.ts
 --
 #EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6H2ltoUTN66h1wc0eZbPu5HhBb1Rbd0jCISyKU1UO8OdtFZItBJxpJah2p40nny2pyJuuy3mKGMQkvk4Vx_iax3OiivExBL-aGV2ZgCYYRDHs9rzIiTyir9hoIvWHsh4IDXBo4PsOtL5Mge4GXGg2uUwIkBjO7TvEkjmImY68DAvA.png" group-title="SVIP SPORTS",ZA: SUPERSPORT RUGBY HD
-http://393740210394985691.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985691.ts
+http://233379310794985691.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985691.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn2fsz1KRfsu9Z2A-yyLanxjxmAXbOuOj3ThRv1vER8t7A.png" group-title="SVIP SPORTS",AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD
-http://393740210394986270.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/986270.ts
---
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY FHD
-http://393740210394985022.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985022.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY HD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY HD
+http://233379310794985022.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985022.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT RUGBY FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT RUGBY FHD
-http://393740210394985484.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985484.ts
+http://233379310794985484.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985484.ts
