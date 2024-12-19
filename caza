@@ -1,315 +1,420 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
-http://547578511369321168.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321168.ts
+http://269218511584321168.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321168.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
-http://547578511369321169.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321169.ts
+http://269218511584321169.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321169.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
-http://547578511369321170.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321170.ts
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
-http://547578511369321172.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321172.ts
+http://269218511584321170.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321170.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7533_426_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+http://269218511584321172.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/321172.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
-http://547578511369336328.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336328.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
-http://547578511369336329.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336329.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
-http://547578511369336331.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336331.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
-http://547578511369336332.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336332.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="http://astrill.today:80/images/mRq5KqVfte4HjijIpeNlFWMw82ohQf1UkOnD1hAqtTO5DVgaoH_eBabzOzeVa7Kv3h1wNG4M0JBI1t_WPQ0Hrl9-gyfvA4FyF7Bgc90zCGCzkrfENwZEnStz1JpRtP3TWcAiVz64lix4M7YNDPy0rq5eTh64Scx9LrtG2UXWfh6y2DUUmNtXr3LLQ49dJGP86zxBOWCoWCrFCPInw5BdXQ.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
+http://269218511584336328.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336328.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="http://vpsapache.hopto.org/images/movplus terror.PNG" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
+http://269218511584336329.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
+http://269218511584336331.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
+http://269218511584336332.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/336332.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA SD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ES   MOVISTAR+",ES: IBERALIA SD
-http://547578511369341252.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/341252.ts
+http://269218511584341252.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/341252.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA HD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA HD
-http://547578511369394391.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/394391.ts
+http://269218511584394391.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/394391.ts
 --
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION HD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
-http://547578511369598197.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/598197.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
+http://269218511584598197.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/598197.ts
 --
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION SD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION SD
-http://547578511369644676.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/644676.ts
+http://269218511584644676.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/644676.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV FHD
-http://547578511369873343.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/873343.ts
+http://269218511584873343.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/873343.ts
 --
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA FHD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA FHD
-http://547578511369877082.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/877082.ts
+http://269218511584877082.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/877082.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="http://astrill.today:80/images/mRq5KqVfte4HjijIpeNlFWMw82ohQf1UkOnD1hAqtTO5DVgaoH_eBabzOzeVa7Kv3h1wNG4M0JBI1t_WPQ0Hrl9-gyfvA4FyF7Bgc90zCGCzkrfENwZEnStz1JpRtP3TWcAiVz64lix4M7YNDPy0rq5eTh64Scx9LrtG2UXWfh6y2DUUmNtXr3LLQ49dJGP86zxBOWCoWCrFCPInw5BdXQ.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
-http://547578511369879533.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/879533.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
+http://269218511584879533.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/879533.ts
 --
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
-http://547578511369882061.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/882061.ts
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
+http://269218511584882061.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/882061.ts
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV SD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV SD
-http://547578511369882062.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/882062.ts
+http://269218511584882062.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/882062.ts
 --
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISIóN SD" tvg-logo="https://play-lh.googleusercontent.com/Zr7aKt50FNHFA4ChHm7DbxkFwn1wY-rB8K6Ek8n1Njqv8sj1u0zY4K-BT2Ij7oKRAzU" group-title="ES   MOVISTAR+",ES: CAZAVISIóN SD
-http://547578511369882744.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/882744.ts
+http://269218511584882744.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/882744.ts
 --
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL FHD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL FHD
-http://547578511369909113.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/909113.ts
+http://269218511584909113.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/909113.ts
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL HD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL HD
-http://547578511369909114.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/909114.ts
+http://269218511584909114.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/909114.ts
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL SD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL SD
-http://547578511369909115.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/909115.ts
+http://269218511584909115.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/909115.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN SD
-http://547578511369933699.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/933699.ts
+http://269218511584933699.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/933699.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA CAZA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA CAZA FHD
-http://547578511369933709.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/933709.ts
+http://269218511584933709.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/933709.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA FHD
-http://547578511369933710.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/933710.ts
+http://269218511584933710.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/933710.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN FHD
-http://547578511369984256.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/984256.ts
+http://269218511584984256.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/984256.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV HD
-http://547578511369985493.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985493.ts
+http://269218511584985493.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985493.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA HD
-http://547578511369993659.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/993659.ts
+http://269218511584993659.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/993659.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LOS CAZADORES DE MITOS HD 24/7 HD" tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="SPAIN 24/7",ES: LOS CAZADORES DE MITOS HD 24/7 HD
-http://547578511369989464.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/989464.ts
+http://269218511584989464.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/989464.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
-http://547578511369846633.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846633.mkv
+http://269218511584846633.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846633.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
-http://547578511369846634.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846634.mkv
+http://269218511584846634.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846634.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
-http://547578511369846651.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846651.mkv
+http://269218511584846651.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846651.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El cazador de búfalos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg" group-title="VOD ESPAÑOL 2023 Plus",El cazador de búfalos (2023)
-http://547578511369847524.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/847524.mkv
+http://269218511584847524.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/847524.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyh9hxRjItIOb0gMt2P44LXnUMH.jpg" group-title="VOD ESPAÑOL 2023 Plus",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
-http://547578511369847736.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/847736.mkv
+http://269218511584847736.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/847736.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
-http://547578511369970172.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970172.mkv
+http://269218511584970172.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
-http://547578511369970173.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970173.mkv
+http://269218511584970173.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970173.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
-http://547578511369970204.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970204.mkv
+http://269218511584970204.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970204.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD ESPAÑOL 2024 Plus",Sayen: La cazadora (2024)
-http://547578511369970339.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970339.mkv
+http://269218511584970339.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/970339.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="La sombra del cazador (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEAYKJDqowuO3CUVXX87K8Z2dgF.jpg" group-title="VOD Portuguese",La sombra del cazador (2007)
-http://547578511369146516.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/146516.mkv
+http://269218511584146516.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/146516.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD MUL-SUBT 2024",Sayen: La cazadora (2024)
-http://547578511369846794.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846794.mkv
+http://269218511584846794.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/846794.mkv
 --
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
-http://363579617677321168.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321168.ts
+http://801218712576321168.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/321168.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
-http://363579617677321169.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321169.ts
+http://801218712576321169.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/321169.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
-http://363579617677321170.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321170.ts
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
-http://363579617677321172.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321172.ts
+http://801218712576321170.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/321170.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7533_426_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+http://801218712576321172.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/321172.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
-http://363579617677336328.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336328.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
-http://363579617677336329.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336329.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
-http://363579617677336331.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336331.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
-http://363579617677336332.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336332.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="http://astrill.today:80/images/mRq5KqVfte4HjijIpeNlFWMw82ohQf1UkOnD1hAqtTO5DVgaoH_eBabzOzeVa7Kv3h1wNG4M0JBI1t_WPQ0Hrl9-gyfvA4FyF7Bgc90zCGCzkrfENwZEnStz1JpRtP3TWcAiVz64lix4M7YNDPy0rq5eTh64Scx9LrtG2UXWfh6y2DUUmNtXr3LLQ49dJGP86zxBOWCoWCrFCPInw5BdXQ.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
+http://801218712576336328.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/336328.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="http://vpsapache.hopto.org/images/movplus terror.PNG" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
+http://801218712576336329.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/336329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
+http://801218712576336331.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/336331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
+http://801218712576336332.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/336332.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA SD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ES   MOVISTAR+",ES: IBERALIA SD
-http://363579617677341252.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/341252.ts
+http://801218712576341252.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/341252.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA HD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA HD
-http://363579617677394391.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/394391.ts
+http://801218712576394391.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/394391.ts
 --
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION HD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
-http://363579617677598197.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/598197.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
+http://801218712576598197.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/598197.ts
 --
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION SD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION SD
-http://363579617677644676.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/644676.ts
+http://801218712576644676.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/644676.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV FHD
-http://363579617677873343.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/873343.ts
+http://801218712576873343.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/873343.ts
 --
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA FHD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA FHD
-http://363579617677877082.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/877082.ts
+http://801218712576877082.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/877082.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="http://astrill.today:80/images/mRq5KqVfte4HjijIpeNlFWMw82ohQf1UkOnD1hAqtTO5DVgaoH_eBabzOzeVa7Kv3h1wNG4M0JBI1t_WPQ0Hrl9-gyfvA4FyF7Bgc90zCGCzkrfENwZEnStz1JpRtP3TWcAiVz64lix4M7YNDPy0rq5eTh64Scx9LrtG2UXWfh6y2DUUmNtXr3LLQ49dJGP86zxBOWCoWCrFCPInw5BdXQ.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
-http://363579617677879533.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/879533.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
+http://801218712576879533.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/879533.ts
 --
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
-http://363579617677882061.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/882061.ts
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
+http://801218712576882061.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/882061.ts
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV SD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV SD
-http://363579617677882062.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/882062.ts
+http://801218712576882062.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/882062.ts
 --
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISIóN SD" tvg-logo="https://play-lh.googleusercontent.com/Zr7aKt50FNHFA4ChHm7DbxkFwn1wY-rB8K6Ek8n1Njqv8sj1u0zY4K-BT2Ij7oKRAzU" group-title="ES   MOVISTAR+",ES: CAZAVISIóN SD
-http://363579617677882744.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/882744.ts
+http://801218712576882744.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/882744.ts
 --
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL FHD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL FHD
-http://363579617677909113.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/909113.ts
+http://801218712576909113.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/909113.ts
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL HD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL HD
-http://363579617677909114.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/909114.ts
+http://801218712576909114.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/909114.ts
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL SD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL SD
-http://363579617677909115.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/909115.ts
+http://801218712576909115.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/909115.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN SD
-http://363579617677933699.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/933699.ts
+http://801218712576933699.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/933699.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA CAZA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA CAZA FHD
-http://363579617677933709.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/933709.ts
+http://801218712576933709.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/933709.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA FHD
-http://363579617677933710.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/933710.ts
+http://801218712576933710.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/933710.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN FHD
-http://363579617677984256.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/984256.ts
+http://801218712576984256.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/984256.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV HD
-http://363579617677985493.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985493.ts
+http://801218712576985493.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985493.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA HD
-http://363579617677993659.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/993659.ts
+http://801218712576993659.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/993659.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LOS CAZADORES DE MITOS HD 24/7 HD" tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="SPAIN 24/7",ES: LOS CAZADORES DE MITOS HD 24/7 HD
-http://363579617677989464.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/989464.ts
+http://801218712576989464.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/989464.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
-http://363579617677846633.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846633.mkv
+http://801218712576846633.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/846633.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
-http://363579617677846634.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846634.mkv
+http://801218712576846634.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/846634.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
-http://363579617677846651.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846651.mkv
+http://801218712576846651.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/846651.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El cazador de búfalos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg" group-title="VOD ESPAÑOL 2023 Plus",El cazador de búfalos (2023)
-http://363579617677847524.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/847524.mkv
+http://801218712576847524.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/847524.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyh9hxRjItIOb0gMt2P44LXnUMH.jpg" group-title="VOD ESPAÑOL 2023 Plus",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
-http://363579617677847736.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/847736.mkv
+http://801218712576847736.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/847736.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
-http://363579617677970172.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970172.mkv
+http://801218712576970172.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/970172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
-http://363579617677970173.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970173.mkv
+http://801218712576970173.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/970173.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
-http://363579617677970204.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970204.mkv
+http://801218712576970204.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/970204.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD ESPAÑOL 2024 Plus",Sayen: La cazadora (2024)
-http://363579617677970339.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970339.mkv
+http://801218712576970339.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/970339.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="La sombra del cazador (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEAYKJDqowuO3CUVXX87K8Z2dgF.jpg" group-title="VOD Portuguese",La sombra del cazador (2007)
-http://363579617677146516.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/146516.mkv
+http://801218712576146516.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/146516.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD MUL-SUBT 2024",Sayen: La cazadora (2024)
-http://363579617677846794.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846794.mkv
+http://801218712576846794.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/846794.mkv
 --
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
-http://369579810367321168.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321168.ts
+http://86219017652321168.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321168.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
-http://369579810367321169.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321169.ts
+http://86219017652321169.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321169.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
-http://369579810367321170.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321170.ts
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
-http://369579810367321172.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321172.ts
+http://86219017652321170.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321170.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7533_426_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+http://86219017652321172.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/321172.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
-http://369579810367336328.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336328.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
-http://369579810367336329.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336329.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
-http://369579810367336331.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336331.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
-http://369579810367336332.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336332.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="http://astrill.today:80/images/mRq5KqVfte4HjijIpeNlFWMw82ohQf1UkOnD1hAqtTO5DVgaoH_eBabzOzeVa7Kv3h1wNG4M0JBI1t_WPQ0Hrl9-gyfvA4FyF7Bgc90zCGCzkrfENwZEnStz1JpRtP3TWcAiVz64lix4M7YNDPy0rq5eTh64Scx9LrtG2UXWfh6y2DUUmNtXr3LLQ49dJGP86zxBOWCoWCrFCPInw5BdXQ.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
+http://86219017652336328.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336328.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="http://vpsapache.hopto.org/images/movplus terror.PNG" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
+http://86219017652336329.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
+http://86219017652336331.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
+http://86219017652336332.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/336332.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA SD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ES   MOVISTAR+",ES: IBERALIA SD
-http://369579810367341252.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/341252.ts
+http://86219017652341252.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/341252.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA HD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA HD
-http://369579810367394391.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/394391.ts
+http://86219017652394391.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/394391.ts
 --
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION HD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
-http://369579810367598197.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/598197.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
+http://86219017652598197.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/598197.ts
 --
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION SD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION SD
-http://369579810367644676.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/644676.ts
+http://86219017652644676.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/644676.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV FHD
-http://369579810367873343.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/873343.ts
+http://86219017652873343.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/873343.ts
 --
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA FHD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA FHD
-http://369579810367877082.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/877082.ts
+http://86219017652877082.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/877082.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="http://astrill.today:80/images/mRq5KqVfte4HjijIpeNlFWMw82ohQf1UkOnD1hAqtTO5DVgaoH_eBabzOzeVa7Kv3h1wNG4M0JBI1t_WPQ0Hrl9-gyfvA4FyF7Bgc90zCGCzkrfENwZEnStz1JpRtP3TWcAiVz64lix4M7YNDPy0rq5eTh64Scx9LrtG2UXWfh6y2DUUmNtXr3LLQ49dJGP86zxBOWCoWCrFCPInw5BdXQ.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
-http://369579810367879533.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/879533.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
+http://86219017652879533.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/879533.ts
 --
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
-http://369579810367882061.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/882061.ts
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
+http://86219017652882061.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/882061.ts
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV SD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV SD
-http://369579810367882062.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/882062.ts
+http://86219017652882062.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/882062.ts
 --
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISIóN SD" tvg-logo="https://play-lh.googleusercontent.com/Zr7aKt50FNHFA4ChHm7DbxkFwn1wY-rB8K6Ek8n1Njqv8sj1u0zY4K-BT2Ij7oKRAzU" group-title="ES   MOVISTAR+",ES: CAZAVISIóN SD
-http://369579810367882744.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/882744.ts
+http://86219017652882744.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/882744.ts
 --
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL FHD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL FHD
-http://369579810367909113.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/909113.ts
+http://86219017652909113.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/909113.ts
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL HD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL HD
-http://369579810367909114.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/909114.ts
+http://86219017652909114.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/909114.ts
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL SD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL SD
-http://369579810367909115.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/909115.ts
+http://86219017652909115.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/909115.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN SD
-http://369579810367933699.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933699.ts
+http://86219017652933699.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/933699.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA CAZA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA CAZA FHD
-http://369579810367933709.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933709.ts
+http://86219017652933709.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/933709.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA FHD
-http://369579810367933710.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933710.ts
+http://86219017652933710.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/933710.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN FHD
-http://369579810367984256.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/984256.ts
+http://86219017652984256.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/984256.ts
 --
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV HD
-http://369579810367985493.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985493.ts
+http://86219017652985493.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985493.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA HD
-http://369579810367993659.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993659.ts
+http://86219017652993659.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/993659.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LOS CAZADORES DE MITOS HD 24/7 HD" tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="SPAIN 24/7",ES: LOS CAZADORES DE MITOS HD 24/7 HD
-http://369579810367989464.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/989464.ts
+http://86219017652989464.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/989464.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
-http://369579810367846633.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846633.mkv
+http://86219017652846633.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846633.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
-http://369579810367846634.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846634.mkv
+http://86219017652846634.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846634.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
-http://369579810367846651.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846651.mkv
+http://86219017652846651.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846651.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El cazador de búfalos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg" group-title="VOD ESPAÑOL 2023 Plus",El cazador de búfalos (2023)
-http://369579810367847524.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/847524.mkv
+http://86219017652847524.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/847524.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyh9hxRjItIOb0gMt2P44LXnUMH.jpg" group-title="VOD ESPAÑOL 2023 Plus",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
-http://369579810367847736.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/847736.mkv
+http://86219017652847736.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/847736.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
-http://369579810367970172.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970172.mkv
+http://86219017652970172.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970172.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
-http://369579810367970173.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970173.mkv
+http://86219017652970173.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970173.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
-http://369579810367970204.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970204.mkv
+http://86219017652970204.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970204.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD ESPAÑOL 2024 Plus",Sayen: La cazadora (2024)
-http://369579810367970339.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970339.mkv
+http://86219017652970339.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/970339.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="La sombra del cazador (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEAYKJDqowuO3CUVXX87K8Z2dgF.jpg" group-title="VOD Portuguese",La sombra del cazador (2007)
-http://369579810367146516.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146516.mkv
+http://86219017652146516.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/146516.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD MUL-SUBT 2024",Sayen: La cazadora (2024)
-http://369579810367846794.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846794.mkv
+http://86219017652846794.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/846794.mkv
+--
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
+http://29219210197321168.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321168.ts
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
+http://29219210197321169.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321169.ts
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
+http://29219210197321170.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321170.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7533_426_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+http://29219210197321172.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321172.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="http://astrill.today:80/images/mRq5KqVfte4HjijIpeNlFWMw82ohQf1UkOnD1hAqtTO5DVgaoH_eBabzOzeVa7Kv3h1wNG4M0JBI1t_WPQ0Hrl9-gyfvA4FyF7Bgc90zCGCzkrfENwZEnStz1JpRtP3TWcAiVz64lix4M7YNDPy0rq5eTh64Scx9LrtG2UXWfh6y2DUUmNtXr3LLQ49dJGP86zxBOWCoWCrFCPInw5BdXQ.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
+http://29219210197336328.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336328.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="http://vpsapache.hopto.org/images/movplus terror.PNG" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
+http://29219210197336329.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
+http://29219210197336331.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
+http://29219210197336332.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336332.ts
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA SD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ES   MOVISTAR+",ES: IBERALIA SD
+http://29219210197341252.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/341252.ts
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA HD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA HD
+http://29219210197394391.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/394391.ts
+--
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
+http://29219210197598197.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/598197.ts
+--
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION SD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION SD
+http://29219210197644676.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/644676.ts
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV FHD
+http://29219210197873343.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/873343.ts
+--
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA FHD" tvg-logo="http://astrill.today:80/images/ohpUdfdFi1ZCUrOJK_uRLJrcEHCvaF98Eq7ABgJl6HWHy6m0HbIPRTUc8WXM9kylzlqpLSfgmo92S8qEjAgqS4lcBnnjog2gGOVbKKYuhrI.jpg" group-title="ES   MOVISTAR+",ES: IBERALIA FHD
+http://29219210197877082.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/877082.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
+http://29219210197879533.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/879533.ts
+--
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
+http://29219210197882061.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/882061.ts
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV SD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV SD
+http://29219210197882062.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/882062.ts
+--
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISIóN SD" tvg-logo="https://play-lh.googleusercontent.com/Zr7aKt50FNHFA4ChHm7DbxkFwn1wY-rB8K6Ek8n1Njqv8sj1u0zY4K-BT2Ij7oKRAzU" group-title="ES   MOVISTAR+",ES: CAZAVISIóN SD
+http://29219210197882744.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/882744.ts
+--
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL FHD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL FHD
+http://29219210197909113.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/909113.ts
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL HD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL HD
+http://29219210197909114.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/909114.ts
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL SD" tvg-logo="https://578177c3b2.clvaw-cdnwnd.com/51380a2afadcbf8923ecf2810d303145/200000769-e39e9e39ee/zyro-image%20%2813%29-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL SD
+http://29219210197909115.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/909115.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN SD
+http://29219210197933699.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933699.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA CAZA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA CAZA FHD
+http://29219210197933709.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933709.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA FHD
+http://29219210197933710.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933710.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv1o0yxBLSjBkCzacucjJDx2l6YHlqG8DTaRFQX6-0hxQ.png" group-title="ES   MOVISTAR+",ES: CAZAVISIÓN FHD
+http://29219210197984256.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/984256.ts
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ES   MOVISTAR+",ES: IBERALIA TV HD
+http://29219210197985493.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985493.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA PESCA HD
+http://29219210197993659.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993659.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: LOS CAZADORES DE MITOS HD 24/7 HD" tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="SPAIN 24/7",ES: LOS CAZADORES DE MITOS HD 24/7 HD
+http://29219210197989464.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/989464.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
+http://29219210197846633.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
+http://29219210197846634.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846634.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
+http://29219210197846651.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846651.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador de búfalos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg" group-title="VOD ESPAÑOL 2023 Plus",El cazador de búfalos (2023)
+http://29219210197847524.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/847524.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyh9hxRjItIOb0gMt2P44LXnUMH.jpg" group-title="VOD ESPAÑOL 2023 Plus",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
+http://29219210197847736.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/847736.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
+http://29219210197970172.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
+http://29219210197970173.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970173.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
+http://29219210197970204.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970204.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD ESPAÑOL 2024 Plus",Sayen: La cazadora (2024)
+http://29219210197970339.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970339.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La sombra del cazador (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEAYKJDqowuO3CUVXX87K8Z2dgF.jpg" group-title="VOD Portuguese",La sombra del cazador (2007)
+http://29219210197146516.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146516.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD MUL-SUBT 2024",Sayen: La cazadora (2024)
+http://29219210197846794.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846794.mkv
