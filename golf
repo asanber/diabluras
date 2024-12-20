@@ -1,630 +1,450 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF FHD
-http://269218511584268094.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/268094.ts
+http://972858411942268094.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/268094.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
-http://269218511584268095.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/268095.ts
+http://972858411942268095.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/268095.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
-http://269218511584268096.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/268096.ts
+http://972858411942268096.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/268096.ts
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 FHD
-http://269218511584454216.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/454216.ts
+http://972858411942454216.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/454216.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 HD
-http://269218511584454217.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/454217.ts
+http://972858411942454217.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/454217.ts
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 SD
-http://269218511584538760.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/538760.ts
+http://972858411942538760.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/538760.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF FHD (SAT) FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ES DEPORTES",ES: M+ GOLF FHD (SAT) FHD
-http://269218511584917964.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/917964.ts
+http://972858411942917964.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/917964.ts
 --
-#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="http://astrill.today:80/images/prTgXutBEGDFI-ZLP1LAq8DEDW_U0fpe1oA5Nnxf_W6SPISjWNrPaBpekFSGLgz6uBG3CW3nvObGm_9CP1sTn22Hru0C6KcxszcftvVQ7EVmc1yB9gPd3z_jcYpFrCjvn5xt98_Xm613ibKw2P9UFA.png" group-title="Poland",PL: GOLF CHANNEL FHD
-http://269218511584986845.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/986845.ts
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDdcffuMlldCvNYPqnkuvloDHTNHDzbc0Qp_WNyVu6keFgZBWIe-2cvju0d1Rjo_4A.png" group-title="Poland",PL: GOLF CHANNEL FHD
+http://972858411942986845.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/986845.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="PL: GOLF CHANNEL POLSKA FHD" tvg-logo="" group-title="Poland",PL: GOLF CHANNEL POLSKA FHD
-http://269218511584991938.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/991938.ts
+http://972858411942991938.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/991938.ts
 --
 #EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="Germany",DE: SKY SPORT GOLF FHD
-http://269218511584925451.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/925451.ts
+http://972858411942925451.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/925451.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U9BiCpXybj3wU-DyeULh8fSgiIQLROJnkzP3pDn9sEufQ.png" group-title="France HEVC",FR: GOLF CHANNEL HEVC
-http://269218511584312751.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/312751.ts
+http://972858411942312751.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/312751.ts
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ldiq2dOwHaaP2MoP1gCcfv4Hcep-k_dSndL8Bh1o0DV5HFJJ4mJ2e6ybt0jMT_5DnVjowLNSBtWpEJDMPGcQxgz2AlltDVTdo0VFvk-3lXs.png" group-title="France HEVC",FR: GOLF+ FHD
-http://269218511584312752.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/312752.ts
+http://972858411942312752.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/312752.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL SD" tvg-logo="" group-title="France HEVC",FR: GOLF CHANNEL SD
-http://269218511584339041.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/339041.ts
+#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="" group-title="France HEVC",FR: GOLF CHANNEL HD
+http://972858411942339041.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/339041.ts
 --
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="France",FR: GOLF+ HD
-http://269218511584821506.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/821506.ts
+http://972858411942821506.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/821506.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s75341_ll_h3_aa.png" group-title="France",FR: GOLF CHANNEL FHD
-http://269218511584985040.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985040.ts
+#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s75341_ll_h3_aa.png" group-title="France",FR: GOLF CHANNEL HD
+http://972858411942985040.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/985040.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ CHANNEL HD" tvg-logo="" group-title="France",FR: GOLF+ CHANNEL HD
-http://269218511584992060.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/992060.ts
+http://972858411942992060.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/992060.ts
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL: ZIGGO SPORT GOLF HD
-http://269218511584790547.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/790547.ts
+http://972858411942790547.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/790547.ts
 --
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YI4as5DNlWENyioISXFtpigBsNly1PuC2pFZlpniYxZtMqz2Gs18Kgsxiu-57VPNkg.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF HD
-http://269218511584812713.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/812713.ts
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://stream.geoiptv.live/channels_icon/77768166981.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF FHD
+http://972858411942812713.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/812713.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL:* ZIGGO SPORT GOLF FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL:* ZIGGO SPORT GOLF FHD
-http://269218511584888086.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/888086.ts
+http://972858411942888086.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/888086.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF HD⁺ HD
-http://269218511584889418.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/889418.ts
+http://972858411942889418.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/889418.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | SPORT KLUB GOLF FHD" tvg-logo="http://astrill.today:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRhKGNPRsGO-MuB24yeQdehU.png" group-title="SVIP SPORTS",EXYU :SPORT | SPORT KLUB GOLF FHD
-http://269218511584935448.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/935448.ts
+http://972858411942935448.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/935448.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://269218511584938812.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/938812.ts
+http://972858411942938812.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/938812.ts
 --
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK : SKY SPORTS GOLF FHD" tvg-logo="" group-title="SVIP SPORTS",UK : SKY SPORTS GOLF FHD
-http://269218511584944441.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/944441.ts
+http://972858411942944441.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/944441.ts
 --
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF FHD
-http://269218511584971798.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/971798.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF HD
+http://972858411942971798.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/971798.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="SVIP SPORTS",DE | SKY SPORT GOLF FHD
-http://269218511584975033.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/975033.ts
+http://972858411942975033.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/975033.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT GOLF FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOn4n0bC68Td0JR5pQ93ennDQeBw8v5dd78NHCtgYJJhsEptbaA9mgAaXCpeokznAI.png" group-title="SVIP SPORTS",ZA SUPERSPORT GOLF FHD
-http://269218511584986411.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/986411.ts
+http://972858411942986411.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/986411.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn0AbHtoFdGQg2kaK3aWluiTUXdePiS87cEJUdMa-hv3eA.png" group-title="SVIP SPORTS",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://269218511584994941.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994941.ts
+http://972858411942994941.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994941.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCouEl_iZF2_J3lc_6i4pJsm-.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://269218511584995074.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/995074.ts
+http://972858411942995074.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/995074.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD" tvg-logo="http://fanc.tmsimg.com/assets/s67695_ll_h3_aa.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD
-http://269218511584995203.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/995203.ts
+http://972858411942995203.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/995203.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF HEVC
-http://269218511584362810.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/362810.ts
+http://972858411942362810.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/362810.ts
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF FHD
-http://269218511584812804.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/812804.ts
+http://972858411942812804.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/812804.ts
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtuu8ZEtc0kEp-qVvVD-TxNaw-VNsrcBmD4QHbXqN9fxw.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD
-http://269218511584788755.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/788755.ts
+http://972858411942788755.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/788755.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD⁺ HD
-http://269218511584934095.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/934095.ts
+http://972858411942934095.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/934095.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://269218511584934096.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/934096.ts
+http://972858411942934096.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/934096.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF CHANNEL VIP FHD" tvg-logo="https://asiagrandiptv.us/logo/nbcgolfchannel.png" group-title="USA",US: NBC GOLF CHANNEL VIP FHD
-http://269218511584988036.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/988036.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: * ZIGGO SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtuu8ZEtc0kEp-qVvVD-TxNaw-VNsrcBmD4QHbXqN9fxw.png" group-title="Netherlands",NL: * ZIGGO SPORT GOLF HD
+http://972858411942995713.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/995713.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF CHANNEL VIP HD" tvg-logo="https://asiagrandiptv.us/logo/nbcgolfchannel.png" group-title="USA",US: NBC GOLF CHANNEL VIP HD
+http://972858411942988036.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/988036.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF HD" tvg-logo="" group-title="USA",US: NBC GOLF HD
-http://269218511584988037.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/988037.ts
+http://972858411942988037.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/988037.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL HD" tvg-logo="" group-title="USA",US: GOLF CHANNEL HD
-http://269218511584994786.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994786.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL FHD" tvg-logo="" group-title="USA",US: GOLF CHANNEL FHD
+http://972858411942994786.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994786.ts
 --
 #EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE: VIASAT GOLF HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SFhWNfnxosVkt4w7QTW0xvTHRQm9dQOB_7UdelaJa5-Q.png" group-title="Sweden",SE: VIASAT GOLF HD
-http://269218511584983344.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/983344.ts
+http://972858411942983344.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/983344.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="SE: * VIASAT GOLF HD" tvg-logo="http://fanc.tmsimg.com/assets/s77731_ll_h3_aa.png" group-title="Sweden",SE: * VIASAT GOLF HD
-http://269218511584989810.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/989810.ts
+http://972858411942989810.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/989810.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL HD" tvg-logo="" group-title="Canada",CA: GOLF CHANNEL HD
-http://269218511584992945.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/992945.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL FHD" tvg-logo="" group-title="Canada",CA: GOLF CHANNEL FHD
+http://972858411942992945.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/992945.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF HD" tvg-logo="" group-title="Canada",CA: GOLF HD
-http://269218511584994532.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994532.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF FHD" tvg-logo="" group-title="Canada",CA: GOLF FHD
+http://972858411942994532.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994532.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT | SPORT KLUB GOLF FHD" tvg-logo="" group-title="EX-YU",EX-YU: SPORT | SPORT KLUB GOLF FHD
-http://269218511584975557.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/975557.ts
+http://972858411942975557.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/975557.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF SD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF SD
-http://269218511584339842.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/339842.ts
+http://972858411942339842.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/339842.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HD
-http://269218511584340119.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/340119.ts
+http://972858411942340119.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/340119.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HEVC" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HEVC
-http://269218511584368879.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/368879.ts
+http://972858411942368879.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/368879.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF FHD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF FHD
-http://269218511584388152.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/388152.ts
+http://972858411942388152.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/388152.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="LA: GOLF CHANNEL SD" tvg-logo="" group-title="Latino",LA: GOLF CHANNEL SD
-http://269218511584995320.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/995320.ts
+http://972858411942995320.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/995320.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DK: VIASAT GOLF HD" tvg-logo="" group-title="Denmark",DK: VIASAT GOLF HD
-http://269218511584994590.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994590.ts
+http://972858411942994590.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/994590.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: GOLF CHANNEL HD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: GOLF CHANNEL HD
-http://269218511584959177.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/959177.ts
+http://972858411942959177.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/959177.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL SD" tvg-logo="" group-title="Czechia",CZ: GOLF CHANNEL SD
-http://269218511584991345.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/991345.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://269218511584993012.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/993012.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT GOLF FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT GOLF FHD
-http://269218511584993021.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/993021.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: GOLF VIP SD" tvg-logo="" group-title="Mexico",MX: GOLF VIP SD
-http://269218511584991123.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/991123.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL VIP SD" tvg-logo="http://fanc.tmsimg.com/assets/s14899_ll_h3_aa.png" group-title="Argentina",ARG: GOLF CHANNEL VIP SD
-http://269218511584993929.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/993929.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL HD" tvg-logo="" group-title="Czechia",CZ: GOLF CHANNEL HD
+http://972858411942991345.ofd1206.xyz:80/live/chus40102R/GDBFY82374R/991345.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Barbie e a Magia dos Golfinhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FJJjKj9FUT530iN2q02LLMSL3Q.jpg" group-title="VOD Portuguese",PT: Barbie e a Magia dos Golfinhos
-http://269218511584145232.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/145232.mp4
+http://972858411942145232.ofd1206.xyz:80/movie/chus40102R/GDBFY82374R/145232.mp4
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF FHD
-http://801218712576268094.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/268094.ts
+http://581859312640268094.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/268094.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
-http://801218712576268095.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/268095.ts
+http://581859312640268095.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/268095.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
-http://801218712576268096.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/268096.ts
+http://581859312640268096.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/268096.ts
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 FHD
-http://801218712576454216.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/454216.ts
+http://581859312640454216.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/454216.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 HD
-http://801218712576454217.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/454217.ts
+http://581859312640454217.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/454217.ts
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 SD
-http://801218712576538760.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/538760.ts
+http://581859312640538760.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/538760.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF FHD (SAT) FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ES DEPORTES",ES: M+ GOLF FHD (SAT) FHD
-http://801218712576917964.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/917964.ts
+http://581859312640917964.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/917964.ts
 --
-#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="http://astrill.today:80/images/prTgXutBEGDFI-ZLP1LAq8DEDW_U0fpe1oA5Nnxf_W6SPISjWNrPaBpekFSGLgz6uBG3CW3nvObGm_9CP1sTn22Hru0C6KcxszcftvVQ7EVmc1yB9gPd3z_jcYpFrCjvn5xt98_Xm613ibKw2P9UFA.png" group-title="Poland",PL: GOLF CHANNEL FHD
-http://801218712576986845.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/986845.ts
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDdcffuMlldCvNYPqnkuvloDHTNHDzbc0Qp_WNyVu6keFgZBWIe-2cvju0d1Rjo_4A.png" group-title="Poland",PL: GOLF CHANNEL FHD
+http://581859312640986845.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/986845.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="PL: GOLF CHANNEL POLSKA FHD" tvg-logo="" group-title="Poland",PL: GOLF CHANNEL POLSKA FHD
-http://801218712576991938.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/991938.ts
+http://581859312640991938.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/991938.ts
 --
 #EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="Germany",DE: SKY SPORT GOLF FHD
-http://801218712576925451.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/925451.ts
+http://581859312640925451.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/925451.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U9BiCpXybj3wU-DyeULh8fSgiIQLROJnkzP3pDn9sEufQ.png" group-title="France HEVC",FR: GOLF CHANNEL HEVC
-http://801218712576312751.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/312751.ts
+http://581859312640312751.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/312751.ts
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ldiq2dOwHaaP2MoP1gCcfv4Hcep-k_dSndL8Bh1o0DV5HFJJ4mJ2e6ybt0jMT_5DnVjowLNSBtWpEJDMPGcQxgz2AlltDVTdo0VFvk-3lXs.png" group-title="France HEVC",FR: GOLF+ FHD
-http://801218712576312752.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/312752.ts
+http://581859312640312752.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/312752.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL SD" tvg-logo="" group-title="France HEVC",FR: GOLF CHANNEL SD
-http://801218712576339041.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/339041.ts
+#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="" group-title="France HEVC",FR: GOLF CHANNEL HD
+http://581859312640339041.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/339041.ts
 --
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="France",FR: GOLF+ HD
-http://801218712576821506.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/821506.ts
+http://581859312640821506.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/821506.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s75341_ll_h3_aa.png" group-title="France",FR: GOLF CHANNEL FHD
-http://801218712576985040.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985040.ts
+#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s75341_ll_h3_aa.png" group-title="France",FR: GOLF CHANNEL HD
+http://581859312640985040.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/985040.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ CHANNEL HD" tvg-logo="" group-title="France",FR: GOLF+ CHANNEL HD
-http://801218712576992060.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/992060.ts
+http://581859312640992060.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/992060.ts
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL: ZIGGO SPORT GOLF HD
-http://801218712576790547.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/790547.ts
+http://581859312640790547.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/790547.ts
 --
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YI4as5DNlWENyioISXFtpigBsNly1PuC2pFZlpniYxZtMqz2Gs18Kgsxiu-57VPNkg.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF HD
-http://801218712576812713.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/812713.ts
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://stream.geoiptv.live/channels_icon/77768166981.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF FHD
+http://581859312640812713.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/812713.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL:* ZIGGO SPORT GOLF FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL:* ZIGGO SPORT GOLF FHD
-http://801218712576888086.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/888086.ts
+http://581859312640888086.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/888086.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF HD⁺ HD
-http://801218712576889418.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/889418.ts
+http://581859312640889418.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/889418.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | SPORT KLUB GOLF FHD" tvg-logo="http://astrill.today:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRhKGNPRsGO-MuB24yeQdehU.png" group-title="SVIP SPORTS",EXYU :SPORT | SPORT KLUB GOLF FHD
-http://801218712576935448.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/935448.ts
+http://581859312640935448.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/935448.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://801218712576938812.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/938812.ts
+http://581859312640938812.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/938812.ts
 --
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK : SKY SPORTS GOLF FHD" tvg-logo="" group-title="SVIP SPORTS",UK : SKY SPORTS GOLF FHD
-http://801218712576944441.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/944441.ts
+http://581859312640944441.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/944441.ts
 --
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF FHD
-http://801218712576971798.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/971798.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF HD
+http://581859312640971798.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/971798.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="SVIP SPORTS",DE | SKY SPORT GOLF FHD
-http://801218712576975033.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/975033.ts
+http://581859312640975033.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/975033.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT GOLF FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOn4n0bC68Td0JR5pQ93ennDQeBw8v5dd78NHCtgYJJhsEptbaA9mgAaXCpeokznAI.png" group-title="SVIP SPORTS",ZA SUPERSPORT GOLF FHD
-http://801218712576986411.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/986411.ts
+http://581859312640986411.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/986411.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn0AbHtoFdGQg2kaK3aWluiTUXdePiS87cEJUdMa-hv3eA.png" group-title="SVIP SPORTS",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://801218712576994941.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994941.ts
+http://581859312640994941.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994941.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCouEl_iZF2_J3lc_6i4pJsm-.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://801218712576995074.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/995074.ts
+http://581859312640995074.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/995074.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD" tvg-logo="http://fanc.tmsimg.com/assets/s67695_ll_h3_aa.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD
-http://801218712576995203.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/995203.ts
+http://581859312640995203.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/995203.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF HEVC
-http://801218712576362810.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/362810.ts
+http://581859312640362810.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/362810.ts
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF FHD
-http://801218712576812804.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/812804.ts
+http://581859312640812804.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/812804.ts
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtuu8ZEtc0kEp-qVvVD-TxNaw-VNsrcBmD4QHbXqN9fxw.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD
-http://801218712576788755.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/788755.ts
+http://581859312640788755.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/788755.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD⁺ HD
-http://801218712576934095.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/934095.ts
+http://581859312640934095.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/934095.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://801218712576934096.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/934096.ts
+http://581859312640934096.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/934096.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF CHANNEL VIP FHD" tvg-logo="https://asiagrandiptv.us/logo/nbcgolfchannel.png" group-title="USA",US: NBC GOLF CHANNEL VIP FHD
-http://801218712576988036.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/988036.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: * ZIGGO SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtuu8ZEtc0kEp-qVvVD-TxNaw-VNsrcBmD4QHbXqN9fxw.png" group-title="Netherlands",NL: * ZIGGO SPORT GOLF HD
+http://581859312640995713.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/995713.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF CHANNEL VIP HD" tvg-logo="https://asiagrandiptv.us/logo/nbcgolfchannel.png" group-title="USA",US: NBC GOLF CHANNEL VIP HD
+http://581859312640988036.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/988036.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF HD" tvg-logo="" group-title="USA",US: NBC GOLF HD
-http://801218712576988037.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/988037.ts
+http://581859312640988037.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/988037.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL HD" tvg-logo="" group-title="USA",US: GOLF CHANNEL HD
-http://801218712576994786.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994786.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL FHD" tvg-logo="" group-title="USA",US: GOLF CHANNEL FHD
+http://581859312640994786.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994786.ts
 --
 #EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE: VIASAT GOLF HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SFhWNfnxosVkt4w7QTW0xvTHRQm9dQOB_7UdelaJa5-Q.png" group-title="Sweden",SE: VIASAT GOLF HD
-http://801218712576983344.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/983344.ts
+http://581859312640983344.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/983344.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="SE: * VIASAT GOLF HD" tvg-logo="http://fanc.tmsimg.com/assets/s77731_ll_h3_aa.png" group-title="Sweden",SE: * VIASAT GOLF HD
-http://801218712576989810.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/989810.ts
+http://581859312640989810.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/989810.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL HD" tvg-logo="" group-title="Canada",CA: GOLF CHANNEL HD
-http://801218712576992945.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/992945.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL FHD" tvg-logo="" group-title="Canada",CA: GOLF CHANNEL FHD
+http://581859312640992945.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/992945.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF HD" tvg-logo="" group-title="Canada",CA: GOLF HD
-http://801218712576994532.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994532.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF FHD" tvg-logo="" group-title="Canada",CA: GOLF FHD
+http://581859312640994532.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994532.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT | SPORT KLUB GOLF FHD" tvg-logo="" group-title="EX-YU",EX-YU: SPORT | SPORT KLUB GOLF FHD
-http://801218712576975557.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/975557.ts
+http://581859312640975557.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/975557.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF SD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF SD
-http://801218712576339842.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/339842.ts
+http://581859312640339842.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/339842.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HD
-http://801218712576340119.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/340119.ts
+http://581859312640340119.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/340119.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HEVC" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HEVC
-http://801218712576368879.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/368879.ts
+http://581859312640368879.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/368879.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF FHD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF FHD
-http://801218712576388152.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/388152.ts
+http://581859312640388152.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/388152.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="LA: GOLF CHANNEL SD" tvg-logo="" group-title="Latino",LA: GOLF CHANNEL SD
-http://801218712576995320.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/995320.ts
+http://581859312640995320.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/995320.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DK: VIASAT GOLF HD" tvg-logo="" group-title="Denmark",DK: VIASAT GOLF HD
-http://801218712576994590.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994590.ts
+http://581859312640994590.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/994590.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: GOLF CHANNEL HD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: GOLF CHANNEL HD
-http://801218712576959177.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/959177.ts
+http://581859312640959177.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/959177.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL SD" tvg-logo="" group-title="Czechia",CZ: GOLF CHANNEL SD
-http://801218712576991345.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/991345.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://801218712576993012.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/993012.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT GOLF FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT GOLF FHD
-http://801218712576993021.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/993021.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: GOLF VIP SD" tvg-logo="" group-title="Mexico",MX: GOLF VIP SD
-http://801218712576991123.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/991123.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL VIP SD" tvg-logo="http://fanc.tmsimg.com/assets/s14899_ll_h3_aa.png" group-title="Argentina",ARG: GOLF CHANNEL VIP SD
-http://801218712576993929.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/993929.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL HD" tvg-logo="" group-title="Czechia",CZ: GOLF CHANNEL HD
+http://581859312640991345.ofd1206.xyz:80/live/ja1229862/Np3Tu4wykk/991345.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Barbie e a Magia dos Golfinhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FJJjKj9FUT530iN2q02LLMSL3Q.jpg" group-title="VOD Portuguese",PT: Barbie e a Magia dos Golfinhos
-http://801218712576145232.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/145232.mp4
+http://581859312640145232.ofd1206.xyz:80/movie/ja1229862/Np3Tu4wykk/145232.mp4
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF FHD
-http://86219017652268094.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/268094.ts
+http://933859717510268094.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/268094.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
-http://86219017652268095.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/268095.ts
+http://933859717510268095.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/268095.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
-http://86219017652268096.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/268096.ts
+http://933859717510268096.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/268096.ts
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 FHD
-http://86219017652454216.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/454216.ts
+http://933859717510454216.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/454216.ts
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 HD
-http://86219017652454217.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/454217.ts
+http://933859717510454217.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/454217.ts
 --
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 SD
-http://86219017652538760.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/538760.ts
+http://933859717510538760.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/538760.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF FHD (SAT) FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ES DEPORTES",ES: M+ GOLF FHD (SAT) FHD
-http://86219017652917964.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/917964.ts
+http://933859717510917964.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/917964.ts
 --
-#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="http://astrill.today:80/images/prTgXutBEGDFI-ZLP1LAq8DEDW_U0fpe1oA5Nnxf_W6SPISjWNrPaBpekFSGLgz6uBG3CW3nvObGm_9CP1sTn22Hru0C6KcxszcftvVQ7EVmc1yB9gPd3z_jcYpFrCjvn5xt98_Xm613ibKw2P9UFA.png" group-title="Poland",PL: GOLF CHANNEL FHD
-http://86219017652986845.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/986845.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="PL: GOLF CHANNEL POLSKA FHD" tvg-logo="" group-title="Poland",PL: GOLF CHANNEL POLSKA FHD
-http://86219017652991938.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/991938.ts
---
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="Germany",DE: SKY SPORT GOLF FHD
-http://86219017652925451.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/925451.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U9BiCpXybj3wU-DyeULh8fSgiIQLROJnkzP3pDn9sEufQ.png" group-title="France HEVC",FR: GOLF CHANNEL HEVC
-http://86219017652312751.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/312751.ts
-#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ldiq2dOwHaaP2MoP1gCcfv4Hcep-k_dSndL8Bh1o0DV5HFJJ4mJ2e6ybt0jMT_5DnVjowLNSBtWpEJDMPGcQxgz2AlltDVTdo0VFvk-3lXs.png" group-title="France HEVC",FR: GOLF+ FHD
-http://86219017652312752.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/312752.ts
---
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL SD" tvg-logo="" group-title="France HEVC",FR: GOLF CHANNEL SD
-http://86219017652339041.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/339041.ts
---
-#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="France",FR: GOLF+ HD
-http://86219017652821506.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/821506.ts
---
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s75341_ll_h3_aa.png" group-title="France",FR: GOLF CHANNEL FHD
-http://86219017652985040.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985040.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ CHANNEL HD" tvg-logo="" group-title="France",FR: GOLF+ CHANNEL HD
-http://86219017652992060.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/992060.ts
---
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL: ZIGGO SPORT GOLF HD
-http://86219017652790547.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/790547.ts
---
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YI4as5DNlWENyioISXFtpigBsNly1PuC2pFZlpniYxZtMqz2Gs18Kgsxiu-57VPNkg.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF HD
-http://86219017652812713.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/812713.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="NL:* ZIGGO SPORT GOLF FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL:* ZIGGO SPORT GOLF FHD
-http://86219017652888086.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/888086.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF HD⁺ HD
-http://86219017652889418.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/889418.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | SPORT KLUB GOLF FHD" tvg-logo="http://astrill.today:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRhKGNPRsGO-MuB24yeQdehU.png" group-title="SVIP SPORTS",EXYU :SPORT | SPORT KLUB GOLF FHD
-http://86219017652935448.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/935448.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://86219017652938812.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/938812.ts
---
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK : SKY SPORTS GOLF FHD" tvg-logo="" group-title="SVIP SPORTS",UK : SKY SPORTS GOLF FHD
-http://86219017652944441.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/944441.ts
---
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF FHD
-http://86219017652971798.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/971798.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="SVIP SPORTS",DE | SKY SPORT GOLF FHD
-http://86219017652975033.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/975033.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT GOLF FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOn4n0bC68Td0JR5pQ93ennDQeBw8v5dd78NHCtgYJJhsEptbaA9mgAaXCpeokznAI.png" group-title="SVIP SPORTS",ZA SUPERSPORT GOLF FHD
-http://86219017652986411.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/986411.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn0AbHtoFdGQg2kaK3aWluiTUXdePiS87cEJUdMa-hv3eA.png" group-title="SVIP SPORTS",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://86219017652994941.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994941.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCouEl_iZF2_J3lc_6i4pJsm-.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://86219017652995074.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/995074.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD" tvg-logo="http://fanc.tmsimg.com/assets/s67695_ll_h3_aa.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD
-http://86219017652995203.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/995203.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF HEVC
-http://86219017652362810.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/362810.ts
---
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF FHD
-http://86219017652812804.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/812804.ts
---
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtuu8ZEtc0kEp-qVvVD-TxNaw-VNsrcBmD4QHbXqN9fxw.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD
-http://86219017652788755.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/788755.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD⁺ HD
-http://86219017652934095.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/934095.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://86219017652934096.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/934096.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF CHANNEL VIP FHD" tvg-logo="https://asiagrandiptv.us/logo/nbcgolfchannel.png" group-title="USA",US: NBC GOLF CHANNEL VIP FHD
-http://86219017652988036.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/988036.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF HD" tvg-logo="" group-title="USA",US: NBC GOLF HD
-http://86219017652988037.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/988037.ts
---
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL HD" tvg-logo="" group-title="USA",US: GOLF CHANNEL HD
-http://86219017652994786.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994786.ts
---
-#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE: VIASAT GOLF HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SFhWNfnxosVkt4w7QTW0xvTHRQm9dQOB_7UdelaJa5-Q.png" group-title="Sweden",SE: VIASAT GOLF HD
-http://86219017652983344.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/983344.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="SE: * VIASAT GOLF HD" tvg-logo="http://fanc.tmsimg.com/assets/s77731_ll_h3_aa.png" group-title="Sweden",SE: * VIASAT GOLF HD
-http://86219017652989810.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/989810.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL HD" tvg-logo="" group-title="Canada",CA: GOLF CHANNEL HD
-http://86219017652992945.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/992945.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF HD" tvg-logo="" group-title="Canada",CA: GOLF HD
-http://86219017652994532.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994532.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT | SPORT KLUB GOLF FHD" tvg-logo="" group-title="EX-YU",EX-YU: SPORT | SPORT KLUB GOLF FHD
-http://86219017652975557.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/975557.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF SD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF SD
-http://86219017652339842.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/339842.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HD
-http://86219017652340119.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/340119.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HEVC" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HEVC
-http://86219017652368879.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/368879.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF FHD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF FHD
-http://86219017652388152.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/388152.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="LA: GOLF CHANNEL SD" tvg-logo="" group-title="Latino",LA: GOLF CHANNEL SD
-http://86219017652995320.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/995320.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="DK: VIASAT GOLF HD" tvg-logo="" group-title="Denmark",DK: VIASAT GOLF HD
-http://86219017652994590.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994590.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: GOLF CHANNEL HD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: GOLF CHANNEL HD
-http://86219017652959177.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/959177.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL SD" tvg-logo="" group-title="Czechia",CZ: GOLF CHANNEL SD
-http://86219017652991345.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/991345.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://86219017652993012.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/993012.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT GOLF FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT GOLF FHD
-http://86219017652993021.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/993021.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: GOLF VIP SD" tvg-logo="" group-title="Mexico",MX: GOLF VIP SD
-http://86219017652991123.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/991123.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL VIP SD" tvg-logo="http://fanc.tmsimg.com/assets/s14899_ll_h3_aa.png" group-title="Argentina",ARG: GOLF CHANNEL VIP SD
-http://86219017652993929.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/993929.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: Barbie e a Magia dos Golfinhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FJJjKj9FUT530iN2q02LLMSL3Q.jpg" group-title="VOD Portuguese",PT: Barbie e a Magia dos Golfinhos
-http://86219017652145232.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/145232.mp4
---
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF FHD
-http://29219210197268094.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/268094.ts
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
-http://29219210197268095.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/268095.ts
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
-http://29219210197268096.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/268096.ts
---
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 FHD
-http://29219210197454216.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/454216.ts
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 HD
-http://29219210197454217.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/454217.ts
---
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ES DEPORTES",ES: M+ GOLF 2 SD
-http://29219210197538760.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/538760.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF FHD (SAT) FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ES DEPORTES",ES: M+ GOLF FHD (SAT) FHD
-http://29219210197917964.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/917964.ts
---
-#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="http://astrill.today:80/images/prTgXutBEGDFI-ZLP1LAq8DEDW_U0fpe1oA5Nnxf_W6SPISjWNrPaBpekFSGLgz6uBG3CW3nvObGm_9CP1sTn22Hru0C6KcxszcftvVQ7EVmc1yB9gPd3z_jcYpFrCjvn5xt98_Xm613ibKw2P9UFA.png" group-title="Poland",PL: GOLF CHANNEL FHD
-http://29219210197986845.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/986845.ts
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDdcffuMlldCvNYPqnkuvloDHTNHDzbc0Qp_WNyVu6keFgZBWIe-2cvju0d1Rjo_4A.png" group-title="Poland",PL: GOLF CHANNEL FHD
+http://933859717510986845.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/986845.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="PL: GOLF CHANNEL POLSKA FHD" tvg-logo="" group-title="Poland",PL: GOLF CHANNEL POLSKA FHD
-http://29219210197991938.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/991938.ts
+http://933859717510991938.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/991938.ts
 --
 #EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="Germany",DE: SKY SPORT GOLF FHD
-http://29219210197925451.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/925451.ts
+http://933859717510925451.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/925451.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U9BiCpXybj3wU-DyeULh8fSgiIQLROJnkzP3pDn9sEufQ.png" group-title="France HEVC",FR: GOLF CHANNEL HEVC
-http://29219210197312751.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312751.ts
+http://933859717510312751.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/312751.ts
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ FHD" tvg-logo="http://live.phenixiptv.com:8080/images/ldiq2dOwHaaP2MoP1gCcfv4Hcep-k_dSndL8Bh1o0DV5HFJJ4mJ2e6ybt0jMT_5DnVjowLNSBtWpEJDMPGcQxgz2AlltDVTdo0VFvk-3lXs.png" group-title="France HEVC",FR: GOLF+ FHD
-http://29219210197312752.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312752.ts
+http://933859717510312752.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/312752.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL SD" tvg-logo="" group-title="France HEVC",FR: GOLF CHANNEL SD
-http://29219210197339041.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339041.ts
+#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="" group-title="France HEVC",FR: GOLF CHANNEL HD
+http://933859717510339041.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/339041.ts
 --
 #EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="France",FR: GOLF+ HD
-http://29219210197821506.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/821506.ts
+http://933859717510821506.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/821506.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s75341_ll_h3_aa.png" group-title="France",FR: GOLF CHANNEL FHD
-http://29219210197985040.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/985040.ts
+#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s75341_ll_h3_aa.png" group-title="France",FR: GOLF CHANNEL HD
+http://933859717510985040.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/985040.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ CHANNEL HD" tvg-logo="" group-title="France",FR: GOLF+ CHANNEL HD
-http://29219210197992060.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/992060.ts
+http://933859717510992060.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/992060.ts
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL: ZIGGO SPORT GOLF HD
-http://29219210197790547.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/790547.ts
+http://933859717510790547.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/790547.ts
 --
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YI4as5DNlWENyioISXFtpigBsNly1PuC2pFZlpniYxZtMqz2Gs18Kgsxiu-57VPNkg.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF HD
-http://29219210197812713.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/812713.ts
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF FHD" tvg-logo="http://stream.geoiptv.live/channels_icon/77768166981.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF FHD
+http://933859717510812713.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/812713.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL:* ZIGGO SPORT GOLF FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_golf.png" group-title="SVIP SPORTS",NL:* ZIGGO SPORT GOLF FHD
-http://29219210197888086.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/888086.ts
+http://933859717510888086.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/888086.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF HD⁺ HD
-http://29219210197889418.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/889418.ts
+http://933859717510889418.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/889418.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | SPORT KLUB GOLF FHD" tvg-logo="http://astrill.today:80/images/2DqyqUlxYdIWX8ajDjP88mTytCHclD4yKfw9t7x1pRhKGNPRsGO-MuB24yeQdehU.png" group-title="SVIP SPORTS",EXYU :SPORT | SPORT KLUB GOLF FHD
-http://29219210197935448.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/935448.ts
+http://933859717510935448.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/935448.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="SVIP SPORTS",NL : ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://29219210197938812.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/938812.ts
+http://933859717510938812.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/938812.ts
 --
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK : SKY SPORTS GOLF FHD" tvg-logo="" group-title="SVIP SPORTS",UK : SKY SPORTS GOLF FHD
-http://29219210197944441.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/944441.ts
+http://933859717510944441.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/944441.ts
 --
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF FHD
-http://29219210197971798.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/971798.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF HD
+http://933859717510971798.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/971798.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT GOLF FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="SVIP SPORTS",DE | SKY SPORT GOLF FHD
-http://29219210197975033.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/975033.ts
+http://933859717510975033.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/975033.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT GOLF FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOn4n0bC68Td0JR5pQ93ennDQeBw8v5dd78NHCtgYJJhsEptbaA9mgAaXCpeokznAI.png" group-title="SVIP SPORTS",ZA SUPERSPORT GOLF FHD
-http://29219210197986411.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/986411.ts
+http://933859717510986411.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/986411.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVZH1cLgBEdZ8pXSLuJrXn0AbHtoFdGQg2kaK3aWluiTUXdePiS87cEJUdMa-hv3eA.png" group-title="SVIP SPORTS",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://29219210197994941.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994941.ts
+http://933859717510994941.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994941.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCouEl_iZF2_J3lc_6i4pJsm-.png" group-title="SVIP SPORTS",DE: SKY SPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://29219210197995074.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/995074.ts
+http://933859717510995074.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/995074.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD" tvg-logo="http://fanc.tmsimg.com/assets/s67695_ll_h3_aa.png" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF VIP (MATCH TIME) FHD
-http://29219210197995203.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/995203.ts
+http://933859717510995203.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/995203.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF HEVC
-http://29219210197362810.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/362810.ts
+http://933859717510362810.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/362810.ts
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF FHD
-http://29219210197812804.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/812804.ts
+http://933859717510812804.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/812804.ts
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtuu8ZEtc0kEp-qVvVD-TxNaw-VNsrcBmD4QHbXqN9fxw.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD
-http://29219210197788755.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/788755.ts
+http://933859717510788755.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/788755.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD⁺ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD⁺ HD
-http://29219210197934095.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/934095.ts
+http://933859717510934095.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/934095.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://29219210197934096.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/934096.ts
+http://933859717510934096.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/934096.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF CHANNEL VIP FHD" tvg-logo="https://asiagrandiptv.us/logo/nbcgolfchannel.png" group-title="USA",US: NBC GOLF CHANNEL VIP FHD
-http://29219210197988036.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/988036.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: * ZIGGO SPORT GOLF HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtuu8ZEtc0kEp-qVvVD-TxNaw-VNsrcBmD4QHbXqN9fxw.png" group-title="Netherlands",NL: * ZIGGO SPORT GOLF HD
+http://933859717510995713.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/995713.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF CHANNEL VIP HD" tvg-logo="https://asiagrandiptv.us/logo/nbcgolfchannel.png" group-title="USA",US: NBC GOLF CHANNEL VIP HD
+http://933859717510988036.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/988036.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF HD" tvg-logo="" group-title="USA",US: NBC GOLF HD
-http://29219210197988037.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/988037.ts
+http://933859717510988037.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/988037.ts
 --
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL HD" tvg-logo="" group-title="USA",US: GOLF CHANNEL HD
-http://29219210197994786.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994786.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US: GOLF CHANNEL FHD" tvg-logo="" group-title="USA",US: GOLF CHANNEL FHD
+http://933859717510994786.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994786.ts
 --
 #EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE: VIASAT GOLF HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SFhWNfnxosVkt4w7QTW0xvTHRQm9dQOB_7UdelaJa5-Q.png" group-title="Sweden",SE: VIASAT GOLF HD
-http://29219210197983344.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/983344.ts
+http://933859717510983344.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/983344.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="SE: * VIASAT GOLF HD" tvg-logo="http://fanc.tmsimg.com/assets/s77731_ll_h3_aa.png" group-title="Sweden",SE: * VIASAT GOLF HD
-http://29219210197989810.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/989810.ts
+http://933859717510989810.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/989810.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL HD" tvg-logo="" group-title="Canada",CA: GOLF CHANNEL HD
-http://29219210197992945.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/992945.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL FHD" tvg-logo="" group-title="Canada",CA: GOLF CHANNEL FHD
+http://933859717510992945.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/992945.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF HD" tvg-logo="" group-title="Canada",CA: GOLF HD
-http://29219210197994532.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994532.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF FHD" tvg-logo="" group-title="Canada",CA: GOLF FHD
+http://933859717510994532.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994532.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: SPORT | SPORT KLUB GOLF FHD" tvg-logo="" group-title="EX-YU",EX-YU: SPORT | SPORT KLUB GOLF FHD
-http://29219210197975557.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/975557.ts
+http://933859717510975557.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/975557.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF SD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF SD
-http://29219210197339842.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339842.ts
+http://933859717510339842.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/339842.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HD
-http://29219210197340119.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/340119.ts
+http://933859717510340119.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/340119.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF HEVC" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF HEVC
-http://29219210197368879.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/368879.ts
+http://933859717510368879.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/368879.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BE: PLAY SPORTS GOLF FHD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS GOLF FHD
-http://29219210197388152.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/388152.ts
+http://933859717510388152.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/388152.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="LA: GOLF CHANNEL SD" tvg-logo="" group-title="Latino",LA: GOLF CHANNEL SD
-http://29219210197995320.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/995320.ts
+http://933859717510995320.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/995320.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DK: VIASAT GOLF HD" tvg-logo="" group-title="Denmark",DK: VIASAT GOLF HD
-http://29219210197994590.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994590.ts
+http://933859717510994590.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/994590.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: GOLF CHANNEL HD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: GOLF CHANNEL HD
-http://29219210197959177.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/959177.ts
+http://933859717510959177.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/959177.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL SD" tvg-logo="" group-title="Czechia",CZ: GOLF CHANNEL SD
-http://29219210197991345.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/991345.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT GOLF [LIVE DURING EVENTS ONLY] FHD
-http://29219210197993012.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993012.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT GOLF FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT GOLF FHD
-http://29219210197993021.ofd1206.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993021.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZ: GOLF CHANNEL HD" tvg-logo="" group-title="Czechia",CZ: GOLF CHANNEL HD
+http://933859717510991345.ofd1206.xyz:80/live/vi1222928/SMpdHDhGSf/991345.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Barbie e a Magia dos Golfinhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FJJjKj9FUT530iN2q02LLMSL3Q.jpg" group-title="VOD Portuguese",PT: Barbie e a Magia dos Golfinhos
-http://29219210197145232.ofd1206.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/145232.mp4
+http://933859717510145232.ofd1206.xyz:80/movie/vi1222928/SMpdHDhGSf/145232.mp4
