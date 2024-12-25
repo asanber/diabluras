@@ -1,354 +1,363 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD
-http://131418511390165385.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/165385.ts
+http://803058511274165385.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/165385.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA HD
-http://131418511390165392.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/165392.ts
+http://803058511274165392.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/165392.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA SD
-http://131418511390165393.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/165393.ts
+http://803058511274165393.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/165393.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD HEVC
-http://131418511390262413.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/262413.ts
+http://803058511274262413.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/262413.ts
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA 2 HD
-http://131418511390165398.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/165398.ts
+http://803058511274165398.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/165398.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
-http://131418511390268042.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/268042.ts
+http://803058511274268042.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/268042.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
-http://131418511390165407.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/165407.ts
+http://803058511274165407.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/165407.ts
 --
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 HD
-http://131418511390320779.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320779.ts
+http://803058511274320779.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320779.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 FHD
-http://131418511390320780.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320780.ts
+http://803058511274320780.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320780.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA HD
-http://131418511390320781.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320781.ts
+http://803058511274320781.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320781.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD
-http://131418511390320782.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320782.ts
+http://803058511274320782.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320782.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK FHD
-http://131418511390320785.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320785.ts
+http://803058511274320785.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320785.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK HD
-http://131418511390320786.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320786.ts
+http://803058511274320786.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320786.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK SD
-http://131418511390320789.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320789.ts
+http://803058511274320789.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320789.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 HD
-http://131418511390320790.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320790.ts
+http://803058511274320790.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320790.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES:DAZN LALIGA SD
-http://131418511390320792.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/320792.ts
+http://803058511274320792.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/320792.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 FHD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 FHD
-http://131418511390325771.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/325771.ts
+http://803058511274325771.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/325771.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 SD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 SD
-http://131418511390325772.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/325772.ts
+http://803058511274325772.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/325772.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK 2 HD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 2 HD
-http://131418511390329115.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/329115.ts
+http://803058511274329115.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/329115.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LaLiga SmartbankTV 3 FHD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 3 FHD
-http://131418511390489190.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/489190.ts
+http://803058511274489190.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/489190.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LaLiga SmartbankTV 5 HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 5 HD
-http://131418511390489195.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/489195.ts
+http://803058511274489195.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/489195.ts
 --
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION FHD
-http://131418511390571903.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/571903.ts
+http://803058511274571903.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/571903.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION HD
-http://131418511390571904.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/571904.ts
+http://803058511274571904.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/571904.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION SD
-http://131418511390571905.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/571905.ts
+http://803058511274571905.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/571905.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES: LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION 2 HD
-http://131418511390571906.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/571906.ts
+http://803058511274571906.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/571906.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="ES  M+ LALIGA",ES: LALIGA+ FHD
-http://131418511390660537.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/660537.ts
+http://803058511274660537.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/660537.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV 24/7 FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV 24/7 FHD
-http://131418511390660538.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/660538.ts
+http://803058511274660538.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/660538.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV FHD" tvg-logo="" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV FHD
-http://131418511390928392.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/928392.ts
+http://803058511274928392.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/928392.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV HD" tvg-logo="" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV HD
-http://131418511390928393.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/928393.ts
+http://803058511274928393.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/928393.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 3 HD
-http://131418511390953990.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/953990.ts
+http://803058511274953990.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/953990.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 4 HD
-http://131418511390953991.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/953991.ts
+http://803058511274953991.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/953991.ts
 --
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD HEVC
-http://131418511390958755.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/958755.ts
+http://803058511274958755.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/958755.ts
 --
 #EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="ES: HYPERMOTION HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: HYPERMOTION HD
-http://131418511390964945.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/964945.ts
+http://803058511274964945.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/964945.ts
 --
 #EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name="ES: M+ LALIGA TV 5 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 5 HD
-http://131418511390980273.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/980273.ts
+http://803058511274980273.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/980273.ts
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name="ES: M+ LALIGA TV 6 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 6 HD
-http://131418511390980274.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/980274.ts
+http://803058511274980274.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/980274.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 7 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG6" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 7 HD
-http://131418511390980275.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/980275.ts
+http://803058511274980275.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/980275.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 8 HD
-http://131418511390980276.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/980276.ts
+http://803058511274980276.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/980276.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 9 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 9 HD
-http://131418511390980277.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/980277.ts
+http://803058511274980277.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/980277.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 10 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 10 HD
-http://131418511390980278.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/980278.ts
+http://803058511274980278.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/980278.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN LA LIGA HD" tvg-logo="" group-title="Germany",DE: DAZN LA LIGA HD
+http://8030585112741001678.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1001678.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA: SUPERSPORT LALIGA FHD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6H2ltoUTN66h1wc0eZbPu5HhBb1Rbd0jCISyKU1UO8OdtFZItBJxpJah2p40nny2pxzOXLM2LzmUIfvz-GI1U3CLq5Npkgf2t_Z7W8E4t0sN-ljpuzsB8pnmN03vUYxKBZjajTeybnVSJ1OpXBXkkQfuD3Ie818Dtw67MqMoiW-Gg.png" group-title="SVIP SPORTS",ZA: SUPERSPORT LALIGA FHD
-http://131418511390953837.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/953837.ts
+http://803058511274953837.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/953837.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORT LALIGA [LIVE DURING EVENTS ONLY] SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QlIP1lttA79t7N5DUFsLZieIQz6Lz2dCOXABqjQKMXyg.png" group-title="SVIP SPORTS",ES: BEIN SPORT LALIGA [LIVE DURING EVENTS ONLY] SD
-http://1314185113901000158.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/1000158.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="SVIP SPORTS",AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD
+http://8030585112741001797.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1001797.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA: SUPERSPORT LALIGA FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT LALIGA FHD
-http://131418511390997489.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/997489.ts
+http://803058511274997489.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/997489.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD
-http://131418511390998653.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/998653.ts
+http://803058511274998653.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/998653.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="MX: VIX+ SKY (LA LIGA) HD" tvg-logo="" group-title="Mexico",MX: VIX+ SKY (LA LIGA) HD
-http://131418511390999472.ofdhu1210.xyz:80/play/chus40102R/GDBFY82374R/999472.ts
+http://803058511274999472.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/999472.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia Oscura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="VOD ESPAÑOL 02",La Liga de la Justicia Oscura (2017)
-http://131418511390147587.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147587.avi
+http://803058511274147587.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147587.avi
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia vs Los Cinco Fatales (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw4s1RnhIYa2laxBZoOZ25tZFV9.jpg" group-title="VOD ESPAÑOL 02",La Liga de la Justicia vs Los Cinco Fatales (2019)
-http://131418511390147588.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147588.mp4
+http://803058511274147588.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147588.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="VOD ESPAÑOL 2021",La Liga de la Justicia de Zack Snyder (2021)
-http://131418511390279458.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/279458.avi
+http://803058511274279458.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/279458.avi
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg" group-title="VOD Portuguese 2021",La Liga de la Justicia de Zack Snyder (2021)
-http://131418511390281737.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/281737.mkv
+http://803058511274281737.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/281737.mkv
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD
-http://313418712576165385.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165385.ts
+http://251058812537165385.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165385.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA HD
-http://313418712576165392.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165392.ts
+http://251058812537165392.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165392.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA SD
-http://313418712576165393.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165393.ts
+http://251058812537165393.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165393.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD HEVC
-http://313418712576262413.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/262413.ts
+http://251058812537262413.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/262413.ts
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA 2 HD
-http://313418712576165398.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165398.ts
+http://251058812537165398.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165398.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
-http://313418712576268042.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/268042.ts
+http://251058812537268042.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/268042.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
-http://313418712576165407.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165407.ts
+http://251058812537165407.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/165407.ts
 --
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 HD
-http://313418712576320779.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320779.ts
+http://251058812537320779.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320779.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 FHD
-http://313418712576320780.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320780.ts
+http://251058812537320780.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320780.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA HD
-http://313418712576320781.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320781.ts
+http://251058812537320781.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320781.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD
-http://313418712576320782.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320782.ts
+http://251058812537320782.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320782.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK FHD
-http://313418712576320785.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320785.ts
+http://251058812537320785.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320785.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK HD
-http://313418712576320786.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320786.ts
+http://251058812537320786.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320786.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK SD
-http://313418712576320789.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320789.ts
+http://251058812537320789.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320789.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 HD
-http://313418712576320790.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320790.ts
+http://251058812537320790.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320790.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES:DAZN LALIGA SD
-http://313418712576320792.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320792.ts
+http://251058812537320792.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/320792.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 FHD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 FHD
-http://313418712576325771.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/325771.ts
+http://251058812537325771.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/325771.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 SD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 SD
-http://313418712576325772.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/325772.ts
+http://251058812537325772.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/325772.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK 2 HD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 2 HD
-http://313418712576329115.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/329115.ts
+http://251058812537329115.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/329115.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LaLiga SmartbankTV 3 FHD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 3 FHD
-http://313418712576489190.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/489190.ts
+http://251058812537489190.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/489190.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LaLiga SmartbankTV 5 HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 5 HD
-http://313418712576489195.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/489195.ts
+http://251058812537489195.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/489195.ts
 --
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION FHD
-http://313418712576571903.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571903.ts
+http://251058812537571903.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571903.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION HD
-http://313418712576571904.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571904.ts
+http://251058812537571904.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571904.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION SD
-http://313418712576571905.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571905.ts
+http://251058812537571905.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571905.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES: LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION 2 HD
-http://313418712576571906.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571906.ts
+http://251058812537571906.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/571906.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="ES  M+ LALIGA",ES: LALIGA+ FHD
-http://313418712576660537.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/660537.ts
+http://251058812537660537.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/660537.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV 24/7 FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV 24/7 FHD
-http://313418712576660538.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/660538.ts
+http://251058812537660538.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/660538.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV FHD" tvg-logo="" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV FHD
-http://313418712576928392.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/928392.ts
+http://251058812537928392.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/928392.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV HD" tvg-logo="" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV HD
-http://313418712576928393.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/928393.ts
+http://251058812537928393.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/928393.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 3 HD
-http://313418712576953990.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/953990.ts
+http://251058812537953990.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/953990.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 4 HD
-http://313418712576953991.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/953991.ts
+http://251058812537953991.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/953991.ts
 --
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD HEVC
-http://313418712576958755.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/958755.ts
+http://251058812537958755.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/958755.ts
 --
 #EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="ES: HYPERMOTION HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: HYPERMOTION HD
-http://313418712576964945.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/964945.ts
+http://251058812537964945.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/964945.ts
 --
 #EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name="ES: M+ LALIGA TV 5 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 5 HD
-http://313418712576980273.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980273.ts
+http://251058812537980273.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980273.ts
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name="ES: M+ LALIGA TV 6 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 6 HD
-http://313418712576980274.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980274.ts
+http://251058812537980274.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980274.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 7 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG6" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 7 HD
-http://313418712576980275.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980275.ts
+http://251058812537980275.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980275.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 8 HD
-http://313418712576980276.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980276.ts
+http://251058812537980276.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980276.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 9 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 9 HD
-http://313418712576980277.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980277.ts
+http://251058812537980277.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980277.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 10 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 10 HD
-http://313418712576980278.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980278.ts
+http://251058812537980278.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/980278.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN LA LIGA HD" tvg-logo="" group-title="Germany",DE: DAZN LA LIGA HD
+http://2510588125371001678.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1001678.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA: SUPERSPORT LALIGA FHD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6H2ltoUTN66h1wc0eZbPu5HhBb1Rbd0jCISyKU1UO8OdtFZItBJxpJah2p40nny2pxzOXLM2LzmUIfvz-GI1U3CLq5Npkgf2t_Z7W8E4t0sN-ljpuzsB8pnmN03vUYxKBZjajTeybnVSJ1OpXBXkkQfuD3Ie818Dtw67MqMoiW-Gg.png" group-title="SVIP SPORTS",ZA: SUPERSPORT LALIGA FHD
-http://313418712576953837.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/953837.ts
+http://251058812537953837.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/953837.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORT LALIGA [LIVE DURING EVENTS ONLY] SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QlIP1lttA79t7N5DUFsLZieIQz6Lz2dCOXABqjQKMXyg.png" group-title="SVIP SPORTS",ES: BEIN SPORT LALIGA [LIVE DURING EVENTS ONLY] SD
-http://3134187125761000158.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1000158.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="SVIP SPORTS",AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD
+http://2510588125371001797.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1001797.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA: SUPERSPORT LALIGA FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT LALIGA FHD
-http://313418712576997489.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/997489.ts
+http://251058812537997489.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/997489.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD
-http://313418712576998653.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/998653.ts
+http://251058812537998653.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/998653.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="MX: VIX+ SKY (LA LIGA) HD" tvg-logo="" group-title="Mexico",MX: VIX+ SKY (LA LIGA) HD
-http://313418712576999472.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/999472.ts
+http://251058812537999472.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/999472.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia Oscura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="VOD ESPAÑOL 02",La Liga de la Justicia Oscura (2017)
-http://313418712576147587.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147587.avi
+http://251058812537147587.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147587.avi
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia vs Los Cinco Fatales (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw4s1RnhIYa2laxBZoOZ25tZFV9.jpg" group-title="VOD ESPAÑOL 02",La Liga de la Justicia vs Los Cinco Fatales (2019)
-http://313418712576147588.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147588.mp4
+http://251058812537147588.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147588.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="VOD ESPAÑOL 2021",La Liga de la Justicia de Zack Snyder (2021)
-http://313418712576279458.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/279458.avi
+http://251058812537279458.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/279458.avi
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg" group-title="VOD Portuguese 2021",La Liga de la Justicia de Zack Snyder (2021)
-http://313418712576281737.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/281737.mkv
+http://251058812537281737.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/281737.mkv
 --
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD
-http://261419510247165385.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165385.ts
+http://330059810470165385.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165385.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA HD
-http://261419510247165392.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165392.ts
+http://330059810470165392.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165392.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA SD
-http://261419510247165393.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165393.ts
+http://330059810470165393.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165393.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA FHD HEVC
-http://261419510247262413.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/262413.ts
+http://330059810470262413.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/262413.ts
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: M+ LALIGA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  M+ LALIGA",ES: M+ LALIGA 2 HD
-http://261419510247165398.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165398.ts
+http://330059810470165398.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165398.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
-http://261419510247268042.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/268042.ts
+http://330059810470268042.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/268042.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
-http://261419510247165407.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165407.ts
+http://330059810470165407.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165407.ts
 --
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 HD
-http://261419510247320779.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320779.ts
+http://330059810470320779.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320779.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 2 FHD
-http://261419510247320780.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320780.ts
+http://330059810470320780.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320780.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA HD
-http://261419510247320781.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320781.ts
+http://330059810470320781.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320781.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD
-http://261419510247320782.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320782.ts
+http://330059810470320782.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320782.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK FHD
-http://261419510247320785.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320785.ts
+http://330059810470320785.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320785.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK HD
-http://261419510247320786.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320786.ts
+http://330059810470320786.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320786.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK SD
-http://261419510247320789.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320789.ts
+http://330059810470320789.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320789.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 HD
-http://261419510247320790.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320790.ts
+http://330059810470320790.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320790.ts
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES:DAZN LALIGA SD
-http://261419510247320792.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320792.ts
+http://330059810470320792.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320792.ts
 --
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 FHD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 FHD
-http://261419510247325771.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/325771.ts
+http://330059810470325771.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/325771.ts
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: M LALIGA SMARTBANK 1 SD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 1 SD
-http://261419510247325772.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/325772.ts
+http://330059810470325772.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/325772.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK 2 HD" tvg-logo="" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK 2 HD
-http://261419510247329115.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/329115.ts
+http://330059810470329115.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/329115.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LaLiga SmartbankTV 3 FHD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 3 FHD
-http://261419510247489190.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/489190.ts
+http://330059810470489190.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/489190.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LaLiga SmartbankTV 5 HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 5 HD
-http://261419510247489195.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/489195.ts
+http://330059810470489195.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/489195.ts
 --
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION FHD
-http://261419510247571903.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571903.ts
+http://330059810470571903.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571903.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION HD
-http://261419510247571904.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571904.ts
+http://330059810470571904.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571904.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION SD
-http://261419510247571905.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571905.ts
+http://330059810470571905.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571905.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES: LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" group-title="ES  M+ LALIGA",ES: LALIGA TV HYPERMOTION 2 HD
-http://261419510247571906.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571906.ts
+http://330059810470571906.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/571906.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="ES  M+ LALIGA",ES: LALIGA+ FHD
-http://261419510247660537.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/660537.ts
+http://330059810470660537.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/660537.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV 24/7 FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV 24/7 FHD
-http://261419510247660538.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/660538.ts
+http://330059810470660538.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/660538.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV FHD" tvg-logo="" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV FHD
-http://261419510247928392.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/928392.ts
+http://330059810470928392.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/928392.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA Sports TV HD" tvg-logo="" group-title="ES  M+ LALIGA",ES: LALIGA Sports TV HD
-http://261419510247928393.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/928393.ts
+http://330059810470928393.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/928393.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 3 HD
-http://261419510247953990.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/953990.ts
+http://330059810470953990.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/953990.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV 4 HD
-http://261419510247953991.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/953991.ts
+http://330059810470953991.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/953991.ts
 --
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD HEVC
-http://261419510247958755.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/958755.ts
+http://330059810470958755.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/958755.ts
 --
 #EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="ES: HYPERMOTION HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: HYPERMOTION HD
-http://261419510247964945.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/964945.ts
+http://330059810470964945.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/964945.ts
 --
 #EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name="ES: M+ LALIGA TV 5 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 5 HD
-http://261419510247980273.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980273.ts
+http://330059810470980273.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980273.ts
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name="ES: M+ LALIGA TV 6 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 6 HD
-http://261419510247980274.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980274.ts
+http://330059810470980274.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980274.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 7 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG6" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 7 HD
-http://261419510247980275.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980275.ts
+http://330059810470980275.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980275.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 8 HD
-http://261419510247980276.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980276.ts
+http://330059810470980276.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980276.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 9 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 9 HD
-http://261419510247980277.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980277.ts
+http://330059810470980277.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980277.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV 10 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="ES  M+ LALIGA",ES: M+ LALIGA TV 10 HD
-http://261419510247980278.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980278.ts
+http://330059810470980278.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980278.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN LA LIGA HD" tvg-logo="" group-title="Germany",DE: DAZN LA LIGA HD
+http://3300598104701001678.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1001678.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA: SUPERSPORT LALIGA FHD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6H2ltoUTN66h1wc0eZbPu5HhBb1Rbd0jCISyKU1UO8OdtFZItBJxpJah2p40nny2pxzOXLM2LzmUIfvz-GI1U3CLq5Npkgf2t_Z7W8E4t0sN-ljpuzsB8pnmN03vUYxKBZjajTeybnVSJ1OpXBXkkQfuD3Ie818Dtw67MqMoiW-Gg.png" group-title="SVIP SPORTS",ZA: SUPERSPORT LALIGA FHD
-http://261419510247953837.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/953837.ts
+http://330059810470953837.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/953837.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORT LALIGA [LIVE DURING EVENTS ONLY] SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QlIP1lttA79t7N5DUFsLZieIQz6Lz2dCOXABqjQKMXyg.png" group-title="SVIP SPORTS",ES: BEIN SPORT LALIGA [LIVE DURING EVENTS ONLY] SD
-http://2614195102471000158.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1000158.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="SVIP SPORTS",AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD
+http://3300598104701001797.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1001797.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA: SUPERSPORT LALIGA FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT LALIGA FHD
-http://261419510247997489.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/997489.ts
+http://330059810470997489.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/997489.ts
 --
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT LALIGA [LIVE DURING EVENTS ONLY] FHD
-http://261419510247998653.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998653.ts
+http://330059810470998653.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998653.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia Oscura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="VOD ESPAÑOL 02",La Liga de la Justicia Oscura (2017)
-http://261419510247147587.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147587.avi
+http://330059810470147587.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147587.avi
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia vs Los Cinco Fatales (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw4s1RnhIYa2laxBZoOZ25tZFV9.jpg" group-title="VOD ESPAÑOL 02",La Liga de la Justicia vs Los Cinco Fatales (2019)
-http://261419510247147588.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147588.mp4
+http://330059810470147588.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147588.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="VOD ESPAÑOL 2021",La Liga de la Justicia de Zack Snyder (2021)
-http://261419510247279458.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/279458.avi
+http://330059810470279458.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/279458.avi
 --
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg" group-title="VOD Portuguese 2021",La Liga de la Justicia de Zack Snyder (2021)
-http://261419510247281737.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/281737.mkv
+http://330059810470281737.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/281737.mkv
 --
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",DAZN La Liga
 http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
