@@ -1,420 +1,438 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",US: SPORTSMAN CHANNEL HD
-http://803058511274998222.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/998222.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL SD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",US: SPORTSMAN CHANNEL SD
+http://408698511988998222.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/998222.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 48 (WAFF) HUNTSVILLE VIP HD" tvg-logo="" group-title="USA",US: NBC 48 (WAFF) HUNTSVILLE VIP HD
-http://803058511274988003.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/988003.ts
+http://408698511988988003.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/988003.ts
 --
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="USA",US: SPORTSMAN CHANNEL HD
-http://803058511274988182.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/988182.ts
+http://408698511988988182.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/988182.ts
 --
 #EXTINF:-1 tvg-id="fox54wzdx.us" tvg-name="US: FOX 54 (WZDX) HD" tvg-logo="https://asiagrandiptv.us/logo//FOX(WZDX)HUNTSVILLE.jpeg" group-title="USA",US: FOX 54 (WZDX) HD
-http://803058511274992202.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/992202.ts
+http://408698511988992202.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/992202.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS 19 (WHNT) HUNTSVILLE VIP HD" tvg-logo="" group-title="USA",US: CBS 19 (WHNT) HUNTSVILLE VIP HD
-http://803058511274994716.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/994716.ts
+http://408698511988994716.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/994716.ts
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL FHD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL FHD
-http://803058511274994822.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/994822.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL SD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL SD
+http://408698511988994822.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/994822.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS 13 (WOWK) HUNTINGTON VIP HD" tvg-logo="" group-title="USA",US: CBS 13 (WOWK) HUNTINGTON VIP HD
-http://803058511274999784.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/999784.ts
+http://408698511988999784.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/999784.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC 3 (WSAZ) HUNTINGTON VIP HD" tvg-logo="https://asiagrandiptv.us/logo//NBC(WSAZ)HUNTINGTON.png" group-title="USA",US: NBC 3 (WSAZ) HUNTINGTON VIP HD
+http://4086985119881002664.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1002664.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING SD" tvg-logo="" group-title="Romania",RO: FISHING & HUNTING SD
+http://4086985119881002751.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1002751.ts
 --
 #EXTINF:-1 tvg-id="outdoorchannel.gr" tvg-name="GR: OUTDOOR CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGgriyzD07OingiUd-vT7YqzoaYt4mFoOD4HklRIxvF6F81JIxbmCTprY3mCABpgHQ.png" group-title="Greece",GR: OUTDOOR CHANNEL FHD
-http://803058511274993726.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/993726.ts
+http://408698511988993726.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/993726.ts
 --
 #EXTINF:-1 tvg-id="fishinghunting.hu" tvg-name="HU: THE FISHING & HUNTING SD" tvg-logo="" group-title="Hungary",HU: THE FISHING & HUNTING SD
-http://803058511274933694.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/933694.ts
+http://408698511988933694.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/933694.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING CHANNEL SD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qP09OGFpYYL6MaghAOgIpM8CIC_mLCuEG2lSVU8uC4p5QujImTCmkgnzfUcS8vSlG4.png" group-title="Hungary",HU: THE FISHING & HUNTING CHANNEL SD
-http://803058511274976550.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/976550.ts
+http://408698511988976550.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/976550.ts
 --
 #EXTINF:-1 tvg-id="Fishing and Hunting Channel (HD).hu" tvg-name="HU: FISHING AND HUNTING SD" tvg-logo="" group-title="Hungary",HU: FISHING AND HUNTING SD
-http://803058511274982534.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/982534.ts
+http://408698511988982534.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/982534.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="MT: FISHING & HUNTING SD" tvg-logo="" group-title="Malta",MT: FISHING & HUNTING SD
-http://8030585112741001732.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1001732.ts
+http://4086985119881001732.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1001732.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="RU: OUTDOOR CHANNEL FHD" tvg-logo="http://xplatinmedia.com:8080/images/b41a7baea01cc38d642084aedcbd1117.png" group-title="Russia",RU: OUTDOOR CHANNEL FHD
-http://8030585112741001611.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1001611.ts
+http://4086985119881001611.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1001611.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Manhunt (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="VOD ESPAÑOL 02",Manhunt (2017)
-http://803058511274147734.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147734.mp4
+http://408698511988147734.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147734.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD ESPAÑOL 02",Monster Hunt 2 (2018)
-http://803058511274147809.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147809.mp4
+http://408698511988147809.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/147809.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Hunters Prayer (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sabf8nr54LEm1DYS3VpjW9pGan.jpg" group-title="VOD ESPAÑOL 02",The Hunters Prayer (2017)
-http://803058511274148161.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/148161.mp4
+http://408698511988148161.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/148161.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter y el perfume de Cupido (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg" group-title="VOD ESPAÑOL 01",City Hunter y el perfume de Cupido (2018)
-http://803058511274148360.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/148360.mkv
+http://408698511988148360.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/148360.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Huntress: Rune of the Dead (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z2jsaDHxZE9L85LORRuwg1L1M2.jpg" group-title="VOD ESPAÑOL 01",The Huntress: Rune of the Dead (2019)
-http://803058511274148491.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/148491.mkv
+http://408698511988148491.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/148491.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Hunting (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvhrltQIRp1u84ao9uj52YPaWNY.jpg" group-title=" VOD ESPAÑOL 2022 Plus",The Hunting (2022)
-http://803058511274505525.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/505525.mkv
+http://408698511988505525.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/505525.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKqlOqoJVUh29K9V7wSFlRVumAW.jpg" group-title="VOD ESPAÑOL 2024 Plus",City Hunter (2024)
-http://803058511274846638.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/846638.mkv
+http://408698511988846638.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/846638.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="VOD ESPAÑOL 2024 Plus",City Hunter (2024)
-http://803058511274970177.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/970177.mkv
+http://408698511988970177.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/970177.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Hunter Killer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg" group-title="VOD French",FR: Hunter Killer (2018)
-http://803058511274280573.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280573.mkv
+http://408698511988280573.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280573.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Manhunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPBMV9rhX5FWumO8npO4jvSP86y.jpg" group-title="VOD French",Manhunt (2020)
-http://803058511274280711.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280711.mp4
+http://408698511988280711.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280711.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Night Hunter - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVWX0t95Igd8kKC3ejmtHCy1vX6.jpg" group-title="VOD French",FR: Night Hunter - 2019
-http://803058511274280716.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280716.mp4
+http://408698511988280716.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280716.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Rogue Warfare: The Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nlIDzacOzemcGtcqnggZen6sTp.jpg" group-title="VOD French",Rogue Warfare: The Hunt (2019)
-http://803058511274280769.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280769.mp4
+http://408698511988280769.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280769.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sky Hunter (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f35xJiOho1RqWGs75OUVBsS5EpA.jpg" group-title="VOD French",Sky Hunter (2017)
-http://803058511274280793.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280793.mp4
+http://408698511988280793.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280793.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Jurassic Hunt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg" group-title="VOD French 2021",FR: Jurassic Hunt
-http://803058511274280958.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280958.mkv
+http://408698511988280958.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/280958.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="3D Abraham Lincoln Vampire Hunter (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfCwmzLzeWsODKdnZikoe5bPuDX.jpg" group-title="VOD English",3D Abraham Lincoln Vampire Hunter (2012)
-http://803058511274141503.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/141503.mp4
+http://408698511988141503.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/141503.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="3D Hansel & Gretel Witch Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CKbEXrw88LNvBU3baISh1I7JP4.jpg" group-title="VOD English",3D Hansel & Gretel Witch Hunters (2013)
-http://803058511274141564.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/141564.mp4
+http://408698511988141564.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/141564.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Bike Gangs The Hunters and The Hunted (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D4KB1x4r2D6expRfX5E3ExHKle.jpg" group-title="VOD English",Bike Gangs The Hunters and The Hunted (2019)
-http://803058511274142659.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/142659.mkv
+http://408698511988142659.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/142659.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Blood Hunt (2017) EN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppApCGPCSlC9aYgTXerPeBReE3U.jpg" group-title="VOD English",Blood Hunt (2017) EN
-http://803058511274142738.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/142738.mkv
+http://408698511988142738.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/142738.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Boone The Bounty Hunter (2017) [Multi-subs]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0w9CbJA4IEkhDNM47r46cn5KPc.jpg" group-title="VOD English",Boone The Bounty Hunter (2017) [Multi-subs]
-http://803058511274142797.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/142797.mkv
+http://408698511988142797.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/142797.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Ciaran The Demon Hunter (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wJbIlTbzNY2f1Dkv02bvL9JR7H.jpg" group-title="VOD English",Ciaran The Demon Hunter (2016)
-http://803058511274143318.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/143318.mkv
+http://408698511988143318.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/143318.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Last Manhunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg" group-title="VOD English",The Last Manhunt (2022)
-http://803058511274144026.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144026.mkv
+http://408698511988144026.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144026.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD English",Monster Hunt 2 (2018)
-http://803058511274144219.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144219.mkv
+http://408698511988144219.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD English",Monster Hunt 2 (2018)
-http://803058511274144220.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144220.mp4
+http://408698511988144220.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144220.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Night Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvJEVCtMtEnrq0N7LZk5Zk3mKgZ.jpg" group-title="VOD English",Night Hunter (2018)
-http://803058511274144380.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144380.mkv
+http://408698511988144380.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/144380.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: Hunted: Waldsterben - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpeYbbwNquR2NbyvMepb20FA3J.jpg" group-title="VOD Germany 2021",DE: Hunted: Waldsterben - 2021
-http://803058511274281558.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/281558.mkv
+http://408698511988281558.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/281558.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Triassic Hunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7e0mzA0OIHnLpkOfqnSV8ZN6j3.jpg" group-title="VOD Germany 2021",Triassic Hunt (2021)
-http://803058511274281638.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/281638.mkv
+http://408698511988281638.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/281638.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Boone The Bounty Hunter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yTwzpgMFteCVpNqFbNyDQyyLjv.jpg" group-title="VOD Portuguese",PT: Boone The Bounty Hunter
-http://803058511274145380.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/145380.mp4
+http://408698511988145380.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/145380.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Hunter Killer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swvcmVEakFNZCZmIIjmcfi8ewyb.jpg" group-title="VOD Portuguese",PT: Hunter Killer
-http://803058511274146145.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/146145.mp4
+http://408698511988146145.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/146145.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Last Manhunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg" group-title="VOD Portuguese",The Last Manhunt (2022)
-http://803058511274146437.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/146437.mkv
+http://408698511988146437.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/146437.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic Hunt 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD Arabic 2021",Jurassic Hunt 2021
-http://803058511274282014.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/282014.mp4
+http://408698511988282014.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/282014.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2WWRtyYKrmLjtXhm53GMsGQQ2T.jpg" group-title="VOD Arabic 2021",Monster Hunter: Legends of the Guild 2021
-http://803058511274282042.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/282042.mp4
+http://408698511988282042.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/282042.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Trollhunters: El despertar de los titanes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="VOD Arabic 2021",Trollhunters: El despertar de los titanes (2021)
-http://803058511274282180.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/282180.mp4
+http://408698511988282180.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/282180.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Hunted (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnWkXgsUNo1jnVgTf5Jdo0NnwQU.jpg" group-title="VOD MUL-SUBT 2022",Hunted (1952)
-http://803058511274320600.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/320600.mkv
+http://408698511988320600.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/320600.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Warhunt [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcKlFOWTmnxCna3yJKQ0gngCc3O.jpg" group-title="VOD MUL-SUBT 2022",Warhunt [MULTI-SUB]
-http://803058511274320764.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/320764.mkv
+http://408698511988320764.ofdhu1210.xyz:80/movie/chus40102R/GDBFY82374R/320764.mkv
 --
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",US: SPORTSMAN CHANNEL HD
-http://251058812537998222.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/998222.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL SD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",US: SPORTSMAN CHANNEL SD
+http://592699412408998222.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/998222.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 48 (WAFF) HUNTSVILLE VIP HD" tvg-logo="" group-title="USA",US: NBC 48 (WAFF) HUNTSVILLE VIP HD
-http://251058812537988003.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/988003.ts
+http://592699412408988003.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/988003.ts
 --
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="USA",US: SPORTSMAN CHANNEL HD
-http://251058812537988182.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/988182.ts
+http://592699412408988182.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/988182.ts
 --
 #EXTINF:-1 tvg-id="fox54wzdx.us" tvg-name="US: FOX 54 (WZDX) HD" tvg-logo="https://asiagrandiptv.us/logo//FOX(WZDX)HUNTSVILLE.jpeg" group-title="USA",US: FOX 54 (WZDX) HD
-http://251058812537992202.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/992202.ts
+http://592699412408992202.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/992202.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS 19 (WHNT) HUNTSVILLE VIP HD" tvg-logo="" group-title="USA",US: CBS 19 (WHNT) HUNTSVILLE VIP HD
-http://251058812537994716.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/994716.ts
+http://592699412408994716.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/994716.ts
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL FHD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL FHD
-http://251058812537994822.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/994822.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL SD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL SD
+http://592699412408994822.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/994822.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS 13 (WOWK) HUNTINGTON VIP HD" tvg-logo="" group-title="USA",US: CBS 13 (WOWK) HUNTINGTON VIP HD
-http://251058812537999784.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/999784.ts
+http://592699412408999784.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/999784.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC 3 (WSAZ) HUNTINGTON VIP HD" tvg-logo="https://asiagrandiptv.us/logo//NBC(WSAZ)HUNTINGTON.png" group-title="USA",US: NBC 3 (WSAZ) HUNTINGTON VIP HD
+http://5926994124081002664.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1002664.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING SD" tvg-logo="" group-title="Romania",RO: FISHING & HUNTING SD
+http://5926994124081002751.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1002751.ts
 --
 #EXTINF:-1 tvg-id="outdoorchannel.gr" tvg-name="GR: OUTDOOR CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGgriyzD07OingiUd-vT7YqzoaYt4mFoOD4HklRIxvF6F81JIxbmCTprY3mCABpgHQ.png" group-title="Greece",GR: OUTDOOR CHANNEL FHD
-http://251058812537993726.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/993726.ts
+http://592699412408993726.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/993726.ts
 --
 #EXTINF:-1 tvg-id="fishinghunting.hu" tvg-name="HU: THE FISHING & HUNTING SD" tvg-logo="" group-title="Hungary",HU: THE FISHING & HUNTING SD
-http://251058812537933694.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/933694.ts
+http://592699412408933694.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/933694.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING CHANNEL SD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qP09OGFpYYL6MaghAOgIpM8CIC_mLCuEG2lSVU8uC4p5QujImTCmkgnzfUcS8vSlG4.png" group-title="Hungary",HU: THE FISHING & HUNTING CHANNEL SD
-http://251058812537976550.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/976550.ts
+http://592699412408976550.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/976550.ts
 --
 #EXTINF:-1 tvg-id="Fishing and Hunting Channel (HD).hu" tvg-name="HU: FISHING AND HUNTING SD" tvg-logo="" group-title="Hungary",HU: FISHING AND HUNTING SD
-http://251058812537982534.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/982534.ts
+http://592699412408982534.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/982534.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="MT: FISHING & HUNTING SD" tvg-logo="" group-title="Malta",MT: FISHING & HUNTING SD
-http://2510588125371001732.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1001732.ts
+http://5926994124081001732.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1001732.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="RU: OUTDOOR CHANNEL FHD" tvg-logo="http://xplatinmedia.com:8080/images/b41a7baea01cc38d642084aedcbd1117.png" group-title="Russia",RU: OUTDOOR CHANNEL FHD
-http://2510588125371001611.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1001611.ts
+http://5926994124081001611.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1001611.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Manhunt (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="VOD ESPAÑOL 02",Manhunt (2017)
-http://251058812537147734.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147734.mp4
+http://592699412408147734.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147734.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD ESPAÑOL 02",Monster Hunt 2 (2018)
-http://251058812537147809.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147809.mp4
+http://592699412408147809.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/147809.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Hunters Prayer (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sabf8nr54LEm1DYS3VpjW9pGan.jpg" group-title="VOD ESPAÑOL 02",The Hunters Prayer (2017)
-http://251058812537148161.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/148161.mp4
+http://592699412408148161.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/148161.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter y el perfume de Cupido (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg" group-title="VOD ESPAÑOL 01",City Hunter y el perfume de Cupido (2018)
-http://251058812537148360.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/148360.mkv
+http://592699412408148360.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/148360.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Huntress: Rune of the Dead (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z2jsaDHxZE9L85LORRuwg1L1M2.jpg" group-title="VOD ESPAÑOL 01",The Huntress: Rune of the Dead (2019)
-http://251058812537148491.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/148491.mkv
+http://592699412408148491.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/148491.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Hunting (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvhrltQIRp1u84ao9uj52YPaWNY.jpg" group-title=" VOD ESPAÑOL 2022 Plus",The Hunting (2022)
-http://251058812537505525.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/505525.mkv
+http://592699412408505525.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/505525.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKqlOqoJVUh29K9V7wSFlRVumAW.jpg" group-title="VOD ESPAÑOL 2024 Plus",City Hunter (2024)
-http://251058812537846638.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/846638.mkv
+http://592699412408846638.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/846638.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="VOD ESPAÑOL 2024 Plus",City Hunter (2024)
-http://251058812537970177.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/970177.mkv
+http://592699412408970177.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/970177.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Hunter Killer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg" group-title="VOD French",FR: Hunter Killer (2018)
-http://251058812537280573.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280573.mkv
+http://592699412408280573.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280573.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Manhunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPBMV9rhX5FWumO8npO4jvSP86y.jpg" group-title="VOD French",Manhunt (2020)
-http://251058812537280711.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280711.mp4
+http://592699412408280711.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280711.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Night Hunter - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVWX0t95Igd8kKC3ejmtHCy1vX6.jpg" group-title="VOD French",FR: Night Hunter - 2019
-http://251058812537280716.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280716.mp4
+http://592699412408280716.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280716.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Rogue Warfare: The Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nlIDzacOzemcGtcqnggZen6sTp.jpg" group-title="VOD French",Rogue Warfare: The Hunt (2019)
-http://251058812537280769.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280769.mp4
+http://592699412408280769.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280769.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sky Hunter (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f35xJiOho1RqWGs75OUVBsS5EpA.jpg" group-title="VOD French",Sky Hunter (2017)
-http://251058812537280793.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280793.mp4
+http://592699412408280793.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280793.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Jurassic Hunt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg" group-title="VOD French 2021",FR: Jurassic Hunt
-http://251058812537280958.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280958.mkv
+http://592699412408280958.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/280958.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="3D Abraham Lincoln Vampire Hunter (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfCwmzLzeWsODKdnZikoe5bPuDX.jpg" group-title="VOD English",3D Abraham Lincoln Vampire Hunter (2012)
-http://251058812537141503.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/141503.mp4
+http://592699412408141503.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/141503.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="3D Hansel & Gretel Witch Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CKbEXrw88LNvBU3baISh1I7JP4.jpg" group-title="VOD English",3D Hansel & Gretel Witch Hunters (2013)
-http://251058812537141564.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/141564.mp4
+http://592699412408141564.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/141564.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Bike Gangs The Hunters and The Hunted (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D4KB1x4r2D6expRfX5E3ExHKle.jpg" group-title="VOD English",Bike Gangs The Hunters and The Hunted (2019)
-http://251058812537142659.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/142659.mkv
+http://592699412408142659.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/142659.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Blood Hunt (2017) EN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppApCGPCSlC9aYgTXerPeBReE3U.jpg" group-title="VOD English",Blood Hunt (2017) EN
-http://251058812537142738.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/142738.mkv
+http://592699412408142738.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/142738.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Boone The Bounty Hunter (2017) [Multi-subs]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0w9CbJA4IEkhDNM47r46cn5KPc.jpg" group-title="VOD English",Boone The Bounty Hunter (2017) [Multi-subs]
-http://251058812537142797.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/142797.mkv
+http://592699412408142797.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/142797.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Ciaran The Demon Hunter (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wJbIlTbzNY2f1Dkv02bvL9JR7H.jpg" group-title="VOD English",Ciaran The Demon Hunter (2016)
-http://251058812537143318.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/143318.mkv
+http://592699412408143318.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/143318.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Last Manhunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg" group-title="VOD English",The Last Manhunt (2022)
-http://251058812537144026.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144026.mkv
+http://592699412408144026.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144026.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD English",Monster Hunt 2 (2018)
-http://251058812537144219.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144219.mkv
+http://592699412408144219.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD English",Monster Hunt 2 (2018)
-http://251058812537144220.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144220.mp4
+http://592699412408144220.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144220.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Night Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvJEVCtMtEnrq0N7LZk5Zk3mKgZ.jpg" group-title="VOD English",Night Hunter (2018)
-http://251058812537144380.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144380.mkv
+http://592699412408144380.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/144380.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: Hunted: Waldsterben - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpeYbbwNquR2NbyvMepb20FA3J.jpg" group-title="VOD Germany 2021",DE: Hunted: Waldsterben - 2021
-http://251058812537281558.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/281558.mkv
+http://592699412408281558.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/281558.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Triassic Hunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7e0mzA0OIHnLpkOfqnSV8ZN6j3.jpg" group-title="VOD Germany 2021",Triassic Hunt (2021)
-http://251058812537281638.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/281638.mkv
+http://592699412408281638.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/281638.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Boone The Bounty Hunter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yTwzpgMFteCVpNqFbNyDQyyLjv.jpg" group-title="VOD Portuguese",PT: Boone The Bounty Hunter
-http://251058812537145380.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/145380.mp4
+http://592699412408145380.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/145380.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Hunter Killer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swvcmVEakFNZCZmIIjmcfi8ewyb.jpg" group-title="VOD Portuguese",PT: Hunter Killer
-http://251058812537146145.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/146145.mp4
+http://592699412408146145.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/146145.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Last Manhunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg" group-title="VOD Portuguese",The Last Manhunt (2022)
-http://251058812537146437.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/146437.mkv
+http://592699412408146437.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/146437.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic Hunt 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD Arabic 2021",Jurassic Hunt 2021
-http://251058812537282014.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/282014.mp4
+http://592699412408282014.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/282014.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2WWRtyYKrmLjtXhm53GMsGQQ2T.jpg" group-title="VOD Arabic 2021",Monster Hunter: Legends of the Guild 2021
-http://251058812537282042.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/282042.mp4
+http://592699412408282042.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/282042.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Trollhunters: El despertar de los titanes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="VOD Arabic 2021",Trollhunters: El despertar de los titanes (2021)
-http://251058812537282180.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/282180.mp4
+http://592699412408282180.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/282180.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Hunted (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnWkXgsUNo1jnVgTf5Jdo0NnwQU.jpg" group-title="VOD MUL-SUBT 2022",Hunted (1952)
-http://251058812537320600.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/320600.mkv
+http://592699412408320600.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/320600.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Warhunt [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcKlFOWTmnxCna3yJKQ0gngCc3O.jpg" group-title="VOD MUL-SUBT 2022",Warhunt [MULTI-SUB]
-http://251058812537320764.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/320764.mkv
+http://592699412408320764.ofdhu1210.xyz:80/movie/ja1229862/Np3Tu4wykk/320764.mkv
 --
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",US: SPORTSMAN CHANNEL HD
-http://330059810470998222.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998222.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL SD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",US: SPORTSMAN CHANNEL SD
+http://93470021039998222.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998222.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 48 (WAFF) HUNTSVILLE VIP HD" tvg-logo="" group-title="USA",US: NBC 48 (WAFF) HUNTSVILLE VIP HD
-http://330059810470988003.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/988003.ts
+http://93470021039988003.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/988003.ts
 --
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="USA",US: SPORTSMAN CHANNEL HD
-http://330059810470988182.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/988182.ts
+http://93470021039988182.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/988182.ts
 --
 #EXTINF:-1 tvg-id="fox54wzdx.us" tvg-name="US: FOX 54 (WZDX) HD" tvg-logo="https://asiagrandiptv.us/logo//FOX(WZDX)HUNTSVILLE.jpeg" group-title="USA",US: FOX 54 (WZDX) HD
-http://330059810470992202.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/992202.ts
+http://93470021039992202.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/992202.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS 19 (WHNT) HUNTSVILLE VIP HD" tvg-logo="" group-title="USA",US: CBS 19 (WHNT) HUNTSVILLE VIP HD
-http://330059810470994716.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994716.ts
+http://93470021039994716.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994716.ts
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL FHD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL FHD
-http://330059810470994822.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994822.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL SD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL SD
+http://93470021039994822.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994822.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS 13 (WOWK) HUNTINGTON VIP HD" tvg-logo="" group-title="USA",US: CBS 13 (WOWK) HUNTINGTON VIP HD
-http://330059810470999784.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/999784.ts
+http://93470021039999784.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/999784.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC 3 (WSAZ) HUNTINGTON VIP HD" tvg-logo="https://asiagrandiptv.us/logo//NBC(WSAZ)HUNTINGTON.png" group-title="USA",US: NBC 3 (WSAZ) HUNTINGTON VIP HD
+http://934700210391002664.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1002664.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING SD" tvg-logo="" group-title="Romania",RO: FISHING & HUNTING SD
+http://934700210391002751.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1002751.ts
 --
 #EXTINF:-1 tvg-id="outdoorchannel.gr" tvg-name="GR: OUTDOOR CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGgriyzD07OingiUd-vT7YqzoaYt4mFoOD4HklRIxvF6F81JIxbmCTprY3mCABpgHQ.png" group-title="Greece",GR: OUTDOOR CHANNEL FHD
-http://330059810470993726.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993726.ts
+http://93470021039993726.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993726.ts
 --
 #EXTINF:-1 tvg-id="fishinghunting.hu" tvg-name="HU: THE FISHING & HUNTING SD" tvg-logo="" group-title="Hungary",HU: THE FISHING & HUNTING SD
-http://330059810470933694.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933694.ts
+http://93470021039933694.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/933694.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING CHANNEL SD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qP09OGFpYYL6MaghAOgIpM8CIC_mLCuEG2lSVU8uC4p5QujImTCmkgnzfUcS8vSlG4.png" group-title="Hungary",HU: THE FISHING & HUNTING CHANNEL SD
-http://330059810470976550.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/976550.ts
+http://93470021039976550.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/976550.ts
 --
 #EXTINF:-1 tvg-id="Fishing and Hunting Channel (HD).hu" tvg-name="HU: FISHING AND HUNTING SD" tvg-logo="" group-title="Hungary",HU: FISHING AND HUNTING SD
-http://330059810470982534.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/982534.ts
+http://93470021039982534.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/982534.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="MT: FISHING & HUNTING SD" tvg-logo="" group-title="Malta",MT: FISHING & HUNTING SD
-http://3300598104701001732.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1001732.ts
+http://934700210391001732.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1001732.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="RU: OUTDOOR CHANNEL FHD" tvg-logo="http://xplatinmedia.com:8080/images/b41a7baea01cc38d642084aedcbd1117.png" group-title="Russia",RU: OUTDOOR CHANNEL FHD
-http://3300598104701001611.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1001611.ts
+http://934700210391001611.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1001611.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Manhunt (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="VOD ESPAÑOL 02",Manhunt (2017)
-http://330059810470147734.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147734.mp4
+http://93470021039147734.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147734.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD ESPAÑOL 02",Monster Hunt 2 (2018)
-http://330059810470147809.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147809.mp4
+http://93470021039147809.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147809.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Hunters Prayer (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sabf8nr54LEm1DYS3VpjW9pGan.jpg" group-title="VOD ESPAÑOL 02",The Hunters Prayer (2017)
-http://330059810470148161.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/148161.mp4
+http://93470021039148161.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/148161.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter y el perfume de Cupido (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg" group-title="VOD ESPAÑOL 01",City Hunter y el perfume de Cupido (2018)
-http://330059810470148360.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/148360.mkv
+http://93470021039148360.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/148360.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Huntress: Rune of the Dead (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z2jsaDHxZE9L85LORRuwg1L1M2.jpg" group-title="VOD ESPAÑOL 01",The Huntress: Rune of the Dead (2019)
-http://330059810470148491.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/148491.mkv
+http://93470021039148491.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/148491.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Hunting (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvhrltQIRp1u84ao9uj52YPaWNY.jpg" group-title=" VOD ESPAÑOL 2022 Plus",The Hunting (2022)
-http://330059810470505525.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/505525.mkv
+http://93470021039505525.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/505525.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKqlOqoJVUh29K9V7wSFlRVumAW.jpg" group-title="VOD ESPAÑOL 2024 Plus",City Hunter (2024)
-http://330059810470846638.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846638.mkv
+http://93470021039846638.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846638.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="VOD ESPAÑOL 2024 Plus",City Hunter (2024)
-http://330059810470970177.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970177.mkv
+http://93470021039970177.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/970177.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Hunter Killer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg" group-title="VOD French",FR: Hunter Killer (2018)
-http://330059810470280573.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280573.mkv
+http://93470021039280573.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280573.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Manhunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPBMV9rhX5FWumO8npO4jvSP86y.jpg" group-title="VOD French",Manhunt (2020)
-http://330059810470280711.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280711.mp4
+http://93470021039280711.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280711.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Night Hunter - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVWX0t95Igd8kKC3ejmtHCy1vX6.jpg" group-title="VOD French",FR: Night Hunter - 2019
-http://330059810470280716.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280716.mp4
+http://93470021039280716.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280716.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Rogue Warfare: The Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nlIDzacOzemcGtcqnggZen6sTp.jpg" group-title="VOD French",Rogue Warfare: The Hunt (2019)
-http://330059810470280769.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280769.mp4
+http://93470021039280769.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280769.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Sky Hunter (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f35xJiOho1RqWGs75OUVBsS5EpA.jpg" group-title="VOD French",Sky Hunter (2017)
-http://330059810470280793.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280793.mp4
+http://93470021039280793.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280793.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: Jurassic Hunt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg" group-title="VOD French 2021",FR: Jurassic Hunt
-http://330059810470280958.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280958.mkv
+http://93470021039280958.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280958.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="3D Abraham Lincoln Vampire Hunter (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfCwmzLzeWsODKdnZikoe5bPuDX.jpg" group-title="VOD English",3D Abraham Lincoln Vampire Hunter (2012)
-http://330059810470141503.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/141503.mp4
+http://93470021039141503.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/141503.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="3D Hansel & Gretel Witch Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CKbEXrw88LNvBU3baISh1I7JP4.jpg" group-title="VOD English",3D Hansel & Gretel Witch Hunters (2013)
-http://330059810470141564.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/141564.mp4
+http://93470021039141564.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/141564.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Bike Gangs The Hunters and The Hunted (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D4KB1x4r2D6expRfX5E3ExHKle.jpg" group-title="VOD English",Bike Gangs The Hunters and The Hunted (2019)
-http://330059810470142659.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/142659.mkv
+http://93470021039142659.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/142659.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Blood Hunt (2017) EN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppApCGPCSlC9aYgTXerPeBReE3U.jpg" group-title="VOD English",Blood Hunt (2017) EN
-http://330059810470142738.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/142738.mkv
+http://93470021039142738.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/142738.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Boone The Bounty Hunter (2017) [Multi-subs]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0w9CbJA4IEkhDNM47r46cn5KPc.jpg" group-title="VOD English",Boone The Bounty Hunter (2017) [Multi-subs]
-http://330059810470142797.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/142797.mkv
+http://93470021039142797.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/142797.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Ciaran The Demon Hunter (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wJbIlTbzNY2f1Dkv02bvL9JR7H.jpg" group-title="VOD English",Ciaran The Demon Hunter (2016)
-http://330059810470143318.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/143318.mkv
+http://93470021039143318.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/143318.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Last Manhunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg" group-title="VOD English",The Last Manhunt (2022)
-http://330059810470144026.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144026.mkv
+http://93470021039144026.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144026.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD English",Monster Hunt 2 (2018)
-http://330059810470144219.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144219.mkv
+http://93470021039144219.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RajaPqv4iX1lkV0GZMzf5U5NI3.jpg" group-title="VOD English",Monster Hunt 2 (2018)
-http://330059810470144220.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144220.mp4
+http://93470021039144220.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144220.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Night Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvJEVCtMtEnrq0N7LZk5Zk3mKgZ.jpg" group-title="VOD English",Night Hunter (2018)
-http://330059810470144380.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144380.mkv
+http://93470021039144380.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/144380.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: Hunted: Waldsterben - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpeYbbwNquR2NbyvMepb20FA3J.jpg" group-title="VOD Germany 2021",DE: Hunted: Waldsterben - 2021
-http://330059810470281558.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/281558.mkv
+http://93470021039281558.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/281558.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Triassic Hunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7e0mzA0OIHnLpkOfqnSV8ZN6j3.jpg" group-title="VOD Germany 2021",Triassic Hunt (2021)
-http://330059810470281638.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/281638.mkv
+http://93470021039281638.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/281638.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Boone The Bounty Hunter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yTwzpgMFteCVpNqFbNyDQyyLjv.jpg" group-title="VOD Portuguese",PT: Boone The Bounty Hunter
-http://330059810470145380.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/145380.mp4
+http://93470021039145380.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/145380.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="PT: Hunter Killer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swvcmVEakFNZCZmIIjmcfi8ewyb.jpg" group-title="VOD Portuguese",PT: Hunter Killer
-http://330059810470146145.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146145.mp4
+http://93470021039146145.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146145.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Last Manhunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg" group-title="VOD Portuguese",The Last Manhunt (2022)
-http://330059810470146437.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146437.mkv
+http://93470021039146437.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146437.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic Hunt 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD Arabic 2021",Jurassic Hunt 2021
-http://330059810470282014.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/282014.mp4
+http://93470021039282014.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/282014.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2WWRtyYKrmLjtXhm53GMsGQQ2T.jpg" group-title="VOD Arabic 2021",Monster Hunter: Legends of the Guild 2021
-http://330059810470282042.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/282042.mp4
+http://93470021039282042.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/282042.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Trollhunters: El despertar de los titanes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="VOD Arabic 2021",Trollhunters: El despertar de los titanes (2021)
-http://330059810470282180.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/282180.mp4
+http://93470021039282180.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/282180.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Hunted (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnWkXgsUNo1jnVgTf5Jdo0NnwQU.jpg" group-title="VOD MUL-SUBT 2022",Hunted (1952)
-http://330059810470320600.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/320600.mkv
+http://93470021039320600.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/320600.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Warhunt [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcKlFOWTmnxCna3yJKQ0gngCc3O.jpg" group-title="VOD MUL-SUBT 2022",Warhunt [MULTI-SUB]
-http://330059810470320764.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/320764.mkv
+http://93470021039320764.ofdhu1210.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/320764.mkv
