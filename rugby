@@ -1,78 +1,69 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVN6HAB1eaGUgy1PQv4tLfKRYFjvJFGvbG-S7xiQ7boVKN5eDw_CYfi2H3njdwRuTUt6A9F7EBk-kDrq_HGp_kmCK8kqN8N37uTXFFA-n1DCEw.png" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY HEVC
-http://365338511995312712.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/312712.ts
+http://767978511329312712.ofded12.xyz:80/play/chus40102R/GDBFY82374R/312712.ts
 --
 #EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY FHD
-http://365338511995339007.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/339007.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: FR | CANAL+ TOP 14 RUGBY HD" tvg-logo="http://xplatinmedia.com:8080/images/ad7773da0761d0ed70ce8cf4bd89cf1e.png" group-title="France",FR: FR | CANAL+ TOP 14 RUGBY HD
-http://3653385119951002199.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1002199.ts
+http://767978511329339007.ofded12.xyz:80/play/chus40102R/GDBFY82374R/339007.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HD" tvg-logo="" group-title="France",FR: CANAL+ TOP14 RUGBY HD
-http://3653385119951003370.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1003370.ts
+http://7679785113291003370.ofded12.xyz:80/play/chus40102R/GDBFY82374R/1003370.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD
-http://365338511995998657.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/998657.ts
+http://767978511329998657.ofded12.xyz:80/play/chus40102R/GDBFY82374R/998657.ts
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="AF: SUPERSPORT TENNIS [LIVE DURING EVENTS ONLY] HD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT TENNIS [LIVE DURING EVENTS ONLY] HD
-http://365338511995998658.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/998658.ts
+http://767978511329998658.ofded12.xyz:80/play/chus40102R/GDBFY82374R/998658.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] HD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] HD
-http://3653385119951003506.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1003506.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] FHD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] FHD
+http://7679785113291003506.ofded12.xyz:80/play/chus40102R/GDBFY82374R/1003506.ts
 --
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="AF: SUPERSPORT VARIETY 3 [LIVE DURING EVENTS ONLY] FHD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT VARIETY 3 [LIVE DURING EVENTS ONLY] FHD
-http://3653385119951003511.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1003511.ts
+http://7679785113291003511.ofded12.xyz:80/play/chus40102R/GDBFY82374R/1003511.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT RUGBY FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT RUGBY FHD
-http://3653385119951003522.ofdhu1210.xyz:80/live/chus40102R/GDBFY82374R/1003522.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY FHD
+http://7679785113291005229.ofded12.xyz:80/play/chus40102R/GDBFY82374R/1005229.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVN6HAB1eaGUgy1PQv4tLfKRYFjvJFGvbG-S7xiQ7boVKN5eDw_CYfi2H3njdwRuTUt6A9F7EBk-kDrq_HGp_kmCK8kqN8N37uTXFFA-n1DCEw.png" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY HEVC
-http://571338812799312712.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/312712.ts
+http://109978712843312712.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/312712.ts
 --
 #EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY FHD
-http://571338812799339007.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/339007.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: FR | CANAL+ TOP 14 RUGBY HD" tvg-logo="http://xplatinmedia.com:8080/images/ad7773da0761d0ed70ce8cf4bd89cf1e.png" group-title="France",FR: FR | CANAL+ TOP 14 RUGBY HD
-http://5713388127991002199.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1002199.ts
+http://109978712843339007.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/339007.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HD" tvg-logo="" group-title="France",FR: CANAL+ TOP14 RUGBY HD
-http://5713388127991003370.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1003370.ts
+http://1099787128431003370.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1003370.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD
-http://571338812799998657.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/998657.ts
+http://109978712843998657.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/998657.ts
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="AF: SUPERSPORT TENNIS [LIVE DURING EVENTS ONLY] HD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT TENNIS [LIVE DURING EVENTS ONLY] HD
-http://571338812799998658.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/998658.ts
+http://109978712843998658.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/998658.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] HD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] HD
-http://5713388127991003506.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1003506.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] FHD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] FHD
+http://1099787128431003506.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1003506.ts
 --
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="AF: SUPERSPORT VARIETY 3 [LIVE DURING EVENTS ONLY] FHD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT VARIETY 3 [LIVE DURING EVENTS ONLY] FHD
-http://5713388127991003511.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1003511.ts
+http://1099787128431003511.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1003511.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT RUGBY FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT RUGBY FHD
-http://5713388127991003522.ofdhu1210.xyz:80/live/ja1229862/Np3Tu4wykk/1003522.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY FHD
+http://1099787128431005229.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1005229.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVN6HAB1eaGUgy1PQv4tLfKRYFjvJFGvbG-S7xiQ7boVKN5eDw_CYfi2H3njdwRuTUt6A9F7EBk-kDrq_HGp_kmCK8kqN8N37uTXFFA-n1DCEw.png" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY HEVC
-http://214339110690312712.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312712.ts
+http://188979010463312712.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312712.ts
 --
 #EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France HEVC",FR: CANAL+ TOP14 RUGBY FHD
-http://214339110690339007.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339007.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="FR: FR | CANAL+ TOP 14 RUGBY HD" tvg-logo="http://xplatinmedia.com:8080/images/ad7773da0761d0ed70ce8cf4bd89cf1e.png" group-title="France",FR: FR | CANAL+ TOP 14 RUGBY HD
-http://2143391106901002199.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1002199.ts
+http://188979010463339007.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339007.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY HD" tvg-logo="" group-title="France",FR: CANAL+ TOP14 RUGBY HD
-http://2143391106901003370.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1003370.ts
+http://1889790104631003370.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1003370.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Africa",AF: SUPERSPORT RUGBY [LIVE DURING EVENTS ONLY] FHD
-http://214339110690998657.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998657.ts
+http://188979010463998657.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998657.ts
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="AF: SUPERSPORT TENNIS [LIVE DURING EVENTS ONLY] HD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT TENNIS [LIVE DURING EVENTS ONLY] HD
-http://214339110690998658.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998658.ts
+http://188979010463998658.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998658.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] HD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] HD
-http://2143391106901003506.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1003506.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] FHD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT BLITZ [LIVE DURING EVENTS ONLY] FHD
+http://1889790104631003506.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1003506.ts
 --
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="AF: SUPERSPORT VARIETY 3 [LIVE DURING EVENTS ONLY] FHD" tvg-logo="https://i2.wp.com/innovation-village.com/wp-content/uploads/2017/10/supersport-dstv-rugby-world-cup-2015-plans-magazine-shows-1.jpg?fit=1461%2C755&ssl=1" group-title="Africa",AF: SUPERSPORT VARIETY 3 [LIVE DURING EVENTS ONLY] FHD
-http://2143391106901003511.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1003511.ts
+http://1889790104631003511.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1003511.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT RUGBY FHD" tvg-logo="" group-title="Africa",AF: ZA SUPERSPORT RUGBY FHD
-http://2143391106901003522.ofdhu1210.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1003522.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="ZA: SUPERSPORT RUGBY FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT RUGBY FHD
+http://1889790104631005229.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1005229.ts
