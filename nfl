@@ -1,119 +1,192 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK HD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK HD
-http://73618511599538751.ofded12.xyz:80/live/chus40102R/GDBFY82374R/538751.ts
+http://201258411462538751.ofded12.xyz:80/live/chus40102R/GDBFY82374R/538751.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK FHD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK FHD
-http://73618511599600709.ofded12.xyz:80/live/chus40102R/GDBFY82374R/600709.ts
---
-#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE: SKY SPORT MIX FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5seINYVFNvEBNJBOFpz_NflN3faBDP9d83PujZiWJeEI-lwPCrRQkfvaZB1GrhJu4k.png" group-title="Germany",DE: SKY SPORT MIX FHD
-http://73618511599990015.ofded12.xyz:80/live/chus40102R/GDBFY82374R/990015.ts
+http://201258411462600709.ofded12.xyz:80/live/chus40102R/GDBFY82374R/600709.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL NETWORK HD" tvg-logo="http://smart-eagle.fr:80/images/qEFqghqTP8_kRZBU8jdYIk2etp3cL_xileKyxiyG3VhUyeuUT-QbSACxgvZM8T-4.png" group-title="Germany",DE: DAZN NFL NETWORK HD
-http://73618511599995526.ofded12.xyz:80/live/chus40102R/GDBFY82374R/995526.ts
+http://201258411462995526.ofded12.xyz:80/live/chus40102R/GDBFY82374R/995526.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT MIX FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5seINYVFNvEBNJBOFpz_NflN3faBDP9d83PujZiWJeEI-lwPCrRQkfvaZB1GrhJu4k.png" group-title="SVIP SPORTS",DE | SKY SPORT MIX FHD
-http://73618511599926766.ofded12.xyz:80/live/chus40102R/GDBFY82374R/926766.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT MIX HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5seINYVFNvEBNJBOFpz_NflN3faBDP9d83PujZiWJeEI-lwPCrRQkfvaZB1GrhJu4k.png" group-title="SVIP SPORTS",DE | SKY SPORT MIX HD
+http://201258411462926766.ofded12.xyz:80/live/chus40102R/GDBFY82374R/926766.ts
 --
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-name="UK : SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="SVIP SPORTS",UK : SKY SPORTS NFL FHD
-http://73618511599989961.ofded12.xyz:80/live/chus40102R/GDBFY82374R/989961.ts
+http://201258411462989961.ofded12.xyz:80/live/chus40102R/GDBFY82374R/989961.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL VIP FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCouQhNOHrjAV2yvwfZ0xk3iu.png" group-title="SVIP SPORTS",UK: SKY SPORTS NFL VIP FHD
+http://2012584114621006754.ofded12.xyz:80/live/chus40102R/GDBFY82374R/1006754.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="SVIP SPORTS",UK: SKY SPORTS NFL FHD
+http://2012584114621006755.ofded12.xyz:80/live/chus40102R/GDBFY82374R/1006755.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS
-http://73618511599324201.ofded12.xyz:80/live/chus40102R/GDBFY82374R/324201.ts
+http://201258411462324201.ofded12.xyz:80/live/chus40102R/GDBFY82374R/324201.ts
 --
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NFL FHD
-http://73618511599383196.ofded12.xyz:80/live/chus40102R/GDBFY82374R/383196.ts
+http://201258411462383196.ofded12.xyz:80/live/chus40102R/GDBFY82374R/383196.ts
 --
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBdnEXFPIA__Y3xM_imzOJNR1cvmpYdGuQTTSPJNfL7RN.png" group-title="Turkey",TR: YABAN TV HD
-http://73618511599878531.ofded12.xyz:80/live/chus40102R/GDBFY82374R/878531.ts
+http://201258411462878531.ofded12.xyz:80/live/chus40102R/GDBFY82374R/878531.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NFL: LIVE 01 COLTS HD" tvg-logo="https://lo1.in/uk/nfl.png" group-title="SVIP NFL PPV",NFL: LIVE 01 COLTS HD
-http://73618511599620113.ofded12.xyz:80/live/chus40102R/GDBFY82374R/620113.ts
+http://201258411462620113.ofded12.xyz:80/live/chus40102R/GDBFY82374R/620113.ts
 #EXTINF:-1 tvg-id="" tvg-name="NFL: LIVE 02 COWBOYS HD" tvg-logo="https://lo1.in/uk/nfl.png" group-title="SVIP NFL PPV",NFL: LIVE 02 COWBOYS HD
-http://73618511599620114.ofded12.xyz:80/live/chus40102R/GDBFY82374R/620114.ts
+http://201258411462620114.ofded12.xyz:80/live/chus40102R/GDBFY82374R/620114.ts
 --
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL NETWORK HD" tvg-logo="" group-title="USA",US: NFL NETWORK HD
-http://73618511599996031.ofded12.xyz:80/live/chus40102R/GDBFY82374R/996031.ts
+http://201258411462996031.ofded12.xyz:80/live/chus40102R/GDBFY82374R/996031.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK VIP HD" tvg-logo="" group-title="USA",US: NFL NETWORK VIP HD
-http://73618511599998007.ofded12.xyz:80/live/chus40102R/GDBFY82374R/998007.ts
+http://201258411462998007.ofded12.xyz:80/live/chus40102R/GDBFY82374R/998007.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL REDZONE VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np3dBomwYeL_jGlNE3KnB-EyjhWC1HN0PJKSqCTrdWMnA.png" group-title="USA",US: NFL REDZONE VIP HD
-http://73618511599998008.ofded12.xyz:80/live/chus40102R/GDBFY82374R/998008.ts
+http://201258411462998008.ofded12.xyz:80/live/chus40102R/GDBFY82374R/998008.ts
+--
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL REDZONE HD" tvg-logo="" group-title="USA",US: NFL REDZONE HD
+http://2012584114621008064.ofded12.xyz:80/live/chus40102R/GDBFY82374R/1008064.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT PLUSS 1 HD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OykG39jrjd663ToTy9PyaSPyL3tVPfK_otcHdRSdya1ioknflmVRVSs55iAJ6pTRCqaVRPIghK84nV1nwQuHVcy1U6YQCIFZUWejiTKp9WedW00jhM1p2OZ2Avb1uJE6Bz8.png" group-title="Norway",NO: EUROSPORT PLUSS 1 HD
-http://736185115991005397.ofded12.xyz:80/live/chus40102R/GDBFY82374R/1005397.ts
+http://2012584114621005397.ofded12.xyz:80/live/chus40102R/GDBFY82374R/1005397.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Detroit Zona de conflicto 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ue8SL4u2S7TFFNrWNq8FYk20Z9.jpg" group-title="VOD ESPAÑOL 02",Detroit Zona de conflicto 2017
-http://73618511599147119.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/147119.mp4
+http://201258411462147119.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/147119.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="El otro lado de la esperanza (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhYEvAxTuahWGtqFunfl3X1dFkN.jpg" group-title="VOD ESPAÑOL 02",El otro lado de la esperanza (2017)
-http://73618511599147233.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/147233.mp4
+http://201258411462147233.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/147233.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLA4839HtC5GelEsUTFFtAL2ar5.jpg" group-title=" VOD ESPAÑOL 2022 Plus",Deinfluencer (2022)
-http://73618511599505220.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/505220.mkv
+http://201258411462505220.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/505220.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="La influencia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" group-title="VOD Portuguese",La influencia (2019)
-http://73618511599146367.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/146367.mkv
+http://201258411462146367.ofded12.xyz:80/movie/chus40102R/GDBFY82374R/146367.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El inmortal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDIkGnFLBi2ufDKkz8W9ilbQ4k.jpg" group-title=" SER ES| DRAMA",El inmortal S01 E02
-http://73618511599678047.ofded12.xyz:80/series/chus40102R/GDBFY82374R/678047.mkv
+http://201258411462678047.ofded12.xyz:80/series/chus40102R/GDBFY82374R/678047.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK HD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK HD
-http://885618812620538751.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/538751.ts
+http://443258612296538751.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/538751.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK FHD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK FHD
-http://885618812620600709.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/600709.ts
---
-#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE: SKY SPORT MIX FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5seINYVFNvEBNJBOFpz_NflN3faBDP9d83PujZiWJeEI-lwPCrRQkfvaZB1GrhJu4k.png" group-title="Germany",DE: SKY SPORT MIX FHD
-http://885618812620990015.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/990015.ts
+http://443258612296600709.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/600709.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL NETWORK HD" tvg-logo="http://smart-eagle.fr:80/images/qEFqghqTP8_kRZBU8jdYIk2etp3cL_xileKyxiyG3VhUyeuUT-QbSACxgvZM8T-4.png" group-title="Germany",DE: DAZN NFL NETWORK HD
-http://885618812620995526.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/995526.ts
+http://443258612296995526.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/995526.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT MIX FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5seINYVFNvEBNJBOFpz_NflN3faBDP9d83PujZiWJeEI-lwPCrRQkfvaZB1GrhJu4k.png" group-title="SVIP SPORTS",DE | SKY SPORT MIX FHD
-http://885618812620926766.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/926766.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT MIX HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5seINYVFNvEBNJBOFpz_NflN3faBDP9d83PujZiWJeEI-lwPCrRQkfvaZB1GrhJu4k.png" group-title="SVIP SPORTS",DE | SKY SPORT MIX HD
+http://443258612296926766.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/926766.ts
 --
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-name="UK : SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="SVIP SPORTS",UK : SKY SPORTS NFL FHD
-http://885618812620989961.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/989961.ts
+http://443258612296989961.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/989961.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL VIP FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCouQhNOHrjAV2yvwfZ0xk3iu.png" group-title="SVIP SPORTS",UK: SKY SPORTS NFL VIP FHD
+http://4432586122961006754.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1006754.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="SVIP SPORTS",UK: SKY SPORTS NFL FHD
+http://4432586122961006755.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1006755.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS
-http://885618812620324201.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/324201.ts
+http://443258612296324201.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/324201.ts
 --
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NFL FHD
-http://885618812620383196.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/383196.ts
+http://443258612296383196.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/383196.ts
 --
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBdnEXFPIA__Y3xM_imzOJNR1cvmpYdGuQTTSPJNfL7RN.png" group-title="Turkey",TR: YABAN TV HD
-http://885618812620878531.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/878531.ts
+http://443258612296878531.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/878531.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NFL: LIVE 01 COLTS HD" tvg-logo="https://lo1.in/uk/nfl.png" group-title="SVIP NFL PPV",NFL: LIVE 01 COLTS HD
-http://885618812620620113.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/620113.ts
+http://443258612296620113.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/620113.ts
 #EXTINF:-1 tvg-id="" tvg-name="NFL: LIVE 02 COWBOYS HD" tvg-logo="https://lo1.in/uk/nfl.png" group-title="SVIP NFL PPV",NFL: LIVE 02 COWBOYS HD
-http://885618812620620114.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/620114.ts
+http://443258612296620114.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/620114.ts
 --
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL NETWORK HD" tvg-logo="" group-title="USA",US: NFL NETWORK HD
-http://885618812620996031.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/996031.ts
+http://443258612296996031.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/996031.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK VIP HD" tvg-logo="" group-title="USA",US: NFL NETWORK VIP HD
-http://885618812620998007.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/998007.ts
+http://443258612296998007.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/998007.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL REDZONE VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np3dBomwYeL_jGlNE3KnB-EyjhWC1HN0PJKSqCTrdWMnA.png" group-title="USA",US: NFL REDZONE VIP HD
-http://885618812620998008.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/998008.ts
+http://443258612296998008.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/998008.ts
+--
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL REDZONE HD" tvg-logo="" group-title="USA",US: NFL REDZONE HD
+http://4432586122961008064.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1008064.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT PLUSS 1 HD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OykG39jrjd663ToTy9PyaSPyL3tVPfK_otcHdRSdya1ioknflmVRVSs55iAJ6pTRCqaVRPIghK84nV1nwQuHVcy1U6YQCIFZUWejiTKp9WedW00jhM1p2OZ2Avb1uJE6Bz8.png" group-title="Norway",NO: EUROSPORT PLUSS 1 HD
-http://8856188126201005397.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1005397.ts
+http://4432586122961005397.ofded12.xyz:80/live/ja1229862/Np3Tu4wykk/1005397.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Detroit Zona de conflicto 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ue8SL4u2S7TFFNrWNq8FYk20Z9.jpg" group-title="VOD ESPAÑOL 02",Detroit Zona de conflicto 2017
-http://885618812620147119.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/147119.mp4
+http://443258612296147119.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/147119.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="El otro lado de la esperanza (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhYEvAxTuahWGtqFunfl3X1dFkN.jpg" group-title="VOD ESPAÑOL 02",El otro lado de la esperanza (2017)
-http://885618812620147233.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/147233.mp4
+http://443258612296147233.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/147233.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLA4839HtC5GelEsUTFFtAL2ar5.jpg" group-title=" VOD ESPAÑOL 2022 Plus",Deinfluencer (2022)
-http://885618812620505220.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/505220.mkv
+http://443258612296505220.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/505220.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="La influencia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" group-title="VOD Portuguese",La influencia (2019)
-http://885618812620146367.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/146367.mkv
+http://443258612296146367.ofded12.xyz:80/movie/ja1229862/Np3Tu4wykk/146367.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="El inmortal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDIkGnFLBi2ufDKkz8W9ilbQ4k.jpg" group-title=" SER ES| DRAMA",El inmortal S01 E02
-http://885618812620678047.ofded12.xyz:80/series/ja1229862/Np3Tu4wykk/678047.mkv
+http://443258612296678047.ofded12.xyz:80/series/ja1229862/Np3Tu4wykk/678047.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK HD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK HD
+http://674258910104538751.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/538751.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: NFL NETWORK FHD" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" group-title="ES DEPORTES",ES: NFL NETWORK FHD
+http://674258910104600709.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/600709.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL NETWORK HD" tvg-logo="http://smart-eagle.fr:80/images/qEFqghqTP8_kRZBU8jdYIk2etp3cL_xileKyxiyG3VhUyeuUT-QbSACxgvZM8T-4.png" group-title="Germany",DE: DAZN NFL NETWORK HD
+http://674258910104995526.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/995526.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT MIX HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5seINYVFNvEBNJBOFpz_NflN3faBDP9d83PujZiWJeEI-lwPCrRQkfvaZB1GrhJu4k.png" group-title="SVIP SPORTS",DE | SKY SPORT MIX HD
+http://674258910104926766.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/926766.ts
+--
+#EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-name="UK : SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="SVIP SPORTS",UK : SKY SPORTS NFL FHD
+http://674258910104989961.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/989961.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL VIP FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCouQhNOHrjAV2yvwfZ0xk3iu.png" group-title="SVIP SPORTS",UK: SKY SPORTS NFL VIP FHD
+http://6742589101041006754.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1006754.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="SVIP SPORTS",UK: SKY SPORTS NFL FHD
+http://6742589101041006755.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1006755.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS
+http://674258910104324201.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/324201.ts
+--
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NFL FHD
+http://674258910104383196.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/383196.ts
+--
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBdnEXFPIA__Y3xM_imzOJNR1cvmpYdGuQTTSPJNfL7RN.png" group-title="Turkey",TR: YABAN TV HD
+http://674258910104878531.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/878531.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="NFL: LIVE 01 COLTS HD" tvg-logo="https://lo1.in/uk/nfl.png" group-title="SVIP NFL PPV",NFL: LIVE 01 COLTS HD
+http://674258910104620113.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/620113.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL: LIVE 02 COWBOYS HD" tvg-logo="https://lo1.in/uk/nfl.png" group-title="SVIP NFL PPV",NFL: LIVE 02 COWBOYS HD
+http://674258910104620114.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/620114.ts
+--
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL NETWORK HD" tvg-logo="" group-title="USA",US: NFL NETWORK HD
+http://674258910104996031.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/996031.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK VIP HD" tvg-logo="" group-title="USA",US: NFL NETWORK VIP HD
+http://674258910104998007.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998007.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL REDZONE VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np3dBomwYeL_jGlNE3KnB-EyjhWC1HN0PJKSqCTrdWMnA.png" group-title="USA",US: NFL REDZONE VIP HD
+http://674258910104998008.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/998008.ts
+--
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL REDZONE HD" tvg-logo="" group-title="USA",US: NFL REDZONE HD
+http://6742589101041008064.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1008064.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT PLUSS 1 HD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OykG39jrjd663ToTy9PyaSPyL3tVPfK_otcHdRSdya1ioknflmVRVSs55iAJ6pTRCqaVRPIghK84nV1nwQuHVcy1U6YQCIFZUWejiTKp9WedW00jhM1p2OZ2Avb1uJE6Bz8.png" group-title="Norway",NO: EUROSPORT PLUSS 1 HD
+http://6742589101041005397.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1005397.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Zona de conflicto 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ue8SL4u2S7TFFNrWNq8FYk20Z9.jpg" group-title="VOD ESPAÑOL 02",Detroit Zona de conflicto 2017
+http://674258910104147119.ofded12.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147119.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El otro lado de la esperanza (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhYEvAxTuahWGtqFunfl3X1dFkN.jpg" group-title="VOD ESPAÑOL 02",El otro lado de la esperanza (2017)
+http://674258910104147233.ofded12.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147233.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLA4839HtC5GelEsUTFFtAL2ar5.jpg" group-title=" VOD ESPAÑOL 2022 Plus",Deinfluencer (2022)
+http://674258910104505220.ofded12.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/505220.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La influencia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" group-title="VOD Portuguese",La influencia (2019)
+http://674258910104146367.ofded12.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146367.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El inmortal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDIkGnFLBi2ufDKkz8W9ilbQ4k.jpg" group-title=" SER ES| DRAMA",El inmortal S01 E02
+http://674258910104678047.ofded12.xyz:80/series/G23JQ9MTWA/4wxqHSkuEeb/678047.mkv
 --
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nfltv.png?raw=true" group-title="Deportes",NFL Network
 http://tv.teleclub.xyz/club/server_1/deportes/nflnetwork/index.m3u8
