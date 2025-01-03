@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour SD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png" group-title="ES DEPORTES",ES:Champions Tour SD
+http://921750610522545232.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/545232.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png" group-title="ES DEPORTES",ES:Champions Tour HD
+http://921750610522545233.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/545233.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour FHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png" group-title="ES DEPORTES",ES:Champions Tour FHD
+http://921750610522897922.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/897922.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES:Champions Tour 2 HD" tvg-logo="" group-title="ES DEPORTES",ES:Champions Tour 2 HD
+http://921750610522897923.ofded12.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/897923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Champions (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg" group-title="VOD ESPAÑOL 2023 Plus",Champions (2023)
+http://921750610522847466.ofded12.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/847466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Champions (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNQy8t81rYWnYYE3MFtHI9UqZtI.jpg" group-title="VOD French",The Champions (2015)
+http://921750610522280833.ofded12.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/280833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="National Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRj82OOTJ8bmtUJDap9tNnswF0N.jpg" group-title="VOD Portuguese",National Champions (2021)
+http://921750610522145472.ofded12.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/145472.mp4
