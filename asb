@@ -8,19 +8,19 @@
 "groups":
     [
         {
-         "name": "START_12Jan_2203_Sun2025",
+         "name": "START_13Jan_0819_Mon2025",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "data13Jan0001",
+         "name": "data13Jan1015",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
         },
         {
-         "name": "GEN_13Jan_0002_Mon2025",
+         "name": "GEN_13Jan_1015_Mon2025",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -132,6 +132,22 @@
              {
              "name": "TINWORLD",
              "url": "https://tinworld.vercel.app/Tinworld.w3u"
+             },
+             {
+             "name": "Peliculas_Acestream_ElCano",
+             "url": "https://elcano-kappa-sage.vercel.app/PelisAcestream.txt"
+             },
+             {
+             "name": "Acestream_Pluto_TDT_ElCano",
+             "url": "https://elcano-kappa-sage.vercel.app/IptvElcano.m3u"
+             },
+             {
+             "name": "ElCano_deportes",
+             "url": "https://actualsebastian.vercel.app/base.txt"
+             },
+             {
+             "name": "IPT-Adictos",
+             "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv"
              },
              {
              "name": "Public_IPTV",
