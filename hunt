@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL FHD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP SPORTSMAN CHANNEL SD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",USA: VIP SPORTSMAN CHANNEL SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1026345.ts
+--
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL HD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994822.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 3 (WSAZ) HUNTINGTON VIP HD" tvg-logo="https://asiagrandiptv.us/logo//NBC(WSAZ)HUNTINGTON.png" group-title="USA",US: NBC 3 (WSAZ) HUNTINGTON VIP HD
@@ -39,12 +42,6 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1022976.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: FISHING & HUNTING TV HD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: FISHING & HUNTING TV HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1010397.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="MT: FISHING & HUNTING SD" tvg-logo="" group-title="Malta",MT: FISHING & HUNTING SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1024104.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="RU: OUTDOOR CHANNEL FHD" tvg-logo="http://xplatinmedia.com:8080/images/b41a7baea01cc38d642084aedcbd1117.png" group-title="Russia",RU: OUTDOOR CHANNEL FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1023847.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="Manhunt (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="VOD ESPAÑOL 02",Manhunt (2017)
 http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147734.mp4
