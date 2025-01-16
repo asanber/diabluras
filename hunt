@@ -1,8 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="USA: VIP SPORTSMAN CHANNEL SD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",USA: VIP SPORTSMAN CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",USA: VIP SPORTSMAN CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1026345.ts
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL HD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL HD
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",US: SPORTSMAN CHANNEL HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1027134.ts
+--
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL SD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/994822.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 3 (WSAZ) HUNTINGTON VIP HD" tvg-logo="https://asiagrandiptv.us/logo//NBC(WSAZ)HUNTINGTON.png" group-title="USA",US: NBC 3 (WSAZ) HUNTINGTON VIP HD
@@ -17,8 +20,8 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1025199.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 48 (WAFF) HUNTSVILLE VIP HD" tvg-logo="" group-title="USA",US: NBC 48 (WAFF) HUNTSVILLE VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1025498.ts
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL SD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1025562.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="USA",US: SPORTSMAN CHANNEL HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1027661.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="SE: FISHING AND HUNTING FHD" tvg-logo="" group-title="Sweden",SE: FISHING AND HUNTING FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1023080.ts
@@ -31,7 +34,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1021958.ts
 #EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING SD" tvg-logo="" group-title="Romania",RO: FISHING & HUNTING SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1024628.ts
 --
-#EXTINF:-1 tvg-id="outdoorchannel.gr" tvg-name="GR: OUTDOOR CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGgriyzD07OingiUd-vT7YqzoaYt4mFoOD4HklRIxvF6F81JIxbmCTprY3mCABpgHQ.png" group-title="Greece",GR: OUTDOOR CHANNEL FHD
+#EXTINF:-1 tvg-id="outdoorchannel.gr" tvg-name="GR: OUTDOOR CHANNEL HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGgriyzD07OingiUd-vT7YqzoaYt4mFoOD4HklRIxvF6F81JIxbmCTprY3mCABpgHQ.png" group-title="Greece",GR: OUTDOOR CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993726.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING CHANNEL FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qP09OGFpYYL6MaghAOgIpM8CIC_mLCuEG2lSVU8uC4p5QujImTCmkgnzfUcS8vSlG4.png" group-title="Hungary",HU: THE FISHING & HUNTING CHANNEL FHD
