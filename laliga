@@ -103,5 +103,8 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1047941.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: LALIGA TV VIP HD" tvg-logo="" group-title="UK",UK: LALIGA TV VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1043396.ts
 --
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA: SUPERSPORT LALIGA FHD" tvg-logo="" group-title="South Africa",ZA: SUPERSPORT LALIGA FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1016966.ts
+--
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",DAZN La Liga
 http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
