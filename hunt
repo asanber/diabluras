@@ -5,7 +5,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1046967.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA: VIP SPORTSMAN CHANNEL SD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="SVIP SPORTS",USA: VIP SPORTSMAN CHANNEL SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1050157.ts
 --
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL HD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="USA",US: SPORTSMAN CHANNEL HD
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL SD" tvg-logo="https://asiagrandiptv.us/logo/sportsmanchannel.png" group-title="USA",US: SPORTSMAN CHANNEL SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1036050.ts
 --
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL SD" tvg-logo="" group-title="USA",US: OUTDOOR CHANNEL SD
@@ -14,8 +14,13 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1040211.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 3 (WSAZ) HUNTINGTON VIP HD" tvg-logo="https://asiagrandiptv.us/logo//NBC(WSAZ)HUNTINGTON.png" group-title="USA",US: NBC 3 (WSAZ) HUNTINGTON VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1047676.ts
 --
+#EXTINF:-1 tvg-id="fox54wzdx.us" tvg-name="US: FOX 54 (WZDX) HD" tvg-logo="https://asiagrandiptv.us/logo//FOX(WZDX)HUNTSVILLE.jpeg" group-title="USA",US: FOX 54 (WZDX) HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1052596.ts
+--
 #EXTINF:-1 tvg-id="" tvg-name="SE: FISHING AND HUNTING FHD" tvg-logo="" group-title="Sweden",SE: FISHING AND HUNTING FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1046758.ts
 --
-#EXTINF:-1 tvg-id="outdoorchannel.gr" tvg-name="GR: OUTDOOR CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGgriyzD07OingiUd-vT7YqzoaYt4mFoOD4HklRIxvF6F81JIxbmCTprY3mCABpgHQ.png" group-title="Greece",GR: OUTDOOR CHANNEL FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/993726.ts
+#EXTINF:-1 tvg-id="fishinghunting.ro" tvg-name="RO: FISHING AND HUNTING FHD" tvg-logo="" group-title="Romania",RO: FISHING AND HUNTING FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1052281.ts
+#EXTINF:-1 tvg-id="fishinghunting.ro" tvg-name="RO: FISHING AND HUNTING SD" tvg-logo="" group-title="Romania",RO: FISHING AND HUNTING SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1052282.ts
