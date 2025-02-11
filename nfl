@@ -43,16 +43,25 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/996031.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK VIP HD" tvg-logo="" group-title="USA",US: NFL NETWORK VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1040206.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="US: NFL-TEXANS HD" tvg-logo="https://asiagrandiptv.us/logo//NFL-TEXANS.png" group-title="USA",US: NFL-TEXANS HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1051043.ts
---
 #EXTINF:-1 tvg-id="" tvg-name="US: NFL REDZONE VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np3dBomwYeL_jGlNE3KnB-EyjhWC1HN0PJKSqCTrdWMnA.png" group-title="USA",US: NFL REDZONE VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1052739.ts
 #EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US: NFL REDZONE HD" tvg-logo="" group-title="USA",US: NFL REDZONE HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1052740.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT PLUSS 1 FHD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OykG39jrjd663ToTy9PyaSPyL3tVPfK_otcHdRSdya1ioknflmVRVSs55iAJ6pTRCqaVRPIghK84nV1nwQuHVcy1U6YQCIFZUWejiTKp9WedW00jhM1p2OZ2Avb1uJE6Bz8.png" group-title="Norway",NO: EUROSPORT PLUSS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="NO: EUROSPORT PLUSS 1 HD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OykG39jrjd663ToTy9PyaSPyL3tVPfK_otcHdRSdya1ioknflmVRVSs55iAJ6pTRCqaVRPIghK84nV1nwQuHVcy1U6YQCIFZUWejiTKp9WedW00jhM1p2OZ2Avb1uJE6Bz8.png" group-title="Norway",NO: EUROSPORT PLUSS 1 HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1052871.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Zona de conflicto 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ue8SL4u2S7TFFNrWNq8FYk20Z9.jpg" group-title="VOD ESPAÑOL 02",Detroit Zona de conflicto 2017
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147119.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El otro lado de la esperanza (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhYEvAxTuahWGtqFunfl3X1dFkN.jpg" group-title="VOD ESPAÑOL 02",El otro lado de la esperanza (2017)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/147233.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLA4839HtC5GelEsUTFFtAL2ar5.jpg" group-title=" VOD ESPAÑOL 2022 Plus",Deinfluencer (2022)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/505220.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La influencia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" group-title="VOD Portuguese",La influencia (2019)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146367.mkv
 --
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nfltv.png?raw=true" group-title="Deportes",NFL Network
 http://tv.teleclub.xyz/club/server_1/deportes/nflnetwork/index.m3u8
