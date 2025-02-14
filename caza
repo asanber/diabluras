@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321168.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321169.ts
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321170.ts
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321172.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336328.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_CAZA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336329.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Iberalia_HD_PESCA_ES_logo.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336331.ts
@@ -84,3 +84,30 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1044515.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% FISHING FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: IBERALIA 100% FISHING FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1051444.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: LOS CAZADORES DE MITOS HD 24/7 HD" tvg-logo="http://www.metacaresolutions.com/cms/livesite/uploads/2015/11/cl.png" group-title="SPAIN 24/7",ES: LOS CAZADORES DE MITOS HD 24/7 HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1050544.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador de búfalos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg" group-title="VOD ESPAÑOL 2023 Plus",El cazador de búfalos (2023)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/847524.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyh9hxRjItIOb0gMt2P44LXnUMH.jpg" group-title="VOD ESPAÑOL 2023 Plus",Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/847736.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Imperio helado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazafantasmas: Imperio helado (2024)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/1003746.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El corazón del cazador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" group-title="VOD ESPAÑOL 2024 Plus",El corazón del cazador (2024)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/1003765.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhóspita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="VOD ESPAÑOL 2024 Plus",Cazadores en tierra inhóspita (2024)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/1003991.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkvIQqHCEE0pj0yGJqsYC97vjjI.jpg" group-title="VOD ESPAÑOL 2024 Plus",Sayen: La cazadora (2024)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/1004170.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La sombra del cazador (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEAYKJDqowuO3CUVXX87K8Z2dgF.jpg" group-title="VOD Portuguese",La sombra del cazador (2007)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/146516.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: La cazadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" group-title="VOD MUL-SUBT 2024",Sayen: La cazadora (2024)
+http://EXM3U.ofxn1112.xyz:80/movie/G23JQ9MTWA/4wxqHSkuEeb/846794.mkv
