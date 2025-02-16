@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUuPoJ7FF9mIpAQAT2ixbfy5.png" group-title="ES   MOVISTAR+",ES: AMC FHD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="ES   MOVISTAR+",ES: AMC FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321102.ts
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUuPoJ7FF9mIpAQAT2ixbfy5.png" group-title="ES   MOVISTAR+",ES: AMC HD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="ES   MOVISTAR+",ES: AMC HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321103.ts
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC SD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="ES   MOVISTAR+",ES: AMC SD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC SD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="ES   MOVISTAR+",ES: AMC SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321104.ts
 --
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES: AMC BREAK SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ES   MOVISTAR+",ES: AMC BREAK SD
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES: AMC BREAK SD" tvg-logo="https://miguia.tv/channels/big_15.png" group-title="ES   MOVISTAR+",ES: AMC BREAK SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321100.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ES   MOVISTAR+",ES: AMC CRIME SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321101.ts
@@ -23,9 +23,9 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321262.ts
 --
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsGIfNGFhXSUpNaNTYFh31AeZxL7SGGoXhamY6r6S2Oyw.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321371.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsGIfNGFhXSUpNaNTYFh31AeZxL7SGGoXhamY6r6S2Oyw.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321372.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsGIfNGFhXSUpNaNTYFh31AeZxL7SGGoXhamY6r6S2Oyw.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC SD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321373.ts
 --
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA SD" tvg-logo="https://miguia.tv/channels/big_131.png" group-title="ES   MOVISTAR+",ES: ODISEA SD
@@ -39,13 +39,13 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336284.ts
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA FHD" tvg-logo="http://cesbos.portal.ovh/logos/historia.jpg" group-title="ES   MOVISTAR+",ES: HISTORIA FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336326.ts
 --
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s97473_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: HISTORIA HD
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtnxIYYhzV-AtxNXFwD3gURtDr28OAhkojPEo8ZY-mUSA.png" group-title="ES   MOVISTAR+",ES: HISTORIA HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339761.ts
 --
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsEsUDa4PcXTWb08pm7WKBCFO7UG9pZvg16dWCR-PxQhg.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/383264.ts
 --
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ES   MOVISTAR+",ES: AMC CRIME HD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUs98CDWsvIFHcek2etKsu9dsksSfBCXC3yLHs0ry4mFsA.png" group-title="ES   MOVISTAR+",ES: AMC CRIME HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/386495.ts
 --
 #EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES FHD
@@ -55,10 +55,10 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552955.ts
 #EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552956.ts
 --
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7889_414_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsEsUDa4PcXTWb08pm7WKBCFO7UG9pZvg16dWCR-PxQhg.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/681803.ts
 --
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsEsUDa4PcXTWb08pm7WKBCFO7UG9pZvg16dWCR-PxQhg.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/687033.ts
 --
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUs98CDWsvIFHcek2etKsu9dsksSfBCXC3yLHs0ry4mFsA.png" group-title="ES   MOVISTAR+",ES: AMC CRIME FHD
@@ -71,7 +71,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/825201.ts
 --
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUu5r9b2S3Q6B5m3v2gn0Tpze-flMQGXO8kRP3x7RzRaAg.png" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/859785.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUu5r9b2S3Q6B5m3v2gn0Tpze-flMQGXO8kRP3x7RzRaAg.png" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/859786.ts
 --
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY CHANNEL SD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL SD
@@ -163,24 +163,27 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/990353.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL NOVE HD ` FHD" tvg-logo="https://iptvgjolli.com/italy/NOVE.png" group-title="Italy",IT: DISCOVERY CHANNEL NOVE HD ` FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1000838.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL K2 VIP SD" tvg-logo="" group-title="Italy",IT: DISCOVERY CHANNEL K2 VIP SD
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL K2 VIP HD" tvg-logo="" group-title="Italy",IT: DISCOVERY CHANNEL K2 VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1034072.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL VIP FHD" tvg-logo="" group-title="Italy",IT: DISCOVERY CHANNEL VIP FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1034073.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: DMAX VIP FHD" tvg-logo="" group-title="Italy",IT: DMAX VIP FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1034074.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="IT: NATIONAL GEOGRAPHIC VIP SD" tvg-logo="" group-title="Italy",IT: NATIONAL GEOGRAPHIC VIP SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1034134.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="IT: NATIONAL GEOGRAPHIC WILD VIP SD" tvg-logo="" group-title="Italy",IT: NATIONAL GEOGRAPHIC WILD VIP SD
+#EXTINF:-1 tvg-id="" tvg-name="IT: NATIONAL GEOGRAPHIC WILD VIP HD" tvg-logo="" group-title="Italy",IT: NATIONAL GEOGRAPHIC WILD VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1049273.ts
 --
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="IT: DMAX HEVC" tvg-logo="" group-title="Italy",IT: DMAX HEVC
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1055682.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL SCIENCE SD" tvg-logo="" group-title="Italy",IT: DISCOVERY CHANNEL SCIENCE SD
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL SCIENCE FHD" tvg-logo="" group-title="Italy",IT: DISCOVERY CHANNEL SCIENCE FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1056674.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL DMAX HD ` HD" tvg-logo="" group-title="Italy",IT: DISCOVERY CHANNEL DMAX HD ` HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058999.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL FOCUS VIP SD" tvg-logo="" group-title="Italy",IT: DISCOVERY CHANNEL FOCUS VIP SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1059000.ts
 --
 #EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: NATIONAL GEOGRAPHIC PEOPLE FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YPCEll5LCu8_FB3JpHxQM8Jn5mM39eRcUTmOD3Yj2q9l6RMB_2BkcExaHLdlGzjaDw.png" group-title="Poland",PL: NATIONAL GEOGRAPHIC PEOPLE FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/309936.ts
@@ -240,7 +243,10 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054216.ts
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="PL: NATIONAL GEO FHD" tvg-logo="" group-title="Poland",PL: NATIONAL GEO FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054221.ts
 --
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Germany",DE: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="PL: NATIONAL GEOGRAPHIC HD [VDF] FHD" tvg-logo="" group-title="Poland",PL: NATIONAL GEOGRAPHIC HD [VDF] FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1059364.ts
+--
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NATIONAL GEOGRAPHIC HEVC" tvg-logo="" group-title="Germany",DE: NATIONAL GEOGRAPHIC HEVC
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/973427.ts
 --
 #EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Germany",DE: DISCOVERY CHANNEL HD
@@ -251,7 +257,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1016419.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: DMAX [HD] HD" tvg-logo="" group-title="Germany",DE: DMAX [HD] HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1017457.ts
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="" group-title="Germany",DE: DMAX HD
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX SD" tvg-logo="" group-title="Germany",DE: DMAX SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1017458.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC WILD [HD] HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/nat-geo-wild-de.png?raw=true" group-title="Germany",DE: NATIONAL GEOGRAPHIC WILD [HD] HD
@@ -263,11 +269,8 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1050560.ts
 #EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NATIONAL GEOGRAPHIC CHANNEL HD" tvg-logo="" group-title="Germany",DE: NATIONAL GEOGRAPHIC CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053875.ts
 --
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL HEVC" tvg-logo="" group-title="Germany",DE: DISCOVERY CHANNEL HEVC
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Germany",DE: DISCOVERY CHANNEL FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054976.ts
---
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Germany",DE: NATIONAL GEOGRAPHIC FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054991.ts
 --
 #EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX FHD" tvg-logo="" group-title="Germany",DE: DMAX FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058033.ts
@@ -291,13 +294,13 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312783.ts
 #EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NATIONAL GEO WILD FHD" tvg-logo="http://live.phenixiptv.com:8080/images/5tmipQVSggau57rKvnyjNbr6qrZDiqOm67J9MCK5KNxG7AGSkxIuIafiS3MZUtTVLYLqWe3o4Kmdv_T72ms4dpxYAnSZFoZrbcrlf95NhGo.png" group-title="France HEVC",FR: NATIONAL GEO WILD FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/312784.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL FAMILY HD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBVwXYbrW9CRvwM5EvNZJV8zEbKTsHUh1FDCvb8gnEVLrx6BlMeO0uGEsZhGACWs2zw.png" group-title="France",FR: DISCOVERY CHANNEL FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL FAMILY FHD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBVwXYbrW9CRvwM5EvNZJV8zEbKTsHUh1FDCvb8gnEVLrx6BlMeO0uGEsZhGACWs2zw.png" group-title="France",FR: DISCOVERY CHANNEL FAMILY FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/748906.ts
 --
 #EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NATIONAL GEO WILD HD" tvg-logo="" group-title="France",FR: NATIONAL GEO WILD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/969227.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL SCIENCE SD" tvg-logo="http://fanc.tmsimg.com/assets/s104586_ll_h3_aa.png" group-title="France",FR: DISCOVERY CHANNEL SCIENCE SD
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL SCIENCE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s104586_ll_h3_aa.png" group-title="France",FR: DISCOVERY CHANNEL SCIENCE FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/974030.ts
 --
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR: DISCOVERY CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s51817_ll_h3_aa.png" group-title="France",FR: DISCOVERY CHANNEL HD
@@ -317,11 +320,16 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1051186.ts
 --
 #EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="FR: DISCOVERY CHANNEL INVESTIGATION FHD" tvg-logo="" group-title="France",FR: DISCOVERY CHANNEL INVESTIGATION FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053965.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL SCI-FI FHD" tvg-logo="" group-title="France",FR: DISCOVERY CHANNEL SCI-FI FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL SCI-FI HEVC" tvg-logo="" group-title="France",FR: DISCOVERY CHANNEL SCI-FI HEVC
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053966.ts
 --
-#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR: NATIONAL GEO SD" tvg-logo="" group-title="France",FR: NATIONAL GEO SD
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR: NATIONAL GEO FHD" tvg-logo="" group-title="France",FR: NATIONAL GEO FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053978.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL ID HD" tvg-logo="" group-title="France",FR: DISCOVERY CHANNEL ID HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058850.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="http://fanc.tmsimg.com/assets/s104586_ll_h3_aa.png" group-title="France",FR: DISCOVERY CHANNEL SCIENCE HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058851.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="AR: AD NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Arabic",AR: AD NATIONAL GEOGRAPHIC HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1030667.ts
@@ -345,7 +353,10 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053679.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRO: SPORT KLUB 6 FHD" tvg-logo="http://astrill.today:80/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZ7aqbTuWHv78Bb0SANajGZuj7n1nHHsYn9lfNwFhWt7eaMCfSldGs6z5a_tcK-gbs.png" group-title="SVIP SPORTS",CRO: SPORT KLUB 6 FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1056098.ts
 --
-#EXTINF:-1 tvg-id="National Geographic Channel HD.al" tvg-name="AL: NATIONAL GEOGRAPHIC HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6HUJxAqZrBSePgbkStQVihhW9Dkx43uv5NnbNtiztfFzMo5rWTgtms4T1j8MdeSBgYDq_JKWGLDLJ_y4MgwGLeMJ0eQbVgn8rM2-2SFORMigljCE6R1P6_tkWadAj3F7czMN2Gw0hsnIhyHKGr1q9xC.png" group-title="Albania",AL: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Arabic",AR: NATIONAL GEOGRAPHIC WILD HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1059206.ts
+--
+#EXTINF:-1 tvg-id="National Geographic Channel HD.al" tvg-name="AL: NATIONAL GEOGRAPHIC HD" tvg-logo="http://picon.nxtbox.tv/satlogo/usa/nat_geo_us_hd.png" group-title="Albania",AL: NATIONAL GEOGRAPHIC HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/765770.ts
 --
 #EXTINF:-1 tvg-id="Discovery Channel.al" tvg-name="AL: DISCOVERY CHANNEL FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBVwXYbrW9CRvwM5EvNZJV8wH8kysCXZkxR6M4vcCU812pD6g6rkGPlgHKrOwKL_fqg.png" group-title="Albania",AL: DISCOVERY CHANNEL FHD
@@ -365,7 +376,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1008719.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY CHANNEL TURBO SD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xp8c1MqXiAZFIBjkVvdAUQgwrs-IHjfqVy1jUwVmD_6-lsa1poHozhVYuP-4S5eFLg.png" group-title="UK",UK: DISCOVERY CHANNEL TURBO SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/937848.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="UK: NATIONAL GEOGRAPHIC WILD HEVC" tvg-logo="http://astrill.today:80/images/dOdjSkpkXBOZDzqbGmCbqdsAGkGlnqftEjGuagXp66anRGKp0izZktOqM30FLSlS.png" group-title="UK",UK: NATIONAL GEOGRAPHIC WILD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="UK: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7XjdGZPjIGfB-PMyoEbMWS2vhATZXAhLweZrq-rXtW9vPSCSM5cgLcIrMlYZAja35bw.png" group-title="UK",UK: NATIONAL GEOGRAPHIC WILD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/980791.ts
 --
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK: DISCOVERY CHANNEL HISTORY SD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xp8c1MqXiAZFIBjkVvdAUQgZqmMsnTdGqchvrMEF49RexeTEwKZVZ5-Ppl37latR_A.png" group-title="UK",UK: DISCOVERY CHANNEL HISTORY SD
@@ -377,30 +388,27 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1006182.ts
 #EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL HD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xp8c1MqXiAZFIBjkVvdAUQjyMIVlj7sHTDGYCCeu_6R7cLdR_GcZLaGpOHEUCBcp5g.png" group-title="UK",UK: DISCOVERY CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1013024.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY CHANNEL SCIENCE SD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xp8c1MqXiAZFIBjkVvdAUQiJl8sxwxaLBz3vDpMofTA6k6AIbr-uEeXEz-40quKXeg.png" group-title="UK",UK: DISCOVERY CHANNEL SCIENCE SD
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="http://astrill.today:80/images/y1P9oQWOYjjCozO6Rgs7Xp8c1MqXiAZFIBjkVvdAUQiJl8sxwxaLBz3vDpMofTA6k6AIbr-uEeXEz-40quKXeg.png" group-title="UK",UK: DISCOVERY CHANNEL SCIENCE HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1017220.ts
 --
 #EXTINF:-1 tvg-id="AMC" tvg-name="UK: AMC VIP HD" tvg-logo="http://fanc.tmsimg.com/assets/s10021_ll_h3_ab.png" group-title="UK",UK: AMC VIP HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058112.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY CHANNEL VIP FHD" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="UK",UK: DISCOVERY CHANNEL VIP FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058144.ts
---
 #EXTINF:-1 tvg-id="" tvg-name="UK: DMAX VIP SD" tvg-logo="http://fanc.tmsimg.com/assets/s58793_ll_h3_aa.png" group-title="UK",UK: DMAX VIP SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058148.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="UK: INVESTIGATION DISCOVERY CHANNEL VIP FHD" tvg-logo="http://fanc.tmsimg.com/assets/s65342_ll_h3_ac.png" group-title="UK",UK: INVESTIGATION DISCOVERY CHANNEL VIP FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058162.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="UK: NATIONAL GEOGRAPHIC VIP SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswb6x4e_G074Gnl5R6p3lC_zSnMKvu1W2w2Nbp0M8r2YA.png" group-title="UK",UK: NATIONAL GEOGRAPHIC VIP SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058183.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: NATIONAL GEOGRAPHIC WILD VIP HEVC" tvg-logo="" group-title="UK",UK: NATIONAL GEOGRAPHIC WILD VIP HEVC
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058184.ts
 --
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY CHANNEL SCIENCE VIP FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszvvttQxKrIRCD7kpTqjy-Is4UirHoumjsKYNXcpWd2Vg.png" group-title="UK",UK: DISCOVERY CHANNEL SCIENCE VIP FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1059118.ts
+--
 #EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL WORLD SD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817hjCCtLyaBmFLcPvuUD-Bfn4vB_AJLy0FZq9UC0hTjfWQ.png" group-title="Netherlands",NL: DISCOVERY CHANNEL WORLD SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/789797.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL+ FHD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gOwJCRa09em5Ek2mOp5H7fyZTs4-faMiZybxkpVlF5UQ.png" group-title="Netherlands",NL: DISCOVERY CHANNEL+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL+ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gOwJCRa09em5Ek2mOp5H7fyZTs4-faMiZybxkpVlF5UQ.png" group-title="Netherlands",NL: DISCOVERY CHANNEL+ HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/888933.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL: NATIONAL GEOGRAPHIC WILD+ HD" tvg-logo="http://astrill.today:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKiCLP8nJNSrn8vjZHra75JrDGaQp9neJrhHCBd2cr_a6AHQ67ZIyL6XagOwd1yJomTy43N0Qt--OS3OkMnfbKFao8_taeHoA9i_VFDYyK_jrZc0fV8KnsBcEx1lM1SThlTKgM0L7KxoOKAdlhM72uUyamGKoibSnkmZWO49w7lwTQ.png" group-title="Netherlands",NL: NATIONAL GEOGRAPHIC WILD+ HD
@@ -412,10 +420,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1042902.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: NATIONAL GEOGRAPHIC CHANNEL+ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/national-geographic-nl.png?raw=true" group-title="Netherlands",NL: NATIONAL GEOGRAPHIC CHANNEL+ HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1046298.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL WORLD HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YOufdb2mV5klQLfMSk1LUR8mmSppDB0w-_fB8xhDHG4hBypcjZlVtQ7lAdC9UpzyVg.png" group-title="Netherlands",NL: DISCOVERY CHANNEL WORLD HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1048962.ts
---
-#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-name="NL: DISCOVERY CHANNEL SD" tvg-logo="http://fanc.tmsimg.com/assets/s107198_ll_h3_aa.png" group-title="Netherlands",NL: DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-name="NL: DISCOVERY CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s107198_ll_h3_aa.png" group-title="Netherlands",NL: DISCOVERY CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1051967.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL CI SD" tvg-logo="" group-title="Netherlands",NL: DISCOVERY CHANNEL CI SD
@@ -427,7 +432,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1055491.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBe4NFnqEz4haEXRVJj2eYdJFR_5X7cT9Q6BDXknrWXs8.png" group-title="Netherlands",NL: NATIONAL GEOGRAPHIC WILD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1055511.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL SCIENCE+ FHD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817jAM-HexuA2C9O2ULSZ_-MDBzTgvdwYqMovKPC-nvosgw.png" group-title="Netherlands",NL: DISCOVERY CHANNEL SCIENCE+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="NL: DISCOVERY CHANNEL SCIENCE+ HD" tvg-logo="http://astrill.today:80/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817jAM-HexuA2C9O2ULSZ_-MDBzTgvdwYqMovKPC-nvosgw.png" group-title="Netherlands",NL: DISCOVERY CHANNEL SCIENCE+ HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057214.ts
 --
 #EXTINF:-1 tvg-id="National Geographic.nl" tvg-name="NL: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Netherlands",NL: NATIONAL GEOGRAPHIC HD
@@ -445,7 +450,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/878447.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL IDX FHD" tvg-logo="" group-title="Turkey",TR: DISCOVERY CHANNEL IDX FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1024852.ts
 --
-#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-name="TR: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6EtOm6dFK80zWAO-itv2qAISE-GybQMTXhW7MwQE25J0wLuFaXIg_YRSfoI9tHMCLC5AZ-r094rR6em0ZboOXAJoVhH_FemtS56wFd-brsptU0VxNNUKukqkGjH22qgvuwGnGprPvjNUwUu-UbjF7ss.png" group-title="Turkey",TR: NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6EtOm6dFK80zWAO-itv2qAISE-GybQMTXhW7MwQE25J0wLuFaXIg_YRSfoI9tHMCLC5AZ-r094rR6em0ZboOXAJoVhH_FemtS56wFd-brsptU0VxNNUKukqkGjH22qgvuwGnGprPvjNUwUu-UbjF7ss.png" group-title="Turkey",TR: NATIONAL GEOGRAPHIC HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1040740.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL ID FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krMWMix6N0ECs0VbTx-b9zaJ7OqKaMXK2jNa9YVeHz1U_w.png" group-title="Turkey",TR: DISCOVERY CHANNEL ID FHD
@@ -459,7 +464,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1055258.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC WILD FHD LOCAL FHD" tvg-logo="" group-title="Turkey",TR: NATIONAL GEOGRAPHIC WILD FHD LOCAL FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1055259.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krPaaSLxYXE_8FrzVP8S-4Eu.png" group-title="Turkey",TR: DISCOVERY CHANNEL SCIENCE HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL SCIENCE FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krPaaSLxYXE_8FrzVP8S-4Eu.png" group-title="Turkey",TR: DISCOVERY CHANNEL SCIENCE FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057324.ts
 --
 #EXTINF:-1 tvg-id="amc.bg" tvg-name="BG: AMC SD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krMwOPF1Hyx8Ernth6pehgFY_GyemaaP-tVGl6NENccz4w.png" group-title="Bulgaria",BG: AMC SD
@@ -483,9 +488,6 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053211.ts
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053220.ts
 #EXTINF:-1 tvg-id="" tvg-name="BG: NATIONAL GEOGRAPHIC WILD HD. HD" tvg-logo="" group-title="Bulgaria",BG: NATIONAL GEOGRAPHIC WILD HD. HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053221.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="BG: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krPaaSLxYXE_8FrzVP8S-4Eu.png" group-title="Bulgaria",BG: DISCOVERY CHANNEL SCIENCE HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057188.ts
 --
 #EXTINF:-1 tvg-id="amcplus.us" tvg-name="US: AMC HD" tvg-logo="https://asiagrandiptv.us/logo//amc.png" group-title="USA",US: AMC HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/987317.ts
@@ -546,12 +548,6 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1055458.ts
 --
 #EXTINF:-1 tvg-id="discovery.no" tvg-name="NO: DISCOVERY CHANNEL FHD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OymebFqHCg2Q0JH7_4IiG_0azRqFA1yzXSmlMN97FPFJ9aP-14hgLujUaGpbeCIzPtn1FUzsBsxIo9vS0AlQ1zPmiVgv5ER3qZEPvuxsKFtrIWiI6WR3qpd20q7QOmW7u-o.png" group-title="Norway",NO: DISCOVERY CHANNEL FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1056984.ts
---
-#EXTINF:-1 tvg-id="discovery.no" tvg-name="NO: DISCOVERY CHANNEL HD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OymebFqHCg2Q0JH7_4IiG_0azRqFA1yzXSmlMN97FPFJ9aP-14hgLujUaGpbeCIzPtn1FUzsBsxIo9vS0AlQ1zPmiVgv5ER3qZEPvuxsKFtrIWiI6WR3qpd20q7QOmW7u-o.png" group-title="Norway",NO: DISCOVERY CHANNEL HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057905.ts
---
-#EXTINF:-1 tvg-id="natgeowild.no" tvg-name="NO: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://astrill.today:80/images/2WXEgZOw64ISTy3qEXLEPCTF_AqXbF8yW2Z-vYu4OykG39jrjd663ToTy9PyaSPyunIUiM7KMW7ni2Y_Cqal5kToUjNCKZbFfJ9UtXxLtFglremio8rMiyWdADiUnpYZv8Tm1yDe_zZHMCspVeiU0Q.png" group-title="Norway",NO: NATIONAL GEOGRAPHIC WILD FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057907.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="SE: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krPaaSLxYXE_8FrzVP8S-4Eu.png" group-title="Sweden",SE: DISCOVERY CHANNEL SCIENCE HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/977311.ts
@@ -616,16 +612,16 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057915.ts
 #EXTINF:-1 tvg-id="" tvg-name="RO: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="" group-title="Romania",RO: NATIONAL GEOGRAPHIC WILD SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057931.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DOKU | DISCOVERY CHANNEL HD" tvg-logo="" group-title="EX-YU",EX-YU: DOKU | DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DOKU | DISCOVERY CHANNEL FHD" tvg-logo="" group-title="EX-YU",EX-YU: DOKU | DISCOVERY CHANNEL FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1039293.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DOKU | ID DISCOVERY CHANNEL / INVESTIGATION DISCOVERY CHANNEL HD" tvg-logo="http://rexshx.com:25461/picons/docu/iddiscovery.png" group-title="EX-YU",EX-YU: DOKU | ID DISCOVERY CHANNEL / INVESTIGATION DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DOKU | ID DISCOVERY CHANNEL / INVESTIGATION DISCOVERY CHANNEL FHD" tvg-logo="http://rexshx.com:25461/picons/docu/iddiscovery.png" group-title="EX-YU",EX-YU: DOKU | ID DISCOVERY CHANNEL / INVESTIGATION DISCOVERY CHANNEL FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1039300.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: DOKU | NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="EX-YU",EX-YU: DOKU | NATIONAL GEOGRAPHIC WILD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1039303.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FILMSKI | AMC SD" tvg-logo="" group-title="EX-YU",EX-YU: FILMSKI | AMC SD
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FILMSKI | AMC FHD" tvg-logo="" group-title="EX-YU",EX-YU: FILMSKI | AMC FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1046173.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: DOKU | DISCOVERY CHANNEL SCIENCE HD" tvg-logo="" group-title="EX-YU",EX-YU: DOKU | DISCOVERY CHANNEL SCIENCE HD
@@ -666,13 +662,10 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1042301.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="" group-title="Latino",LA: NATIONAL GEOGRAPHIC WILD SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1042353.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL INVESTIGATION SD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL INVESTIGATION SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1046794.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="LA: NATIONAL GEOGRAPHIC WILD ES FHD" tvg-logo="" group-title="Latino",LA: NATIONAL GEOGRAPHIC WILD ES FHD
+#EXTINF:-1 tvg-id="" tvg-name="LA: NATIONAL GEOGRAPHIC WILD ES HD" tvg-logo="" group-title="Latino",LA: NATIONAL GEOGRAPHIC WILD ES HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1049850.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL CIVILITATION HD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL CIVILITATION HD
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL CIVILITATION SD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL CIVILITATION SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1050826.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL H&H SD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL H&H SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1050828.ts
@@ -682,21 +675,27 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1050831.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: NATIONAL GEOGRAPHIC MUNDO SD" tvg-logo="" group-title="Latino",LA: NATIONAL GEOGRAPHIC MUNDO SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1050905.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL FAMILIA HD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL FAMILIA HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054019.ts
---
 #EXTINF:-1 tvg-id="" tvg-name="LA: DOCUMENTALES 1 FHD" tvg-logo="" group-title="Latino",LA: DOCUMENTALES 1 FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054025.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="LA: DOCUMENTALES PLUS FHD" tvg-logo="" group-title="Latino",LA: DOCUMENTALES PLUS FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1055164.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL INVESTIGATION ID SD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL INVESTIGATION ID SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057954.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL TLC FHD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL TLC FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057955.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL WORLD SD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL WORLD SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057956.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL INVESTIGATION ID HD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL INVESTIGATION ID HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058909.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: KIDS DISCOVERY CHANNEL KIDS ARG HD" tvg-logo="" group-title="Latino",LA: KIDS DISCOVERY CHANNEL KIDS ARG HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058933.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: KIDS DISCOVERY CHANNEL KIDS SD" tvg-logo="" group-title="Latino",LA: KIDS DISCOVERY CHANNEL KIDS SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058934.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="Latino",LA: NATIONAL GEOGRAPHIC SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058944.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="DK: DISCOVERY CHANNEL INVESTIGATION HD" tvg-logo="" group-title="Denmark",DK: DISCOVERY CHANNEL INVESTIGATION HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1010085.ts
@@ -714,23 +713,18 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1048754.ts
 #EXTINF:-1 tvg-id="" tvg-name="DK: DISCOVERY CHANNEL WORLD HD" tvg-logo="" group-title="Denmark",DK: DISCOVERY CHANNEL WORLD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1053993.ts
 --
-#EXTINF:-1 tvg-id="natgeowild.dk" tvg-name="DK: NATIONAL GEOGRAPHIC WILD HEVC" tvg-logo="" group-title="Denmark",DK: NATIONAL GEOGRAPHIC WILD HEVC
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058393.ts
-#EXTINF:-1 tvg-id="nationalgeographic.dk" tvg-name="DK: NATIONAL GEOGRAPHIC HD" tvg-logo="http://fanc.tmsimg.com/assets/s77693_ll_h3_aa.png" group-title="Denmark",DK: NATIONAL GEOGRAPHIC HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058394.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="GR: DISCOVERY CHANNEL SCIENCE FHD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6HUJxAqZrBSePgbkStQVihhiNPBPfsemRc-Ew8_XRYKWvg9ezk0ZBh98TJkzMtXzAu9-Jz7iwJ3jrQHDqGd4agfUwdP2WXVs7AliJxfdHyvYeGFI2LpUWN19Qjxqv1JEyopFeeUoyqDg0s7qRM350bU.png" group-title="Greece",GR: DISCOVERY CHANNEL SCIENCE FHD
+#EXTINF:-1 tvg-id="" tvg-name="GR: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="http://astrill.today:80/images/zMGuz5AhWaL8PgndPZwT_xiFNG2JgHxDH8Y_qNE6R6HUJxAqZrBSePgbkStQVihhiNPBPfsemRc-Ew8_XRYKWvg9ezk0ZBh98TJkzMtXzAu9-Jz7iwJ3jrQHDqGd4agfUwdP2WXVs7AliJxfdHyvYeGFI2LpUWN19Qjxqv1JEyopFeeUoyqDg0s7qRM350bU.png" group-title="Greece",GR: DISCOVERY CHANNEL SCIENCE HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1011603.ts
---
-#EXTINF:-1 tvg-id="discoverychannel.gr" tvg-name="GR: DISCOVERY CHANNEL FHD" tvg-logo="http://astrill.today:80/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZTHRhS4D5o57A_FDUO_MKmQ1ah6qGzeliRvjaXpmFjRP2jj47VSVCTz0kRYzYYuiw.png" group-title="Greece",GR: DISCOVERY CHANNEL FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1024312.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="GR: INVESTIGATION DISCOVERY CHANNEL FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krNU-isqbDEEqcNFmnZm2P_3dJwvh4shCgdVSpn8nV02Ow.png" group-title="Greece",GR: INVESTIGATION DISCOVERY CHANNEL FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057488.ts
 --
+#EXTINF:-1 tvg-id="" tvg-name="GR: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="Greece",GR: NATIONAL GEOGRAPHIC WILD FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058810.ts
+--
 #EXTINF:-1 tvg-id="story4.hu" tvg-name="HU: STORY 4 SD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOYhZakTQeAmCdz_oE-hqxQb-_3A4dDU7xTg5I_hBzKTfb3YWl-PwD1qgUOGkuaaNc.png" group-title="Hungary",HU: STORY 4 SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/795660.ts
-#EXTINF:-1 tvg-id="amc.hu" tvg-name="HU: AMC SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d63d8ce131e79a2ee2d93a55fee4d5a7.png" group-title="Hungary",HU: AMC SD
+#EXTINF:-1 tvg-id="amc.hu" tvg-name="HU: AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d63d8ce131e79a2ee2d93a55fee4d5a7.png" group-title="Hungary",HU: AMC FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/852979.ts
 --
 #EXTINF:-1 tvg-id="National Geographic (HD).hu" tvg-name="HU: NATIONAL GEOGRAPHIC HD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qN8DpF32wAfG9l8wTkaeXLhHeXgU49aWxVc7SQ2WlBZBMH64wqVFrtHKx6vnQwGllg.png" group-title="Hungary",HU: NATIONAL GEOGRAPHIC HD
@@ -757,29 +751,19 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1031810.ts
 #EXTINF:-1 tvg-id="" tvg-name="CZ: DISCOVERY CHANNEL SD" tvg-logo="" group-title="Czechia",CZ: DISCOVERY CHANNEL SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1042079.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: AMC FHD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: AMC FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054076.ts
---
-#EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: DISCOVERY CHANNEL FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054085.ts
---
 #EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: NATIONAL GEOGRAPHIC WILD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054111.ts
-#EXTINF:-1 tvg-id="" tvg-name="CZ: CZ VIP: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Czechia",CZ: CZ VIP: NATIONAL GEOGRAPHIC FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1054112.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="CZ: NATIONAL GEOGRAPHIC HD CZ FHD" tvg-logo="" group-title="Czechia",CZ: NATIONAL GEOGRAPHIC HD CZ FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1056722.ts
-#EXTINF:-1 tvg-id="natgeowild.cz" tvg-name="CZ: NATIONAL GEOGRAPHIC WILD HD CZ FHD" tvg-logo="" group-title="Czechia",CZ: NATIONAL GEOGRAPHIC WILD HD CZ FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1056723.ts
 --
 #EXTINF:-1 tvg-id="natgeowild.cz" tvg-name="CZ: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Czechia",CZ: NATIONAL GEOGRAPHIC FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058414.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="FI: INVESTIGATION DISCOVERY CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s109912_ll_h3_ab.png" group-title="Finland",FI: INVESTIGATION DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="FI: INVESTIGATION DISCOVERY CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s109912_ll_h3_ab.png" group-title="Finland",FI: INVESTIGATION DISCOVERY CHANNEL HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1000540.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="FI: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="http://fanc.tmsimg.com/assets/s104586_ll_h3_aa.png" group-title="Finland",FI: DISCOVERY CHANNEL SCIENCE HD
+#EXTINF:-1 tvg-id="" tvg-name="FI: DISCOVERY CHANNEL SCIENCE SD" tvg-logo="http://fanc.tmsimg.com/assets/s104586_ll_h3_aa.png" group-title="Finland",FI: DISCOVERY CHANNEL SCIENCE SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1028889.ts
 --
 #EXTINF:-1 tvg-id="discoverychannel.fi" tvg-name="FI: DISCOVERY CHANNEL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s88243_ll_h3_ab.png" group-title="Finland",FI: DISCOVERY CHANNEL FHD
@@ -791,8 +775,11 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1010745.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRO: DISCOVERY CHANNEL SD" tvg-logo="" group-title="Croatia",CRO: DISCOVERY CHANNEL SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1047927.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="CRO: DISCOVERY CHANNEL ID HD" tvg-logo="" group-title="Croatia",CRO: DISCOVERY CHANNEL ID HD
+#EXTINF:-1 tvg-id="" tvg-name="CRO: DISCOVERY CHANNEL ID FHD" tvg-logo="" group-title="Croatia",CRO: DISCOVERY CHANNEL ID FHD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1057459.ts
+--
+#EXTINF:-1 tvg-id="" tvg-name="CRO: DISCOVERY CHANNEL SCIENCE HD" tvg-logo="" group-title="Croatia",CRO: DISCOVERY CHANNEL SCIENCE HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1058743.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="IL: YES NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Israel",IL: YES NATIONAL GEOGRAPHIC WILD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1029689.ts
@@ -844,7 +831,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/329100.ts
 #EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR: DISCOVERY CHANNEL SCIENCE | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-science.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL SCIENCE | HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/330779.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL HOME & HEALTH | SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-home-health.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL HOME & HEALTH | SD
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL HOME & HEALTH | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-home-health.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL HOME & HEALTH | HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/331758.ts
 --
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR: DISCOVERY CHANNEL | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-channel.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL | HEVC
@@ -854,7 +841,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/332098.ts
 --
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR: DISCOVERY CHANNEL H&H | SD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-home-health.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL H&H | SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/332756.ts
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR: DISCOVERY CHANNEL WORLD HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-world.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL WORLD HEVC
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR: DISCOVERY CHANNEL WORLD HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-world.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL WORLD HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/332760.ts
 --
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR: DISCOVERY CHANNEL KIDS | HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-kids.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL KIDS | HD
@@ -871,7 +858,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/815586.ts
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="BR: DISCOVERY CHANNEL TURBO HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-turbo.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL TURBO HEVC
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/821882.ts
 --
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL HOME & HEALTH HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-home-health.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL HOME & HEALTH HEVC
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL HOME & HEALTH HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-home-health.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL HOME & HEALTH HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/827452.ts
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR: DISCOVERY CHANNEL ID HD" tvg-logo="" group-title="Brazil",BR: DISCOVERY CHANNEL ID HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/827453.ts
@@ -883,7 +870,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/827455.ts
 #EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="BR: NATGEO HD" tvg-logo="" group-title="Brazil",BR: NATGEO HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/827539.ts
 --
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR: DISCOVERY CHANNEL H&H HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-home-health.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL H&H HEVC
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR: DISCOVERY CHANNEL H&H HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-home-health.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL H&H HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/828137.ts
 --
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR: DISCOVERY CHANNEL HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-channel.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL HEVC
@@ -898,7 +885,7 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/852487.ts
 #EXTINF:-1 tvg-id="amc.br" tvg-name="BR: AMC HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/amc.jpg" group-title="Brazil",BR: AMC HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/853244.ts
 --
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR: DISCOVERY CHANNEL KIDS HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-kids.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL KIDS HEVC
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR: DISCOVERY CHANNEL KIDS HD" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-kids.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL KIDS HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/857705.ts
 --
 #EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL WORLD | HEVC" tvg-logo="http://conectweb.site/capas/1%20-%20logos%20%20%20canais%20br/discovery-world.jpg" group-title="Brazil",BR: DISCOVERY CHANNEL WORLD | HEVC
