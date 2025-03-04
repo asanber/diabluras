@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dejate.TV" tvg-logo="https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Déjate de Historias TV",Déjate de Historias TV
+https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
+--
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Discovery Channel
 http://tv.teleclub.xyz/club/server_2/cultura/discoverychannel/index.m3u8
 --
@@ -10,3 +13,15 @@ http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8
 --
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento",AMC
 http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8
+--
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBKoWVRgUwtoovFz4LeUO7heI0i.jpg",Cosas de casa -003 La historia             
+https://ok.ru/video/5046099839570	
+--
+#EXTINF:-1 tvg-logo="https://serieslan.com/tb/ds1.jpg" group-title="Dr. Slump",La historia de dombe
+https://ok.ru/videoembed/971177593358?autoplay=1
+--
+#EXTINF:-1 tvg-logo="https://www.nintenderos.com/wp-content/uploads/2023/09/one-piece.jpg",S01E03 No me cuentes historias
+https://uqload.io/embed-vw2s6nejpq5n.html
+--
+#EXTINF:-1 tvg-id="Dejate.TV" tvg-logo="https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Déjate de Historias TV",Déjate de Historias TV
+https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8

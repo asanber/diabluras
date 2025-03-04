@@ -1,1 +1,12 @@
 #EXTM3U
+#EXTINF:-1 radio="true" tvg-id="S_Alcazar.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="SER Alcázar",SER Alcázar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
+--
+#EXTINF:-1 radio="true" tvg-id="OC_AlcazardeSanJuan.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="Onda Cero Alcázar de San Juan",Onda Cero Alcázar de San Juan
+https://atres-live.ondacero.es/live/delegaciones/oc/alcazar/master.m3u8
+--
+#EXTINF:-1 radio="true" tvg-id="S_Alcazar.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="SER Alcázar",SER Alcázar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
+--
+#EXTINF:-1 radio="true" tvg-id="OC_AlcazardeSanJuan.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="Onda Cero Alcázar de San Juan",Onda Cero Alcázar de San Juan
+https://atres-live.ondacero.es/live/delegaciones/oc/alcazar/master.m3u8
