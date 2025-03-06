@@ -1,248 +1,100 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES | Caza y Pezca" tvg-logo="https://i.imgur.com/7zrGmp7.png" group-title="Espana",ES | Caza y Pezca
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/1228
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 720P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 720P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46818
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: IBERALIA es" tvg-logo="" group-title="Portuguese ",PT: IBERALIA es
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/104917
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 1080P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46817
+#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA SD" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46819
+#EXTINF:-1 tvg-id="" tvg-name="SP: IBERALIA TV SD" tvg-logo="" group-title="Spanish HD",SP: IBERALIA TV SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46821
+--
+#EXTINF:-1 tvg-id="PlutoTVDogelcazarrecompensas.us" tvg-logo="https://i.imgur.com/h3kSZLc.png" group-title="Series",Pluto TV Dog el cazarrecompensas (480p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA (6)" tvg-logo="https://vavoo.to/live2/logo/3988851775.png" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA (6)" tvg-logo="https://vavoo.to/live2/logo/3961204377.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",IBERALIA TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD (BACKUP) (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA HD (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES. png" group-title="ZAPEANDO MOVISTAR",ES : CAZA Y PESCA
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46560
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="ZAPEANDO MOVISTAR",ES : IBERALIA TV
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46561
+--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b801191ee7c001a35afb9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Invasión Alien" tvg-chno="", Cazadores De Ovnis: Los Ufólogos Italianos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b801191ee7c001a35afb9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b7f99727df0001a5fec08/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Invasión Alien" tvg-chno="", Cazadores De Ovnis II: Cuentos del Universo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b7f99727df0001a5fec08.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b801191ee7c001a35afb9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Nuevo en Pluto TV" tvg-chno="", Cazadores De Ovnis: Los Ufólogos Italianos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b801191ee7c001a35afb9.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b7f99727df0001a5fec08/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Nuevo en Pluto TV" tvg-chno="", Cazadores De Ovnis II: Cuentos del Universo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b7f99727df0001a5fec08.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/60dabf4ab8187f00136b1ef9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Top Cine" tvg-chno="", La caza
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60dabf4ab8187f00136b1ef9.m3u8
+--
+#EXTINF:-1 cuid="934" tvg-chno="934" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1 cuid="935" tvg-chno="935" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="Italian.Fishing.TV.ch" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
+http://45.65.112.49:8000/play/a0nq
+--
+#EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Caza & Pesca 🎣",Fishing 🇺🇸
+https://bit.ly/Fishing_inspiration_m3u8
+--
+#EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Caza & Pesca 🎣",Hunt Fish TV 🇺🇸
+https://jmp2.uk/str-5747.m3u8
+--
+#EXTINF:-1 cuid="936" tvg-chno="936" tvg-name="MeatEater" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://vhx.imgix.net/meateater/assets/a3504dfc-5ae5-4c6a-abdc-b34f03c0ca1f.png" group-title="Caza & Pesca 🎣",MeatEater 🇺🇸
+https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
+--
+#EXTINF:-1 cuid="938" tvg-chno="938" tvg-name="Wired2Fish 🇺🇸" tvg-id="Wired2fish.TV.distro" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp" group-title="Caza & Pesca 🎣",Wired2Fish 🇺🇸
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+--
+#EXTINF:-1 cuid="939" tvg-chno="939" tvg-name="Darcizzle Offshore Fishing 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DarcizzleFishing.webp" group-title="Caza & Pesca 🎣",Darcizzle Offshore Fishing 🇺🇸
+https://30a-tv.com/darcizzle.m3u8
+--
+#EXTINF:-1 cuid="940" tvg-chno="940" tvg-name="Outdoor Action tv 🇺🇸" tvg-logo="https://play-lh.googleusercontent.com/vg29-dGpzrOGcVy2kmSQX-qlynqJiIp49dB4YZERAsZOlBsN6TzTXKb2SIA4Ac8SBZSc=w0" group-title="Caza & Pesca 🎣",Outdoor Action tv 🇺🇸
+https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
+--
+#EXTINF:-1 cuid="941" tvg-chno="941" tvg-name="Outdoor America 🇺🇸" tvg-id="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20240520T220122SQUARE.png" group-title="Caza & Pesca 🎣",Outdoor America 🇺🇸
+https://bit.ly/48Wx5ny?USBD1200020Y4.m3u8
+--
+#EXTINF:-1 cuid="942" tvg-chno="942" tvg-name="Pursuit Up 🇺🇸" tvg-id="USBD17000025J" tvg-logo="https://assets.maz.tv/katm23ekcyc7mul347hb5gg3iib4.png" group-title="Caza & Pesca 🎣",Pursuit Up 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_channelId=99991648
+--
+#EXTINF:-1 cuid="943" tvg-chno="943" tvg-name="Waypoint TV 🇺🇸" tvg-id="plex.tv.Waypoint.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" group-title="Caza & Pesca 🎣  🎣",Waypoint TV 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991358
+--
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="24/7 TV",Dog El Cazarrecompensas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+--
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/featuredImage.jpg" group-title="MARATONES",DOG el Cazarrecompensas
+https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+--
 #EXTINF:-1 radio="true" tvg-id="S_Alcazar.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="SER Alcázar",SER Alcázar
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
 --
 #EXTINF:-1 radio="true" tvg-id="OC_AlcazardeSanJuan.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="Onda Cero Alcázar de San Juan",Onda Cero Alcázar de San Juan
 https://atres-live.ondacero.es/live/delegaciones/oc/alcazar/master.m3u8
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="Caza y Pesca ☚" tvg-logo="http://puntoz.xyz/LOGOS/caza_y_pesca.png" group-title="ESPANA",Caza y Pesca ☚
-http://amepz.xyz:2052/Pr3st0r30/UkmWBRMt30/64143
---
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="→ ENTRETENIMIENTO ←",ENT| Caza y Pesca HD
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/620
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/12343
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA TV" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA TV
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/12400
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES:Caza y Pesca HD" tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←",ES:Caza y Pesca HD
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/12420
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZAVISION HD1080P" tvg-logo="https://i.postimg.cc/PJKwpwSh/Captura-de-pantalla-2024-02-01-134427-removebg-preview.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZAVISION HD1080P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236320
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 720P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 720P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236325
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 1080P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 1080P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236326
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 720P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 720P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236327
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 1080P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236328
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 720P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 720P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236329
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 1080P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 1080P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236330
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 720P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 720P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236331
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 1080P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 1080P
-http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/236332
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazasubastas
-https://stitcher.pluto.tv/stitch/hls/channel/6335a6b6e6f7a600076e589e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Sakura, cazadora de cartas" tvg-logo="https://images.pluto.tv/channels/65819cb3a620e300080f63bd/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Sakura, cazadora de cartas
-https://stitcher.pluto.tv/stitch/hls/channel/65819cb3a620e300080f63bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Dog el cazarrecompensas
-https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="→ ENTRETENIMIENTO ←",ENT| Caza y Pesca HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/620
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/12343
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA TV" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA TV
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/12400
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES:Caza y Pesca HD" tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←",ES:Caza y Pesca HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/12420
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZAVISION HD1080P" tvg-logo="https://i.postimg.cc/PJKwpwSh/Captura-de-pantalla-2024-02-01-134427-removebg-preview.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZAVISION HD1080P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236320
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 720P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 720P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236325
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 1080P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 1080P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236326
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 720P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 720P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236327
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 1080P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236328
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 720P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 720P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236329
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 1080P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 1080P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236330
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 720P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 720P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236331
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 1080P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 1080P
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/236332
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazasubastas
-https://stitcher.pluto.tv/stitch/hls/channel/6335a6b6e6f7a600076e589e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Sakura, cazadora de cartas" tvg-logo="https://images.pluto.tv/channels/65819cb3a620e300080f63bd/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Sakura, cazadora de cartas
-https://stitcher.pluto.tv/stitch/hls/channel/65819cb3a620e300080f63bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Dog el cazarrecompensas
-https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="→ ENTRETENIMIENTO ←",ENT| Caza y Pesca HD
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/620
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazasubastas
-https://stitcher.pluto.tv/stitch/hls/channel/6335a6b6e6f7a600076e589e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Sakura, cazadora de cartas" tvg-logo="https://images.pluto.tv/channels/65819cb3a620e300080f63bd/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Sakura, cazadora de cartas
-https://stitcher.pluto.tv/stitch/hls/channel/65819cb3a620e300080f63bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12343
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA TV" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA TV
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12400
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES:Caza y Pesca HD" tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←",ES:Caza y Pesca HD
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12420
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZAVISION HD1080P" tvg-logo="https://i.postimg.cc/PJKwpwSh/Captura-de-pantalla-2024-02-01-134427-removebg-preview.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZAVISION HD1080P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236320
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 720P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 720P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236325
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 1080P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 1080P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236326
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 720P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 720P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236327
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 1080P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236328
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 720P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 720P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236329
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 1080P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 1080P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236330
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 720P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 720P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236331
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 1080P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 1080P
-http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236332
---
-#EXTINF:-1 tvg-id="" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Dog el cazarrecompensas
-https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="→ ENTRETENIMIENTO ←",ENT| Caza y Pesca HD
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/620
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/12343
---
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA TV" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA TV
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/12400
---
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES:Caza y Pesca HD" tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←",ES:Caza y Pesca HD
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/12420
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZAVISION HD1080P" tvg-logo="https://i.postimg.cc/PJKwpwSh/Captura-de-pantalla-2024-02-01-134427-removebg-preview.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZAVISION HD1080P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236320
---
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 720P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 720P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236325
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CAZA y PESCA HD 1080P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] CAZA y PESCA HD 1080P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236326
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 720P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 720P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236327
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% PESCA HD 1080P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236328
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 720P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 720P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236329
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 1080P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA 100% CAZA HD 1080P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236330
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 720P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 720P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236331
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA TV HD 1080P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←",[ES] IBERALIA TV HD 1080P
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/236332
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Cazasubastas
-https://stitcher.pluto.tv/stitch/hls/channel/6335a6b6e6f7a600076e589e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Sakura, cazadora de cartas" tvg-logo="https://images.pluto.tv/channels/65819cb3a620e300080f63bd/colorLogoPNG.png" group-title="PLUTO TV ESPAÑA",Sakura, cazadora de cartas
-https://stitcher.pluto.tv/stitch/hls/channel/65819cb3a620e300080f63bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
---
-#EXTINF:-1 tvg-id="" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Dog el cazarrecompensas
-https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Cazador de Homicidas
-https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
---
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
-https://filemoon.sx/d/2alnlw7bmkfe
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/rC3R4duNxZO0qmcEt7n1RNw4mWR.jpg" group-title="2022",Cazando a Ava Bravo (2022)
-http://vod.tuxchannel.mx/peliculas/720/hunting%20ava%20bravo%202022.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/zI0rMYcSUx16pHnsegWExPf1kDF.jpg" group-title="2022",Hunt: Caza al espía (2022) SUB
-http://144.217.180.205/Peliculas/Accion/18530.Hunt.2022.1080p.WEBRip.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="2022",La cazadora de Auschwitz (2022) SUB
-http://144.217.180.205/Peliculas/Terror/Ver%20The%20Huntress%20of%20Auschwitz%20(2022)%20Online%20Latino%20HD%20-%20PELI.mp4
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/op2y1gvqKhAh4yAPLwc4PlX3XRv.jpg" group-title="2022",Proyecto caza al lobo (2022) SUB
-http://144.217.180.205/Peliculas/Accion/7399.Project.Wolf.Hunting.2022.1080p.WEBRip.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/yZP6of0dk5eWn3gMGPVxrR9Lq0R.jpg" group-title="2021",Cazafantasmas: Mas allá (2021)
-http://vod.tuxchannel.mx/peliculas/720/ghostbusters%20afterlife%202021.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/9Ft4fgthsbb9qOXa0E0cw0l29MN.jpg" group-title="2021",El cazador de recompensas (2021)
-http://vod.tuxchannel.mx/peliculas/720/a%20soldiers%20revenge%202020.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" group-title="2021",Presas de caza (2021)
-http://vod.tuxchannel.mx/peliculas/720/prey%202021.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/7/w1280/or4yvzAvMt3K8MHyvoB0cZcTWWy.jpg" group-title="2020",Cazador de silencio (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20silencing%202020.mkv
---
-#EXTINF:-1 tvg-logo="https://pecime.com.mx/wp-content/uploads/2020/10/A-baby-sitter-691x1024.jpg" group-title="2020",Guia de una niñera para cazar monstruos (2020)
-http://vod.tuxchannel.mx/peliculas/720/a%20babysitters%20guide%20to%20monster%20hunting%202020.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/12/w1280/la7nc6pG4vmPJEzl3gV08jboQWX.jpg" group-title="2020",Monster Hunter: Caza monstruos (2020)
-http://vod.tuxchannel.mx/peliculas/720/monster%20hunter%202020.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/10/w1280/1nxYXbkuzJe5y3flRe7KmqvC0YW.jpg" group-title="2018",Hunter Killer: Caza en las profundidades (2018)
-http://vod.tuxchannel.mx/peliculas/720/hunter%20killer.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/9/w1280/b0zTlAl1FNEdS1Ch4eFY2MKzZ0v.jpg" group-title="2017",Temporada de caza (2017)
-http://vod.tuxchannel.mx/peliculas/720/temporada%20de%20caza.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="2016",Cazafantasmas (2016)
-http://vod.tuxchannel.mx/peliculas/720/ghostbusters%202016.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg" group-title="2015",El ultimo cazador de brujas (2015)
-http://vod.tuxchannel.mx/peliculas/720/el%20ultimo%20cazador%20de%20brujas.mkv
---
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg" group-title="2015",En la mira: Caza al asesino (2015)
-http://vod.tuxchannel.mx/peliculas/720/the%20gunman.mkv
 --
 #EXTINF:-1 radio="true" tvg-id="S_Alcazar.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="SER Alcázar",SER Alcázar
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
