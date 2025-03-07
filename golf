@@ -49,7 +49,7 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="Italy Sky Sport Golf" tvg-logo="" group-title="ITALY",Italy Sky Sport Golf
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114240
 --
-#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Golf Channel HD" tvg-logo="" group-title="Mexico (tempoffline)",Sp_Mega: Golf Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Golf Channel HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Golf Channel HD
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114997
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png" group-title="UK SPORTS HD",UK: SKY SPORTS GOLF FHD
@@ -72,6 +72,8 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 --
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="Sports",Golf Channel
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.pl" tvg-logo="https://i.imgur.com/vqEdhhG.png" group-title="Sports",Golf Channel (1080p)
+http://185.236.229.62:9981/play/a03m
 #EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-logo="https://i.imgur.com/01Jsa2Z.png" group-title="Sports",Golf Network (540p)
 http://202.60.106.14:8080/1335/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GolfPass
@@ -93,6 +95,75 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT GOLF [LIVE DURING EVENTS ONLY] (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT GOLF (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT GOLF (7)" tvg-logo="" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZIGGO SPORT GOLF (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF (MATCH TIME) (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS GOLF (MATCH TIME) (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB GOLF (6)" tvg-logo="" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT KLUB GOLF (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL (6)" tvg-logo="" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF CHANNEL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF+ (6)" tvg-logo="https://vavoo.to/live2/logo/489894011.png" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF+ (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF (6)" tvg-logo="https://vavoo.to/live2/logo/4101211079.png" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT GOLF (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF (6)" tvg-logo="https://vavoo.to/live2/logo/729945219.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT GOLF (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="ZIGGO SPORT GOLF (6)" tvg-logo="https://vavoo.to/live2/logo/1643798837.png" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZIGGO SPORT GOLF (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="golfchannel.pl" tvg-name="GOLF CHANNEL (6)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF CHANNEL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD (1)" tvg-logo="" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD (BACKUP) (1)" tvg-logo="" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF CHANNEL HD (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD (1)" tvg-logo="https://vavoo.to/live2/logo/2072120609.png" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="S. SPORT GOLF FHD (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",S. SPORT GOLF FHD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="S. SPORT GOLF HD (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",S. SPORT GOLF HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="V SPORT GOLF (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",V SPORT GOLF (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF CHANNEL (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLF CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="M.GOLF HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",M.GOLF HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOVISTAR GOLF HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT GOLF (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS GOLF (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS GOLF HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
 #EXTINF:-1 tvg-id="M+ GOLF" tvg-name="ES : M+ GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ZAPEANDO MOVISTAR",ES : M+ GOLF
@@ -201,6 +272,15 @@ https://7pal.short.gy/ssportsgf
 --
 #EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
 https://7pal.short.gy/sperspgf
+--
+#EXTINF:-1 group-title="Спортивные", Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+--
+#EXTINF:-1 group-title="Спортивные", Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+--
+#EXTINF:-1 group-title="SPORT 🏆",SKY SPORT golf  HD qae
+http://141.95.55.143/CH5515/index.m3u8
 --
 #EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-logo="https://i.imgur.com/01Jsa2Z.png" group-title="🏆 Sports",Golf Network
 http://202.60.106.14:8080/1335/playlist.m3u8

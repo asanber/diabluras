@@ -171,7 +171,7 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="MX: NFL Network" tvg-logo="" group-title="Mexico Izzy",MX: NFL Network
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110698
 --
-#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Nfl HD" tvg-logo="" group-title="Mexico (tempoffline)",Sp_Mega: Nfl HD
+#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Nfl HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Nfl HD
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114996
 --
 #EXTINF:-1 tvg-id="" tvg-name="[Rogers-CA] NFLNET" tvg-logo="" group-title="Canada SD",[Rogers-CA] NFLNET
@@ -196,6 +196,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b9268fc798e800085add89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d7a-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d1a79bc9-61a1-4577-ab0d-61c5c6f734d3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SPIEGEL TV Konflikte
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b9268fc798e800085add89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6fa519e-8e21-4b06-a396-dae1b93125d1
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NFL (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS NFL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NFL (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS NFL (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
 #EXTINF:-1 cuid="1095" tvg-chno="1095" tvg-name="NFL 🇺🇸" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",NFL 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -225,6 +231,12 @@ https://7pal.short.gy/ssportsat
 https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png" group-title="Sports | US", USA: NFL Redzone
 https://7pal.short.gy/nflredz
+--
+#EXTINF:-1 group-title="Спортивные" tvg-id="sky-sports-action", Sky Sports Action / NFL
+https://7pal.short.gy/ssportsat
+--
+#EXTINF:-1 group-title="SPORT 🏆",NFL Network HD [us]
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 --
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="🏆 Sports",Pluto TV NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=

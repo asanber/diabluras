@@ -105,6 +105,30 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TV16Toronto.ca" tvg-logo="https://i.imgur.com/c4lLchb.png" group-title="Undefined",TV 16 Toronto (720p) [Not 24/7]
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
 --
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV (6)" tvg-logo="https://vavoo.to/live2/logo/1390269076.jpeg" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EL TORO TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ONETORO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE TV (6)" tvg-logo="https://vavoo.to/live2/logo/472209056.jpeg" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOROLE TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS (6)" tvg-logo="https://vavoo.to/live2/logo/142832720.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOROS (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV (1)" tvg-logo="https://vavoo.to/live2/logo/1243809524.png" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOROS TV (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV (BACKUP) (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOROS TV (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOROS TV (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOROS TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg- nombre="El Toro TV",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg- nombre="El Toro TV",El Toro TV

@@ -5,17 +5,17 @@
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="daznlaliga.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Mar 06)",La Liga 01 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 01 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1572
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Mar 06)",La Liga 02 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 02 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1571
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Mar 06)",La Liga 03 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 03 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1573
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Mar 06)",La Liga 04 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 04 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/2881
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Mar 06)",La Liga 05 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 05 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1575
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 06 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Mar 06)",La Liga 06 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 06 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 06 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1576
 --
 #EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="ES | beIN Sports La Liga" tvg-logo="http://lonewolftvpr.com/logos/beinlaliga.png" group-title="Espana",ES | beIN Sports La Liga
@@ -37,6 +37,57 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112666
 #EXTINF:-1 tvg-id="" tvg-name="WS: LaLigaTV A" tvg-logo="" group-title="World Sports",WS: LaLigaTV A
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112669
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LALIGA TV (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA (6)" tvg-logo="https://vavoo.to/live2/logo/3461295847.jpeg" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DAZN LALIGA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 (6)" tvg-logo="https://vavoo.to/live2/logo/427708442.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DAZN LALIGA 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LALIGA TV BAR (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION (6)" tvg-logo="https://vavoo.to/live2/logo/3958277473.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LALIGA TV HYPERMOTION (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LALIGA TV HYPERMOTION 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LALIGA TV HYPERMOTION 3 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA (6)" tvg-logo="https://vavoo.to/live2/logo/3996529465.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",M+ LALIGA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BEIN SPORTS LA LIGA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LA LIGA TV BAR HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LA LIGA TV HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LALIGA TV BAR (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOVISTAR LA LIGA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA (BACKUP) (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOVISTAR LA LIGA (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOVISTAR LA LIGA 1 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOVISTAR LA LIGA 3 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BEIN SPORTS LA LIGA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 720 NUEVO  8c8c
 http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&.mp4
@@ -106,6 +157,9 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 --
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
+--
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:6060/play/a05i
 --
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.109.49:8000/play/a06r/index.m3u8
@@ -244,6 +298,8 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:6060/play/a05i
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.109.49:8000/play/a06r/index.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://45.5.117.182:8000/play/jnl0/index.m3u8
@@ -266,6 +322,8 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Thể Thao Tổng Hợp",SKY SPORTS LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Thể Thao Tổng Hợp",SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:6060/play/a05i
 #EXTINF:-1 group-title="Thể Thao Tổng Hợp",SKY SPORTS LALIGA 🇲🇽
 http://181.78.109.49:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="Thể Thao Tổng Hợp",SKY SPORTS LALIGA 🇲🇽

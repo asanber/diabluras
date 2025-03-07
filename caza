@@ -18,6 +18,21 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="PlutoTVDogelcazarrecompensas.us" tvg-logo="https://i.imgur.com/h3kSZLc.png" group-title="Series",Pluto TV Dog el cazarrecompensas (480p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 --
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA (6)" tvg-logo="https://vavoo.to/live2/logo/3988851775.png" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA (6)" tvg-logo="https://vavoo.to/live2/logo/3961204377.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",IBERALIA TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD (BACKUP) (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CAZA Y PESCA HD (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
 #EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES. png" group-title="ZAPEANDO MOVISTAR",ES : CAZA Y PESCA
 http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46560
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="ZAPEANDO MOVISTAR",ES : IBERALIA TV
