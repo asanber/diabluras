@@ -1,164 +1,311 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="VISION+",Outdoor Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TROLLHUNTERS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TROLLHUNTERS
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/810
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="http://lonewolftvpr.com/logos/outdoor.png" group-title="USA",USA | Outdoor Channel
-http://cdn1host.online:2999/xman2/hhqgjFfHXF/292
+#EXTINF:-1 tvg-id="" tvg-name="US: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="→ USA ←",US: THE SPORTSMAN CHANNEL
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/23895
 --
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA | Sportsman Channel" tvg-logo="https://i.ibb.co/xCbkT75/sportsman.png" group-title="USA",USA | Sportsman Channel
-http://cdn1host.online:2999/xman2/hhqgjFfHXF/54385
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel HD" tvg-logo="http://mylatinotv.com:8080/images/mexico/outdoor.png" group-title="→ USA ←",US: Outdoor Channel HD
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/23943
 --
-#EXTINF:-1 tvg-id="" tvg-name="US: Hunt Channel" tvg-logo="https://bama-q.tv/wp-content/uploads/2017/10/HuntChannel-copy.png" group-title="USA HD ",US: Hunt Channel
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2054
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | FOX WZDX" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | FOX WZDX
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/33329
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | NBC WAFF" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | NBC WAFF
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/33330
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png" group-title="USA SPORTS HD",US: OUTDOOR CHANNEL 
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/9644
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: OUTDOOR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png" group-title="USA HD ",US: OUTDOOR CHANNEL HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1655
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR CHANNEL HD" tvg-logo="http://conectweb.site/canais%20pt/Outdoor%20Channel%20HD%20logo.png" group-title="→ USA DEPORTES ←",OUTDOOR CHANNEL HD
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/243051
 --
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sportsman_Channel_logo.png/220px-Sportsman_Channel_logo.png" group-title="USA SPORTS HD",US: SPORTSMAN CHANNEL
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/9670
+#EXTINF:-1 tvg-id="" tvg-name="24/7*Hunter x Hunter" tvg-logo="" group-title="→ 24/7 ←",24/7*Hunter x Hunter
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/250555
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA2: Outdoor Channel" tvg-logo="" group-title="USA BU",USA2: Outdoor Channel
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100949
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593
 --
-#EXTINF:-1 tvg-id="" tvg-name="USA2: Sportsman Channel" tvg-logo="" group-title="USA BU",USA2: Sportsman Channel
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100971
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" group-title="PLUTO TV CANADA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US-sd: OUTDOOR CHANNEL" tvg-logo="" group-title="USA SD ",US-sd: OUTDOOR CHANNEL
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110294
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/colorLogoPNG.png" group-title="PLUTO TV CANADA",Dog The Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
 --
-#EXTINF:-1 tvg-id="" tvg-name="247_: Hunter x Hunter" tvg-logo="" group-title="247s.",247_: Hunter x Hunter
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114495
+#EXTINF:-1 tvg-id="" tvg-name="Myth Hunters" tvg-logo="https://images.pluto.tv/channels/63d90f828795f300086745b2/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Myth Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/63d90f828795f300086745b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
 --
-#EXTINF:-1 tvg-id="" tvg-name="247_: Ghost Hunters" tvg-logo="" group-title="247s.",247_: Ghost Hunters
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114577
+#EXTINF:-1 tvg-id="" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Auction Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
 --
-#EXTINF:-1 tvg-id="" tvg-name="247_: Dog The Bounty Hunter" tvg-logo="" group-title="247s.",247_: Dog The Bounty Hunter
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114605
+#EXTINF:-1 tvg-id="" tvg-name="Das Geheimnis der Hunters" tvg-logo="https://images.pluto.tv/channels/63d9107e60bc8f0008a1d9ed/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Das Geheimnis der Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
 --
-#EXTINF:-1 tvg-id="" tvg-name="AL Huntsville NBC WAFF" tvg-logo="" group-title="USA Locals",AL Huntsville NBC WAFF
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101130
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 --
-#EXTINF:-1 tvg-id="" tvg-name="WV Huntington NBC WSAZ" tvg-logo="" group-title="USA Locals",WV Huntington NBC WSAZ
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101320
+#EXTINF:-1 tvg-id="" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="PLUTO TV USA",Dog the Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
 --
-#EXTINF:-1 tvg-id="" tvg-name="AL Huntsville FOX WZDX" tvg-logo="" group-title="USA Locals",AL Huntsville FOX WZDX
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101362
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="PLUTO TV USA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
 --
-#EXTINF:-1 tvg-id="" tvg-name="ABC31 (WAAY) Huntsville  (A)" tvg-logo="" group-title="USA Locals",ABC31 (WAAY) Huntsville  (A)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101854
-#EXTINF:-1 tvg-id="" tvg-name="abc31 (WAAY) Huntsville (V)" tvg-logo="" group-title="USA Locals",abc31 (WAAY) Huntsville (V)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101855
+#EXTINF:-1 tvg-id="" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/60e452730e76f20007598de8/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Homicide Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/60e452730e76f20007598de8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 --
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WAAY ABC 31 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WAAY ABC 31 HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113830
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WHNT CBS 19 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WHNT CBS 19 HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113831
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WZDX FOX 54 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WZDX FOX 54 HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113832
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WAFF NBC 48 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WAFF NBC 48 HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113833
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 --
-#EXTINF:-1 tvg-id="" tvg-name="XXX-d Drone Hunter" tvg-logo="" group-title="XXX HD VOD ",XXX-d Drone Hunter
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112089
+#EXTINF:-1 tvg-id="" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Auction Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/62ac50e92c48f900071444c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 --
-#EXTINF:-1 tvg-id="" tvg-name="XXX-d MILF Hunter" tvg-logo="" group-title="XXX HD VOD ",XXX-d MILF Hunter
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112219
+#EXTINF:-1 tvg-id="" tvg-name="Hunter" tvg-logo="https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 --
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD Sportsman Channel" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Sportsman Channel
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112866
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Dog The Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 --
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auction Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7952-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419716ea-defd-40f9-9cfe-81ca78138875
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auction Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82bb03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f2717fb-1dc4-4bc1-920e-7ffbaf3d3a22
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auction Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac2f80-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b4e4d851-50d8-4e9c-9824-31d78816509e
---
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Crime Hunters
-https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Das Geheimnis der Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e0f67f8-eeeb-4333-8628-2a462b668bd3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Das Geheimnis der Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a560-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4de13739-bd4a-407c-9ede-77a7a5982caa
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Das Geheimnis der Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=070c6bbd-35e0-486f-b1f7-2a1d07821ba3
---
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dog The Bounty Hunter
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0686-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a785777c-53e9-4fa5-bf8d-22125f05159a
-#EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="Series",Dog the Bounty Hunter
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca19e89b-4eb2-4f32-b300-8e26501d6dd2
---
-#EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="Outdoor",Duck Hunting TV
-https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
---
-#EXTINF:-1 tvg-id="WZDXDT1.us" tvg-logo="https://i.imgur.com/E8nKknc.png" group-title="Undefined",Fox 54.1 Huntsville
-https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ghost Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=733471ce-0ac1-447e-9326-012361ee2487
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ghost Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20
---
-#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="Outdoor",Hunt Channel (720p)
-https://a-cdn.klowdtv.com/live2/huntchannel_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hunt Fish TV
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
-#EXTINF:-1 tvg-id="HBTV.us" tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="General",Huntington Beach TV Channel 3 (720p)
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/huntingtonbeach/G0088_005/playlist.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Myth Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d90f828795f300086745b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1162-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1404d1db-ddc8-439e-bf14-97073a46e5b0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Myth Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d90f828795f300086745b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84dde5-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bb98f15f-6d0e-4310-8c93-06f3bb65ee5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Myth Hunters
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d90f828795f300086745b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b54-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7118ec33-1864-4f3c-9921-f05b649723ac
---
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Indonesia",Outdoor Channel HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Indonesia",Outdoor Channel HD
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 --
-#EXTINF:-1 tvg-id="PlutoTVTelenovela.fr" tvg-logo="https://i.imgur.com/huntRdh.png" group-title="Series",Pluto TV Telenovela
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telenovela" tvg-logo="https://i.imgur.com/huntRdh.png" group-title="FRANCIA",Pluto TV Telenovela
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/264432
 --
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="Sports",Sportsman Channel
-http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FISHING AND HUNTING" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the_fishing_hunting_channel_se_eu.png" group-title="ROMANIA",FISHING AND HUNTING
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/260131
+#EXTINF:-1 tvg-id="" tvg-name="Fishing & Hunting Channel" tvg-logo="" group-title="ROMANIA",Fishing & Hunting Channel
+http://canal-pro.xyz:8080/Moont2024js9920*/zHWY9KgnDkqn/260132
 --
-#EXTINF:-1 tvg-id="" tvg-name="FISHING & HUNTING (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FISHING & HUNTING (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="" group-title="RAKUTEN UK",Dog The Bounty Hunter
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR CHANNEL (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",OUTDOOR CHANNEL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTINF:-1 tvg-id="" tvg-name="History Hunters" tvg-logo="" group-title="RAKUTEN UK",History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 --
-#EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Caza & Pesca 🎣",Hunt Fish TV 🇺🇸
-https://jmp2.uk/str-5747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy
+http://canal-pro.xyz:8080/movie/Moont2024js9920*/zHWY9KgnDkqn/268962.mp4
 --
-#EXTINF:-1 cuid="649" tvg-chno="649" tvg-name="Outdoor Channel 🇺🇸" tvg-id="Outdoor.Channel.HDTV.(OUTHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png" group-title="Viajes Y Comidas ✈️🍽️",Outdoor Channel 🇺🇸
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TROLLHUNTERS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TROLLHUNTERS
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/810
 --
-#EXTINF:-1 cuid="859" tvg-chno="859" tvg-name="Ghost Hunters 🇺🇸" tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="Paranormal 👽",Ghost Hunters 🇺🇸
-https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+#EXTINF:-1 tvg-id="" tvg-name="US: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="→ USA ←",US: THE SPORTSMAN CHANNEL
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/23895
 --
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="24/7 Channels",Dog the Bounty Hunter
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=381&deviceId=5bee1a7359ee03633e780238&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel HD" tvg-logo="http://mylatinotv.com:8080/images/mexico/outdoor.png" group-title="→ USA ←",US: Outdoor Channel HD
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/23943
 --
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" group-title="24/7 Channels",Ghost Hunters
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | FOX WZDX" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | FOX WZDX
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/33329
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | NBC WAFF" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | NBC WAFF
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/33330
 --
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png" group-title="24/7 Channels",Hunter
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR CHANNEL HD" tvg-logo="http://conectweb.site/canais%20pt/Outdoor%20Channel%20HD%20logo.png" group-title="→ USA DEPORTES ←",OUTDOOR CHANNEL HD
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/243051
 --
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Sports",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7*Hunter x Hunter" tvg-logo="" group-title="→ 24/7 ←",24/7*Hunter x Hunter
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/250555
 --
-#EXTINF:-1 channel-id="samsung-US900002IH" tvg-id="US900002IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20240520T221457SQUARE.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Dog the Bounty Hunter
-https://jmp2.uk/sam-US900002IH.m3u8
-#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1400",Dog the Bounty Hunter
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f4baaad4-fb36-11ef-9067-4e61923e3a1b
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593
 --
-#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1550",Ghost Hunters
-https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f4baaad4-fb36-11ef-9067-4e61923e3a1b
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" group-title="PLUTO TV CANADA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
 --
-#EXTINF:-1 tvg-id="6675c1ce0485604f67e34409" tvg-name="6675c1ce0485604f67e34409" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91" group-title="🏆 Sports" tvg-chno="344", Hunt Fish TV
-https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/colorLogoPNG.png" group-title="PLUTO TV CANADA",Dog The Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+--
+#EXTINF:-1 tvg-id="" tvg-name="Myth Hunters" tvg-logo="https://images.pluto.tv/channels/63d90f828795f300086745b2/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Myth Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/63d90f828795f300086745b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
+--
+#EXTINF:-1 tvg-id="" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Auction Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
+--
+#EXTINF:-1 tvg-id="" tvg-name="Das Geheimnis der Hunters" tvg-logo="https://images.pluto.tv/channels/63d9107e60bc8f0008a1d9ed/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Das Geheimnis der Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="PLUTO TV USA",Dog the Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="PLUTO TV USA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+--
+#EXTINF:-1 tvg-id="" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/60e452730e76f20007598de8/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Homicide Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/60e452730e76f20007598de8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Auction Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/62ac50e92c48f900071444c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunter" tvg-logo="https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Dog The Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Indonesia",Outdoor Channel HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Indonesia",Outdoor Channel HD
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telenovela" tvg-logo="https://i.imgur.com/huntRdh.png" group-title="FRANCIA",Pluto TV Telenovela
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/264432
+--
+#EXTINF:-1 tvg-id="" tvg-name="FISHING AND HUNTING" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the_fishing_hunting_channel_se_eu.png" group-title="ROMANIA",FISHING AND HUNTING
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/260131
+#EXTINF:-1 tvg-id="" tvg-name="Fishing & Hunting Channel" tvg-logo="" group-title="ROMANIA",Fishing & Hunting Channel
+http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/260132
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="" group-title="RAKUTEN UK",Dog The Bounty Hunter
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="History Hunters" tvg-logo="" group-title="RAKUTEN UK",History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy
+http://canal-pro.xyz:8080/movie/PLAYLIFE@2024*/EeN3GBnSxaQf/268962.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy
+http://canal-pro.xyz:8080/movie/Psstreamid@2*14/We3Zq5X6Raum/268962.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TROLLHUNTERS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TROLLHUNTERS
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/810
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7*Hunter x Hunter" tvg-logo="" group-title="→ 24/7 ←",24/7*Hunter x Hunter
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/250555
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="→ USA ←",US: THE SPORTSMAN CHANNEL
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23895
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel HD" tvg-logo="http://mylatinotv.com:8080/images/mexico/outdoor.png" group-title="→ USA ←",US: Outdoor Channel HD
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23943
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="PLUTO TV USA",Dog the Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="PLUTO TV USA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" group-title="PLUTO TV CANADA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/colorLogoPNG.png" group-title="PLUTO TV CANADA",Dog The Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | FOX WZDX" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | FOX WZDX
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/33329
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | NBC WAFF" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | NBC WAFF
+http://canal-pro.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/33330
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TROLLHUNTERS" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",24/7: TROLLHUNTERS
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/810
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="→ USA ←",US: THE SPORTSMAN CHANNEL
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23895
+--
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel HD" tvg-logo="http://mylatinotv.com:8080/images/mexico/outdoor.png" group-title="→ USA ←",US: Outdoor Channel HD
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23943
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | FOX WZDX" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | FOX WZDX
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/33329
+#EXTINF:-1 tvg-id="" tvg-name="USA**:AL | HUNTSVILLE | NBC WAFF" tvg-logo="" group-title="→ USA II ←",USA**:AL | HUNTSVILLE | NBC WAFF
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/33330
+--
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR CHANNEL HD" tvg-logo="http://conectweb.site/canais%20pt/Outdoor%20Channel%20HD%20logo.png" group-title="→ USA DEPORTES ←",OUTDOOR CHANNEL HD
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/243051
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7*Hunter x Hunter" tvg-logo="" group-title="→ 24/7 ←",24/7*Hunter x Hunter
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/250555
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" group-title="PLUTO TV CANADA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/colorLogoPNG.png" group-title="PLUTO TV CANADA",Dog The Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
+--
+#EXTINF:-1 tvg-id="" tvg-name="Myth Hunters" tvg-logo="https://images.pluto.tv/channels/63d90f828795f300086745b2/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Myth Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/63d90f828795f300086745b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
+--
+#EXTINF:-1 tvg-id="" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Auction Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
+--
+#EXTINF:-1 tvg-id="" tvg-name="Das Geheimnis der Hunters" tvg-logo="https://images.pluto.tv/channels/63d9107e60bc8f0008a1d9ed/colorLogoPNG.png" group-title="PLUTO TV ALEMANIA",Das Geheimnis der Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/63d9107e60bc8f0008a1d9ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="PLUTO TV USA",Dog the Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="PLUTO TV USA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+--
+#EXTINF:-1 tvg-id="" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/60e452730e76f20007598de8/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Homicide Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/60e452730e76f20007598de8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Auction Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/62ac50e92c48f900071444c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunter" tvg-logo="https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" group-title="PLUTO TV GRAN BRETAÑA",Dog The Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+--
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Indonesia",Outdoor Channel HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Indonesia",Outdoor Channel HD
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telenovela" tvg-logo="https://i.imgur.com/huntRdh.png" group-title="FRANCIA",Pluto TV Telenovela
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/264432
+--
+#EXTINF:-1 tvg-id="" tvg-name="FISHING AND HUNTING" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the_fishing_hunting_channel_se_eu.png" group-title="ROMANIA",FISHING AND HUNTING
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/260131
+#EXTINF:-1 tvg-id="" tvg-name="Fishing & Hunting Channel" tvg-logo="" group-title="ROMANIA",Fishing & Hunting Channel
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/260132
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dog The Bounty Hunter" tvg-logo="" group-title="RAKUTEN UK",Dog The Bounty Hunter
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="History Hunters" tvg-logo="" group-title="RAKUTEN UK",History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVRC5pntm4kjwItZQ7OCY9QTHz.jpg" group-title="→ VOD ADULTOS XXX ←",The Family Reunion After Party -Bailey Brooke & Hunter Rose-Family Therapy
+http://fastream.xyz:8080/movie/72ge9hPFGZNs/cdQ8YVktcY5T/268962.mp4
+--
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
+https://filemoon.sx/d/2alnlw7bmkfe
+--
+#EXTINF:-1 tvg-logo="https://www17.pelisplushd.to/poster/night-of-the-hunted.jpg" group-title="2023",Night of the Hunted (Ts) (2023)
+https://filemoon.sx/e/uzgv2etllf9k
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/zI0rMYcSUx16pHnsegWExPf1kDF.jpg" group-title="2022",Hunt: Caza al espía (2022) SUB
+http://144.217.180.205/Peliculas/Accion/18530.Hunt.2022.1080p.WEBRip.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg" group-title="2021",Trollhunters: El despertar de los titanes (2021)
+http://vod.tuxchannel.mx/peliculas/720/trollhunters%20rise%20of%20the%20titans%202021.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/vHKlIci8f38GaAd361EW0VSx91k.jpg" group-title="2021",Witch hunt: Cacería de brujas (2021)
+http://vod.tuxchannel.mx/peliculas/720/witch%20hunt%202021.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/12/w1280/la7nc6pG4vmPJEzl3gV08jboQWX.jpg" group-title="2020",Monster Hunter: Caza monstruos (2020)
+http://vod.tuxchannel.mx/peliculas/720/monster%20hunter%202020.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/10/w1280/1nxYXbkuzJe5y3flRe7KmqvC0YW.jpg" group-title="2018",Hunter Killer: Caza en las profundidades (2018)
+http://vod.tuxchannel.mx/peliculas/720/hunter%20killer.mkv
