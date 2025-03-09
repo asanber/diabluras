@@ -309,3 +309,6 @@ http://vod.tuxchannel.mx/peliculas/720/monster%20hunter%202020.mkv
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/10/w1280/1nxYXbkuzJe5y3flRe7KmqvC0YW.jpg" group-title="2018",Hunter Killer: Caza en las profundidades (2018)
 http://vod.tuxchannel.mx/peliculas/720/hunter%20killer.mkv
+--
+#EXTINF:-1 tvg-id="House Hunters Season 257, Episode 6 - House Hunters Season 257, Episode 6" tvg-name="House Hunters Season 257, Episode 6 08/03/25 - 04:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="TV Show", 08/03/25 - 04:30  HGTV USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
