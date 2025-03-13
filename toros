@@ -233,10 +233,10 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/269287
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/266578
 --
 #EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CBCToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" tvg-name="CBC",CBC
-https://dokko1new.koskoros.ru/dokko1/premium832/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36|Origin=https://pkpakiplay.xyz
+https://dokko1new.koskoros.ru/dokko1/premium832/mono.m3u8|Referer=https://dokoplay.xyz|User-Agent=Mozilla/5.0 (Linux; Android 12; Sabrina) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36|Origin=https://dokoplay.xyz
 --
 #EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="GlobalToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" tvg-name="Global",Global
-https://dokko1new.koskoros.ru/dokko1/premium836/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36|Origin=https://pkpakiplay.xyz
+https://dokko1new.koskoros.ru/dokko1/premium836/mono.m3u8|Referer=https://dokoplay.xyz|User-Agent=Mozilla/5.0 (Linux; Android 12; Sabrina) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36|Origin=https://dokoplay.xyz
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
@@ -250,14 +250,5 @@ http://vod.tuxchannel.mx/peliculas/720/bull%20shark%202022.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 --
-#EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Toronto Raptors" tvg-name="NBA : Philadelphia 76ers vs Toronto Raptors 12/03/25 - 00:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
---
-#EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Toronto Raptors" tvg-name="NBA : Philadelphia 76ers vs Toronto Raptors 12/03/25 - 00:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
---
-#EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Toronto Raptors" tvg-name="NBA : Philadelphia 76ers vs Toronto Raptors 12/03/25 - 00:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS Philadelphia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
---
-#EXTINF:-1 tvg-id="NBA - Philadelphia 76ers vs Toronto Raptors" tvg-name="NBA : Philadelphia 76ers vs Toronto Raptors 12/03/25 - 00:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+#EXTINF:-1 tvg-id="NBA G-League - Greensboro Swarm vs Austin Toros Spurs" tvg-name="NBA G-League : Greensboro Swarm vs Austin Toros Spurs 13/03/25 - 00:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN+ USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/

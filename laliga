@@ -750,7 +750,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/266506
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/266507
 --
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="LA.LIGA.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" tvg-name="SuperSport LaLiga",SuperSport LaLiga
-https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36|Origin=https://pkpakiplay.xyz
+https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8|Referer=https://dokoplay.xyz|User-Agent=Mozilla/5.0 (Linux; Android 12; Sabrina) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36|Origin=https://dokoplay.xyz
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
@@ -801,6 +801,12 @@ https://7pal.short.gy/mplusuhd
 --
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="Sports | World", Supersport_Laliga-FHD
 https://7pal.short.gy/sperspllg
+--
+#EXTINF:-1 tvg-id="UEFA Europa League - Eintracht Frankfurt vs Ajax" tvg-name="UEFA Europa League : Eintracht Frankfurt vs Ajax 13/03/25 - 18:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+--
+#EXTINF:-1 tvg-id="UEFA Europa League - Rangers vs Fenerbahçe" tvg-name="UEFA Europa League : Rangers vs Fenerbahçe 13/03/25 - 21:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 --
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  94d3
 acestream://94d34491106e00394835c8cb68aa94481339b53f
