@@ -282,3 +282,6 @@ http://vod.tuxchannel.mx/peliculas/720/love%20guaranteed%202020.mkv
 https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png" group-title="Sports | US", USA: NFL Redzone
 https://7pal.short.gy/nflredz
+--
+#EXTINF:-1 tvg-id="Mock Draft - Mock Draft" tvg-name="Mock Draft 18/03/25 - 01:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", NFL Network USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
