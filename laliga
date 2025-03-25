@@ -540,7 +540,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415212
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/418626
 --
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="LA.LIGA.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" tvg-name="SuperSport LaLiga",SuperSport LaLiga
-https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8|Referer=https://epicplayplay.cfd|User-Agent=Mozilla/5.0 (Linux; Android 12; Sabrina) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36|Origin=https://epicplayplay.cfd
+https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8|Referer=https://funzoneplay.cfd/|User-Agent=Mozilla/5.0 (Linux; Android 12; Sabrina) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36|Origin=https://funzoneplay.cfd
 --
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/vfTPpIEoeBXJIDa6Vc2hjiZe3iC.jpg" group-title="2022",Rumble: La liga de los monstruos (2022)
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
@@ -592,23 +592,14 @@ https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="Sports | World", Supersport_Laliga-FHD
 https://7pal.short.gy/sperspllg
 --
-#EXTINF:-1 tvg-id="World Cup Qualifying - Eswatini vs Mauritius" tvg-name="14:00 World Cup Qualifying : Eswatini vs Mauritius" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Real Zaragoza vs Córdoba" tvg-name="20:30 Spain - Segunda Division : Real Zaragoza vs Córdoba" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LALIGA TV Hypermotion
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 --
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Levante vs CD Castellon" tvg-name="14:00 Spain - Segunda Division : Levante vs CD Castellon" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LALIGA TV Hypermotion
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bosnia and Herzegovina vs Cyprus" tvg-name="20:45 World Cup Qualifying : Bosnia and Herzegovina vs Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 --
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Eibar vs Huesca" tvg-name="16:15 Spain - Segunda Division : Eibar vs Huesca" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LALIGA TV Hypermotion 2
+#EXTINF:-1 tvg-id="World Cup Qualifying - Rwanda vs Lesotho" tvg-name="17:00 World Cup Qualifying : Rwanda vs Lesotho" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 --
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Sporting Gijón vs Albacete" tvg-name="16:15 Spain - Segunda Division : Sporting Gijón vs Albacete" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LALIGA TV Hypermotion
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
---
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Tenerife vs Cádiz" tvg-name="18:30 Spain - Segunda Division : Tenerife vs Cádiz" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LALIGA TV Hypermotion
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
---
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Deportivo La Coruña vs Cartagena" tvg-name="18:30 Spain - Segunda Division : Deportivo La Coruña vs Cartagena" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LALIGA TV Hypermotion 2
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
---
-#EXTINF:-1 tvg-id="UEFA Nations League - Portugal vs Denmark" tvg-name="20:45 UEFA Nations League : Portugal vs Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
+#EXTINF:-1 tvg-id="World Cup Qualifying - Gibraltar vs Czech Republic" tvg-name="20:45 World Cup Qualifying : Gibraltar vs Czech Republic" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
