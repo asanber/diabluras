@@ -127,3 +127,12 @@ https://7pal.short.gy/ssportsgf
 --
 #EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
 https://7pal.short.gy/sperspgf
+--
+#EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png",GOLF Channel USA
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+--
+#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png",Sky Sports Golf UK
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+--
+#EXTINF:-1 group-title="SOUTHAFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png",Super Sport Motorsport SOUTHAFRICA
+#EXTVLCOPT:http-referrer=https://topembed.pw/
