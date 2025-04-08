@@ -365,26 +365,26 @@ http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" group-title="2021",La Liga de la Justicia de Zack Snyder (2021)
 http://vod.tuxchannel.mx/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",DAZN LaLiga
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="DAZN LaLiga" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",DAZN LaLiga 2
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="DAZN LaLiga 2" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",LALIGA TV Hypermotion
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="LaLiga SmartBank TV" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", LaLiga SmartBank TV
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",LaLiga SmartBank TV
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="Movistar Laliga" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", Movistar Laliga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",LaLigaTV UK
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport LaLiga" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",Movistar Laliga
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="LaLigaTV UK" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", LaLigaTV UK
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",SuperSport LaLiga
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="LALIGA TV Hypermotion" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", LALIGA TV Hypermotion
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8

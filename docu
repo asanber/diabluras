@@ -623,17 +623,17 @@ http://vod.tuxchannel.mx/peliculas/720/the%20accountant.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="2016",Rogue one: Una historia de Star Wars (2016)
 http://vod.tuxchannel.mx/peliculas/720/rogue%20one%20a%20star%20wars%20story.mkv
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",AMC USA
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="AMC USA" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", AMC USA
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",Discovery Channel
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", Discovery Channel
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",Nat Geo Wild USA
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="National Geographic (NGC)" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", National Geographic (NGC)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png",National Geographic (NGC)
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", Nat Geo Wild USA
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
 #EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/discovery-channel.png",Discovery Channel USA
 #EXTVLCOPT:http-referrer=https://topembed.pw/
