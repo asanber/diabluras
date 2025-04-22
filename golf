@@ -292,3 +292,33 @@ https://windnew.newkso.ru/wind/premium70/mono.m3u8|Referer=https://xtreaweb.top/
 --
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="GOLF.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" tvg-name="SuperSport Golf",SuperSport Golf
 https://zekonew.newkso.ru/zeko/premium422/mono.m3u8|Referer=https://xtreaweb.top/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xtreaweb.top
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="GOLF Channel USA" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", GOLF Channel USA
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="Movistar Golf Spain" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", Movistar Golf Spain
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sports Golf UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png", Sky Sports Golf UK
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sports Golf " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png", Sky Sports Golf 
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport Golf" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", SuperSport Golf
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="Sports | UK", SkySports_Golf-FHD
+https://7pal.short.gy/ssportsgf
+--
+#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
+https://7pal.short.gy/sperspgf
+--
+#EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png",GOLF Channel USA
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+--
+#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png",Sky Sports Golf UK
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+--
+#EXTINF:-1 group-title="SOUTHAFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png",Super Sport Motorsport SOUTHAFRICA
+#EXTVLCOPT:http-referrer=https://topembed.pw/
