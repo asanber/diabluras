@@ -24,3 +24,818 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126274
 --
 #EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: ODISEA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="España: Señales Premium ⭐️",ESP-1: ODISEA ᴇsᴘᴀɴᴀ ᴴᴰ
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126277
+--
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV
+https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
+https://kusnadipepenk.github.io/ntn/disc.m3u8
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE",National Geographic (*)
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE",National Geographic Wil
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE",National Geographic Wild (*)
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+--
+#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/discovery%20channel.png?raw=true" group-title="KNOWLEDGE",Discovery Channel
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+--
+#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/discovery%20channel.png?raw=true" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+--
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel (HD)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+--
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="KNOWLEDGE",Dmax (HD)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="KNOWLEDGE",Dmax
+https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
+--
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="http://lonewolftvpr.com/logos/amc.png" group-title="USA",USA | AMC
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/209
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA | AMC +" tvg-logo="https://i.ibb.co/4Y3Z4P1/amcplus.png" group-title="USA",USA | AMC +
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/1602
+--
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="USA",USA | Discovery Channel
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/184
+--
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | Nat Geo" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" group-title="USA",USA | Nat Geo
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/141
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA | Nat Geo Wild" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" group-title="USA",USA | Nat Geo Wild
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/140
+--
+#EXTINF:-1 tvg-id="I18.90852.schedulesdirect.org" tvg-name="MX | AMC" tvg-logo="https://i.imgur.com/dcOciyn.png" group-title="Latinamerica",MX | AMC
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/78
+--
+#EXTINF:-1 tvg-id="I180.25788.schedulesdirect.org" tvg-name="MX | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="Latinamerica",MX | Discovery Channel
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/60
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | AMC" tvg-logo="" group-title="Canada",CA | AMC
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/46678
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA | NAT GEO WILD" tvg-logo="" group-title="Canada",CA | NAT GEO WILD
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/46794
+--
+#EXTINF:-1 tvg-id="" tvg-name="PE | AMC" tvg-logo="" group-title="Peru",PE | AMC
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/1741
+--
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/150px-Amc_theatres_logo.svg.png" group-title="USA HD ",US: AMC HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1527
+--
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="USA HD ",US: DISCOVERY CHANNEL
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1567
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US: DISCOVERY CHANNEL WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="USA HD ",US: DISCOVERY CHANNEL WEST
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1568
+--
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US: NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="USA HD ",US: NAT GEO WILD HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1641
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US: NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="USA HD ",US: NATIONAL GEOGRAPHIC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2065
+--
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="US: AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMC%2B_logo.png/220px-AMC%2B_logo.png" group-title="USA HD ",US: AMC+
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2073
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA2: AMC Network" tvg-logo="" group-title="USA BU",USA2: AMC Network
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100838
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA2: Nat Geo Wild" tvg-logo="" group-title="USA BU",USA2: Nat Geo Wild
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100929
+--
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US-sd: AMC" tvg-logo="" group-title="USA SD ",US-sd: AMC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110228
+--
+#EXTINF:-1 tvg-id="" tvg-name="US-sd: DISCOVERY CHANNEL" tvg-logo="" group-title="USA SD ",US-sd: DISCOVERY CHANNEL
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110248
+--
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US-sd: NAT GEO" tvg-logo="" group-title="USA SD ",US-sd: NAT GEO
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110285
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US-sd: NAT GEO WILD" tvg-logo="" group-title="USA SD ",US-sd: NAT GEO WILD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110286
+--
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Canada HD",CA: AMC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5197
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA:  DISCOVERY CHANNEL" tvg-logo="" group-title="Canada HD",CA:  DISCOVERY CHANNEL
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60977
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Canada HD",CA: NATIONAL GEOGRAPHIC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/61031
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="Canada HD",CA: NATIONAL GEOGRAPHIC WILD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/68475
+--
+#EXTINF:-1 tvg-id="" tvg-name="247_: AMC Thrillers" tvg-logo="" group-title="247s.",247_: AMC Thrillers
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114492
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP: AMC" tvg-logo="" group-title="Spanish HD",ESP: AMC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/29441
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX HD *" tvg-logo="" group-title="Dutch/German",DE: DMAX HD *
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83446
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL HD *" tvg-logo="" group-title="Dutch/German",DE: DISCOVERY CHANNEL HD *
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83478
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD *" tvg-logo="" group-title="Dutch/German",DE: NATIONAL GEOGRAPHIC HD *
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83479
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD (*)" tvg-logo="" group-title="Dutch/German",DE: NATIONAL GEOGRAPHIC HD (*)
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83480
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD *" tvg-logo="" group-title="Dutch/German",DE: NAT GEO WILD HD *
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83481
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD (local)" tvg-logo="" group-title="Dutch/German",DE: NAT GEO WILD HD (local)
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83482
+--
+#EXTINF:-1 tvg-id="" tvg-name="NL: National Geographic FHD" tvg-logo="" group-title="Netherlands",NL: National Geographic FHD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/86750
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: AMC HD 720P" tvg-logo="" group-title="Spanish HD",SP: AMC HD 720P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46776
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD HD 720P" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD HD 720P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46805
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP2 AMC HD" tvg-logo="" group-title="Spain-L",SP2 AMC HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/103499
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP2 Discovery Channel" tvg-logo="" group-title="Spain-L",SP2 Discovery Channel
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/103538
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD" tvg-logo="" group-title="Portuguese ",PT: AMC HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/104842
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC BREAK" tvg-logo="" group-title="Portuguese ",PT: AMC BREAK
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/104843
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD HD" tvg-logo="" group-title="Portuguese ",PT: NAT GEO WILD HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/104849
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Portuguese ",PT: NATIONAL GEOGRAPHIC HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/104850
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Portuguese ",PT: DISCOVERY CHANNEL HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/104851
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="" group-title="Portuguese ",PT: HISTORIA
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/104856
+--
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="UK HD",UK: NATIONAL GEOGRAPHIC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/6493
+--
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="UK HD",UK: DISCOVERY CHANNEL
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/6534
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: AMC HD 1080P" tvg-logo="" group-title="Spanish HD",SP: AMC HD 1080P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46775
+#EXTINF:-1 tvg-id="" tvg-name="SP: AMC SD" tvg-logo="" group-title="Spanish HD",SP: AMC SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46777
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC HD 1080P" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC HD 1080P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46801
+#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC HD 720P" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC HD 720P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46802
+#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46803
+#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD HD 1080P" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD HD 1080P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46804
+#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD SD" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46806
+#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: HISTORIA HD 1080P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46807
+#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA HD 720P" tvg-logo="" group-title="Spanish HD",SP: HISTORIA HD 720P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46808
+#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA SD" tvg-logo="" group-title="Spanish HD",SP: HISTORIA SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46809
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: DISCOVERY CHANNEL HD 1080P" tvg-logo="" group-title="Spanish HD",SP: DISCOVERY CHANNEL HD 1080P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46812
+#EXTINF:-1 tvg-id="" tvg-name="SP: DISCOVERY CHANNEL SD" tvg-logo="" group-title="Spanish HD",SP: DISCOVERY CHANNEL SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46813
+#EXTINF:-1 tvg-id="" tvg-name="SP: ODISEA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: ODISEA HD 1080P
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46815
+#EXTINF:-1 tvg-id="" tvg-name="SP: ODISEA SD" tvg-logo="" group-title="Spanish HD",SP: ODISEA SD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46816
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: Odisea" tvg-logo="" group-title="Spain Local",Sp_tvup: Odisea
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114809
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114824
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: Historia" tvg-logo="" group-title="Spain Local",Sp_tvup: Historia
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114850
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC Break" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC Break
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114853
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC Crime" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC Crime
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114860
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Amc HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Amc HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114932
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Discovery Channel HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Discovery Channel HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114970
+--
+#EXTINF:-1 tvg-id="" tvg-name="MX: AMC HD" tvg-logo="" group-title="Mexico Izzy",MX: AMC HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121208
+--
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Channel HD" tvg-logo="" group-title="Mexico Izzy",MX: Discovery Channel HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121250
+--
+#EXTINF:-1 tvg-id="" tvg-name="MX: National Geographic" tvg-logo="" group-title="Mexico Izzy",MX: National Geographic
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121353
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="" group-title="Brazilian HD",BR: AMC HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121509
+--
+#EXTINF:-1 tvg-id="" tvg-name="ABC28 (KAMC) Lubbock  (A)" tvg-logo="" group-title="USA Locals",ABC28 (KAMC) Lubbock  (A)
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101844
+--
+#EXTINF:-1 tvg-id="" tvg-name="[Rogers-CA] AMC" tvg-logo="" group-title="Canada SD",[Rogers-CA] AMC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/107448
+--
+#EXTINF:-1 tvg-id="" tvg-name="[Rogers-CA] NATGEOW" tvg-logo="" group-title="Canada SD",[Rogers-CA] NATGEOW
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/107512
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA- amc" tvg-logo="" group-title="Canada SD",CA- amc
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/111601
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA- discovery channel" tvg-logo="" group-title="Canada SD",CA- discovery channel
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/111619
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA- nat geo wild" tvg-logo="" group-title="Canada SD",CA- nat geo wild
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/111653
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD AMC" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD AMC
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112716
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD National Geographic" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD National Geographic
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112806
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD National Geographic Wild" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD National Geographic Wild
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112807
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD Historia" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Historia
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112913
+--
+#EXTINF:-1 tvg-id="" tvg-name="CANa AMC Canada HD" tvg-logo="" group-title="Canada HD",CANa AMC Canada HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114126
+#EXTINF:-1 tvg-id="" tvg-name="CANa AMC+ CANADA" tvg-logo="" group-title="Canada HD",CANa AMC+ CANADA
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114127
+--
+#EXTINF:-1 tvg-id="" tvg-name="CANa National Geographic" tvg-logo="" group-title="Canada HD",CANa National Geographic
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114178
+--
+#EXTINF:0 type="favorites" channelId="-1" name="C/S• AMC (HD) »2«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg", C/S• AMC (HD) »2«
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/105
+#EXTINF:0 type="favorites" channelId="-1" name="C/S• AMC (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg", C/S• AMC (HD) »1«
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/104
+--
+#EXTINF:0 type="favorites" channelId="-1" name="MX || AMC HD" group="→ MÉXICO II ←" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", MX || AMC HD
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/59429
+--
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery Channel SD | Cultural" group="→ MÉXICO II ←" logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg", MX || Discovery Channel SD | Cultural
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/59440
+--
+#EXTINF:0 type="favorites" channelId="-1" name="MX || AMC HD" group="→ MÉXICO II ←" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", MX || AMC HD
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/59520
+--
+#EXTINF:0 type="favorites" channelId="-1" name="MX || National Geographic HD | Cultural" group="→ MÉXICO II ←" logo="https://i.imgur.com/0oQmyEn.jpg", MX || National Geographic HD | Cultural
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/59528
+--
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery Channel HD | Cultural" group="→ MÉXICO II ←" logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", MX || Discovery Channel HD | Cultural
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/59530
+--
+#EXTINF:0 type="favorites" channelId="-1" name="LA_HD_MEX2:AMC HD" group="→ MÉXICO ←", LA_HD_MEX2:AMC HD
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/24888
+--
+#EXTINF:0 type="favorites" channelId="-1" name="LA_SD_MEX2:AMC" group="→ MÉXICO ←", LA_SD_MEX2:AMC
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/24967
+--
+#EXTINF:0 type="favorites" channelId="-1" name="ZCL• AMC (HD)" group="→ ZAPPING CHILE ←" logo="http://puntoz.net/LOGOS/amcp.png", ZCL• AMC (HD)
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/54469
+--
+#EXTINF:0 type="favorites" channelId="-1" name="ZCL• DISCOVERY CHANNEL (HD)" group="→ ZAPPING CHILE ←" logo="http://puntoz.xyz/LOGOS/discoveryp.png", ZCL• DISCOVERY CHANNEL (HD)
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/54486
+#EXTINF:0 type="favorites" channelId="-1" name="ZCL• NATGEO (HD)" group="→ ZAPPING CHILE ←" logo="http://puntoz.xyz/LOGOS/natgeop.png", ZCL• NATGEO (HD)
+http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/54483
+--
+#EXTINF:0 type="favorites" channelId="-1" name="CINE - AMC (Z)(1080)" group="CANALES-ENTRETENIMIENTO" logo="https://www.carlost.net/wp-content/uploads/2014/08/Logo-AMC.jpg", CINE - AMC (Z)(1080)
+http://tv.proyectox.vip:8080/live/ederlymaria1/dkdVws6hs8/9621.m3u8
+--
+#EXTINF:0 type="favorites" channelId="-1" name="DOC-Discovery Home & Health (M)(1080)" group="CANALES-DOCUMENTALES" logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png", DOC-Discovery Home & Health (M)(1080)
+http://tv.proyectox.vip:8080/live/ederlymaria1/dkdVws6hs8/9821.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DOC-Discovery TLC (L)(1080)" group="CANALES-DOCUMENTALES" logo="https://logos.xbots.com.mx/97.png", DOC-Discovery TLC (L)(1080)
+http://tv.proyectox.vip:8080/live/ederlymaria1/dkdVws6hs8/9825.m3u8
+--
+#EXTINF:0 type="favorites" channelId="2501" name="amc" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/640px-AMC_logo_2016.png", AMC
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10548
+--
+#EXTINF:0 type="favorites" channelId="2501", AMC HD
+http://181.78.105.146:8800/play/a04s
+--
+#EXTINF:0 type="favorites" channelId="-1" name="[+18⭕️] Dorcel TV FHD" group="→ ADULTOS DS ←" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzjbVoXL9t8xUEMgImRDBthCRBahHAaMCwidItpIWOgeoolSHKbfE5uZ9rkizj4HBPl_rxjaA09RtEPp-j_AGpoUBGCPrS4rrrNlMneJMkBZ3f4xDZE9_Gy2VWztqa2EBZLUVXVxht0kF/w1200-h630-p-k-no-nu/dorcel-tv-logotipo.png", [+18⭕️] Dorcel TV FHD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (7)" tvg-logo="" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD (7)" tvg-logo="" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD FHD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD (7)" tvg-logo="" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (7)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (6)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (6)" tvg-logo="https://vavoo.to/live2/logo/1793673705.png" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (6)" tvg-logo="https://vavoo.to/live2/logo/91810991.png" group-title="Arabia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Arabia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (6)" tvg-logo="" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (6)" tvg-logo="https://vavoo.to/live2/logo/3191034074.png" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="amc.bg" tvg-name="AMC (6)" tvg-logo="" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeohd.bg" tvg-name="NAT GEO (6)" tvg-logo="https://vavoo.to/live2/logo/1103383282.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeowild.bg" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="NAT GEO (6)" tvg-logo="https://vavoo.to/live2/logo/1341169782.png" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (6)" tvg-logo="https://vavoo.to/live2/logo/4163250572.png" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX (6)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="DISCOVERY CHANNEL (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="NAT GEO (6)" tvg-logo="https://vavoo.to/live2/logo/1735702308.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (6)" tvg-logo="https://vavoo.to/live2/logo/3428501495.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeo.nl" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeowild.nl" tvg-name="NAT GEO WILD (6)" tvg-logo="https://vavoo.to/live2/logo/2172927372.png" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="amc.pl" tvg-name="AMC (6)" tvg-logo="https://vavoo.to/live2/logo/2733166280.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="DISCOVERY HISTORY (6)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY HISTORY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="NAT GEO PEOPLE (6)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO PEOPLE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="TVP HISTORY (6)" tvg-logo="https://vavoo.to/live2/logo/2409796230.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP HISTORY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="AMC (6)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK (6)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC BREAK (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME (6)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC CRIME (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="HISTORIA (6)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HISTORIA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC (6)" tvg-logo="https://vavoo.to/live2/logo/1462723502.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC BREAK (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA (6)" tvg-logo="https://vavoo.to/live2/logo/1795451587.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL ODISEA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (6)" tvg-logo="https://vavoo.to/live2/logo/1934981639.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HISTORIA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD (6)" tvg-logo="https://vavoo.to/live2/logo/289455435.png" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX (6)" tvg-logo="https://vavoo.to/live2/logo/3157210436.png" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeopeople.tr" tvg-name="LOVE NATURE (6)" tvg-logo="https://vavoo.to/live2/logo/2593800839.png" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",LOVE NATURE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (1)" tvg-logo="https://vavoo.to/live2/logo/3240821492.jpeg" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="https://vavoo.to/live2/logo/312370955.jpeg" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC AFG (1)" tvg-logo="" group-title="Arabia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC AFG (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="BEIN AMC HD (1)" tvg-logo="https://vavoo.to/live2/logo/2202994448.png" group-title="Arabia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BEIN AMC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (1)" tvg-logo="https://vavoo.to/live2/logo/3704911677.jpeg" group-title="Arabia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (BACKUP) (1)" tvg-logo="" group-title="Arabia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (1)" tvg-logo="" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD (1)" tvg-logo="" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="https://vavoo.to/live2/logo/707035366.jpeg" group-title="France" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD+ (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX HD+ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD+ (1)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD+ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HISTORIA (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY HISTORIA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC WILD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="TVP HISTORIA (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP HISTORIA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HISTORIA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL ODISEA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HISTORIA (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: DISCOVERY CHANNEL HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: DMAX HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: DMAX HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: NATIONAL GEOGRAPHIC HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: NATIONAL GEOGRAPHIC HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: NATIONAL GEOGRAPHIC WILD HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4K TR: NATIONAL GEOGRAPHIC WILD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD+ (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL HD+ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HEVC (1)" tvg-logo="https://vavoo.to/live2/logo/3928493138.png" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX HEVC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD (1)" tvg-logo="https://vavoo.to/live2/logo/1519237116.png" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD+ (1)" tvg-logo="https://vavoo.to/live2/logo/124345657.png" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD HD+ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD+ (1)" tvg-logo="" group-title="Turkey" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC HD+ (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+--
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/discovery-channel.png" group-title="UNITED STATES",Discovery Channel
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nat-geo-wild-usa.png" group-title="UNITED STATES",Nat Geo Wild USA
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="df4659b3798e3486a66e3e00d09bc7f6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Staying Wild Season 2 Episode 6 (NAT GEO WILD USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="47e93db9ab7d856bc7afa9f783dd119f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A Traveler's Guide to the Planets Season 1 Episode 1 (NAT GEO WILD USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Series Y Shows De Tv",Stories By AMC  🇺🇸
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+--
+#EXTINF:-1 cuid="727" tvg-chno="727" tvg-name="Sala de Emergencias: Historias Inéditas 🇲🇽" tvg-id="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" group-title="Series Y Shows De Tv",Sala de Emergencias: Historias Inéditas 🇲🇽
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+--
+#EXTINF:-1 cuid="829" tvg-chno="829" tvg-name="AMC Thrillers 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Canales De Terror 😱 ",AMC Thrillers 🇺🇸
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+--
+#EXTINF:-1 cuid="893" tvg-chno="893" tvg-name="CGTN Documentary 🇺🇸" tvg-id="UK:.CGTN.Documentary.en" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CGTN-Documentary.webp" group-title="Historia Y Documentales 🏛️",CGTN Documentary 🇺🇸
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+--
+#EXTINF:-1 cuid="894" tvg-chno="894" tvg-name="Biography The Icons 🇺🇸" tvg-id="US26000201N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20240826T235527SQUARE.png" group-title="Historia Y Documentales 🏛️",Biography The Icons 🇺🇸
+https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8
+--
+#EXTINF:-1 cuid="895" tvg-chno="895" tvg-name="Music Legends 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10fa00f9-1e92-4991-ac14-e391416f6a7c/Music_Legends_artwork_horizontalrdx2.jpg" group-title="Historia Y Documentales 🏛️",Music Legends 🇺🇸 (vᴘɴ 🇺🇸)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MVSK7xh_LKaeJg6sWTT7
+--
+#EXTINF:-1 cuid="896" tvg-chno="896" tvg-name="PBS Digital Studios 🇺🇸" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="Historia Y Documentales 🏛️",PBS Digital Studios 🇺🇸
+https://d1nlhbqjulacw7.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-ams-aws/dbf93f0f-884f-4732-88d4-3099312fe274/4.m3u8
+--
+#EXTINF:-1 cuid="897" tvg-chno="897" tvg-name="PBS Digital Studios 🇺🇸" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="Historia Y Documentales 🏛️",PBS Digital Studios 🇺🇸
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_pbsdigitalstudios_002.m3u8
+--
+#EXTINF:-1 cuid="898" tvg-chno="898" tvg-name="House of Docs 🇮🇹" tvg-id="ITBD1100001B7" tvg-logo="https://images.pluto.tv/channels/6536608b4f123d000876b78b/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",House of Docs 🇮🇹
+https://stitcher.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927a
+--
+#EXTINF:-1 cuid="899" tvg-chno="899" tvg-name="WBTV Mysteries Worlds" tvg-logo="https://canvas.tubitv.com/opts/Mp7hCTYVBwW1MQ==/418647ca-40a0-41bf-be9b-936ab3ed08db/CIACEPACOgUxLjEuMg==" group-title="Historia Y Documentales 🏛️",WBTV Mysteries Worlds
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8
+--
+#EXTINF:-1 cuid="900" tvg-chno="900" tvg-name="Beyond History 🇺🇸" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",Beyond History 🇺🇸
+https://is.gd/6YJJ6Q?62fb9844db5a4a0007ebc2a3.m3u8
+--
+#EXTINF:-1 cuid="901" tvg-chno="901" tvg-name="World War TV 🇺🇸" tvg-id="6319ee0cf78bb10007ee5e6b" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20241106T143033SQUARE.png" group-title="Historia Y Documentales 🏛️",World War TV 🇺🇸
+https://is.gd/q0oEG2?6319ee0cf78bb10007ee5e6b.m3u8
+--
+#EXTINF:-1 cuid="902" tvg-chno="902" tvg-name="Wonder tv 🇺🇸" tvg-id="INBA4900011UB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900011UB_20220427T054723SQUARE.png_20220427054724.png" group-title="Historia Y Documentales 🏛️",Wonder tv 🇺🇸
+https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
+--
+#EXTINF:-1 cuid="903" tvg-chno="903" tvg-name="Inwonder tv 🇺🇸" tvg-id="USBA300023G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20240520T214553SQUARE.png" group-title="Historia Y Documentales 🏛️",Inwonder tv 🇺🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+--
+#EXTINF:-1 cuid="904" tvg-chno="904" tvg-name="Smithsonian Channel Selects 🇺🇸" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels//5f21ea08007a49000762d349/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",Smithsonian Channel Selects 🇺🇸
+https://bit.ly/4b3JR5d?profile=/5f21ea08007a49000762d349.m3u8
+--
+#EXTINF:-1 cuid="905" tvg-chno="905" tvg-name="Doc+ 🇺🇸" tvg-id="CABC2300019UD" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png" group-title="Historia Y Documentales 🏛️",Doc+ 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
+--
+#EXTINF:-1 cuid="906" tvg-chno="906" tvg-name="Documentary+ 🇨🇦" tvg-id="CABC2300019UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300019UD_20240730T012840SQUARE.png" group-title="Historia Y Documentales 🏛️",Documentary+ 🇨🇦
+https://d1m3onyj8k8btx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-51sz7lei1ddj6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CABC2300019UD
+--
+#EXTINF:-1 cuid="907" tvg-chno="907" tvg-name="Documentary+ 🇺🇸" tvg-id="plex.tv.Documentary+.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png" group-title="Historia Y Documentales 🏛️",Documentary+ 🇺🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
+--
+#EXTINF:-1 cuid="908" tvg-chno="908" tvg-name="History Hit 🇺🇸" tvg-id="GBBA2200005ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900010X3_20220824T022304SQUARE.png_20220824022305.png" group-title="Historia Y Documentales 🏛️",History Hit 🇺🇸
+https://bit.ly/3Ocb6Rn?profile=GBBA2200005ZA.m3u8
+--
+#EXTINF:-1 cuid="909" tvg-chno="909" tvg-name="Historias de Ultratumba 🇲🇽" tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",Historias de Ultratumba 🇲🇽
+https://bit.ly/39vxTpZ?profile=5f4d3696d938c900072679fd.m3u8
+--
+#EXTINF:-1 cuid="910" tvg-chno="910" tvg-name="History 🇲🇽" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",History 🇲🇽
+https://bit.ly/3y5kHCd?profile=5a4d35dfa5c02e717a234f86.m3u8
+--
+#EXTINF:-1 cuid="911" tvg-chno="911" tvg-name="History 🇺🇸" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",History 🇺🇸
+https://bit.ly/historypluto?profile=5d4af1803e7983b391d73b13.m3u8
+--
+#EXTINF:-1 cuid="912" tvg-chno="912" tvg-name="Autentic History 🇺🇸" tvg-logo="https://www.autentic.com/images/authentic_website/index.gif" group-title="Historia Y Documentales 🏛️",Autentic History 🇺🇸
+https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
+--
+#EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",AMC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Discovery Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",National Geographic (NGC)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Nat Geo Wild USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",AMC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Discovery Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",National Geographic (NGC)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Nat Geo Wild USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+--
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1fce14bdd045640e5a7cfd10f7a30de7.png" group-title="Entertainment",Stories by AMC
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+--
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6845396_preview.png" group-title="Movies",AMC
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCZamcc.png" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
