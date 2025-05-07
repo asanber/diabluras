@@ -198,10 +198,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",NFL Network
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",NFL Network
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
---
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",NFL Network
+#EXTINF:-1 tvg-id="unknown" tvg-name="NFL Network" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", NFL Network
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel

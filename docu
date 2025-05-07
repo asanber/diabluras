@@ -734,9 +734,6 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
-#EXTINF:-1 tvg-id="0de6feb476af6c7652657e65ad392c9c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Port Protection Alaska Season 8 Episode 8 (NATIONAL GEOGRAPHIC (NGC))
-#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
---
 #EXTINF:-1 tvg-id="2456457b90e41d54bae95d159b26473e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Border Security: Australia's Front Line Season 15 Episode 5 (NATIONAL GEOGRAPHIC (NGC))
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
@@ -744,6 +741,15 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
 #EXTINF:-1 tvg-id="3fe2383c87ddddc18af5b4e3fb8f2ed2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Life Below Zero: Next Generation Season 5 (NAT GEO WILD USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="8ee70fbd882b52b2b0a1508615c10742" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Genghis Khan: The Secret History of the Mongols Season 1 Episode 3 (NATIONAL GEOGRAPHIC (NGC))
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="e30a83299a28dabf4f774214ff90f36d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Europe From Above Season 6 Episode 2 (NATIONAL GEOGRAPHIC (NGC))
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="dea8bef16e0abe913adb85abf4d0346c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Europe From Above Season 6 Episode 3 (NATIONAL GEOGRAPHIC (NGC))
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
 #EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Series Y Shows De Tv",Stories By AMC  🇺🇸
@@ -815,28 +821,16 @@ https://bit.ly/historypluto?profile=5d4af1803e7983b391d73b13.m3u8
 #EXTINF:-1 cuid="912" tvg-chno="912" tvg-name="Autentic History 🇺🇸" tvg-logo="https://www.autentic.com/images/authentic_website/index.gif" group-title="Historia Y Documentales 🏛️",Autentic History 🇺🇸
 https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 --
-#EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",AMC USA
+#EXTINF:-1 tvg-id="unknown" tvg-name="AMC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", AMC USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Discovery Channel
+#EXTINF:-1 tvg-id="unknown" tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Discovery Channel
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",National Geographic (NGC)
+#EXTINF:-1 tvg-id="unknown" tvg-name="National Geographic (NGC)" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", National Geographic (NGC)
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Nat Geo Wild USA
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
---
-#EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",AMC USA
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
---
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Discovery Channel
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
---
-#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",National Geographic (NGC)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
---
-#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Nat Geo Wild USA
+#EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Nat Geo Wild USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1fce14bdd045640e5a7cfd10f7a30de7.png" group-title="Entertainment",Stories by AMC
