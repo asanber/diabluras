@@ -43,17 +43,17 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4319
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="daznlaliga.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 07)",La Liga 01 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 08)",La Liga 01 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1572
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 07)",La Liga 02 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 08)",La Liga 02 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1571
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 07)",La Liga 03 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 08)",La Liga 03 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1573
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 07)",La Liga 04 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 08)",La Liga 04 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/2881
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 07)",La Liga 05 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 08)",La Liga 05 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1575
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 06 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 07)",La Liga 06 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 06 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 08)",La Liga 06 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1576
 --
 #EXTINF:-1 tvg-id="360north.us" tvg-name="ES: BEIN EXTRA " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/team_logos/bein-laliga_c.png" group-title="World Sports",ES: BEIN EXTRA 
@@ -148,10 +148,61 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-laliga.png" group-title="SOUTH AFRICA",SuperSport LaLiga
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
-#EXTINF:-1 tvg-id="ec485d7b5cd1b14b0775b37d2076e2ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Guatemala Liga Nacional : Cobán Imperial vs Antigua GFC (FOX DEPORTES)
+#EXTINF:-1 tvg-id="86d0c23b9a0b327f5303788d1214e910" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Conference League : Fiorentina vs Real Betis (SUPERSPORT LALIGA)
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
-#EXTINF:-1 tvg-id="86d0c23b9a0b327f5303788d1214e910" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Conference League : Fiorentina vs Real Betis (SUPERSPORT LALIGA)
+#EXTINF:-1 tvg-id="6dc7429f48ca7704eabaefbf606f0f23" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Cádiz vs Almería (LALIGA TV HYPERMOTION)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (DAZN LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (LALIGATV UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (DAZN ELEVEN 2 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (CANAL+ SPORT 2 POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (BEIN SPORTS MAX 4 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (DIGI SPORT 3 ROMANIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (ESPN DEPORTES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (MATCH! FOOTBALL 2 RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (ARENA 1 PREMIUM SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (NOVA SPORTS PRIME GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (ARENA SPORT 1 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (TV4 SPORT LIVE 1)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (MAX SPORT 4 BULGARIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (ESPN2 ARGENTINA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (SUPERSPORT LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (BEIN SPORTS MENA 3)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="0e81b1e4cba760e1cd9babb68a10097c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Las Palmas vs Rayo Vallecano (BEIN SPORTS MENA ENGLISH 2)
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
 #EXTINF:-1 cuid="1080" tvg-chno="1080" tvg-name="La liga Inside 🇪🇸" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",La liga Inside 🇪🇸
@@ -338,34 +389,34 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/girona-laliga.jpg",[789] Highlights PSV Eindhoven vs Girona | BLV Bánh Cuốn | 6.11.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/girona-laliga.jpg",[797] Highlights PSV Eindhoven vs Girona | BLV Bánh Cuốn | 6.11.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/girona-laliga.jpg",[861] Highlights Girona vs Slovan Bratislava | BLV Mèo Ú | 23.10.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/girona-laliga.jpg",[869] Highlights Girona vs Slovan Bratislava | BLV Mèo Ú | 23.10.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1742] Highlights Girona vs Real Betis | BLV Bánh Cuốn | 31.1.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1750] Highlights Girona vs Real Betis | BLV Bánh Cuốn | 31.1.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1849] Highlights Girona vs Osasuna | BLV Người Thỏ | 10.3.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1857] Highlights Girona vs Osasuna | BLV Người Thỏ | 10.3.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1873] Highlights Mallorca vs Girona | BLV Trâu Gác Bếp | 4.3.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1881] Highlights Mallorca vs Girona | BLV Trâu Gác Bếp | 4.3.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1947] Highlights Girona vs Athletic Bilbao | BLV Bún Chả | 20.2.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[1955] Highlights Girona vs Athletic Bilbao | BLV Bún Chả | 20.2.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[2137] Highlights Girona vs Rayo Vallecano | BLV Trâu Gác Bếp | 18.1.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[2145] Highlights Girona vs Rayo Vallecano | BLV Trâu Gác Bếp | 18.1.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[2218] Highlights Girona vs Elche | BLV Người Sói | 7.1.24
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[2226] Highlights Girona vs Elche | BLV Người Sói | 7.1.24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[2322] Highlights Girona vs Real Betis | BLV Trâu Gác Bếp | 22.12.23
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[2330] Highlights Girona vs Real Betis | BLV Trâu Gác Bếp | 22.12.23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
-#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[3146] Highlights Girona - Granada | BLV Người Cồn | 19.09.23
+#EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://static.vebotv.app/news/girona-laliga.jpg",[3154] Highlights Girona - Granada | BLV Người Cồn | 19.09.23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 --
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports La Liga HD 1080p (HD)
