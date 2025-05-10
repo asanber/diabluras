@@ -104,7 +104,7 @@ http://cdn1host.online:2999/xman2/hhqgjFfHXF/46794
 #EXTINF:-1 tvg-id="" tvg-name="PE | AMC" tvg-logo="" group-title="Peru",PE | AMC
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1741
 --
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/150px-Amc_theatres_logo.svg.png" group-title="USA HD ",US: AMC HD
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA HD ",US: AMC HD
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1527
 --
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="USA HD ",US: DISCOVERY CHANNEL
@@ -732,6 +732,12 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b40be5f0944a5d6232920a3a8e6c69be" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Walking Dead: Dead City Season 2 Episode 2 (AMC USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bdb117bff88afcb098dbbda73adb2302" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Secrets of the Zoo: Down Under Season 5 Episode 1 (NAT GEO WILD USA)
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
 #EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Series Y Shows De Tv",Stories By AMC  🇺🇸
