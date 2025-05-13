@@ -177,7 +177,13 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" group-title="SOUTH AFRICA",SuperSport Golf
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
-#EXTINF:-1 tvg-id="0d556880759492f74e31610b0d234015" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",GOlf : Live From the PGA Championship (GOLF CHANNEL)
+#EXTINF:-1 tvg-id="6be2d4bdee15a5599987979022ff3a86" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",PGA Championship Build-up to the 2025 PGA Championship (GOLF CHANNEL USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="6be2d4bdee15a5599987979022ff3a86" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",PGA Championship Build-up to the 2025 PGA Championship (SKY SPORTS GOLF UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="42ff8311e58506f81b4a8a2b86219d73" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",PGA Championship Further build-up to the 2025 (SKY SPORTS GOLF UK)
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
 #EXTINF:-1 cuid="1126" tvg-chno="1126" tvg-name="NBC Golf 🇺🇸" tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Canales De Golf 🏌️ ",NBC Golf 🇺🇸
@@ -252,7 +258,7 @@ http://127.0.0.1:6878/ace/getstream?id=f41f1096862767289620be5bd85727f946a434db&
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png", M+ Golf 2 1080  e258
 http://127.0.0.1:6878/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254ad5&.mp4
 --
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Golf Channel English (SD)
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
 --
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sports Golf (FHD)

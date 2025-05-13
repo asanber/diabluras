@@ -43,17 +43,17 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4319
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="daznlaliga.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 01 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 - Real Valladolid vs Girona 1PM EST" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 13)",La Liga 01 - Real Valladolid vs Girona 1PM EST
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1572
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 02 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 - Real Sociedad vs Celta 2PM EST" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 13)",La Liga 02 - Real Sociedad vs Celta 2PM EST
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1571
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 03 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 - Sevilla vs Las Palmas 3PM EST" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 13)",La Liga 03 - Sevilla vs Las Palmas 3PM EST
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1573
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 04 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 13)",La Liga 04 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/2881
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 05 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 13)",La Liga 05 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1575
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 06 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/TBA)",La Liga 06 -
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 06 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/May 13)",La Liga 06 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1576
 --
 #EXTINF:-1 tvg-id="360north.us" tvg-name="ES: BEIN EXTRA " tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/team_logos/bein-laliga_c.png" group-title="World Sports",ES: BEIN EXTRA 
@@ -148,7 +148,388 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-laliga.png" group-title="SOUTH AFRICA",SuperSport LaLiga
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
-#EXTINF:-1 tvg-id="5aa283584eeb8d580786852de134951a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Granada vs Eibar (LALIGA TV HYPERMOTION)
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (M+ LALIGA TV)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (LALIGATV UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (VIAPLAY SPORTS 1 UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (PREMIER SPORTS 1 IRELAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (DAZN1 DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (BEIN SPORTS AUSTRALIA 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (DAZN ELEVEN 1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (ELEVEN SPORTS 2 POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (BEIN SPORTS MAX 4 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (ZIGGO SPORT 1 NL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (ZIGGO SPORT 5 NL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (MATCH! FUTBOL 2 RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (ESPN DEPORTES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (NOVA SPORTS START GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (ARENA 1 PREMIUM SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (NOVA SPORTS 1 GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (ARENA SPORT 1 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (TV4 FOTBALL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (MAX SPORT 3 BULGARIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (ESPN2 ARGENTINA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (SUPERSPORT LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="305fa3d1ecbd3d1d2f2286229e33e16f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Valladolid vs Girona (BEIN SPORTS MENA 1)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (DAZN LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (ESPN+ USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (DAZN2 DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (DAZN ELEVEN 2 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (ELEVEN SPORTS 1 POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (DIGI SPORT 3 ROMANIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (PRIMA SPORT 1 ROMANIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (BEIN SPORTS 2 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (ZIGGO SPORT 2 NL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (MATCH! FUTBOL 3 RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (ARENA 2 PREMIUM SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (ARENA SPORT 2 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (TV4 SPORTKANALEN)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (MAX SPORT 4 BULGARIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (ESPN3 BRAZIL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (SUPERSPORT VARIETY 3)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="60fe5ae1353d038781bca07c7cf50ae0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Sociedad vs Celta (BEIN SPORTS MENA 3)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (DAZN LALIGA 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (GOL PLAY SPAIN)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (LALIGATV UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (VIAPLAY SPORTS 1 UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (PREMIER SPORTS 1 IRELAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (BEIN SPORTS AUSTRALIA 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (DAZN1 DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (DAZN ELEVEN 1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (CANAL+ SPORT POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (BEIN SPORTS 1 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (ESPN DEPORTES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (CYTAVISION SPORTS 7 CYPRUS)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (MATCH TV RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (MATCH! FUTBOL 2 RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (DIGI SPORT 4 ROMANIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (ZIGGO SPORT 1 NL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (ARENA 1 PREMIUM SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (NOVA SPORTS PRIME GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (ARENA SPORT 1 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (MAX SPORT 3 BULGARIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (TV4 FOTBALL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (ESPN2 ARGENTINA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (SUPERSPORT LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (BEIN SPORTS MENA 1)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="bcb87f92081cc44349586e91cb887c34" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Sevilla vs Las Palmas (BEIN SPORTS MENA ENGLISH 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (DAZN LALIGA 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (M+ LALIGA TV)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (DAZN1 DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (LALIGATV UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (DAZN ELEVEN 1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (VIAPLAY SPORTS 2 UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (ELEVEN SPORTS 1 POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (PREMIER SPORTS 2 IRELAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (BEIN SPORTS AUSTRALIA 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (DAZN ELEVEN 2 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (CANAL+ SPORT POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (BEIN SPORTS 2 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (BEIN SPORTS MAX 5 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (ZIGGO SPORT 2 NL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (DAZN ZONA IT)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (DIGI SPORT 3 ROMANIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (MATCH! FUTBOL 3 RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (ARENA SPORT 2 SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (NOVA SPORTS 1 GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (MATCH! FUTBOL 2 RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (DIGI SPORT 2 ROMANIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (BEIN SPORTS 1 MALAYSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (BEIN SPORTS 3 MALAYSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (ESPN DEPORTES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (ARENA SPORT 2 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (ARENA 1 PREMIUM SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (TV4 FOTBOLL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (NOVA SPORTS 4 GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (MAX SPORT 4 BULGARIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (ARENA SPORT 1 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (SUPERSPORT LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (ESPN3 BRAZIL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (SUPERSPORT MAXIMO 1)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (TV4 SPORT LIVE 1)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="37f8386ac096c4b2754dbdddae44502a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Alavés vs Valencia (BEIN SPORTS MENA 3)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="53f299b3e878a629a0ad878a48e266f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Villarreal vs Leganés (BEIN SPORTS MENA 4)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (DAZN LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (DAZN LALIGA 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (LALIGATV UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (VIAPLAY SPORTS 2 UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (DAZN1 DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (PREMIER SPORTS 2 IRELAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (BEIN SPORTS AUSTRALIA 2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (DAZN ELEVEN 1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (CANAL+ SPORT POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (DAZN ZONA IT)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (BEIN SPORTS 2 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (CANAL+ SPORT 3 AFRIQUE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (ZIGGO SPORT 2 NL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (ESPN DEPORTES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (MATCH! FUTBOL 2 RUSSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (ARENA 2 PREMIUM SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (NOVA SPORTS PRIME GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (ARENA SPORT 1 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (DIGI SPORT 2 ROMANIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (BEIN SPORTS 1 MALAYSIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (TV2 SPORT X DENMARK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (TV4 FOTBALL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (MAX SPORT 4 BULGARIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (ESPN ARGENTINA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (SUPERSPORT LALIGA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (SUPERSPORT MAXIMO 1)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (BEIN SPORTS MENA 1)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+--
+#EXTINF:-1 tvg-id="b17daa9221cbada0b17cebd04f07018f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Real Madrid vs Mallorca (BEIN SPORTS MENA ENGLISH 2)
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 --
 #EXTINF:-1 cuid="1080" tvg-chno="1080" tvg-name="La liga Inside 🇪🇸" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",La liga Inside 🇪🇸
@@ -160,38 +541,8 @@ https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/ind
 #EXTINF:-1, VIX LALIGA 🇲🇽
 http://45.68.35.218:4001/play/a01s/index.m3u8
 --
-#EXTINF:-1, SKY LALIGA 🇲🇽
-http://45.228.234.173:9999/play/a00a/index.m3u8
---
-#EXTINF:-1,LALIGA TV 🇬🇧
-http://pddqrmu.mmastertv.xyz:80/RafetSalii/2893482853/191145
---
-#EXTINF:-1, LaLiga TV 🇬🇧 
-https://directplaylive.sbs/live/foot6/chunks.m3u8
---
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:2000/play/a08m/index.m3u8
---
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
---
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:6060/play/a05i
---
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.109.49:8000/play/a06r/index.m3u8
---
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://45.5.117.182:8000/play/jnl0/index.m3u8
---
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:8800/play/a07h
---
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://190.111.16.106:40000/play/a09r
---
-#EXTINF:-1, S LALIGA 🇿🇦
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 --
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
