@@ -359,6 +359,18 @@ http://181.78.105.146:8800/play/a04s
 #EXTINF:0 type="favorites" channelId="-1" name="[+18⭕️] Dorcel TV FHD" group="→ ADULTOS DS ←" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzjbVoXL9t8xUEMgImRDBthCRBahHAaMCwidItpIWOgeoolSHKbfE5uZ9rkizj4HBPl_rxjaA09RtEPp-j_AGpoUBGCPrS4rrrNlMneJMkBZ3f4xDZE9_Gy2VWztqa2EBZLUVXVxht0kF/w1200-h630-p-k-no-nu/dorcel-tv-logotipo.png", [+18⭕️] Dorcel TV FHD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 --
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/discovery-channel.png" group-title="UNITED STATES",Discovery Channel
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nat-geo-wild-usa.png" group-title="UNITED STATES",Nat Geo Wild USA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
@@ -722,23 +734,35 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="AMC.-.Eastern.Feed.us",AMC - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/discovery-channel.png" group-title="UNITED STATES",Discovery Channel
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="AMC.-.Eastern.Feed.us",AMC - Eastern Feed (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nat-geo-wild-usa.png" group-title="UNITED STATES",Nat Geo Wild USA
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",Discovery Channel (US) - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",Discovery Channel (US) - Eastern Feed (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="db9c3c0326eccbcae0c8b0cd8befcb05" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Genghis Khan: The Secret History of the Mongols Season 1 Episode 5 (NATIONAL GEOGRAPHIC (NGC))
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.US.-.Eastern.us",National Geographic US - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="9fde5c2a4b7b8fae582f9d31a9ffd6f6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Europe From Above Season 6 Episode 6 (NATIONAL GEOGRAPHIC (NGC))
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.US.-.Eastern.us",National Geographic US - Eastern (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
+--
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.Wild.us",National Geographic Wild
+#EXTVLCOPT:http-origin=https://thetvapp.to
+--
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.Wild.us",National Geographic Wild (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
+--
+#EXTINF:-1 group-title="USA",Discovery Channel [USA]
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+--
+#EXTINF:-1 group-title="USA",National Geographic [USA]
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 --
 #EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Series Y Shows De Tv",Stories By AMC  🇺🇸
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8

@@ -79,6 +79,12 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="CANa Global News Toronto" tvg-logo="" group-title="Canada HD",CANa Global News Toronto
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114163
 --
+#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO TV (6)" tvg-logo="https://vavoo.to/live2/logo/1390269076.jpeg" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EL TORO TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
@@ -103,32 +109,17 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="TOROS TV HD (1)" tvg-logo="" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TOROS TV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
-#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Detroit Tigers @ Toronto Blue Jays | 2025-05-16T23:07:00Z
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Detroit Tigers @ Toronto Blue Jays | 2025-05-16T23:07:00Z (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="11397f40bb6cfd3b39e384f4f37006ff" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Tampa Bay Rays (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Toronto Maple Leafs @ Florida Panthers | 2025-05-17T00:10:00Z
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
-#EXTINF:-1 tvg-id="11397f40bb6cfd3b39e384f4f37006ff" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Tampa Bay Rays (TNT SPORTS 1 UK)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
---
-#EXTINF:-1 tvg-id="11397f40bb6cfd3b39e384f4f37006ff" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Tampa Bay Rays (BALLY SPORTS SUN)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
---
-#EXTINF:-1 tvg-id="11397f40bb6cfd3b39e384f4f37006ff" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Tampa Bay Rays (SPORTSNET EAST)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
---
-#EXTINF:-1 tvg-id="11397f40bb6cfd3b39e384f4f37006ff" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Tampa Bay Rays (SPORTSNET ONTARIO)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
---
-#EXTINF:-1 tvg-id="11397f40bb6cfd3b39e384f4f37006ff" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Tampa Bay Rays (SPORTSNET WEST)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
---
-#EXTINF:-1 tvg-id="11397f40bb6cfd3b39e384f4f37006ff" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Tampa Bay Rays (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Toronto Maple Leafs @ Florida Panthers | 2025-05-17T00:10:00Z (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -139,5 +130,5 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg" group-title="España",El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 --
-#EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://static.vebotv.app/news/mia-21923.jpg",[3152] Full match Inter Miami CF vs Toronto FC | BLV Trâu Gác Bếp | 21.9.23
+#EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://static.vebotv.app/news/mia-21923.jpg",[3154] Full match Inter Miami CF vs Toronto FC | BLV Trâu Gác Bếp | 21.9.23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
