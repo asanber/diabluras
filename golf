@@ -93,6 +93,21 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" group-title="SOUTH AFRICA",SuperSport Golf
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png" group-title="UNITED STATES",GOLF Channel USA
+https://dproxy.pigzillaaaaa.workers.dev/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTgvbW9uby5tM3U4
+--
+#EXTINF:-1 tvg-id="MovistarGolf(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-golf.png" group-title="SPAIN",Movistar Golf Spain
+https://dproxy.pigzillaaaaa.workers.dev/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI4L21vbm8ubTN1OA==
+--
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-golf-it.png" group-title="ITALY",Sky Sports Golf Italy
+https://dproxy.pigzillaaaaa.workers.dev/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NzQvbW9uby5tM3U4
+--
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png" group-title="UNITED KINGDOM",Sky Sports Golf UK
+https://dproxy.pigzillaaaaa.workers.dev/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03MC9tb25vLm0zdTg=
+--
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" group-title="SOUTH AFRICA",SuperSport Golf
+https://dproxy.pigzillaaaaa.workers.dev/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjIvbW9uby5tM3U4
+--
 #EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB GOLF (7)" tvg-logo="" group-title="Balkans" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT KLUB GOLF (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 --
@@ -188,6 +203,15 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 --
 #EXTINF:-1 group-title="UK",Sky Sports Golf [UK]
 #EXTVLCOPT:http-referrer=https://topembed.pw/
+--
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="GOLF Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="SPORTS",GOLF Channel USA HD
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+--
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="GOLF Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="SPORTS",GOLF Channel USA SD
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+--
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="GOLF Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="SPORTS",GOLF Channel USA
+#EXTVLCOPT:http-referrer=https://tvpass.org/
 --
 #EXTINF:-1 cuid="1126" tvg-chno="1126" tvg-name="NBC Golf 🇺🇸" tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Canales De Golf 🏌️ ",NBC Golf 🇺🇸
 http://49.0.64.96:8007/GOLF
