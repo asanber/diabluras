@@ -372,16 +372,16 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
-https://dproxy-o.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzAzL21vbm8ubTN1OA==
+https://dproxy-o.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzAzL21vbm8ubTN1OA==.m3u8
 --
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/discovery-channel.png" group-title="UNITED STATES",Discovery Channel
-https://dproxy-o.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTMvbW9uby5tM3U4
+https://dproxy-o.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTMvbW9uby5tM3U4.m3u8
 --
 #EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nat-geo-wild-usa.png" group-title="UNITED STATES",Nat Geo Wild USA
-https://dproxy-o.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4
+https://dproxy-o.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4.m3u8
 --
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
-https://dproxy-o.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4
+https://dproxy-o.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Albania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
