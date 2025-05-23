@@ -139,5 +139,29 @@ https://dproxy-o.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1p
 #EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg" group-title="España",El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 --
-#EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://static.vebotv.app/news/mia-21923.jpg",[3184] Full match Inter Miami CF vs Toronto FC | BLV Trâu Gác Bếp | 21.9.23
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/d85b4da177906440b0b1616aff569914.png",06h00 Toronto FC II vs Huntsville City (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://static.vebotv.app/news/mia-21923.jpg",[3193] Full match Inter Miami CF vs Toronto FC | BLV Trâu Gác Bếp | 21.9.23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
