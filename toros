@@ -5,9 +5,6 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4362
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="España: Señales Premium ⭐️",ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126192
 --
-#EXTINF:-1 tvg-id="" tvg-name="MLS 07 - Toronto FC vs Philadelphia Union 7:30PM EST" tvg-logo="https://i.ibb.co/8jjgGtr/mls.png" group-title="Soccer (Worldwide Soccer Leagues/May 28)",MLS 07 - Toronto FC vs Philadelphia Union 7:30PM EST
-http://cdn1host.online:2999/xman2/hhqgjFfHXF/8179
---
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC TORONTO" tvg-logo="" group-title="Canada",CA | CBC TORONTO
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/46697
 --
@@ -82,7 +79,7 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="CANa Global News Toronto" tvg-logo="" group-title="Canada HD",CANa Global News Toronto
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114163
 --
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K2fVnRz.png" group-title="MLB",Toronto Blue Jays vs. Texas Rangers
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3v9kfkE.png" group-title="MLB",Athletics vs. Toronto Blue Jays
 #EXTVLCOPT:http-origin=https://ppv.wtf
 --
 #EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
@@ -90,15 +87,6 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 --
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
---
-#EXTINF:-1 tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbc.png" group-title="CANADA",CBC Canada
-https://dproxy-o.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODMyL21vbm8ubTN1OA==.m3u8
---
-#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
-https://dproxy-o.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtODM4L21vbm8ubTN1OA==.m3u8
---
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
-https://dproxy-o.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDkvbW9uby5tM3U4.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO TV (6)" tvg-logo="https://vavoo.to/live2/logo/1390269076.jpeg" group-title="Spain" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EL TORO TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
