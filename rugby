@@ -46,8 +46,5 @@ https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8
 #EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Supersport",SS RUGBY
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 --
-#EXTINF:-1 tvg-logo="https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/7/2015/05/rw-logo-sml@2x.png" group-title="Sports",Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
---
 #EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="Sports | World", Supersport_Rugby-FHD
 https://7pal.short.gy/spersprb
