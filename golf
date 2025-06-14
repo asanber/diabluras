@@ -93,27 +93,6 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" group-title="SOUTH AFRICA",SuperSport Golf
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="LIVE TV CHANNELS" tvg-id="Golf.Channel.USA.us",GOLF Channel USA
-#EXTVLCOPT:http-origin=https://thetvapp.to
---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="LIVE TV CHANNELS" tvg-id="Golf.Channel.USA.us",GOLF Channel USA (SD)
-#EXTVLCOPT:http-origin=https://thetvapp.to
---
-#EXTINF:-1 group-title="USA",GOLF Channel [USA]
-#EXTVLCOPT:http-referrer=https://topembed.pw/
---
-#EXTINF:-1 group-title="UK",Sky Sports Golf [UK]
-#EXTVLCOPT:http-referrer=https://topembed.pw/
---
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="GOLF Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="SPORTS",GOLF Channel USA HD
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="GOLF Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="SPORTS",GOLF Channel USA SD
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="GOLF Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="SPORTS",GOLF Channel USA
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
 #EXTINF:-1 cuid="1126" tvg-chno="1126" tvg-name="NBC Golf 🇺🇸" tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Canales De Golf 🏌️ ",NBC Golf 🇺🇸
 http://49.0.64.96:8007/GOLF
 --

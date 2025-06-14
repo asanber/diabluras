@@ -186,42 +186,6 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nfl-network-usa.png" group-title="UNITED STATES",NFL Network
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="NFL.Network.us",NFL Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="NFL.Network.us",NFL Network (SD)
-#EXTVLCOPT:http-origin=https://thetvapp.to
---
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NFL.RedZone.us",NFL RedZone
-#EXTVLCOPT:http-origin=https://thetvapp.to
---
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NFL.RedZone.us",NFL RedZone (SD)
-#EXTVLCOPT:http-origin=https://thetvapp.to
---
-#EXTINF:-1 group-title="USA",NFL Network [USA]
-#EXTVLCOPT:http-referrer=https://topembed.pw/
---
-#EXTINF:-1 group-title="USA",NFL Redzone [USA]
-#EXTVLCOPT:http-referrer=https://topembed.pw/
---
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="SPORTS",NFL Network HD
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="SPORTS",NFL Network SD
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
-#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="SPORTS",NFL RedZone HD
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
-#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="SPORTS",NFL RedZone SD
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="SPORTS",NFL Network
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
-#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="SPORTS",NFL RedZone
-#EXTVLCOPT:http-referrer=https://tvpass.org/
---
 #EXTINF:-1 cuid="1095" tvg-chno="1095" tvg-name="NFL 🇺🇸" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",NFL 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 --
