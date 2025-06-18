@@ -96,6 +96,9 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1  tvg-id="SkySp.Golf.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Golf UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium70%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 --
+#EXTINF:-1  tvg-id="Golf.Channel.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="DaddyLive USA",GOLF Channel USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+--
 #EXTINF:-1  tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="A1xmedia UK Sports" radio="false",Sky Sports Golf FHD
 https://a1xs.vip/2000009
 --
@@ -104,6 +107,9 @@ https://a1xs.vip/40000060
 --
 #EXTINF:-1  tvg-id="SkySp.Golf.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-hz-uk.png?raw=true" group-title="DaddyLive UK",Sky Sports Golf UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium70%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-id="Golf.Channel.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="DaddyLive USA",GOLF Channel USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 --
 #EXTINF:-1  tvg-name="NBC Golf" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",NBC Golf
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8

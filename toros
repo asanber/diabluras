@@ -82,7 +82,13 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="NBA.League.Pass.10.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/misc/no-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Arizona Diamondbacks (MLB League Pass)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 --
-#EXTINF:-1 tvg-id="Sportsnet.One.4K.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Arizona Diamondbacks (Sportsnet One)
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Arizona Diamondbacks (Sportsnet Ontario)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+--
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Arizona Diamondbacks (Sportsnet West)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+--
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Arizona Diamondbacks (Sportsnet East)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 --
 #EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
@@ -108,6 +114,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 #EXTINF:-1  tvg-name="Arizona Diamondbacks @ Toronto Blue Jays (06/17 7:08 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="MLB",Arizona Diamondbacks @ Toronto Blue Jays (06/17 7:08 PM ET) HD
 https://tvpass.org/live/mlb-12/hd
 #EXTINF:-1  tvg-name="Arizona Diamondbacks @ Toronto Blue Jays (06/17 7:08 PM ET) SD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="MLB",Arizona Diamondbacks @ Toronto Blue Jays (06/17 7:08 PM ET) SD
+https://tvpass.org/live/mlb-12/sd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) HD" group-title="MLB",Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) HD
+https://tvpass.org/live/mlb-12/hd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) SD" group-title="MLB",Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) SD
 https://tvpass.org/live/mlb-12/sd
 --
 #EXTINF:-1  tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png" group-title="Mystique CA" radio="false",CBC Toronto (CBLT)
@@ -151,11 +161,16 @@ https://tvpass.org/live/mlb-12/sd
 #EXTINF:-1  tvg-name="Arizona Diamondbacks @ Toronto Blue Jays (06/17 7:08 PM ET) HD" tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="MLB",Arizona Diamondbacks @ Toronto Blue Jays (06/17 7:08 PM ET) HD
 https://tvpass.org/live/mlb-12/hd
 --
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) SD" group-title="MLB",Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) SD
+https://tvpass.org/live/mlb-12/sd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) HD" group-title="MLB",Arizona Diamondbacks @ Toronto Blue Jays (06/18 7:08 PM ET) HD
+https://tvpass.org/live/mlb-12/hd
+--
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
 #EXTINF:-1 tvg-id="unknown" tvg-name="Mundotoro TV Spain" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://static.vebotv.app/news/mia-21923.jpg",[3257] Full match Inter Miami CF vs Toronto FC | BLV Trâu Gác Bếp | 21.9.23
+#EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://static.vebotv.app/news/mia-21923.jpg",[3260] Full match Inter Miami CF vs Toronto FC | BLV Trâu Gác Bếp | 21.9.23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
