@@ -66,10 +66,7 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="24/7: Bargain Hunt" tvg-logo="" group-title="247s.",24/7: Bargain Hunt
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114310
 --
-#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png" group-title="TV SHOWS",Shooting USA Season 32, Episode 11 (Outdoor Channel)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
---
-#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="TV SHOWS",House Hunters Season 261, Episode 6 (HGTV USA)
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="TV SHOWS",House Hunters International Big Budget Battles (HGTV USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 --
 #EXTINF:-1  tvg-name="Outdoor Channel" tvg-id="Outdoor.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",Outdoor Channel
@@ -171,8 +168,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u
 --
 #EXTINF:-1 channel-id="samsung-US900002IH" tvg-id="US900002IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20240520T221457SQUARE.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Dog the Bounty Hunter (SD)
 https://jmp2.uk/sam-US900002IH.m3u8
-#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1400",Dog the Bounty Hunter
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=96f87cf0-4bdb-11f0-913d-8edbe55496e7
+#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter (SD)" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1400",Dog the Bounty Hunter (SD)
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c00818da-4ca4-11f0-9874-8285afdbaeac
 --
-#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1550",Ghost Hunters
-https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=96f87cf0-4bdb-11f0-913d-8edbe55496e7
+#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-name="Ghost Hunters (SD)" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1550",Ghost Hunters (SD)
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c00818da-4ca4-11f0-9874-8285afdbaeac
