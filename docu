@@ -368,6 +368,226 @@ http://181.78.105.146:8800/play/a04s
 #EXTINF:0 type="favorites" channelId="-1" name="[+18⭕️] Dorcel TV FHD" group="→ ADULTOS DS ←" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzjbVoXL9t8xUEMgImRDBthCRBahHAaMCwidItpIWOgeoolSHKbfE5uZ9rkizj4HBPl_rxjaA09RtEPp-j_AGpoUBGCPrS4rrrNlMneJMkBZ3f4xDZE9_Gy2VWztqa2EBZLUVXVxht0kF/w1200-h630-p-k-no-nu/dorcel-tv-logotipo.png", [+18⭕️] Dorcel TV FHD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 --
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/discovery-channel.png" group-title="UNITED STATES",Discovery Channel
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nat-geo-wild-usa.png" group-title="UNITED STATES",Nat Geo Wild USA
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="DaddyLive USA",AMC USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium303%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-3-us.png?raw=true" group-title="DaddyLive USA",Discovery Channel
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium313%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-id="National.Geographic.Wild.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="DaddyLive USA",Nat Geo Wild USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium745%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="DaddyLive USA",National Geographic (NGC)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium328%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="Drew247TV",AMC
+https://ft.fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3u8
+--
+#EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="Drew247TV",National Geographic
+https://ft.fbcdntv247.cfd/memfs/5cd05983-0661-4da6-98ff-b31f6e411620_output_0.m3u8
+--
+#EXTINF:-1  tvg-name="Discovery Channel FHD" tvg-id="Discovery.HD.uk" tvg-logo="https://i.imgur.com/1eM0KX8.png" group-title="A1xmedia UK Channels" radio="false",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1  tvg-name="Discovery Channel (US) FHD" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/1eM0KX8.png" group-title="A1xmedia US Channels" radio="false",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="DaddyLive USA",AMC USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium303%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-3-us.png?raw=true" group-title="DaddyLive USA",Discovery Channel
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium313%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-id="National.Geographic.Wild.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="DaddyLive USA",Nat Geo Wild USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium745%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="DaddyLive USA",National Geographic (NGC)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium328%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="Drew247TV",AMC
+https://ft.fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3u8
+--
+#EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="Drew247TV",National Geographic
+https://ft.fbcdntv247.cfd/memfs/5cd05983-0661-4da6-98ff-b31f6e411620_output_0.m3u8
+--
+#EXTINF:-1  tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+--
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="MoveOnJoy" radio="false",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+--
+#EXTINF:-1  tvg-name="National Geographic" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+--
+#EXTINF:-1  tvg-id="AMC.-.Canada.ca" tvg-logo="https://media.starlite.best/amc.canada.ca.png" group-title="Mystique CA" radio="false",AMC
+https://tvnow.best/api/stream/burns/burns/livetv.epg/amc.canada.ca.m3u8
+--
+#EXTINF:-1  tvg-id="Discovery.Channel.ca" tvg-logo="https://media.starlite.best/discovery.channel.ca.png" group-title="Mystique CA" radio="false",Discovery Channel
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/40727.ts
+--
+#EXTINF:-1  tvg-id="Historia.HD.ca" tvg-logo="https://media.starlite.best/historia.ca.png" group-title="Mystique CA" radio="false",Historia FR
+https://tvnow.best/api/stream/burns/burns/livetv.epg/historia.ca.m3u8
+--
+#EXTINF:-1  tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="Mystique CA" radio="false",National Geographic
+https://tvnow.best/api/stream/burns/burns/livetv.epg/national.geographic.canada.ca.m3u8
+#EXTINF:-1  tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png" group-title="Mystique CA" radio="false",National Geographic Wild
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/457.ts
+--
+#EXTINF:-1  tvg-id="Discovery.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/discovery-channel-icon-2-uk.png?raw=true" group-title="Mystique UK" radio="false",UK | Discovery Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303862
+--
+#EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" group-title="Mystique USA" radio="false",AMC (US)
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+--
+#EXTINF:-1  tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-icon-us.png" group-title="Mystique USA" radio="false",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+--
+#EXTINF:-1  tvg-id="National.Geographic.Wild.us" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" group-title="Mystique USA" radio="false",Nat Geo Wild
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/140
+#EXTINF:-1  tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" group-title="Mystique USA" radio="false",National Geographic
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/141
+--
+#EXTINF:-1  tvg-name="AMCNESP" tvg-id="5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="PlexTV",AMC en Español
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+#EXTINF:-1  tvg-name="AMCRSH" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="PlexTV",AMC Thrillers
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+--
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" group-title="PlexTV",Portlandia
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+--
+#EXTINF:-1  tvg-name="TWDU" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="PlexTV",The Walking Dead Universe
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+--
+#EXTINF:-1  tvg-name="AMC en espaÃ±ol" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="4290" group-title="PlutoTV USA",AMC en espaÃ±ol
+https://jmp2.uk/plu-62fa81ccd1a7e90007c1ada0.m3u8
+--
+#EXTINF:-1  tvg-name="Sala de Emergencias: Historias InÃ©ditas" tvg-id="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" tvg-chno="4455" group-title="PlutoTV USA",Sala de Emergencias: Historias InÃ©ditas
+https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
+--
+#EXTINF:-1  tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" tvg-chno="1070" group-title="PlutoTV USA",Stories by AMC
+https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
+--
+#EXTINF:-1  tvg-name="AMC en EspaÃ±ol" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" tvg-chno="3809" group-title="SamsungTVPlus USA",AMC en EspaÃ±ol
+https://jmp2.uk/sam-USBD7000017L.m3u8
+--
+#EXTINF:-1  tvg-name="Historia" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" tvg-chno="3810" group-title="SamsungTVPlus USA",Historia
+https://jmp2.uk/sam-US2600019IC.m3u8
+--
+#EXTINF:-1  tvg-name="Stories by AMC" tvg-id="USBD2500018X6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20240520T223420SQUARE.png" tvg-chno="1515" group-title="SamsungTVPlus USA",Stories by AMC
+https://jmp2.uk/sam-USBD2500018X6.m3u8
+--
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="TV Shows",A Real Bug's Life Season 1, Episode 1 - Nat Geo Wild USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium131%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="TV Shows",America's National Parks Season 1, Episode 1 - National Geographic (NGC)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium766%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="TV Shows",Planet Weird Season 1, Episode 2 - Nat Geo Wild USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium131%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="TV Shows",Missing Presumed Dead Season 2, Episode 4 - National Geographic (NGC)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium766%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="TV Shows",To Catch a Smuggler: South Pacific Season 13 - National Geographic (NGC)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium766%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+--
+#EXTINF:-1  tvg-name="AMC Eastern Feed HD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed HD
+https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1  tvg-name="AMC Eastern Feed SD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed SD
+https://tvpass.org/live/AMCEast/sd
+--
+#EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed HD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed HD
+https://tvpass.org/live/DiscoveryChannelEast/hd
+#EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed SD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed SD
+https://tvpass.org/live/DiscoveryChannelEast/sd
+--
+#EXTINF:-1  tvg-name="National Geographic US Eastern HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TVPass",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1  tvg-name="National Geographic US Eastern SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TVPass",National Geographic US Eastern SD
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1  tvg-name="National Geographic Wild SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd
+--
+#EXTINF:-1  tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC
+https://ott.udptv.org/stream/udptvus/amc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="AMC IT" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC IT
+https://ott.udptv.com/stream/udptv/amc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="UDPTV Live Streams",AMC Thrillers
+https://ott.udptv.org/stream/udptvus/amcthrillers/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="UDPTV Live Streams",Discovery Channel
+https://ott.udptv.org/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
+#EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="UDPTV Live Streams",DMAX
+https://ott.udptv.org/stream/astro/dmax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
+#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild
+https://ott.udptv.com/stream/udptv/natgeowild/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Nat Geo Wild US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild US
+https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="UDPTV Live Streams",National Geographic Channel
+https://ott.udptv.com/stream/udptv/nationalgeographicchannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="National Geographic Channel CA" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel CA
+https://ott.udptv.com/stream/udptv/nationalgeographicca/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="National Geographic Channel US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel US
+https://ott.udptv.org/stream/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
+#EXTINF:-1  tvg-name="AMC Eastern Feed SD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed SD
+https://tvpass.org/live/AMCEast/sd
+#EXTINF:-1  tvg-name="AMC Eastern Feed HD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed HD
+https://tvpass.org/live/AMCEast/hd
+--
+#EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed SD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed SD
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed HD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed HD
+https://tvpass.org/live/DiscoveryChannelEast/hd
+--
+#EXTINF:-1  tvg-name="National Geographic US Eastern SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TVPass",National Geographic US Eastern SD
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1  tvg-name="National Geographic US Eastern HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TVPass",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1  tvg-name="National Geographic Wild SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
+--
+#EXTINF:-1  tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC
+https://ott.udptv.org/stream/udptvus/amc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="UDPTV Live Streams",AMC Thrillers
+https://ott.udptv.org/stream/udptvus/amcthrillers/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="AMC IT" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC IT
+https://ott.udptv.com/stream/udptv/amc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="UDPTV Live Streams",Discovery Channel
+https://ott.udptv.org/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
+#EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="UDPTV Live Streams",DMAX
+https://ott.udptv.org/stream/astro/dmax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
+#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild
+https://ott.udptv.com/stream/udptv/natgeowild/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="Nat Geo Wild US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild US
+https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="UDPTV Live Streams",National Geographic Channel
+https://ott.udptv.com/stream/udptv/nationalgeographicchannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="National Geographic Channel CA" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel CA
+https://ott.udptv.com/stream/udptv/nationalgeographicca/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="National Geographic Channel US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel US
+https://ott.udptv.org/stream/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+--
 #EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Series Y Shows De Tv",Stories By AMC  🇺🇸
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 --
