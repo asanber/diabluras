@@ -171,9 +171,6 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Nfl HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Nfl HD
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114996
 --
-#EXTINF:-1 tvg-id="" tvg-name="MX: NFL Network" tvg-logo="" group-title="Mexico Izzy",MX: NFL Network
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121356
---
 #EXTINF:-1 tvg-id="" tvg-name="[Rogers-CA] NFLNET" tvg-logo="" group-title="Canada SD",[Rogers-CA] NFLNET
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/107515
 --
@@ -220,8 +217,10 @@ https://ft.fbcdntv247.cfd/memfs/04f7d00e-0f79-4956-8296-985ac70a84be_output_0.m3
 #EXTINF:-1  tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="Drew247TV",NFL Redzone
 https://ft.fbcdntv247.cfd/memfs/c61c4d8a-589f-4178-a203-74c53ac8ac2e_output_0.m3u8
 --
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="FSTV",VE-cdn - us-nfl
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="FSTV",NFL Network
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NzhjOTY4MTkxNGM2LWIyMDktOTJlNC1iNThkLWMxNDQwOTRh/master.m3u8
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-2.jpg" group-title="FSTV",NFL RedZone
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ODc4ZGFjNjdhOGNmLTA2MGEtZTgzNC04MDZiLTk2NWVmNjU1/master.m3u8
 --
 #EXTINF:-1  tvg-name="NFL Network" tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="MoveOnJoy" radio="false",NFL Network
 https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
