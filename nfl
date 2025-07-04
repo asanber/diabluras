@@ -297,8 +297,14 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed4
 #EXTINF:-1 tvg-id="unknown" tvg-name="NFL Network" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", NFL Network
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
+#EXTINF:-1  tvg-name="One Sports (FHD)" tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="UDPTV Live Streams",One Sports (FHD)
+http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+--
 #EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯" tvg-id="sky-sports-action",Sky Sports Action  NFL
 https://7pal.short.gy/ssportsat
+--
+#EXTINF:-1  tvg-name="Tap Action Flix (FHD)" tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="UDPTV Live Streams",Tap Action Flix (FHD)
+http://ott.udptv.net/stream/iptv/tapactionflix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 --
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="Sports | US", NFL Network
 https://7pal.short.gy/nflnw
