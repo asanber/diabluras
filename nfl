@@ -231,10 +231,10 @@ http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/234
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="PlexTV",El Conflicto TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-name="NFLDC1" tvg-id="5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" group-title="PlexTV",NFL Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-name="Earth: Final Conflict" tvg-id="66f1331f9409630008077623" tvg-logo="https://images.pluto.tv/channels/66f1331f9409630008077623/colorLogoPNG_1730797917382.png" tvg-chno="284" group-title="PlutoTV UK",Earth: Final Conflict
 https://jmp2.uk/plu-66f1331f9409630008077623.m3u8
@@ -297,10 +297,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed4
 #EXTINF:-1 tvg-id="unknown" tvg-name="NFL Network" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", NFL Network
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
+#EXTINF:-1  tvg-name="NFL Redzone Network (FHD)" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="UDPTV Live Streams",NFL Redzone Network (FHD)
+https://ott.udptv.org/stream/udptvus/nflredzonenetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+--
 #EXTINF:-1  tvg-name="One Sports (FHD)" tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="UDPTV Live Streams",One Sports (FHD)
 http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 --
-#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯" tvg-id="sky-sports-action",Sky Sports Action  NFL
+#EXTINF:-1 group-title="🎯🔔|Selection Sport|🔔🎯" tvg-id="sky-sports-action",Sky Sports Action  NFL (FHD)
 https://7pal.short.gy/ssportsat
 --
 #EXTINF:-1  tvg-name="Tap Action Flix (FHD)" tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="UDPTV Live Streams",Tap Action Flix (FHD)

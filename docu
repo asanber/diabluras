@@ -502,15 +502,15 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/140
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/141
 --
 #EXTINF:-1  tvg-name="AMCNESP" tvg-id="5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="PlexTV",AMC en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 #EXTINF:-1  tvg-name="AMCRSH" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="PlexTV",AMC Thrillers
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" group-title="PlexTV",Portlandia
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-name="TWDU" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="PlexTV",The Walking Dead Universe
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-name="AMC en espaÃ±ol" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="4290" group-title="PlutoTV USA",AMC en espaÃ±ol
 https://jmp2.uk/plu-62fa81ccd1a7e90007c1ada0.m3u8
@@ -696,3 +696,19 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 --
 #EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Nat Geo Wild USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1  tvg-name="AMC (FHD)" tvg-id="AMC (FHD).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC (FHD)
+https://ott.udptv.org/stream/udptvus/amc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="AMC Thrillers (FHD)" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="UDPTV Live Streams",AMC Thrillers (FHD)
+https://ott.udptv.org/stream/udptvus/amcthrillers/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+--
+#EXTINF:-1  tvg-name="DMAX (FHD)" tvg-id="DMAX (FHD).HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="UDPTV Live Streams",DMAX (FHD)
+https://ott.udptv.org/stream/astro/dmax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+--
+#EXTINF:-1  tvg-name="Discovery Channel (FHD)" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="UDPTV Live Streams",Discovery Channel (FHD)
+https://ott.udptv.org/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+--
+#EXTINF:-1  tvg-name="Nat Geo Wild US (HD)" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild US (HD)
+https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="National Geographic Channel US (HD)" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel US (HD)
+https://ott.udptv.org/stream/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13

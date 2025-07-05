@@ -85,22 +85,22 @@ https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/292
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29c4fec6-9511-4368-9b02-5788f3eff6b1/Dog_the_Bounty_Hunter_WHT_Logo_1500x1000-_Ethan_Maisel.png" group-title="PlexTV",Dog the Bounty Hunter
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6825374-e7ca-4fc3-8714-ba6752a8b286/DPWorldTour_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="PlexTV",DP World Tour
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="PlexTV",Ghost Hunters Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV",Hunter
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" group-title="PlexTV",ONE Championship TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png" group-title="PlexTV",Triton Poker
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe95d389daa346544d501.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe95d389daa346544d501.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
 #EXTINF:-1  tvg-name="Dog The Bounty Hunter" tvg-id="6540fee72cf13100085d5a18" tvg-logo="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/colorLogoPNG.png" tvg-chno="453" group-title="PlutoTV CA",Dog The Bounty Hunter
 https://jmp2.uk/plu-6540fee72cf13100085d5a18.m3u8
@@ -175,7 +175,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u
 #EXTINF:-1 channel-id="samsung-US900002IH" tvg-id="US900002IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20240520T221457SQUARE.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Dog the Bounty Hunter (SD)
 https://jmp2.uk/sam-US900002IH.m3u8
 #EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter (SD)" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1400",Dog the Bounty Hunter (SD)
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4bdc681c-58b1-11f0-8e03-a29a7d4b0072
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=67f6d664-5937-11f0-83dc-de14ba929042
 --
 #EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1550",Ghost Hunters
-https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4bdc681c-58b1-11f0-8e03-a29a7d4b0072
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=67f6d664-5937-11f0-83dc-de14ba929042
+--
+#EXTINF:-1  tvg-name="Outdoor Channel (HD)" tvg-id="udptvus/outdoorchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="UDPTV Live Streams",Outdoor Channel (HD)
+https://ott.udptv.org/stream/udptvus/outdoorchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
