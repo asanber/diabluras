@@ -421,7 +421,7 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://tvnow.best/api/stream/burns/burns/livetv.epg/amc.canada.ca.m3u8
 --
 #EXTINF:-1  tvg-id="Discovery.Channel.ca" tvg-logo="https://media.starlite.best/discovery.channel.ca.png" group-title="Mystique CA" radio="false",Discovery Channel
-http://zorrohunter.com:80/live/WeaponX/Dawkins22/40727.ts
+http://38.143.48.212:9981/stream/channelid/686709663?profile=pass
 --
 #EXTINF:-1  tvg-id="Historia.HD.ca" tvg-logo="https://media.starlite.best/historia.ca.png" group-title="Mystique CA" radio="false",Historia FR
 https://tvnow.best/api/stream/burns/burns/livetv.epg/historia.ca.m3u8
@@ -469,7 +469,7 @@ https://ft.fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3
 https://ft.fbcdntv247.cfd/memfs/5cd05983-0661-4da6-98ff-b31f6e411620_output_0.m3u8
 --
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" group-title="FSTV",Discovery Channel
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NWExMzY5ZGNlNGIzLTI1MmItNDZhNC1kMTJlLTQ2NDBlODZi/master.m3u8
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NWExMzY5ZGNlNGIzLTI1MmItNDZhNC1kMTJlLTQ2NDBlODZi/master.m3u8
 --
 #EXTINF:-1  tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -486,7 +486,7 @@ https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://tvnow.best/api/stream/burns/burns/livetv.epg/amc.canada.ca.m3u8
 --
 #EXTINF:-1  tvg-id="Discovery.Channel.ca" tvg-logo="https://media.starlite.best/discovery.channel.ca.png" group-title="Mystique CA" radio="false",Discovery Channel
-http://zorrohunter.com:80/live/WeaponX/Dawkins22/40727.ts
+http://38.143.48.212:9981/stream/channelid/686709663?profile=pass
 --
 #EXTINF:-1  tvg-id="Historia.HD.ca" tvg-logo="https://media.starlite.best/historia.ca.png" group-title="Mystique CA" radio="false",Historia FR
 https://tvnow.best/api/stream/burns/burns/livetv.epg/historia.ca.m3u8
@@ -705,21 +705,3 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 --
 #EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Nat Geo Wild USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
---
-#EXTINF:-1  tvg-name="AMC IT (SD)" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC IT (SD)
-https://ott.udptv.com/stream/udptv/amc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="AMC Thrillers (FHD)" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="UDPTV Live Streams",AMC Thrillers (FHD)
-https://ott.udptv.org/stream/udptvus/amcthrillers/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
-#EXTINF:-1  tvg-name="DMAX (FHD)" tvg-id="DMAX (FHD).HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="UDPTV Live Streams",DMAX (FHD)
-https://ott.udptv.org/stream/astro/dmax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
-#EXTINF:-1  tvg-name="Discovery Channel (FHD)" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="UDPTV Live Streams",Discovery Channel (FHD)
-https://ott.udptv.org/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
-#EXTINF:-1  tvg-name="Nat Geo Wild (SD)" tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild (SD)
-https://ott.udptv.com/stream/udptv/natgeowild/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="National Geographic Channel (FHD)" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="UDPTV Live Streams",National Geographic Channel (FHD)
-https://ott.udptv.com/stream/udptv/nationalgeographicchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="National Geographic Channel CA (FHD)" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel CA (FHD)
-https://ott.udptv.com/stream/udptv/nationalgeographicca/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
