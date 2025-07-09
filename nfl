@@ -248,6 +248,15 @@ https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1  tvg-name="NFL Channel" tvg-id="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250211T021734SQUARE.png" tvg-chno="2310" group-title="SamsungTVPlus USA",NFL Channel
 https://jmp2.uk/sam-US2600007WJ.m3u8
 --
+#EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network HD
+https://v4.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=VfwrbRSM0qlhHA6R9tjdSA&expires=1752118582&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+#EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network SD
+https://v4.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=nLpBkwo9xyDga-WO_LDzBQ&expires=1752118578&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+#EXTINF:-1  tvg-name="NFL Red Zone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone HD
+https://v18.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=8TDK-psLmm7nCX6BCMGYKA&expires=1752118592&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+#EXTINF:-1  tvg-name="NFL Red Zone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone SD
+https://v2.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=7Y1zVugphnzfi9t62IsjiQ&expires=1752118587&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+--
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nfl.png" group-title="Tims247",NFL Network
 #EXTVLCOPT:http-origin=https://kleanembed.online
 --
