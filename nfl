@@ -249,13 +249,13 @@ https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 https://jmp2.uk/sam-US2600007WJ.m3u8
 --
 #EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network HD
-https://v4.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=VfwrbRSM0qlhHA6R9tjdSA&expires=1752118582&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+https://v18.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=YhG-c-vTLm13DjtHSJ7QJQ&expires=1752201460&user_id=VVQ1WFVPOFlFaHJsc0VqcWNrczllUThwVXRYVzlWVUFVTTR3QWhMUw==
 #EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network SD
-https://v4.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=nLpBkwo9xyDga-WO_LDzBQ&expires=1752118578&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+https://v4.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=wMIhvv1PrCX4mV26-5x9hg&expires=1752201456&user_id=VVQ1WFVPOFlFaHJsc0VqcWNrczllUThwVXRYVzlWVUFVTTR3QWhMUw==
 #EXTINF:-1  tvg-name="NFL Red Zone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone HD
-https://v18.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=8TDK-psLmm7nCX6BCMGYKA&expires=1752118592&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+https://v18.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=5N9OtbLTfxRQEn57OR-tCg&expires=1752201470&user_id=VVQ1WFVPOFlFaHJsc0VqcWNrczllUThwVXRYVzlWVUFVTTR3QWhMUw==
 #EXTINF:-1  tvg-name="NFL Red Zone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone SD
-https://v2.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=7Y1zVugphnzfi9t62IsjiQ&expires=1752118587&user_id=TG5VcXMxWlFYQWRiRHVjVXRoTFpEVVc5cHh6YTdSRGpuRk5iWlU3Ug==
+https://v18.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=0NBpQYyoLa6MDA_Am5oWNw&expires=1752201465&user_id=VVQ1WFVPOFlFaHJsc0VqcWNrczllUThwVXRYVzlWVUFVTTR3QWhMUw==
 --
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nfl.png" group-title="Tims247",NFL Network
 #EXTVLCOPT:http-origin=https://kleanembed.online
@@ -272,17 +272,6 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1  tvg-name="NFL RedZone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TVPass",NFL RedZone SD
 https://tvpass.org/live/NFLRedZone/sd
 --
-#EXTINF:-1  tvg-name="NFL Network" tvg-id="Amazon.US.NFLNetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="UDPTV Live Streams",NFL Network
-https://ott.udptv.com/stream/udptv/nflnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="NFL Redzone Network" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="UDPTV Live Streams",NFL Redzone Network
-https://ott.udptv.org/stream/udptvus/nflredzonenetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
-#EXTINF:-1  tvg-name="One Sports +" tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="UDPTV Live Streams",One Sports +
-http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
-#EXTINF:-1  tvg-name="Tap Action Flix" tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="UDPTV Live Streams",Tap Action Flix
-http://ott.udptv.net/stream/iptv/tapactionflix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
 #EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TVPass",NFL Network SD
 https://tvpass.org/live/NFLNetwork/sd
 #EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TVPass",NFL Network HD
@@ -291,17 +280,6 @@ https://tvpass.org/live/NFLNetwork/hd
 https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1  tvg-name="NFL RedZone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TVPass",NFL RedZone HD
 https://tvpass.org/live/NFLRedZone/hd
---
-#EXTINF:-1  tvg-name="NFL Network" tvg-id="Amazon.US.NFLNetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="UDPTV Live Streams",NFL Network
-https://ott.udptv.com/stream/udptv/nflnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="NFL Redzone Network" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="UDPTV Live Streams",NFL Redzone Network
-https://ott.udptv.org/stream/udptvus/nflredzonenetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
-#EXTINF:-1  tvg-name="One Sports +" tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="UDPTV Live Streams",One Sports +
-http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
---
-#EXTINF:-1  tvg-name="Tap Action Flix" tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="UDPTV Live Streams",Tap Action Flix
-http://ott.udptv.net/stream/iptv/tapactionflix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 --
 #EXTINF:-1 cuid="1095" tvg-chno="1095" tvg-name="NFL 🇺🇸" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",NFL 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
