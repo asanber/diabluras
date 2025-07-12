@@ -212,13 +212,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc706038aba
 #EXTINF:-1  tvg-name="GolfPass" tvg-id="65493029ab052400089e9d2f" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png" tvg-chno="2823" group-title="PlutoTV USA",GolfPass
 https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 --
+#EXTINF:-1  tvg-name="GolfPass" tvg-id="e08aa3af93f95c9db062ce237e90f6d1" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e08aa3af93f95c9db062ce237e90f6d1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701819344526_golfpass-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png" tvg-chno="250" group-title="RokuTV",GolfPass
+https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8
+--
 #EXTINF:-1  tvg-name="GOLFPASS" tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png" tvg-chno="2438" group-title="SamsungTVPlus USA",GOLFPASS
 https://jmp2.uk/sam-USBB400000145.m3u8
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v2.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=jnfw26myBDKhoZZ1vQ3rHg&expires=1752287109&user_id=ZkpPblg0aEJFRUlPdEk4VkFab0JMN0dkQWF1MmRRTzdCNTE5NEE4Vw==
+https://v13.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=D4znuOADT00D06ACoMQyWA&expires=1752373373&user_id=R2hCTWUwSndORWQycU55dnBqWXZ1T0NIcXViNzBsUG5tbnhhQ2NIQw==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v1.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=A0Yc7QiH7eEjgb7Hpd7ekg&expires=1752287105&user_id=ZkpPblg0aEJFRUlPdEk4VkFab0JMN0dkQWF1MmRRTzdCNTE5NEE4Vw==
+https://v13.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=kh5JQ8DA8UEqshW60oXP4w&expires=1752373368&user_id=R2hCTWUwSndORWQycU55dnBqWXZ1T0NIcXViNzBsUG5tbnhhQ2NIQw==
 --
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png" group-title="Tims247",Sky Sports Golf
 #EXTVLCOPT:http-origin=https://kleanembed.online
@@ -312,10 +315,10 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",GolfNetwork (SD)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:M GOLF FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M GOLF FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES:M GOLF FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M GOLF FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115853
 --
-#EXTINF:-1 tvg-id="" tvg-name="DK: V SPORT GOLF HD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",V SPORT GOLF HD (SD)
+#EXTINF:-1 tvg-id="" tvg-name="DK: V SPORT GOLF HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",V SPORT GOLF HD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL:ZIGGO GOLF HD BACKUP (HD)" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT SPORT",ZIGGO GOLF HD BACKUP (HD)
