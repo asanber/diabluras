@@ -8,6 +8,9 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126192
 #EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto Blue Jays" tvg-logo="" group-title="MLB (Regular Season/TBA)",MLB | Toronto Blue Jays
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/90044
 --
+#EXTINF:-1 tvg-id="" tvg-name="MLS 13 - San Diego vs Toronto FC 10:30PM EST" tvg-logo="https://i.ibb.co/8jjgGtr/mls.png" group-title="Soccer (Worldwide Soccer Leagues/Jul 16)",MLS 13 - San Diego vs Toronto FC 10:30PM EST
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/8173
+--
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC TORONTO" tvg-logo="" group-title="Canada",CA | CBC TORONTO
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/46697
 --
@@ -129,14 +132,12 @@ http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
 #EXTINF:-1  tvg-name="CTV 2" tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://i.imgur.com/T2uS3V6.png" group-title="A1xmedia CA Channels" radio="false",CTV 2
 https://a1xs.vip/610003
 --
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors (Jul 15, 2025 12:00 AM UK / Jul 14, 2025 5:00 PM MT / Jul 14, 2025 7:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium111%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors (Jul 15, 2025 12:00 AM UK / Jul 14, 2025 5:00 PM MT / Jul 14, 2025 7:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium113%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors (Jul 15, 2025 12:00 AM UK / Jul 14, 2025 5:00 PM MT / Jul 14, 2025 7:00 PM EST)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Major League Soccer : San Diego vs Toronto FC (Jul 16, 2025 2:30 AM UK / Jul 15, 2025 7:30 PM MT / Jul 15, 2025 9:30 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium839%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Major League Soccer : San Diego vs Toronto FC (Jul 16, 2025 2:30 AM UK / Jul 15, 2025 7:30 PM MT / Jul 15, 2025 9:30 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors (Jul 15, 2025 12:00 AM UK / Jul 14, 2025 5:00 PM MT / Jul 14, 2025 7:00 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium115%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMHxPcmlnaW49aHR0cHM6Ly9mb3JjZWR0b3BsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mb3JjZWR0b3BsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOS4w
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Major League Soccer : San Diego vs Toronto FC (Jul 16, 2025 2:30 AM UK / Jul 15, 2025 7:30 PM MT / Jul 15, 2025 9:30 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium115%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 --
 #EXTINF:-1  tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true" group-title="DaddyLive CA",CBC Canada
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium832%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
@@ -179,7 +180,7 @@ https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 #EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250121T172013SQUARE.png" tvg-chno="1134" group-title="SamsungTVPlus Canada",CBC News Toronto
 https://jmp2.uk/sam-CA1500002Q4.m3u8
 --
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Toronto Raptors vs. Denver Nuggets Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",MLS San Diego FC vs. Toronto FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
@@ -188,8 +189,14 @@ https://jmp2.uk/sam-CA1500002Q4.m3u8
 #EXTINF:-1 tvg-id="unknown" tvg-name="Mundotoro TV Spain" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
+#EXTINF:0 group-title="⚽🥎Livestream🏆🏅" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",07h00 Denver Nuggets vs Toronto Raptors flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
+#EXTINF:0 group-title="⚽🥎Livestream🏆🏅" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",07h00 Denver Nuggets vs Toronto Raptors hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+--
 #EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD (HD)" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117776
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115869
