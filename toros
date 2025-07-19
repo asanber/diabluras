@@ -5,8 +5,11 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4362
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png" group-title="España: Señales Premium ⭐️",ESP-1: TORO OLE ᴇsᴘᴀɴᴀ ᴴᴰ
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126192
 --
-#EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto Blue Jays" tvg-logo="" group-title="MLB (Regular Season/Jul 18)",MLB | Toronto Blue Jays
+#EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto Blue Jays" tvg-logo="" group-title="MLB (Regular Season/Jul 19)",MLB | Toronto Blue Jays
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/90044
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLS 09 - Nashville SC vs Toronto FC 8:30PM EST" tvg-logo="https://i.ibb.co/8jjgGtr/mls.png" group-title="Soccer (Worldwide Soccer Leagues/Jul 19)",MLS 09 - Nashville SC vs Toronto FC 8:30PM EST
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/8177
 --
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC TORONTO" tvg-logo="" group-title="Canada",CA | CBC TORONTO
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/46697
@@ -157,12 +160,12 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 #EXTINF:-1  tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-2-ca.png?raw=true" group-title="DaddyLive CA",CTV 2 Canada
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium838%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays - 7/18/25, 11:07:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays - 7/18/25, 11:07:00 PM UTC
-https://v16.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8?token=PeVfHvczmx1esJWXuWA_Ow&expires=1752885724&user_id=SFNTaVJkdGtYOVl6SG5KUXdLMlUyTTJZMjBkcWJON2g2YWFCM1JRcw==
+#EXTINF:-1 tvg-id="MLB.Dummy" tvg-name="San Francisco Giants @ Toronto Blue Jays - 7/19/25, 7:07:00 PM UTC (SD)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays - 7/19/25, 7:07:00 PM UTC (SD)
+https://v13.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8?token=txO1oYvsyn1U1TfAHSt8mA&expires=1752968067&user_id=QXpObjdtVmZleU15R2c1Zm9YcWlnQmtGcjJCRU1FS3VZcThhWEZVbg==
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Hd
 https://tvpass.org/live/mlb-12/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Sd
 https://tvpass.org/live/mlb-12/sd
 --
 #EXTINF:-1  tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png" group-title="Mystique CA" radio="false",CBC Toronto (CBLT)
@@ -204,12 +207,18 @@ https://jmp2.uk/sam-CA1500002Q4.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",San Francisco Giants vs. Toronto Blue Jays Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 --
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs San Francisco Giants (English - HD)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0IWOwQ2M3EDOxQGNtEGMlhTL0MjY00iZihTOtQjY2MmMjJjM/master.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Sacramento Kings vs. Toronto Raptors Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Sd
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Nashville SC vs. Toronto FC Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+--
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBCWMH0gg+IbiAAmIGLj3GQiE0cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Nashville SC vs Toronto FC (English - HD)
+https://rr.strmd.top/secure/haOIxRxJtX/charlie/stream/nashville-sc-vs-toronto-fc-1326559/1/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Sd
 https://tvpass.org/live/mlb-12/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/18 7:07 Pm Et) Hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",San Francisco Giants @ Toronto Blue Jays (07/19 3:07 Pm Et) Hd
 https://tvpass.org/live/mlb-12/hd
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
@@ -218,14 +227,8 @@ https://tvpass.org/live/mlb-12/hd
 #EXTINF:-1 tvg-id="unknown" tvg-name="Mundotoro TV Spain" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:0 group-title="⚽🥎Livestream🏆🏅" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",07h00 Denver Nuggets vs Toronto Raptors flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
---
-#EXTINF:0 group-title="⚽🥎Livestream🏆🏅" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",07h00 Denver Nuggets vs Toronto Raptors hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD (HD)" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD (HD)
+#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD (FHD)" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117776
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (HD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115869
