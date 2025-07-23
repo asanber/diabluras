@@ -162,9 +162,9 @@ https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8
 https://jmp2.uk/sam-USBB400000145.m3u8
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v16.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=gLQOANxGK5OqxqKbOpIQOg&expires=1753226690&user_id=SmxCZWkxSVBDYUJSZXI0T2kwNHJjRTIxWW9NbU9Eb0QxN3Q0QjBUbQ==
+https://v2.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=NR62lTPDASYDGqhmurc0eg&expires=1753291337&user_id=NTVDeGVVS2F6QWtCcUs1VDJzWTZKeXpyYm9hMXgyWmhVSVc4YzVpcw==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v15.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=zuZp1QE191jbuuIUo0iBgw&expires=1753226685&user_id=SmxCZWkxSVBDYUJSZXI0T2kwNHJjRTIxWW9NbU9Eb0QxN3Q0QjBUbQ==
+https://v13.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=kKaFOyQsJcBFv5WG96ioSg&expires=1753291333&user_id=NTVDeGVVS2F6QWtCcUs1VDJzWTZKeXpyYm9hMXgyWmhVSVc4YzVpcw==
 --
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png" ,Sky Sports Golf
 #EXTVLCOPT:http-origin=https://kleanembed.online
@@ -281,6 +281,8 @@ http://127.0.0.1:6878/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254ad5&
 --
 #EXTINF:-1  tvg-name="Golf Channel (FHD)" tvg-id="astro/golfchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" group-title="UDPTV Live Streams",Golf Channel (FHD)
 https://ott.udptv.org/stream/astro/golfchannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="🎯🔔|Selection Sport|🔔🎯",Golf Channel
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PL: Golf Channel HD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",Golf Channel HD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111062
 #EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",GolfNetwork
@@ -296,6 +298,8 @@ https://ott.udptv.com/stream/nbc/nbcgolf/master.m3u8?u=discord.gg/civ4&p=b48a689
 https://ott.udptv.org/stream/Sky/skysport24/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 #EXTINF:-1  tvg-name="Sky Sport Golf DE (FHD)" tvg-id="skyde/skysportgolf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="UDPTV Live Streams",Sky Sport Golf DE (FHD)
 https://ott.udptv.com/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport Golf UK
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8
 --
 #EXTINF:-1  tvg-name="Sky Sports Golf UK (FHD)" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="UDPTV Live Streams",Sky Sports Golf UK (FHD)
 https://ott.udptv.com/stream/skyuk/skysportsaction/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
@@ -314,3 +318,12 @@ https://7pal.short.gy/ssportsgf
 --
 #EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
 https://7pal.short.gy/sperspgf
+--
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportgolf.png" group-title="NL - SPORTS",(NL) Ziggo Sport 3 HEVC
+http://saray68.darktv.nl/c//play/live.php?mac=00:1A:79:04:0F:AD&stream=151297&extension=ts
+--
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ziggosportgolf.png" group-title="NL - SPORTS",(NL) Ziggo Sport 3 4K
+http://saray68.darktv.nl/c//play/live.php?mac=00:1A:79:04:0F:AD&stream=2764&extension=ts
+--
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportactive-phibruspel.png" group-title="UK - SPORTS",(UK) Sky Sports Golf HD
+http://saray68.darktv.nl/c//play/live.php?mac=00:1A:79:04:0F:AD&stream=38402&extension=ts
