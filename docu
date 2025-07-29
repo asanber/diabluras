@@ -537,18 +537,18 @@ https://jmp2.uk/sam-US2600019IC.m3u8
 https://jmp2.uk/sam-USBD2500018X6.m3u8
 --
 #EXTINF:-1  tvg-name="AMC HD" tvg-id="amc-eastern-feed" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" group-title="TheTVApp",AMC HD
-https://v4.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=CKtYIZqpyjVmvLs8AoMyCQ&expires=1753758968&user_id=Q2pkYm12cDFGeEtlVnRRMU85Y3FFSHptNWFmUFUzSEw2a1Nqdmhrag==
+https://v2.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=AJ_YZD1q0kSQ3b_PStjGMQ&expires=1753845401&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
 #EXTINF:-1  tvg-name="AMC SD" tvg-id="amc-eastern-feed" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" group-title="TheTVApp",AMC SD
-https://v16.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=hPFTvrFYoJGpmCkAOsNJxA&expires=1753758964&user_id=Q2pkYm12cDFGeEtlVnRRMU85Y3FFSHptNWFmUFUzSEw2a1Nqdmhrag==
+https://v4.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=9dkC-Czlb-PP_C9t1QrRpg&expires=1753845396&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
 --
 #EXTINF:-1  tvg-name="Nat Geo WILD HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD HD
-https://v4.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=t3gQcESgXcOgwQhohA5uhA&expires=1753759624&user_id=Q2pkYm12cDFGeEtlVnRRMU85Y3FFSHptNWFmUFUzSEw2a1Nqdmhrag==
+https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=lJvPWJI1K2QrV-4MdJd3Rg&expires=1753846061&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
 #EXTINF:-1  tvg-name="Nat Geo WILD SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD SD
-https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=CzlgjtHgsNApT5V9z667Mg&expires=1753759619&user_id=Q2pkYm12cDFGeEtlVnRRMU85Y3FFSHptNWFmUFUzSEw2a1Nqdmhrag==
+https://v14.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=JkrqhL4KQcyjXxYaGz17nw&expires=1753846056&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
 #EXTINF:-1  tvg-name="National Geographic HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic HD
-https://v18.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=A4txfe018j5N0JHKSUxkCw&expires=1753759633&user_id=Q2pkYm12cDFGeEtlVnRRMU85Y3FFSHptNWFmUFUzSEw2a1Nqdmhrag==
+https://v17.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=oDP8dNECUlFAJhVWyjgQ0Q&expires=1753846070&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
 #EXTINF:-1  tvg-name="National Geographic SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic SD
-https://v16.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=naoMtAK-LjA69ZwN_MKYSA&expires=1753759628&user_id=Q2pkYm12cDFGeEtlVnRRMU85Y3FFSHptNWFmUFUzSEw2a1Nqdmhrag==
+https://v17.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=kcde7xv64Ko-6Sg2ZKguBw&expires=1753846065&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
 --
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
 #EXTVLCOPT:http-origin=https://kleanplay.shop

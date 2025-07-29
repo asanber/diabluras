@@ -83,12 +83,28 @@ https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 22 - Board 4
 #EXTVLCOPT:http-origin=https://veplay.top
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 23 - Board 1
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 23 - Board 2
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 23 - Board 3
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 23 - Board 4
+#EXTVLCOPT:http-origin=https://veplay.top
 #EXTINF:-1  tvg-name="One Championship TV" tvg-id="CA2600001D9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600001D9_20250325T015426SQUARE.png" tvg-chno="1004" group-title="SamsungTVPlus Canada",One Championship TV
 https://jmp2.uk/sam-CA2600001D9.m3u8
 #EXTINF:-1  tvg-name="Strongman Champions League" tvg-id="GBBC90001089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png" tvg-chno="4672" group-title="SamsungTVPlus United Kingdom",Strongman Champions League
 https://jmp2.uk/sam-GBBC90001089.m3u8
 #EXTINF:-1  tvg-name="One Championship TV" tvg-id="US2600006VY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png" tvg-chno="2352" group-title="SamsungTVPlus USA",One Championship TV
 https://jmp2.uk/sam-US2600006VY.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_vvjofygu/width/1920" ,Players Championship 22  (BOARD FOUR)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_vvjofygu/width/1920" ,Players Championship 22  (BOARD ONE)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_vvjofygu/width/1920" ,Players Championship 22  (BOARD THREE)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_vvjofygu/width/1920" ,Players Championship 22  (BOARD TWO)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTINF:-1 cuid="1175" tvg-chno="1175" tvg-name="One Championship tv 🇧🇷🇺🇸" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Canales De Combates 🥊",One Championship tv 🇧🇷🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 cuid="1188" tvg-chno="1188" tvg-name="Hard Knock Fighting 🇺🇸" tvg-id="UK:.Hard.Knocks.Fighting.Championship.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Canales De Combates 🥊",Hard Knock Fighting 🇺🇸
