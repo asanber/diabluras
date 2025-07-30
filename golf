@@ -162,11 +162,11 @@ https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8
 https://jmp2.uk/sam-USBB400000145.m3u8
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v17.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=4Zk0omWSJSclG2Ti48fhQw&expires=1753845819&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
+https://v15.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=2afMZPBKR-J6SDBvkG4BNw&expires=1753932279&user_id=U0gyQjh4emY4c0pzUm1Md3VMSm5sSTVGOGNJa2VKWG1aVWh2dGhJcw==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v16.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=HQ8M6KJ_Ij0g6KrDseKmwg&expires=1753845815&user_id=WHdydUQ2TzQzWURpYlRKSWo2OWdNRW1BbnJYR3BFcDY4dFNDSHdYbA==
+https://v15.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=Ht71rCcQeJ0iS_oBFN40cQ&expires=1753932274&user_id=U0gyQjh4emY4c0pzUm1Md3VMSm5sSTVGOGNJa2VKWG1aVWh2dGhJcw==
 --
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" -1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png" ,Sky Sports Golf
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png",Sky Sports Golf
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 --
 #EXTINF:-1  tvg-name="Golf Channel USA HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TVPass",Golf Channel USA HD
