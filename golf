@@ -37,6 +37,9 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="CA:  GOLF CHANNEL" tvg-logo="" group-title="Canada HD",CA:  GOLF CHANNEL
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60985
 --
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golfⓧ" tvg-logo="" group-title="DSTV",SuperSport Golfⓧ
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123827
+--
 #EXTINF:-1 tvg-id="" tvg-name="ES: M.GOLF HD fix" tvg-logo="" group-title="World Sports",ES: M.GOLF HD fix
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/87041
 --
@@ -162,9 +165,12 @@ https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8
 https://jmp2.uk/sam-USBB400000145.m3u8
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v15.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=2afMZPBKR-J6SDBvkG4BNw&expires=1753932279&user_id=U0gyQjh4emY4c0pzUm1Md3VMSm5sSTVGOGNJa2VKWG1aVWh2dGhJcw==
+https://v14.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=HtKr9Y79VjtlBwjkwOnKxQ&expires=1754018625&user_id=ODJLSUk3aUtIcXpQbkRVcDhVd2Zib2duWmMyNWFKZEhyZVVIYm1zTw==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v15.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=Ht71rCcQeJ0iS_oBFN40cQ&expires=1753932274&user_id=U0gyQjh4emY4c0pzUm1Md3VMSm5sSTVGOGNJa2VKWG1aVWh2dGhJcw==
+https://v14.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=XKy09qCttFio0i-wmkNVaQ&expires=1754018620&user_id=ODJLSUk3aUtIcXpQbkRVcDhVd2Zib2duWmMyNWFKZEhyZVVIYm1zTw==
+--
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true",NBC GOLF
+#EXTVLCOPT:http-origin=https://kleanplay.shop
 --
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png",Sky Sports Golf
 #EXTVLCOPT:http-origin=https://kleanplay.shop
