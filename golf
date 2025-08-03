@@ -230,15 +230,9 @@ https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8
 https://jmp2.uk/sam-USBB400000145.m3u8
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=kZFhIm4ilO8Q01DNR_NR9Q&expires=1754191428&user_id=TnJuSUJNV294ZFFjRWJKQ0hvTkZ3MUoydExCRDZ3UjdJRTNyVkNDVw==
+https://v3.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=9blaJvisNPbeYGtTW463aw&expires=1754277844&user_id=dmhCdlp3SVY4RHAwZVViZVdoVVIwR25yZU9oWnZRZkZBVWFxcnRCbQ==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v15.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=vZS3bm6FJkJRHDRPF-_n8w&expires=1754191424&user_id=TnJuSUJNV294ZFFjRWJKQ0hvTkZ3MUoydExCRDZ3UjdJRTNyVkNDVw==
---
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true",NBC GOLF
-#EXTVLCOPT:http-origin=https://kleanplay.shop
---
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png",Sky Sports Golf
-#EXTVLCOPT:http-origin=https://kleanplay.shop
+https://v3.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=L9KjbHuka7t868lL-Faalg&expires=1754277839&user_id=dmhCdlp3SVY4RHAwZVViZVdoVVIwR25yZU9oWnZRZkZBVWFxcnRCbQ==
 --
 #EXTINF:-1  tvg-name="Golf Channel USA HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TVPass",Golf Channel USA HD
 https://tvpass.org/live/GolfChannel/hd
@@ -246,18 +240,18 @@ https://tvpass.org/live/GolfChannel/hd
 https://tvpass.org/live/GolfChannel/sd
 --
 #EXTINF:-1  tvg-name="Golf Channel" tvg-id="astro/golfchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" group-title="UDPTV Live Streams",Golf Channel
-https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="NBC Golf" tvg-id="nbc/nbcgolf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="UDPTV Live Streams",NBC Golf
-https://ott.udptv.xyz/stream/nbc/nbcgolf/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/nbc/nbcgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="Sky Sport Golf" tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="UDPTV Live Streams",Sky Sport Golf
-https://ott.udptv.xyz/stream/Sky/skysport24/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/Sky/skysport24/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="Sky Sport Golf DE" tvg-id="skyde/skysportgolf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="UDPTV Live Streams",Sky Sport Golf DE
-https://ott.udptv.xyz/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/skyuk/skysportscricket/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="Sky Sports Golf UK" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="UDPTV Live Streams",Sky Sports Golf UK
-https://ott.udptv.xyz/stream/skyuk/skysportsaction/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/skyuk/skysportsaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="Golf Channel USA SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TVPass",Golf Channel USA SD
 https://tvpass.org/live/GolfChannel/sd
@@ -265,18 +259,18 @@ https://tvpass.org/live/GolfChannel/sd
 https://tvpass.org/live/GolfChannel/hd
 --
 #EXTINF:-1  tvg-name="Golf Channel" tvg-id="astro/golfchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" group-title="UDPTV Live Streams",Golf Channel
-https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="NBC Golf" tvg-id="nbc/nbcgolf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="UDPTV Live Streams",NBC Golf
-https://ott.udptv.xyz/stream/nbc/nbcgolf/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/nbc/nbcgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="Sky Sport Golf" tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="UDPTV Live Streams",Sky Sport Golf
-https://ott.udptv.xyz/stream/Sky/skysport24/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/Sky/skysport24/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="Sky Sports Golf UK" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="UDPTV Live Streams",Sky Sports Golf UK
-https://ott.udptv.xyz/stream/skyuk/skysportsaction/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/skyuk/skysportsaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="Sky Sport Golf DE" tvg-id="skyde/skysportgolf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="UDPTV Live Streams",Sky Sport Golf DE
-https://ott.udptv.xyz/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/skyuk/skysportscricket/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1 cuid="1126" tvg-chno="1126" tvg-name="NBC Golf 🇺🇸" tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Canales De Golf 🏌️ ",NBC Golf 🇺🇸
 http://49.0.64.96:8007/GOLF
@@ -352,6 +346,8 @@ http://127.0.0.1:6878/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254ad5&
 --
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="🎯🔔|Selection Sport|🔔🎯",Golf Channel
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8
+#EXTINF:-1  tvg-name="Golf Channel (FHD)" tvg-id="astro/golfchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" group-title="UDPTV Live Streams",Golf Channel (FHD)
+https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-id="" tvg-name="PL: Golf Channel HD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",Golf Channel HD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111062
 #EXTINF:1 tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",GolfNetwork
