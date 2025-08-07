@@ -151,9 +151,9 @@ https://jmp2.uk/sam-GBBA3300038UZ.m3u8
 https://jmp2.uk/sam-US900002IH.m3u8
 --
 #EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://v15.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=qgb4pjbGDcylzoAtOSK7_Q&expires=1754537297&user_id=REVpUXF1RHowbUJaeXNIVm4yMGszb3RJMnRLbDJVazNPU0gzbDB3OA==
+https://v13.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=SN3P5UWDcVX1-zA_4tnoHQ&expires=1754623943&user_id=THREckZGejVPeW9jQm0xSXA0QjROSXpVN0phR2FWdjJzcDcyYUx0cQ==
 #EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://v18.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=Ytg0ENhQ5cHZji9tbid74g&expires=1754537292&user_id=REVpUXF1RHowbUJaeXNIVm4yMGszb3RJMnRLbDJVazNPU0gzbDB3OA==
+https://v4.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=6gW1MH462hZqA2fZNWGgcA&expires=1754623938&user_id=THREckZGejVPeW9jQm0xSXA0QjROSXpVN0phR2FWdjJzcDcyYUx0cQ==
 --
 #EXTINF:-1  tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/wbFQ_kQnYZYmtg==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjdAAQ==" group-title="TubiTV",Dog the Bounty Hunter
 http://drewlive24.duckdns.org:4042/tubi/watch/400000088
@@ -184,10 +184,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchanne
 https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 --
 #EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter (SD)" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1400",Dog the Bounty Hunter (SD)
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=724b9c19-7304-11f0-9a08-e2f42ffcb267
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a87c8fe3-73cd-11f0-b871-f6f59b0de0ac
 --
-#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-name="Ghost Hunters (SD)" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1550",Ghost Hunters (SD)
-https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=724b9c19-7304-11f0-9a08-e2f42ffcb267
---
-#EXTINF:-1  tvg-name="Outdoor Channel (HD)" tvg-id="udptvus/outdoorchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="UDPTV Live Streams",Outdoor Channel (HD)
-https://ott.udptv.xyz/stream/udptvus/outdoorchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-chno="1550",Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a87c8fe3-73cd-11f0-b871-f6f59b0de0ac
