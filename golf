@@ -218,9 +218,9 @@ https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8
 https://jmp2.uk/sam-USBB400000145.m3u8
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v5.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=e5ogriYaIIVlJSsUQKopyw&expires=1754623611&user_id=THREckZGejVPeW9jQm0xSXA0QjROSXpVN0phR2FWdjJzcDcyYUx0cQ==
+https://v3.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=oqItGhnjUacLYN9Dy8i_hQ&expires=1754709805&user_id=RmNaNWkzM2FESXF1STJHRElHd05icWpiT3BNNjRZb290WmVLZTVrag==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v5.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=F6re4Y9kD9VTPWHKqUxNGw&expires=1754623606&user_id=THREckZGejVPeW9jQm0xSXA0QjROSXpVN0phR2FWdjJzcDcyYUx0cQ==
+https://v3.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=qCAwjJaAAUGbWHaeP91xuQ&expires=1754709800&user_id=RmNaNWkzM2FESXF1STJHRElHd05icWpiT3BNNjRZb290WmVLZTVrag==
 --
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true",NBC GOLF
 #EXTVLCOPT:http-origin=https://kleanplay.shop
@@ -348,6 +348,8 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-id="" tvg-name="ES:M GOLF FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M GOLF FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115853
 --
+#EXTINF:-1  tvg-name="Sky Sport Golf (FHD)" tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="UDPTV Live Streams",Sky Sport Golf (FHD)
+https://ott.udptv.xyz/stream/Sky/skysport24/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="🎯🔔|Selection Sport|🔔🎯",Sky Sport Golf UK
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8
 --
