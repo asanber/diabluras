@@ -109,9 +109,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1 tvg-id="SS.LaLiga.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-laliga-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport LaLiga
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium415%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 --
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" group-title="24/7",LaLiga TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
---
 #EXTINF:-1 tvg-id="SS.LaLiga.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-laliga-bug-za.png?raw=true" group-title="DaddyLive Global Sports",SuperSport LaLiga
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium415%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 --
@@ -120,6 +117,9 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 --
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga UK
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
+--
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" tvg-id="24.7.Dummy.us" group-title="Tims247",LaLiga TV
+#EXTVLCOPT:http-origin=https://kleanplay.shop
 --
 #EXTINF:-1 cuid="1080" tvg-chno="1080" tvg-name="La liga Inside 🇪🇸" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",La liga Inside 🇪🇸
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
@@ -278,21 +278,21 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="SHAREEXT SPORT",ES DAZN LALIGA 2
+#EXTINF:-1 tvg-id="" tvg-name="ES DAZN LALIGA 2 (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="SHAREEXT SPORT",ES DAZN LALIGA 2 (FHD)
 http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/395
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES HD DAZN LALIGA (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SHAREEXT SPORT",ES HD DAZN LALIGA (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="ES HD DAZN LALIGA (HD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SHAREEXT SPORT",ES HD DAZN LALIGA (HD)
 http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/391
-#EXTINF:-1 tvg-id="" tvg-name="ES HD LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="SHAREEXT SPORT",ES HD LALIGA TV HYPERMOTION
+#EXTINF:-1 tvg-id="" tvg-name="ES HD LALIGA TV HYPERMOTION (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="SHAREEXT SPORT",ES HD LALIGA TV HYPERMOTION (FHD)
 http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/8402
 --
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD M LALIGA (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SHAREEXT SPORT",ES HD M LALIGA (FHD)
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD M LALIGA (HD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SHAREEXT SPORT",ES HD M LALIGA (HD)
 http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/92
 #EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES HD M LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="SHAREEXT SPORT",ES HD M LALIGA TV 2
 http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/96
 #EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES HD M LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="SHAREEXT SPORT",ES HD M LALIGA TV 3
 http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/8399
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD M LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="SHAREEXT SPORT",ES HD M LALIGA TV BAR
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD M LALIGA TV BAR (HD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="SHAREEXT SPORT",ES HD M LALIGA TV BAR (HD)
 http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/8400
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="SHAREEXT SPORT",ES LALIGA TV HYPERMOTION 2
@@ -303,7 +303,7 @@ http://esproipingttm.top:8080/es4401742750473246/17d4597b67b7/103
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",HYPER LA LIGA 2 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848
 --
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="🎯🔔|Selection Sport|🔔🎯",La Liga UK
@@ -311,7 +311,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYy
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858
-#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
 --
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="SHAREEXT SPORT",SKYSPORTS LALIGA
