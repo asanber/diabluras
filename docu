@@ -532,8 +532,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d735fea7b7
 #EXTINF:-1  tvg-name="TWDU" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="PlexTV",The Walking Dead Universe
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 --
-#EXTINF:-1  tvg-name="AMC en espaÃ±ol" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="4290" group-title="PlutoTV USA",AMC en espaÃ±ol
-https://jmp2.uk/plu-62fa81ccd1a7e90007c1ada0.m3u8
+#EXTINF:-1  tvg-name="Sala de Emergencias: Historias InÃ©ditas" tvg-id="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" tvg-chno="4455" group-title="PlutoTV UK",Sala de Emergencias: Historias InÃ©ditas
+https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
+--
+#EXTINF:-1  tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" tvg-chno="1070" group-title="PlutoTV UK",Stories by AMC
+https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 --
 #EXTINF:-1  tvg-name="Sala de Emergencias: Historias InÃ©ditas" tvg-id="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" tvg-chno="4455" group-title="PlutoTV USA",Sala de Emergencias: Historias InÃ©ditas
 https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
@@ -550,22 +553,22 @@ https://jmp2.uk/sam-USBD7000017L.m3u8
 #EXTINF:-1  tvg-name="Historia" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" tvg-chno="3810" group-title="SamsungTVPlus USA",Historia
 https://jmp2.uk/sam-US2600019IC.m3u8
 --
-#EXTINF:-1  tvg-name="Stories by AMC" tvg-id="USBD2500018X6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20240520T223420SQUARE.png" tvg-chno="1515" group-title="SamsungTVPlus USA",Stories by AMC
+#EXTINF:-1  tvg-name="Stories by AMC" tvg-id="USBD2500018X6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20250630T232534SQUARE.png" tvg-chno="1515" group-title="SamsungTVPlus USA",Stories by AMC
 https://jmp2.uk/sam-USBD2500018X6.m3u8
 --
 #EXTINF:-1  tvg-name="AMC HD" tvg-id="amc-eastern-feed" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" group-title="TheTVApp",AMC HD
-https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=pjFUtTaee0pTin_gMI_SBg&expires=1755486941&user_id=Z004d0lxV1ZFT01EZ2xCdU5FZ2k4dXF6aVV5akpweHFhV2xDMmRrdA==
+https://v2.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=RlwCD0IP1r6ZNrJ0p-m1lw&expires=1755573272&user_id=YmJrM2t6ZnNadm55VkFLSmlPMWJvSzBFUEw3MERDTUJZcncxeW1oYg==
 #EXTINF:-1  tvg-name="AMC SD" tvg-id="amc-eastern-feed" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" group-title="TheTVApp",AMC SD
-https://v3.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=WcNSiEhtqM4SKvNlFlrZcA&expires=1755486937&user_id=Z004d0lxV1ZFT01EZ2xCdU5FZ2k4dXF6aVV5akpweHFhV2xDMmRrdA==
+https://v14.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=zMtIhg4xz3T-aMKOOVg8Eg&expires=1755573268&user_id=YmJrM2t6ZnNadm55VkFLSmlPMWJvSzBFUEw3MERDTUJZcncxeW1oYg==
 --
 #EXTINF:-1  tvg-name="Nat Geo WILD HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD HD
-https://v12.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=_w2L6xo_LBKJCay34u-pTQ&expires=1755487594&user_id=Z004d0lxV1ZFT01EZ2xCdU5FZ2k4dXF6aVV5akpweHFhV2xDMmRrdA==
+https://v15.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=X9PDhP7NGAGnEv5fBHGElw&expires=1755573926&user_id=YmJrM2t6ZnNadm55VkFLSmlPMWJvSzBFUEw3MERDTUJZcncxeW1oYg==
 #EXTINF:-1  tvg-name="Nat Geo WILD SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD SD
-https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=BtyFzL-93WcGs9VIOxoM5Q&expires=1755487589&user_id=Z004d0lxV1ZFT01EZ2xCdU5FZ2k4dXF6aVV5akpweHFhV2xDMmRrdA==
+https://v13.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=ZV5dSAOuFuTCreP9CIrUgQ&expires=1755573922&user_id=YmJrM2t6ZnNadm55VkFLSmlPMWJvSzBFUEw3MERDTUJZcncxeW1oYg==
 #EXTINF:-1  tvg-name="National Geographic HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic HD
-https://v4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=eAHC0NqcjzOKKLF060kAFg&expires=1755487603&user_id=Z004d0lxV1ZFT01EZ2xCdU5FZ2k4dXF6aVV5akpweHFhV2xDMmRrdA==
+https://v18.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=GFuurFoGTAURdIumV0Id0w&expires=1755573935&user_id=YmJrM2t6ZnNadm55VkFLSmlPMWJvSzBFUEw3MERDTUJZcncxeW1oYg==
 #EXTINF:-1  tvg-name="National Geographic SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic SD
-https://v16.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=ZT36hVgRBrSeVIq5XIeLnQ&expires=1755487599&user_id=Z004d0lxV1ZFT01EZ2xCdU5FZ2k4dXF6aVV5akpweHFhV2xDMmRrdA==
+https://v5.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=Dnmc8HVs5xQUnCMhSrImWQ&expires=1755573931&user_id=YmJrM2t6ZnNadm55VkFLSmlPMWJvSzBFUEw3MERDTUJZcncxeW1oYg==
 --
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Discovery Channel
 #EXTVLCOPT:http-origin=https://kleanplay.shop
