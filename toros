@@ -102,36 +102,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 #EXTINF:-1  tvg-name="CTV 2" tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://i.imgur.com/T2uS3V6.png" group-title="A1xmedia CA Channels" radio="false",CTV 2
 https://a1xs.vip/610003
 --
-#EXTINF:-1  tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png" group-title="Mystique CA" radio="false",CBC Toronto (CBLT)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/cbc.cblt.toronto.on.ca.m3u8
---
-#EXTINF:-1  tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png" group-title="Mystique CA" radio="false",CityTV Toronto
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
---
-#EXTINF:-1  tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Mystique CA" radio="false",CTV Toronto (CTFO)
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
---
-#EXTINF:-1  tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="Mystique CA" radio="false",CTV2 Toronto
-http://user.scalecdn.co:8080/live/26725074/92867131/93008.m3u8
---
-#EXTINF:-1  tvg-id="global.bc.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="Mystique CA" radio="false",Global Toronto (CIII)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/global.ciii.dt.41.toronto.ca.m3u8
---
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.tele.ca.m3u8
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele (CBUFT)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.cbuft.vancouver.bc.ca.m3u8
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele (CBVT)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.cbvt.quebec.qc.digital.ca.m3u8
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele (CKTV)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.cktv.saguenay.qc.ca.m3u8
---
-#EXTINF:-1  tvg-id="TVO.(CICA-DT).Toronto,.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="Mystique CA" radio="false",TVO
-http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
---
-#EXTINF:-1  tvg-name="CTV 2" tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://i.imgur.com/T2uS3V6.png" group-title="A1xmedia CA Channels" radio="false",CTV 2
-https://a1xs.vip/610003
---
 #EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="AriaPlus - Canada",CityTV
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 --
@@ -141,16 +111,12 @@ http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:-1 tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="AriaPlus - Canada",TVO
 http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 --
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Pittsburgh Pirates vs Toronto Blue Jays (Aug 18, 2025 10:40 PM UK / Aug 18, 2025 3:40 PM MT / Aug 18, 2025 5:40 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium406%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Pittsburgh Pirates vs Toronto Blue Jays (Aug 18, 2025 10:40 PM UK / Aug 18, 2025 3:40 PM MT / Aug 18, 2025 5:40 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium922%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
---
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Pittsburgh Pirates vs Toronto Blue Jays (Aug 18, 2025 10:40 PM UK / Aug 18, 2025 3:40 PM MT / Aug 18, 2025 5:40 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium5%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4wfE9yaWdpbj1odHRwczovL2ZuanBsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mbmpwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDEuMHxPcmlnaW49aHR0cHM6Ly9mbmpwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm5qcGxheS54eXovfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQxLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQxLjA%3D
---
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Pittsburgh Pirates vs Toronto Blue Jays (Aug 18, 2025 10:40 PM UK / Aug 18, 2025 3:40 PM MT / Aug 18, 2025 5:40 PM EST)
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Pittsburgh Pirates vs Toronto Blue Jays (Aug 19, 2025 10:40 PM UK / Aug 19, 2025 3:40 PM MT / Aug 19, 2025 5:40 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium3%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Pittsburgh Pirates vs Toronto Blue Jays (Aug 19, 2025 10:40 PM UK / Aug 19, 2025 3:40 PM MT / Aug 19, 2025 5:40 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium833%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Pittsburgh Pirates vs Toronto Blue Jays (Aug 19, 2025 10:40 PM UK / Aug 19, 2025 3:40 PM MT / Aug 19, 2025 5:40 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium408%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 --
 #EXTINF:-1  tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true" group-title="DaddyLive CA",CBC Canada
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium832%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
@@ -160,58 +126,77 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250108/channel_600x200_fafd1ecf-b56a-480b-b4d9-af5fce36994c.jpg" group-title="LGTV Canada",151 CBC Toronto
 https://amg00788-cbc-amg00788c6-lg-ca-3604.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbctoronto-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates - 8/18/25, 10:40:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates - 8/18/25, 10:40:00 PM UTC
-https://v4.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8?token=-BvcxZlsoKgS1ZWFcTrcMw&expires=1755574368&user_id=a3VBczBVOEpMaUljVFJweW9ZZktCT2xUQnA2Sk1IMHFSQXlwTEZIQg==
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates - 8/18/25, 10:40:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates - 8/18/25, 10:40:00 PM UTC
-https://v4.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8?token=oRyYcVDq5E1SECm1UYWpvQ&expires=1755574373&user_id=a3VBczBVOEpMaUljVFJweW9ZZktCT2xUQnA2Sk1IMHFSQXlwTEZIQg==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates - 8/19/25, 10:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates - 8/19/25, 10:41:00 PM UTC
+https://v2.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8?token=xEk26g5540h8aQoJNlfI3w&expires=1755660926&user_id=QlZMazgzOThBTTNGMXo0ZUIzZXEwdXFUV0tjVFVWcDljZm13UmpCNQ==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates - 8/19/25, 10:41:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates - 8/19/25, 10:41:00 PM UTC
+https://v2.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8?token=uryv7G1-6L3gkLjMROAiOQ&expires=1755660931&user_id=QlZMazgzOThBTTNGMXo0ZUIzZXEwdXFUV0tjVFVWcDljZm13UmpCNQ==
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Hd
 https://tvpass.org/live/mlb-26/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Sd
 https://tvpass.org/live/mlb-26/sd
 --
-#EXTINF:-1  tvg-id="CBC.(CBLT).Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png" group-title="Mystique CA" radio="false",CBC Toronto (CBLT)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/cbc.cblt.toronto.on.ca.m3u8
---
-#EXTINF:-1  tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png" group-title="Mystique CA" radio="false",CityTV Toronto
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
---
-#EXTINF:-1  tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Mystique CA" radio="false",CTV Toronto (CTFO)
-https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
---
-#EXTINF:-1  tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="Mystique CA" radio="false",CTV2 Toronto
-http://user.scalecdn.co:8080/live/26725074/92867131/93008.m3u8
---
-#EXTINF:-1  tvg-id="global.bc.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="Mystique CA" radio="false",Global Toronto (CIII)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/global.ciii.dt.41.toronto.ca.m3u8
---
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.tele.ca.m3u8
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele (CBUFT)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.cbuft.vancouver.bc.ca.m3u8
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele (CBVT)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.cbvt.quebec.qc.digital.ca.m3u8
-#EXTINF:-1  tvg-id="ICI.(CBLFT).Toronto.ca" tvg-logo="https://media.starlite.best/ici.cbuft.vancouver.bc.ca.png" group-title="Mystique CA" radio="false",ICI Tele (CKTV)
-https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.cktv.saguenay.qc.ca.m3u8
---
-#EXTINF:-1  tvg-id="TVO.(CICA-DT).Toronto,.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="Mystique CA" radio="false",TVO
-http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
---
-#EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="6536721dbfbaec00088687c0" tvg-logo="https://images.pluto.tv/channels/6536721dbfbaec00088687c0/colorLogoPNG.png" tvg-chno="551" group-title="PlutoTV CA",CBC News Toronto
+#EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="6536721dbfbaec00088687c0" tvg-logo="https://images.pluto.tv/channels/6536721dbfbaec00088687c0/colorLogoPNG.png" tvg-chno="551" group-title="PlutoTV - Canada",CBC News Toronto
 https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
 --
-#EXTINF:-1  tvg-name="Global News Toronto" tvg-id="62cc00b3b821cf00070f82c3" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" tvg-chno="550" group-title="PlutoTV CA",Global News Toronto
+#EXTINF:-1  tvg-name="Global News Toronto" tvg-id="62cc00b3b821cf00070f82c3" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" tvg-chno="550" group-title="PlutoTV - Canada",Global News Toronto
 https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 --
-#EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250401T004706SQUARE.png" tvg-chno="1134" group-title="SamsungTVPlus CA",CBC News Toronto
-https://jmp2.uk/sam-CA1500002Q4.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/fe4f0dc9792fd7cc2229a1892d1a0287-thumbnail.jpg" tvg-id="MLB.Baseball.Dummy.us" group-title="PPVLand - Baseball Action HD",Toronto Blue Jays vs. Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://ppv.to
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Toronto Blue Jays vs. Pittsburgh Pirates Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250401T004706SQUARE.png" tvg-chno="1134" group-title="SamsungTVPlus - Canada",CBC News Toronto
+https://jmp2.uk/stvp-CA1500002Q4
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Sd
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [BLUE JAYS FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGRg=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [BLUE JAYS FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGRg=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [FANDUEL EAST]
+https://world-proxifier.xyz/zuzz/channel/SUdHRzAxOzo5MD5MSDE_MQ==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [FANDUEL WEST]
+https://world-proxifier.xyz/zuzz/channel/SUdHRzApMkw-MA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [MARINERS FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGSU=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [MARLINS FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGCU=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [SN ONTARIO]
+https://world-proxifier.xyz/zuzz/channel/Pko6RT9HOUA6.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [SN ONTARIO]
+https://world-proxifier.xyz/zuzz/channel/Pko6RT9HOUA6.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [SN PACIFIC]
+https://world-proxifier.xyz/zuzz/channel/Pko7SE5PTUBO.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [SN PACIFIC]
+https://world-proxifier.xyz/zuzz/channel/Pko7SE5PTUBO.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Miami%20Marlins.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Miami Marlins vs Toronto Blue Jays [SN WEST]
+https://world-proxifier.xyz/zuzz/channel/PkoyTD4w.m3u8
+--
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [BLUE JAYS FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGRg=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [BLUE JAYS FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGRg=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [PIRATES FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGBw=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [PIRATES FEED]
+https://world-proxifier.xyz/zuzz/channel/REhJGBw=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [SN ONTARIO]
+https://world-proxifier.xyz/zuzz/channel/Pko6RT9HOUA6.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [SN ONTARIO]
+https://world-proxifier.xyz/zuzz/channel/Pko6RT9HOUA6.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [SN PACIFIC]
+https://world-proxifier.xyz/zuzz/channel/Pko7SE5PTUBO.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [SN PACIFIC]
+https://world-proxifier.xyz/zuzz/channel/Pko7SE5PTUBO.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [SN WEST]
+https://world-proxifier.xyz/zuzz/channel/PkoyTD4w.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [SPORTSNET PITTSBURGH]
+https://world-proxifier.xyz/zuzz/channel/PjQ6OT8xRUw_KTtAPzA-STw2QkM=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://img.zuzz.tv//logos/teams/Pittsburgh%20Pirates.png" tvg-id="24.7.Dummy.us" group-title="Zuzz Streams",Pittsburgh Pirates vs Toronto Blue Jays [SPORTSNET PITTSBURGH]
+https://world-proxifier.xyz/zuzz/channel/PjQ6OT8xRUw_KTtAPzA-STw2QkM=.m3u8
+--
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Sd
 https://tvpass.org/live/mlb-26/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/18 6:40 Pm Et) Hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Pittsburgh Pirates (08/19 6:41 Pm Et) Hd
 https://tvpass.org/live/mlb-26/hd
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
@@ -220,7 +205,7 @@ https://tvpass.org/live/mlb-26/hd
 #EXTINF:-1 tvg-id="unknown" tvg-name="Mundotoro TV Spain" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD (HD)" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD (HD)
+#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117776
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (FHD)
