@@ -225,19 +225,34 @@ https://jmp2.uk/stvp-US2600007WJ
 #EXTINF:-1  tvg-name="NFL Preseason All Access" tvg-id="US2600008FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600008FU_20250729T010450SQUARE.png" tvg-chno="2311" group-title="PlutoTV - United States",NFL Preseason All Access
 https://jmp2.uk/stvp-US2600008FU
 --
-#EXTINF:-1  tvg-name="NFL Channel" tvg-id="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250428T223450SQUARE.png" tvg-chno="2310" group-title="SamsungTVPlus - USA",NFL Channel
+#EXTINF:-1  tvg-id="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250428T223450SQUARE.png" tvg-chno="2310" group-title="SamsungTVPlus - USA",NFL Channel
 https://jmp2.uk/stvp-US2600007WJ
-#EXTINF:-1  tvg-name="NFL Preseason All Access" tvg-id="US2600008FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600008FU_20250729T010450SQUARE.png" tvg-chno="2311" group-title="SamsungTVPlus - USA",NFL Preseason All Access
+#EXTINF:-1  tvg-id="US2600008FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600008FU_20250729T010450SQUARE.png" tvg-chno="2311" group-title="SamsungTVPlus - USA",NFL Preseason All Access
 https://jmp2.uk/stvp-US2600008FU
 --
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Pittsburgh Steelers vs. Carolina Panthers Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+--
 #EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network HD
-https://v1.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=29vY6cihLm5B3ekVte6VNQ&expires=1755660520&user_id=aWpkU0FWcXE2cGdVRG5uNFlOZTR5bHd4MTdMYlp5YmFHc1hiU0lZcA==
+https://v4.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=kNjGZXviEZ89yNFp-_hQYw&expires=1755746858&user_id=d0RLREN4NjVkZmxkUTN0TDNNSHdma2g3MDYwVFp2NGRtZFFFRDI1NQ==
 #EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network SD
-https://v1.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=lG0yY8A0TPWiGkFGMTw2BQ&expires=1755660516&user_id=aWpkU0FWcXE2cGdVRG5uNFlOZTR5bHd4MTdMYlp5YmFHc1hiU0lZcA==
+https://v13.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=VDadpgzQnWpu7l35ncGPIw&expires=1755746853&user_id=d0RLREN4NjVkZmxkUTN0TDNNSHdma2g3MDYwVFp2NGRtZFFFRDI1NQ==
 #EXTINF:-1  tvg-name="NFL Red Zone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone HD
-https://v14.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=8Nl9oi5vdNeTLtRKB6ywTA&expires=1755660529&user_id=aWpkU0FWcXE2cGdVRG5uNFlOZTR5bHd4MTdMYlp5YmFHc1hiU0lZcA==
+https://v15.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=5unRroMS5aXQfHJ89sFL_w&expires=1755746867&user_id=d0RLREN4NjVkZmxkUTN0TDNNSHdma2g3MDYwVFp2NGRtZFFFRDI1NQ==
 #EXTINF:-1  tvg-name="NFL Red Zone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone SD
-https://v17.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=BEMW1W5azDgBRQTPmMaRAA&expires=1755660525&user_id=aWpkU0FWcXE2cGdVRG5uNFlOZTR5bHd4MTdMYlp5YmFHc1hiU0lZcA==
+https://v15.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=TpEUGlusmD-ed6UsX5O0xA&expires=1755746862&user_id=d0RLREN4NjVkZmxkUTN0TDNNSHdma2g3MDYwVFp2NGRtZFFFRDI1NQ==
+--
+#EXTINF:-1 tvg-logo="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/f_png/patriots/aqecqty9jjxy4vbapuyi.png" tvg-id="24.7.Dummy.us" group-title="Tims247",New England Patriots vs. New York Giants (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanstorage.store
+--
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nfl.png" tvg-id="24.7.Dummy.us" group-title="Tims247",NFL Network
+#EXTVLCOPT:http-origin=https://kleanstorage.store
+--
+#EXTINF:-1 tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/NFLN_RZ_2022_16x9_Red_Delivery_Retouch.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",NFL Redzone
+#EXTVLCOPT:http-origin=https://kleanstorage.store
+--
+#EXTINF:-1 tvg-logo="https://imagecomposer.nfl.com/image/fetch/h_900 tvg-id="24.7.Dummy.us" group-title="Tims247",f_png/https%3A%2F%2Fm300732-mcdn.mp.lura.live%2Fgnimages%2Fassets%2FGNLZZGG0028C802.jpg%3FExpires%3D2082758400%26KeyName%3Dmcpkey1%26Signature%3D4Jx3fxmZBm5rbUAyoS0pju2FD54" group-title="EVENTS",Pittsburgh Steelers at Carolina Panthers (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanstorage.store
 --
 #EXTINF:-1  tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",NFL Channel
 https://live-manifest.production-public.tubi.io/live/4f7540f3-a9d1-4956-936f-b31592ab654e/playlist.m3u8

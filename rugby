@@ -43,10 +43,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTINF:-1  tvg-name="RugbyPass TV" tvg-id="US1000004YJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000004YJ_20250714T223139SQUARE.png" tvg-chno="2375" group-title="PlutoTV - United States",RugbyPass TV
 https://jmp2.uk/stvp-US1000004YJ
 --
-#EXTINF:-1  tvg-name="RugbyPass TV" tvg-id="GB330000144" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png" tvg-chno="4608" group-title="SamsungTVPlus - United Kingdom",RugbyPass TV
+#EXTINF:-1  tvg-id="GB330000144" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png" tvg-chno="4608" group-title="SamsungTVPlus - UK",RugbyPass TV
 https://jmp2.uk/stvp-GB330000144
 --
-#EXTINF:-1  tvg-name="RugbyPass TV" tvg-id="US1000004YJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000004YJ_20250714T223139SQUARE.png" tvg-chno="2375" group-title="SamsungTVPlus - USA",RugbyPass TV
+#EXTINF:-1  tvg-id="US1000004YJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000004YJ_20250714T223139SQUARE.png" tvg-chno="2375" group-title="SamsungTVPlus - USA",RugbyPass TV
 https://jmp2.uk/stvp-US1000004YJ
 --
 #EXTINF:-1 cuid="1085" tvg-chno="1085" tvg-name="RugbyZone tv 🇫🇷 🏉" tvg-logo="https://rugbyzone.tv/assets/logo-CpXvPZZq.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",RugbyZone tv 🇫🇷 🏉
