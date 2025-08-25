@@ -490,18 +490,18 @@ https://jmp2.uk/stvp-USBD7000017L
 https://jmp2.uk/stvp-US2600019IC
 --
 #EXTINF:-1  tvg-name="AMC HD" tvg-id="amc-eastern-feed" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" group-title="TheTVApp",AMC HD
-https://v16.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=4oTXdzTdCZgSEI9kdGsD1Q&expires=1756091720&user_id=VFN1N0pidUxQZlRFcEFWdkRpNlVWb29uSktaWXgwbnJxQUlKa25HVA==
+https://v13.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=_fDJ4MyVnEQ8aWGRAda0cg&expires=1756178127&user_id=M0VoNWFDM2xURVFNNWwxQVJER1o0elNVQ3pNYnJieWl6V2h3QjVoeQ==
 #EXTINF:-1  tvg-name="AMC SD" tvg-id="amc-eastern-feed" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" group-title="TheTVApp",AMC SD
-https://v8.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=NIRQsbISZ6hhOPeK2kj8sQ&expires=1756091715&user_id=VFN1N0pidUxQZlRFcEFWdkRpNlVWb29uSktaWXgwbnJxQUlKa25HVA==
+https://v13.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8?token=9MUVg7FkwOXIMpi8u3fMAQ&expires=1756178122&user_id=M0VoNWFDM2xURVFNNWwxQVJER1o0elNVQ3pNYnJieWl6V2h3QjVoeQ==
 --
 #EXTINF:-1  tvg-name="Nat Geo WILD HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD HD
-https://v8.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=KObDDAMx-c1D84wpB5jMhw&expires=1756092380&user_id=VFN1N0pidUxQZlRFcEFWdkRpNlVWb29uSktaWXgwbnJxQUlKa25HVA==
+https://v14.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=Ye0o_XG-rhPzh8zkldqJjg&expires=1756178790&user_id=M0VoNWFDM2xURVFNNWwxQVJER1o0elNVQ3pNYnJieWl6V2h3QjVoeQ==
 #EXTINF:-1  tvg-name="Nat Geo WILD SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD SD
-https://v17.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=69r3La1RIkQaAd36blIicQ&expires=1756092375&user_id=VFN1N0pidUxQZlRFcEFWdkRpNlVWb29uSktaWXgwbnJxQUlKa25HVA==
+https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=CeKww-S6b0y9SQMZeC9pdQ&expires=1756178785&user_id=M0VoNWFDM2xURVFNNWwxQVJER1o0elNVQ3pNYnJieWl6V2h3QjVoeQ==
 #EXTINF:-1  tvg-name="National Geographic HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic HD
-https://v8.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=O5WUcyQ1jSHRWreT2MJdyg&expires=1756092389&user_id=VFN1N0pidUxQZlRFcEFWdkRpNlVWb29uSktaWXgwbnJxQUlKa25HVA==
+https://v16.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=_4mft3s6LuD_Wkp7KHETEw&expires=1756178800&user_id=M0VoNWFDM2xURVFNNWwxQVJER1o0elNVQ3pNYnJieWl6V2h3QjVoeQ==
 #EXTINF:-1  tvg-name="National Geographic SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic SD
-https://v8.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=q0LUqA0sLJLZ4U_Tv4SIBg&expires=1756092384&user_id=VFN1N0pidUxQZlRFcEFWdkRpNlVWb29uSktaWXgwbnJxQUlKa25HVA==
+https://v16.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=dgtDlRMRaD1mdy4a1Gpolg&expires=1756178795&user_id=M0VoNWFDM2xURVFNNWwxQVJER1o0elNVQ3pNYnJieWl6V2h3QjVoeQ==
 --
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Discovery Channel
 #EXTVLCOPT:http-origin=https://kleanstorage.store
@@ -524,30 +524,6 @@ https://tvpass.org/live/NationalGeographicEast/sd
 https://tvpass.org/live/NationalGeographicWildEast/hd
 #EXTINF:-1  tvg-name="National Geographic Wild SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild SD
 https://tvpass.org/live/NationalGeographicWildEast/sd
---
-#EXTINF:-1  tvg-name="AMC" tvg-id="udptvus/amc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC
-https://ott.udptv.xyz/stream/udptvus/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="AMC IT" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC IT
-https://ott.udptv.xyz/stream/udptv/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="UDPTV Live Streams",AMC Thrillers
-https://ott.udptv.xyz/stream/udptvus/amcthrillers/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
---
-#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="UDPTV Live Streams",Discovery Channel
-https://ott.udptv.xyz/stream/astro/discoverychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
---
-#EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="UDPTV Live Streams",DMAX
-https://ott.udptv.xyz/stream/astro/dmax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
---
-#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National.Geographic.Wild.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild
-https://ott.udptv.xyz/stream/udptv/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Nat Geo Wild US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild US
-https://ott.udptv.xyz/stream/udptvus/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="UDPTV Live Streams",National Geographic Channel
-https://ott.udptv.xyz/stream/udptv/nationalgeographicchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="National Geographic Channel CA" tvg-id="Amazon.US.NationalGeographic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel CA
-https://ott.udptv.xyz/stream/udptv/nationalgeographicca/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="National Geographic Channel US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel US
-https://ott.udptv.xyz/stream/udptvus/nationalgeographic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="Xumo Streams",AMC Thrillers
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377&ads.channelId=99951377&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=:534e0e7e-a892-4b1b-9e2c-8e74ccb57aeb&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -573,30 +549,6 @@ https://tvpass.org/live/NationalGeographicEast/hd
 https://tvpass.org/live/NationalGeographicWildEast/sd
 #EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TVPass",National Geographic Wild HD
 https://tvpass.org/live/NationalGeographicWildEast/hd
---
-#EXTINF:-1  tvg-name="AMC" tvg-id="udptvus/amc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC
-https://ott.udptv.xyz/stream/udptvus/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="AMC IT" tvg-id="AMC.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="UDPTV Live Streams",AMC IT
-https://ott.udptv.xyz/stream/udptv/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="UDPTV Live Streams",AMC Thrillers
-https://ott.udptv.xyz/stream/udptvus/amcthrillers/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
---
-#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="UDPTV Live Streams",Discovery Channel
-https://ott.udptv.xyz/stream/astro/discoverychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
---
-#EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="UDPTV Live Streams",DMAX
-https://ott.udptv.xyz/stream/astro/dmax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
---
-#EXTINF:-1  tvg-name="Nat Geo Wild" tvg-id="National.Geographic.Wild.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild
-https://ott.udptv.xyz/stream/udptv/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Nat Geo Wild US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="UDPTV Live Streams",Nat Geo Wild US
-https://ott.udptv.xyz/stream/udptvus/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="National Geographic Channel" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="UDPTV Live Streams",National Geographic Channel
-https://ott.udptv.xyz/stream/udptv/nationalgeographicchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="National Geographic Channel CA" tvg-id="Amazon.US.NationalGeographic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel CA
-https://ott.udptv.xyz/stream/udptv/nationalgeographicca/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="National Geographic Channel US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="UDPTV Live Streams",National Geographic Channel US
-https://ott.udptv.xyz/stream/udptvus/nationalgeographic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 --
 #EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Series Y Shows De Tv",Stories By AMC  🇺🇸
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
@@ -678,6 +630,3 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 --
 #EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Nat Geo Wild USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
---
-#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" group-title="🎯🔔|Selection Sport|🔔🎯",Discovery Channel
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWExMzY5ZGNlNGIzLTI1MmItNDZhNC1kMTJlLTQ2NDBlODZi/master.m3u8
