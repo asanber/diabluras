@@ -232,14 +232,20 @@ https://jmp2.uk/stvp-US2600007WJ
 #EXTINF:-1  tvg-id="US2600008FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600008FU_20250729T010450SQUARE.png" tvg-chno="2311" group-title="SamsungTVPlus - USA",NFL Preseason All Access
 https://jmp2.uk/stvp-US2600008FU
 --
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Dallas Cowboys vs. Philadelphia Eagles Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Kansas City Chiefs vs. Los Angeles Chargers Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+--
 #EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network HD
-https://v2.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=nQ_JrmjV5IKIxGI97jPxGw&expires=1756347926&user_id=d0xyUWtLbmZ1MEJoTlZCQ3pSYU1UT25EMlZSVHBSeDZNSkFuR0F0Nw==
+https://v5.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=PCzMPAtoTAt30JG2_1f-Qw&expires=1756437814&user_id=eGIxQktKUDhSTlpjc291WFkxUUNhSjFpY2N5RDJxdlJmUWUzOGtieA==
 #EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network SD
-https://v2.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=l72sIeECprNl4tNNpLPAlQ&expires=1756347921&user_id=d0xyUWtLbmZ1MEJoTlZCQ3pSYU1UT25EMlZSVHBSeDZNSkFuR0F0Nw==
+https://v12.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=dDdzTdtcmqSkXIGTS4h0Tw&expires=1756437809&user_id=eGIxQktKUDhSTlpjc291WFkxUUNhSjFpY2N5RDJxdlJmUWUzOGtieA==
 #EXTINF:-1  tvg-name="NFL Red Zone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone HD
-https://v16.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=ivdzt0nEOVEycdB-XO41XA&expires=1756347935&user_id=d0xyUWtLbmZ1MEJoTlZCQ3pSYU1UT25EMlZSVHBSeDZNSkFuR0F0Nw==
+https://v5.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=SLJSUIUiMD3xxOJgc-0MRA&expires=1756437823&user_id=eGIxQktKUDhSTlpjc291WFkxUUNhSjFpY2N5RDJxdlJmUWUzOGtieA==
 #EXTINF:-1  tvg-name="NFL Red Zone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone SD
-https://v16.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=qYEdDDlVuDnPhrGyq-D13A&expires=1756347930&user_id=d0xyUWtLbmZ1MEJoTlZCQ3pSYU1UT25EMlZSVHBSeDZNSkFuR0F0Nw==
+https://v5.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=nRM5He4nXqDcbyEHIRy3Hw&expires=1756437818&user_id=eGIxQktKUDhSTlpjc291WFkxUUNhSjFpY2N5RDJxdlJmUWUzOGtieA==
 --
 #EXTINF:-1  tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",NFL Channel
 https://live-manifest.production-public.tubi.io/live/4f7540f3-a9d1-4956-936f-b31592ab654e/playlist.m3u8
