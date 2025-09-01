@@ -31,6 +31,9 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="US-SD: Sportsman Channel" tvg-logo="" group-title="USA SD ",US-SD: Sportsman Channel
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123582
 --
+#EXTINF:-1 tvg-id="" tvg-name="No. 42 John Hunter Nemechek (2025-08-31 17:33:00)" tvg-logo="" group-title="AMZ LIVE EVENTS (search date)",No. 42 John Hunter Nemechek (2025-08-31 17:33:00)
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/125394
+--
 #EXTINF:-1 tvg-id="" tvg-name="247_: Hunter x Hunter" tvg-logo="" group-title="247s.",247_: Hunter x Hunter
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114495
 --
@@ -157,9 +160,9 @@ https://jmp2.uk/stvp-GBBA3300038UZ
 https://jmp2.uk/stvp-US900002IH
 --
 #EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://v17.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=poFcwRUYorKYFtTkBLLkFg&expires=1756697001&user_id=Q0lFbEVCODVkWkwwVUNDcUdjVFYxRkNkSlZQZWRFZ1h5c1FISGJhaw==
+https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=pDLX7Uy3mAVW8gAtls5_NQ&expires=1756783360&user_id=VUIyZ1dTSEZnMU9uOGl5Qzl4U1pVNk5nOGVucG14cHd1ZnVJVlpwQg==
 #EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://v17.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=Ca-VDCw4wlz_myfwXFq0ug&expires=1756696996&user_id=Q0lFbEVCODVkWkwwVUNDcUdjVFYxRkNkSlZQZWRFZ1h5c1FISGJhaw==
+https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=cS1kxuiiQpQSuGI0o4oVvQ&expires=1756783355&user_id=VUIyZ1dTSEZnMU9uOGl5Qzl4U1pVNk5nOGVucG14cHd1ZnVJVlpwQg==
 --
 #EXTINF:-1  tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Dog the Bounty Hunter
 https://live-manifest.production-public.tubi.io/live/acaa98b5-9c41-4a5c-98e3-ec7f0adf794c/playlist.m3u8
