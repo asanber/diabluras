@@ -165,9 +165,9 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0tSTiZMIUdNJTpaK0t
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1BdMEI0XE08SDAhWiVeSERCMBNaJUVGMFRFOzo3JD5aAiFHTVQWCSs6.m3u8
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v18.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=vaVcYc4ObxFWgfQG6xX0pw&expires=1756869458&user_id=Rmtub2pXUk9BN3B3VklXdEF3V01FanN2dUdEMlBWNnBlNFNQSk5aWg==
+https://v2.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=sHHk_2iGFIg17H_NBhujCg&expires=1756955949&user_id=bTVmMXUxTFFlanZaelNnbGo5RTNSRnp5NTExNU5Dc3htcHB1dkVreg==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v18.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=1drAnmq8dbp30BFbtD7tBQ&expires=1756869453&user_id=Rmtub2pXUk9BN3B3VklXdEF3V01FanN2dUdEMlBWNnBlNFNQSk5aWg==
+https://v2.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8?token=Ln6am0d7j19p08_kvRsP1w&expires=1756955944&user_id=bTVmMXUxTFFlanZaelNnbGo5RTNSRnp5NTExNU5Dc3htcHB1dkVreg==
 --
 #EXTINF:-1  tvg-name="Golf Channel USA HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TVPass",Golf Channel USA HD
 https://tvpass.org/live/GolfChannel/hd
@@ -281,10 +281,23 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL:Ziggo Sport Golf FHD (FHD)" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT SPORT",Ziggo Sport Golf FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14902
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="imgp.php?url=http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg",AF | DSTV: SUPER SPORTS GOLF
+#EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-05/e7d2e41e6c120b447066e34bd0de1035.jpg",BE: PLAY SPORTS GOLF
+#EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-05/4563870d73aeb6a4e7dc80094393537e.png",DE: SKY SPORT GOLF
+#EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-05/845f246ff9105ba49eec3b6d1c00c427.png",DK: V SPORT GOLF
+#EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="imgp.php?url=http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg",DSTV: SUPER SPORTS GOLF
+#EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
+--
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
 http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
@@ -321,19 +334,19 @@ http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/100
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",UK: SKY SPORTS GOLF FHD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47199
-#EXTINF:-1 tvg-id="skysportsgolf.uk" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",UK: SKY SPORTS GOLF FHD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47199
+#EXTINF:-1 tvg-id="skysportsgolf.uk" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",UK: SKY SPORTS GOLF FHD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47199
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",UK_gs: Sky Sports Golf
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114471
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",UK_gs: Sky Sports Golf
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114471
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",UK_gs: Sky Sports Golf
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114471
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg",V SPORT GOLF HD (SD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
 --
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg",Ziggo Sport Golf FHD (HD)
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg",Ziggo Sport Golf FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14902
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="imgp.php?url=http://109.238.11.8:25461/logo/tv/ss/Sky_Sports_golf.png",|UK| SKY SPORTS GOLF FHD
