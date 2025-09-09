@@ -166,12 +166,12 @@ https://jmp2.uk/stvp-GBBA3300038UZ
 https://jmp2.uk/stvp-US900002IH
 --
 #EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://e2.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=aLv4v14E2MBMSxkismfzZQ&expires=1757388256&user_id=QUxUUjl2YzBPb0JuY1l4cVRYQ1VTYXROSE96WFhTRkRtcTlyZGVDNQ==
+https://e5.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=3KkkaNewSgnGijWoJ8ND7g&expires=1757474620&user_id=Z2hKbVdwN2h1RURUdFQzVzFVWUVEUXJYbGFpcU1VNXlqd3RjNGdWMQ==
 #EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://e2.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=DwgR13jR5xVgh3eheOCnIg&expires=1757388251&user_id=QUxUUjl2YzBPb0JuY1l4cVRYQ1VTYXROSE96WFhTRkRtcTlyZGVDNQ==
+https://e3.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=iwckzSh9zbyN_wYO2-wZ-g&expires=1757474615&user_id=Z2hKbVdwN2h1RURUdFQzVzFVWUVEUXJYbGFpcU1VNXlqd3RjNGdWMQ==
 --
 #EXTINF:-1  tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Dog the Bounty Hunter
-http://drewlive24.duckdns.org:4042/tubi/watch/400000088
+https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8
 --
 #EXTINF:-1  tvg-name="Outdoor Channel US HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TVPass",Outdoor Channel US HD
 https://tvpass.org/live/OutdoorChannel/hd
@@ -208,6 +208,3 @@ https://s8.imageshub.pro/ma/D2S0q29gLJ4hFUIhqTIxYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://raw.githubusercontent.com/rafkichanel/my-iptv-playlist/refs/heads/master/IMG_20250807_103611.jpg",History Hunters (1080p) - 1080P
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
---
-#EXTINF:-1 tvg-id="SportsmanChannel.us" group-title="Phim truyện" tvg-logo="https://raw.githubusercontent.com/rafkichanel/my-iptv-playlist/refs/heads/master/IMG_20250807_103611.jpg",Sportsman Channel
-https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
