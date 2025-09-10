@@ -268,10 +268,10 @@ http://extra-terestrial-vision.net:80/live/kevindoran/ksX5oYT0V1/163752.ts
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",HYPER LA LIGA 2 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD (SD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD
+#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858
 #EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
@@ -285,14 +285,13 @@ http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/112476
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportsLaliga.png",038. SkySportsLaliga
 https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
 --
-#EXTINF:-1 tvg-id="supersportlaliga.za" group-title="Thể Thao",AF | DSTV: SUPER SPORTS LA LIGA
-https://xfireflix.fun/file/opplex/stream.m3u8?id=238479&e=.m3u8
---
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD (FHD)
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD (SD)
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/163752
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD (FHD)
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD (SD)
 http://extra-terestrial-vision.net:80/live/kevindoran/ksX5oYT0V1/163752.ts
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LA LIGA 🇲🇽
+http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORTS LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 --
