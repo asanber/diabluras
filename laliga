@@ -260,9 +260,9 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 --
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-title="SHAREEXT SPORT",ES Bein Sports La Liga HD (SD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-title="SHAREEXT SPORT",ES Bein Sports La Liga HD (FHD)
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/163752
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-title="SHAREEXT SPORT",ES Bein Sports La Liga HD (SD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-title="SHAREEXT SPORT",ES Bein Sports La Liga HD (FHD)
 http://extra-terestrial-vision.net:80/live/kevindoran/ksX5oYT0V1/163752.ts
 --
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",HYPER LA LIGA 2 (SD)
@@ -284,6 +284,9 @@ http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/112476
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportsLaliga.png",038. SkySportsLaliga
 https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
+--
+#EXTINF:-1 tvg-id="supersportlaliga.za" group-title="Thể Thao",AF | DSTV: SUPER SPORTS LA LIGA
+https://xfireflix.fun/file/opplex/stream.m3u8?id=238479&e=.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD (SD)
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/163752

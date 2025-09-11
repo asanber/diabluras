@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="nflnetwork.us" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/nfl-network-logo-1-e1663261658553-768x321.png",NFL Network 
 #EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php 
 --
-#EXTINF:-1 tvg-id="" tvg-name="NFL 01 -" tvg-logo="https://i.ibb.co/xG6Csp3/nfl.png" group-title="NFL (Regular Season/TBA)",NFL 01 -
+#EXTINF:-1 tvg-id="" tvg-name="NFL 01 - Commanders @ Packers 8:15PM EST (Sep 11)" tvg-logo="https://i.ibb.co/xG6Csp3/nfl.png" group-title="NFL (Regular Season/TBA)",NFL 01 - Commanders @ Packers 8:15PM EST (Sep 11)
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/366
 #EXTINF:-1 tvg-id="" tvg-name="NFL 02 -" tvg-logo="https://i.ibb.co/xG6Csp3/nfl.png" group-title="NFL (Regular Season/TBA)",NFL 02 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/367
@@ -234,9 +234,6 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US-SD: NFL Network" tvg-logo="" group-title="USA SD ",US-SD: NFL Network
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123526
 --
-#EXTINF:-1 tvg-id="" tvg-name="The NFL Today (2025-09-07 11:58:00)" tvg-logo="" group-title="AMZ LIVE EVENTS (search date)",The NFL Today (2025-09-07 11:58:00)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/125946
---
 #EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Nfl HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Nfl HD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114996
 --
@@ -262,6 +259,45 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 https://a1xs.vip/40000032
 #EXTINF:-1  tvg-name="NFL RedZone" tvg-id="NFL.RedZone.us" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="A1xmedia US Sports" radio="false",NFL RedZone
 https://a1xs.vip/40000033
+--
+#EXTINF:-1  tvg-name="NFL Network" tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="MoveOnJoy" radio="false",NFL Network
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="NFL RedZone" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="MoveOnJoy" radio="false",NFL RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+--
+#EXTINF:-1  tvg-name="NFL Network" tvg-id="NFL.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="A1xmedia US Sports" radio="false",NFL Network
+https://a1xs.vip/40000032
+#EXTINF:-1  tvg-name="NFL RedZone" tvg-id="NFL.RedZone.us" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="A1xmedia US Sports" radio="false",NFL RedZone
+https://a1xs.vip/40000033
+--
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F91pkdx42jc.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dqjlq0mhg8s%26v%3D1757602331831&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Faqv74v0amd.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Djzszyyhkyza%26v%3D1757602808288&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fat0r7i4tde.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D71hptf98eal%26v%3D1757602742560&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium455%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fha6t9x1cld.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dmqqx5kfib28%26v%3D1757602363425&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fmdc7co6n6k.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3D7fhwwx9nd7x%26v%3D1757602805599&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium37%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fp19m6gyjkj.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D3ig7ri0box8%26v%3D1757602775275&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fppu8teywtv.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3D5fgvjkj3xg4%26v%3D1757602783636&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fvnksk711g7.amazonaws.com%2Fhls%2F480p%2Fplaylist.m3u8%3Ftoken%3Dw9zotjrnwr%26v%3D1757602818993&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium134%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium116%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",NFL : Green Bay Packers vs Washington Commanders (Sep 11-2025 12:15 AM UK / Sep 10-2025 5:15 PM MT / Sep 10-2025 7:15 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium144%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 --
 #EXTINF:-1  tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="DaddyLive USA",NFL Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium405%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
@@ -300,43 +336,43 @@ https://jmp2.uk/stvp-US2600007WJ
 #EXTINF:-1  tvg-name="NFL Preseason All Access" tvg-id="US2600008FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600008FU_20250729T010450SQUARE.png" tvg-chno="2311" group-title="PlutoTV - United States",NFL Preseason All Access
 https://jmp2.uk/stvp-US2600008FU
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Atlanta Falcons vs. Minnesota Vikings
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" group-title="PPVLand - NFL Action",Atlanta Falcons vs. Minnesota Vikings
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0c185e4b5b35f68327b52afa44eca167-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Buffalo Bills vs. New York Jets
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0c185e4b5b35f68327b52afa44eca167-thumbnail.jpg" group-title="PPVLand - NFL Action",Buffalo Bills vs. New York Jets
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f1ec185b2e752b34bc1846f83048c460-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Carolina Panthers vs. Arizona Cardinals
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f1ec185b2e752b34bc1846f83048c460-thumbnail.jpg" group-title="PPVLand - NFL Action",Carolina Panthers vs. Arizona Cardinals
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e9a16eb83ff10772bbde89309105949a-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Chicago Bears vs. Detroit Lions
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e9a16eb83ff10772bbde89309105949a-thumbnail.jpg" group-title="PPVLand - NFL Action",Chicago Bears vs. Detroit Lions
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6c6d2e33704a4702c605f4352682db26-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Jacksonville Jaguars vs. Cincinnati Bengals
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/6c6d2e33704a4702c605f4352682db26-thumbnail.jpg" group-title="PPVLand - NFL Action",Jacksonville Jaguars vs. Cincinnati Bengals
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/607d501e58d006320766fac5f2826087-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Los Angeles Chargers vs. Las Vegas Raiders
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/607d501e58d006320766fac5f2826087-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. Las Vegas Raiders
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1e626b02529f41982efe6613fbe829c7-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Los Angeles Rams vs. Tennessee Titans
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1e626b02529f41982efe6613fbe829c7-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Rams vs. Tennessee Titans
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ffa2a4147ea6f4e7c9f24682df92ce7a-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",New England Patriots vs. Miami Dolphins
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ffa2a4147ea6f4e7c9f24682df92ce7a-thumbnail.jpg" group-title="PPVLand - NFL Action",New England Patriots vs. Miami Dolphins
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d653320be9f308f86b251d5df9efe9b3-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",New York Giants vs. Dallas Cowboys
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d653320be9f308f86b251d5df9efe9b3-thumbnail.jpg" group-title="PPVLand - NFL Action",New York Giants vs. Dallas Cowboys
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/02227b149844d1a2b7c36fa8e1ac3d88-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Philadelphia Eagles vs. Kansas City Chiefs
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/02227b149844d1a2b7c36fa8e1ac3d88-thumbnail.jpg" group-title="PPVLand - NFL Action",Philadelphia Eagles vs. Kansas City Chiefs
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/dc6a69c4ef4ae34f2529f1c2826c45ed-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Seattle Seahawks vs. Pittsburgh Steelers
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/dc6a69c4ef4ae34f2529f1c2826c45ed-thumbnail.jpg" group-title="PPVLand - NFL Action",Seattle Seahawks vs. Pittsburgh Steelers
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f8b2dd164f22f32b03397082b6920b9e-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Tampa Bay Buccaneers vs. Houston Texans
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f8b2dd164f22f32b03397082b6920b9e-thumbnail.jpg" group-title="PPVLand - NFL Action",Tampa Bay Buccaneers vs. Houston Texans
 #EXTVLCOPT:http-origin=https://veplay.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/49b69d94ca5f810b3c9173018fa1deb9-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Washington Commanders vs. Green Bay Packers
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/49b69d94ca5f810b3c9173018fa1deb9-thumbnail.jpg" group-title="PPVLand - NFL Action",Washington Commanders vs. Green Bay Packers
 #EXTVLCOPT:http-origin=https://veplay.top
 --
 #EXTINF:-1  tvg-id="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250428T223450SQUARE.png" tvg-chno="2310" group-title="SamsungTVPlus - USA",NFL Channel
@@ -345,13 +381,18 @@ https://jmp2.uk/stvp-US2600007WJ
 https://jmp2.uk/stvp-US2600008FU
 --
 #EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network HD
-https://v12.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=YBGSLcjLzztxiSGALwH07w&expires=1757561000&user_id=YjBBSE14NHY3Qlpwd3FSZ1h0Vko3S0pjYXpaWFRoN00yZ25NOGV5Zg==
+https://e3.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=Aj6GA0dsFtfmZziWkQ0G-w&expires=1757647447&user_id=eUR6Rm5HSTZLTTduZE5za1JJd1FsdVFEcDZaMFVoaFBLMXNuS3ZpZg==
 #EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network SD
-https://e3.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=QbxCOEvxh7xad12WSIz9NQ&expires=1757560995&user_id=YjBBSE14NHY3Qlpwd3FSZ1h0Vko3S0pjYXpaWFRoN00yZ25NOGV5Zg==
+https://e2.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8?token=FfeCdLY1ZGpvsUgFxt79Aw&expires=1757647442&user_id=eUR6Rm5HSTZLTTduZE5za1JJd1FsdVFEcDZaMFVoaFBLMXNuS3ZpZg==
 #EXTINF:-1  tvg-name="NFL Red Zone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone HD
-https://v18.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=4OOVt42aBl_Lkjl6BGQXOg&expires=1757561009&user_id=YjBBSE14NHY3Qlpwd3FSZ1h0Vko3S0pjYXpaWFRoN00yZ25NOGV5Zg==
+https://e3.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=cHt9tOUg1EcropuDZlJpvw&expires=1757647456&user_id=eUR6Rm5HSTZLTTduZE5za1JJd1FsdVFEcDZaMFVoaFBLMXNuS3ZpZg==
 #EXTINF:-1  tvg-name="NFL Red Zone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone SD
-https://v18.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=ASCNzA2jtU8JhUnWviq5Og&expires=1757561004&user_id=YjBBSE14NHY3Qlpwd3FSZ1h0Vko3S0pjYXpaWFRoN00yZ25NOGV5Zg==
+https://e3.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8?token=eZEdjOhg_yOI9wFOkbbTcw&expires=1757647451&user_id=eUR6Rm5HSTZLTTduZE5za1JJd1FsdVFEcDZaMFVoaFBLMXNuS3ZpZg==
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ Green Bay Packers - 9/12/25, 12:16:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="TheTVApp - NFL",Washington Commanders @ Green Bay Packers - 9/12/25 - 12:16:00 AM UTC HD
+https://v4.thetvapp.to/hls/NFL09/tracks-v1a1/mono.m3u8?token=5uDsLFk_Luv3uhaSgNLyZw&expires=1757647912&user_id=MWs5MGYzbTlacmxTMTFoY3NkMk9LM0dtRDlKMzZEdmo2Zzc4ejlzaA==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ Green Bay Packers - 9/12/25, 12:16:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="TheTVApp - NFL",Washington Commanders @ Green Bay Packers - 9/12/25 - 12:16:00 AM UTC SD
+https://e5.thetvapp.to/hls/NFL09/tracks-v2a1/mono.m3u8?token=pKuYTFG27B9REyKVKwxlLw&expires=1757647907&user_id=MWs5MGYzbTlacmxTMTFoY3NkMk9LM0dtRDlKMzZEdmo2Zzc4ejlzaA==
 --
 #EXTINF:-1  tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",NFL Channel
 https://live-manifest.production-public.tubi.io/live/222becf3-ff56-40cd-bca5-fbbafebe8b0d/playlist.m3u8
@@ -365,6 +406,11 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1  tvg-name="NFL RedZone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TVPass",NFL RedZone SD
 https://tvpass.org/live/NFLRedZone/sd
 --
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Hd
+https://tvpass.org/live/NFL09/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Sd
+https://tvpass.org/live/NFL09/sd
+--
 #EXTINF:-1  tvg-name="NFL Channel" tvg-id="99991738" tvg-logo="https://image.xumo.com/v1/channels/channel/99991738/168x168.png?type=color_onBlack" group-title="Xumo Streams",NFL Channel
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=&usprivacy=&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=f448f894-c2d1-41bf-a2be-b363782d5c5a&tmsid=121705&palnonce=&rdid=f448f894-c2d1-41bf-a2be-b363782d5c5a&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=
 --
@@ -376,6 +422,11 @@ https://tvpass.org/live/NFLNetwork/hd
 https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1  tvg-name="NFL RedZone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TVPass",NFL RedZone HD
 https://tvpass.org/live/NFLRedZone/hd
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Sd
+https://tvpass.org/live/NFL09/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Washington Commanders @ Green Bay Packers (09/11 8:16 Pm Et) Hd
+https://tvpass.org/live/NFL09/hd
 --
 #EXTINF:-1 cuid="1095" tvg-chno="1095" tvg-name="NFL 🇺🇸" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",NFL 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -390,6 +441,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed4
 http://ncsshost.xyz:8080/garylee540/37396943/999597
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1920px-NFL_Network_logo.svg.png" group-title="SHAREEXT SPORT",US NFL Network
 http://ncsshost.xyz:8080/garylee540/37396943/1000073
+--
+#EXTINF:-1 tvg-id="(N/A)" group-title="Phim truyện" tvg-logo="https://i.gyazo.com/fb4956d7a2fe54a1bac54cd81e1b3f11.png",[NFL] Washington Commanders @ Green Bay Packers
+http://origin.thetvapp.to/hls/NFL09/mono.m3u8
 --
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="US Sports",NFL Network
 https://a1xs.vip/40000032
