@@ -8,6 +8,9 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126192
 #EXTINF:-1 tvg-id="" tvg-name="MLB | Toronto Blue Jays" tvg-logo="" group-title="MLB Teams",MLB | Toronto Blue Jays
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/90044
 --
+#EXTINF:-1 tvg-id="" tvg-name="MLS 06 - New England vs Toronto FC 6:30PM EST (Sep 13)" tvg-logo="https://i.ibb.co/8jjgGtr/mls.png" group-title="Soccer (Worldwide Soccer Leagues/Sep 13)",MLS 06 - New England vs Toronto FC 6:30PM EST (Sep 13)
+http://cdn1host.online:2999/xman2/hhqgjFfHXF/8180
+--
 #EXTINF:-1 tvg-id="" tvg-name="CA | CBC TORONTO" tvg-logo="" group-title="Canada",CA | CBC TORONTO
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/46697
 --
@@ -129,12 +132,21 @@ http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 #EXTINF:-1 tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png" group-title="AriaPlus - Canada",TVO
 http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
 --
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 12-2025 11:07 PM UK / Sep 12-2025 4:07 PM MT / Sep 12-2025 6:07 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2F3umy1nd63x.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Db1930p4i08%26v%3D1757714122007&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 12-2025 11:07 PM UK / Sep 12-2025 4:07 PM MT / Sep 12-2025 6:07 PM EST)
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 13-2025 7:07 PM UK / Sep 13-2025 12:07 PM MT / Sep 13-2025 2:07 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fk4nh48xbun.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dv6hsg8x7eb%26v%3D1757759142501&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 13-2025 7:07 PM UK / Sep 13-2025 12:07 PM MT / Sep 13-2025 2:07 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fsgl3ooxx67.amazonaws.com%2Fhls%2F1080p%2Fplaylist.m3u8%3Ftoken%3Dt7jo1i54jag%26v%3D1757759135132&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 13-2025 7:07 PM UK / Sep 13-2025 12:07 PM MT / Sep 13-2025 2:07 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwblya0syo7.amazonaws.com%2Fhls%2F720p%2Fplaylist.m3u8%3Ftoken%3Dhr3lz25ge3g%26v%3D1757759122021&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 13-2025 7:07 PM UK / Sep 13-2025 12:07 PM MT / Sep 13-2025 2:07 PM EST)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium406%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 12-2025 11:07 PM UK / Sep 12-2025 4:07 PM MT / Sep 12-2025 6:07 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium408%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="DaddyLive - Diamond Baseball",MLB : Toronto Blue Jays vs Baltimore Orioles (Sep 13-2025 7:07 PM UK / Sep 13-2025 12:07 PM MT / Sep 13-2025 2:07 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzzom5lpwbu.amazonaws.com%2Fhls%2F4k%2Fplaylist.m3u8%3Ftoken%3Dozx2ltwxjyo%26v%3D1757759148739&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+--
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",CFL : Toronto Argonauts vs Edmonton Eskimos (Sep 13-2025 7:00 PM UK / Sep 13-2025 12:00 PM MT / Sep 13-2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium111%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="DaddyLive - Gridiron Football",CFL : Toronto Argonauts vs Edmonton Eskimos (Sep 13-2025 7:00 PM UK / Sep 13-2025 12:00 PM MT / Sep 13-2025 2:00 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm5qcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZuanBsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0MS4w
 --
 #EXTINF:-1  tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true" group-title="DaddyLive CA",CBC Canada
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium832%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
@@ -156,19 +168,19 @@ https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 #EXTINF:-1  tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250401T004706SQUARE.png" tvg-chno="1134" group-title="SamsungTVPlus - CA",CBC News Toronto
 https://jmp2.uk/stvp-CA1500002Q4
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays - 9/12/25, 11:08:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Baltimore Orioles @ Toronto Blue Jays - 9/12/25 - 11:08:00 PM UTC HD
-https://v17.thetvapp.to/hls/MLB04/tracks-v1a1/mono.m3u8?token=3Zk89gAssJ_ybR_QETSoiA&expires=1757734155&user_id=d3dNZDUyeXF6V3FGZ3FsVkY5elk3Z3NKNmtFcHFDcWJhSWdaQThteQ==
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays - 9/12/25, 11:08:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Baltimore Orioles @ Toronto Blue Jays - 9/12/25 - 11:08:00 PM UTC SD
-https://v13.thetvapp.to/hls/MLB04/tracks-v2a1/mono.m3u8?token=qcjH5j3OaAbaQH-2IANiJQ&expires=1757734151&user_id=d3dNZDUyeXF6V3FGZ3FsVkY5elk3Z3NKNmtFcHFDcWJhSWdaQThteQ==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays - 9/13/25, 7:07:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Baltimore Orioles @ Toronto Blue Jays - 9/13/25 - 7:07:00 PM UTC HD
+https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=oLlArZCxd2Izo47Sxvqe_Q&expires=1757817057&user_id=RTVEME5oRDRTQzh1bWgwSXc1Z0RUV0VWclNEbGRmaWJPY3hiYWl3Ng==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays - 9/13/25, 7:07:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Baltimore Orioles @ Toronto Blue Jays - 9/13/25 - 7:07:00 PM UTC SD
+https://e4.thetvapp.to/hls/MLB04/tracks-v2a1/mono.m3u8?token=EdOgB7SpUL6E6bW5-PePkQ&expires=1757817053&user_id=RTVEME5oRDRTQzh1bWgwSXc1Z0RUV0VWclNEbGRmaWJPY3hiYWl3Ng==
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Hd
 https://tvpass.org/live/MLB04/hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Sd
 https://tvpass.org/live/MLB04/sd
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Sd
 https://tvpass.org/live/MLB04/sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 Pm Et) Hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Baltimore Orioles @ Toronto Blue Jays (09/13 3:07 Pm Et) Hd
 https://tvpass.org/live/MLB04/hd
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
@@ -180,7 +192,7 @@ https://tvpass.org/live/MLB04/hd
 #EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117776
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115869
 --
 #EXTINF:-1 tvg-id="AutoMotorogSportTV.no@SD" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/rafkichanel/my-iptv-playlist/refs/heads/master/IMG_20250807_103611.jpg",Auto Motor Sport
