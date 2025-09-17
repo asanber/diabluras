@@ -23,3 +23,35 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46819
 #EXTINF:-1 tvg-id="" tvg-name="SP: IBERALIA TV SD" tvg-logo="" group-title="Spanish HD",SP: IBERALIA TV SD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46821
+--
+#EXTINF:-1 cuid="934" tvg-chno="934" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1 cuid="935" tvg-chno="935" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="Italian.Fishing.TV.ch" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
+http://45.65.112.49:8000/play/a0nq
+--
+#EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Caza & Pesca 🎣",Fishing 🇺🇸
+https://bit.ly/Fishing_inspiration_m3u8
+--
+#EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Caza & Pesca 🎣",Hunt Fish TV 🇺🇸
+https://jmp2.uk/str-5747.m3u8
+--
+#EXTINF:-1 cuid="936" tvg-chno="936" tvg-name="MeatEater" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://vhx.imgix.net/meateater/assets/a3504dfc-5ae5-4c6a-abdc-b34f03c0ca1f.png" group-title="Caza & Pesca 🎣",MeatEater 🇺🇸
+https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
+--
+#EXTINF:-1 cuid="938" tvg-chno="938" tvg-name="Wired2Fish 🇺🇸" tvg-id="Wired2fish.TV.distro" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp" group-title="Caza & Pesca 🎣",Wired2Fish 🇺🇸
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+--
+#EXTINF:-1 cuid="939" tvg-chno="939" tvg-name="Darcizzle Offshore Fishing 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DarcizzleFishing.webp" group-title="Caza & Pesca 🎣",Darcizzle Offshore Fishing 🇺🇸
+https://30a-tv.com/darcizzle.m3u8
+--
+#EXTINF:-1 cuid="940" tvg-chno="940" tvg-name="Outdoor Action tv 🇺🇸" tvg-logo="https://play-lh.googleusercontent.com/vg29-dGpzrOGcVy2kmSQX-qlynqJiIp49dB4YZERAsZOlBsN6TzTXKb2SIA4Ac8SBZSc=w0" group-title="Caza & Pesca 🎣",Outdoor Action tv 🇺🇸
+https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
+--
+#EXTINF:-1 cuid="941" tvg-chno="941" tvg-name="Outdoor America 🇺🇸" tvg-id="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20240520T220122SQUARE.png" group-title="Caza & Pesca 🎣",Outdoor America 🇺🇸
+https://bit.ly/48Wx5ny?USBD1200020Y4.m3u8
+--
+#EXTINF:-1 cuid="942" tvg-chno="942" tvg-name="Pursuit Up 🇺🇸" tvg-id="USBD17000025J" tvg-logo="https://assets.maz.tv/katm23ekcyc7mul347hb5gg3iib4.png" group-title="Caza & Pesca 🎣",Pursuit Up 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_channelId=99991648
+--
+#EXTINF:-1 cuid="943" tvg-chno="943" tvg-name="Waypoint TV 🇺🇸" tvg-id="plex.tv.Waypoint.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" group-title="Caza & Pesca 🎣  🎣",Waypoint TV 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991358
