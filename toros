@@ -149,15 +149,20 @@ https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 #EXTINF:-1  tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250401T004706SQUARE.png" tvg-chno="1134" group-title="SamsungTVPlus - CA",CBC News Toronto
 https://jmp2.uk/stvp-CA1500002Q4
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Hd
-https://tvpass.org/live//hd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Sd
-https://tvpass.org/live//sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays - 9/24/25, 11:08:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Boston Red Sox @ Toronto Blue Jays - 9/24/25 - 11:08:00 PM UTC HD
+https://e1.thetvapp.to/hls/MLB04/tracks-v1a1/mono.m3u8?token=K_0GMe3oz2_iTvKiEhpo5g&expires=1758771161&user_id=czFPV2I1bVRRSko1UkJZRURWUVpYWVRFZ3RkbVM2YnFSOWNCN2c4bg==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays - 9/24/25, 11:08:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Boston Red Sox @ Toronto Blue Jays - 9/24/25 - 11:08:00 PM UTC SD
+https://e1.thetvapp.to/hls/MLB04/tracks-v2a1/mono.m3u8?token=5sQXlaF_htWGWczzFwv-ig&expires=1758771156&user_id=czFPV2I1bVRRSko1UkJZRURWUVpYWVRFZ3RkbVM2YnFSOWNCN2c4bg==
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Sd
-https://tvpass.org/live//sd
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/23 7:08 Pm Et) Hd
-https://tvpass.org/live//hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Hd
+https://tvpass.org/live/MLB04/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Sd
+https://tvpass.org/live/MLB04/sd
+--
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Sd
+https://tvpass.org/live/MLB04/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Toronto Blue Jays (09/24 7:08 Pm Et) Hd
+https://tvpass.org/live/MLB04/hd
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
