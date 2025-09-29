@@ -166,9 +166,9 @@ https://jmp2.uk/stvp-GBBA3300038UZ
 https://jmp2.uk/stvp-US900002IH
 --
 #EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=R2cCC0r6v7bajXkOIYF2wQ&expires=1759116225&user_id=dHk3UDFXUVpaQUZTcDNwekJoaDgycmhYVW1CVnlYWjZSRFJDMWZ6Qw==
+https://v16.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=UI3rhhHkfj2KRXWMOWM07A&expires=1759202725&user_id=NGp3QjRLNkhtWDlEVTdNWjdOaVhjSEdqQU9oejJycDVzR2szVTNiaA==
 #EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://e4.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=ltJG2FVvMxswMXIjPtNf3g&expires=1759116220&user_id=dHk3UDFXUVpaQUZTcDNwekJoaDgycmhYVW1CVnlYWjZSRFJDMWZ6Qw==
+https://v16.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=Sh25V2typ4NQNCkK2Wostw&expires=1759202720&user_id=NGp3QjRLNkhtWDlEVTdNWjdOaVhjSEdqQU9oejJycDVzR2szVTNiaA==
 --
 #EXTINF:-1  tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Dog the Bounty Hunter
 https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8
@@ -205,3 +205,9 @@ https://s18.imglink.info/mb/FaImqTywMF5ZMJSaqJHhrP5FI0WMYyA1pTIlYxuypz9ypl5uozDh
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/catwoman-hunted-7599.jpg",Catwoman: Hunted [28.06.2025]
 https://s8.imageshub.pro/ma/D2S0q29gLJ4hFUIhqTIxYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImnUIvYaOlojs0xi8vr1
+--
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",GERMANY-GENERAL_Duck Hunting TV
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",OTHER-GENERAL_History Hunters (1080p) - 1080P
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
