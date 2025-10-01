@@ -134,6 +134,12 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250108/channel_600x200_fafd1ecf-b56a-480b-b4d9-af5fce36994c.jpg" group-title="LGTV Canada",151 CBC Toronto
 https://amg00788-cbc-amg00788c6-lg-ca-3604.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbctoronto-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
 --
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2022/01/How-To-Install-Mad-Titan-Sports-Kodi-Add-on-2022.jpg" group-title="MadTitan - 24/7",24/7 Benicio Del Toro
+http://spsdtv.com:25461/live/Cassidy/Cassidy123/813539
+--
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2022/01/How-To-Install-Mad-Titan-Sports-Kodi-Add-on-2022.jpg" group-title="MadTitan - 24/7 Actors and Actresses",24/7 Benicio Del Toro
+http://ky-tv.cc:80/live/LindaH@360/SwagNinja360/1635241.m3u8
+--
 #EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="6536721dbfbaec00088687c0" tvg-logo="https://images.pluto.tv/channels/6536721dbfbaec00088687c0/colorLogoPNG.png" tvg-chno="551" group-title="PlutoTV - Canada",CBC News Toronto
 https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
 --
@@ -149,7 +155,7 @@ https://jmp2.uk/stvp-CA1500002Q4
 #EXTINF:-1 tvg-id="unknown" tvg-name="Mundotoro TV Spain" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD (FHD)" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117776
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (FHD)
