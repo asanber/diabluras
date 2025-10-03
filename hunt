@@ -72,6 +72,9 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="sportsman.channel.ca" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png" group-title="AriaPlus - Canada",Sportsman Channel
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112866.ts
 --
+#EXTINF:-1  tvg-name="KPop Demon Hunters (2025)" tvg-id="Movie.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="DrewLive - VOD" radio="false",KPop Demon Hunters (2025)
+https://vmain.jonathanwalkermbp.workers.dev/rainflare53.pro/file2/69zjNI59ShyOyPh6ZgTY73Uvcd2CouRrQop~Wzd~SX50ZzVFCE~ZkaaUDTX6TQYaCq8C5HYoq+iUK0Iqvict3JPPdzKiIoBkqDeljV71vIXM~w2fVmdbjsbuPYy1CUP~91pXvBlhH1SUfB9c1PURSQ==/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+--
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ghosthunters/GhostHunters_LGLaunch_Guide_Logo_White_800x200.png" group-title="LGTV AU",352 Ghost Hunters
 https://amg00353-amg00353c18-lg-au-3436.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 --
@@ -166,9 +169,9 @@ https://jmp2.uk/stvp-GBBA3300038UZ
 https://jmp2.uk/stvp-US900002IH
 --
 #EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://v16.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=y6aQFyznZ4VYk5Ojpw0ZMg&expires=1759461829&user_id=cHgzbm5SZzlZRmpqSE5OUGtGRHR3TmpSeExDYXRBaTR2YkkweHJoNw==
+https://v16.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=fUUQ6moIUG8l7oOrponiBg&expires=1759548267&user_id=RDVMZDR2YUY4NFdBVUNJaG9BMW1ka0VRWDR0NmpSOVVYSkoySUtHTw==
 #EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://v8.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=jOC9eEJt1SZpB7fr8ml_Pg&expires=1759461824&user_id=cHgzbm5SZzlZRmpqSE5OUGtGRHR3TmpSeExDYXRBaTR2YkkweHJoNw==
+https://e2.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8?token=ZGmEiijBlrcz7TlvHQjUKQ&expires=1759548262&user_id=RDVMZDR2YUY4NFdBVUNJaG9BMW1ka0VRWDR0NmpSOVVYSkoySUtHTw==
 --
 #EXTINF:-1  tvg-name="Outdoor Channel US HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TVPass",Outdoor Channel US HD
 https://tvpass.org/live/OutdoorChannel/hd
@@ -192,9 +195,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchanne
 #EXTINF:-1 cuid="859" tvg-chno="859" tvg-name="Ghost Hunters 🇺🇸" tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="Paranormal 👽",Ghost Hunters 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 --
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="US SPORTSMAN CHANNEL" tvg-logo="https://images.squarespace-cdn.com/content/v1/5006d617e4b09ef2252db819/1464183838508-7CJ8QMVJJVNGEQUDNTJZ/ke17ZwdGBToddI8pDm48kFogQcwqahR2CFTvPCvZ1W5Zw-zPPgdn4jUwVcJE1ZvWtTHP8HrI779dw9Z2fLXflvut3m2EIRkoOCEuUXL6Bqkp2ryTI0HqTOaaUohrI8PIWbJdZMOpMWDaVNQV4yHytTsg3xblRCVBTbLqlYh3Vh8/sportsman_channel.png" group-title="SHAREEXT SPORT",US SPORTSMAN CHANNEL
-http://ncsshost.xyz:8080/garylee540/37396943/1000085
---
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/adalet-birligi-x-rwby-super-kahramanlar-ve-avcilar-bolum-bir-justice-league-x-rwby-super-heroes-and-huntsmen-part-one-57986.jpg",Adalet Birliği x RWBY: Süper Kahramanlar ve Avcılar, Bölüm Bir [28.06.2025]
 https://s21.pixtures.art/mw/FaImqTywMF5ZMJSaqJHhHyqPJF5GqKOypv5VMKWiMKZhLJ5xYxu1oaEmoJIhYyOupaDhG25yYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxpTy4qUIlMKZhLKW0s0xi21vr1
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/adalet-birligi-x-rwby-super-kahramanlar-ve-avcilar-bolum-iki-justice-league-x-rwby-super-heroes-and-huntsmen-part-two-85648.jpg",Adalet Birliği x RWBY: Süper Kahramanlar ve Avcılar, Bölüm İki [28.06.2025]
@@ -206,10 +206,13 @@ https://s8.imageshub.pro/ma/D2S0q29gLJ4hFUIhqTIxYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",GERMANY-GENERAL_Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 --
-#EXTINF:-1 tvg-id="" group-title="Phim truyện",INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_Sportsman Channel
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_Sportsman Channel
 https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",INDIA-SPORT_Sportsman Channel
 https://fl25.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",OTHER-GENERAL_History Hunters (1080p) - 1080P
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/4d3be2d2fe87b116a6880e896bf6f45e.png",US: SPORTSMAN CHANNEL
+https://xfireflix.fun/file/opplex/stream.m3u8?id=347328&e=.m3u8

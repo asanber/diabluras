@@ -205,8 +205,12 @@ https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1  tvg-name="One Championship TV" tvg-id="US2600006VY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png" tvg-chno="2352" group-title="PlutoTV - United States",One Championship TV
 https://jmp2.uk/stvp-US2600006VY
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" group-title="PPVLand - Live Now",PFL Champions Series: Dubai
+#EXTVLCOPT:http-origin=https://ppv.to
 #EXTINF:-1  tvg-id="GBBC90001089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png" tvg-chno="4672" group-title="SamsungTVPlus - UK",Strongman Champions League (UK)
 https://jmp2.uk/stvp-GBBC90001089
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="PFL Champions Series Dubai: Nurmagomedov vs. Hughes 2" tvg-logo="https://pflmma-prod.s3.amazonaws.com/events/background_banners/c786f8087825a9a47daab175ae83fd67-1-1.png" group-title="Tims247 - Events",PFL Champions Series Dubai: Nurmagomedov vs. Hughes 2
+#EXTVLCOPT:http-origin=https://timstreams.cfd
 #EXTINF:-1  tvg-name="Strongman Champions League" tvg-id="99951180" tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/168x168.png?type=color_onBlack" group-title="Xumo Streams",Strongman Champions League
 https://dbrb49pjoymg4.cloudfront.net/10001/99951180/hls/playlist.m3u8?ads.xumo_channelId=99951180&ads._fw_ifa_type=&ads._fw_did=7253f935-f8ee-477e-83c9-9f6aa5b443fd&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=RightsBoosterStrongmanChamp&ads.csid=xumo_web_RightsBoosterStrongmanChamp_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3808&ads.xumo_contentName=RightsBoosterStrongmanChamp&ads.xumo_providerId=3808&ads.xumo_providerName=RightsBoosterStrongmanChamp&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951180&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 cuid="1175" tvg-chno="1175" tvg-name="One Championship tv 🇧🇷🇺🇸" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Canales De Combates 🥊",One Championship tv 🇧🇷🇺🇸
@@ -251,7 +255,3 @@ http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd&
 http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804&.mp4
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",OTHER-GENERAL_Strongman Champions League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Phim truyện" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",[UEFA Champions League] Monaco vs Manchester City (SBTW)
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Thể Thao" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",[UEFA Champions League] Napoli vs Sporting CP (SBTW)
-#EXTVLCOPT:http-referrer=https://streambtw.com/
