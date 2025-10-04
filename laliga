@@ -106,9 +106,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga TV UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 --
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="LaLiga TV" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" group-title="Tims247 - 24/7",LaLiga TV
-#EXTVLCOPT:http-origin=https://timstreams.cfd
---
 #EXTINF:-1 cuid="1080" tvg-chno="1080" tvg-name="La liga Inside 🇪🇸" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",La liga Inside 🇪🇸
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 --
@@ -303,3 +300,6 @@ https://7pal.short.gy/sperspllg
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Supersport2012.jpg/200px-Supersport2012.jpg",WSP:  SuperSport LaLiga
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47220
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png",ZA: SUPERSPORT LALIGA
+https://xfireflix.fun/file/opplex/stream.m3u8?id=353953&e=.m3u8
