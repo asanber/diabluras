@@ -140,22 +140,19 @@ https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
 #EXTINF:-1  tvg-name="Global News Toronto" tvg-id="62cc00b3b821cf00070f82c3" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" tvg-chno="550" group-title="PlutoTV - Canada",Global News Toronto
 https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fb6ba51487489035eeb569059e8f8c19-thumbnail.jpg" group-title="PPVLand - MLB",New York Yankees vs. Toronto Blue Jays
-#EXTVLCOPT:http-origin=https://ppv.to
---
 #EXTINF:-1  tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250401T004706SQUARE.png" tvg-chno="1134" group-title="SamsungTVPlus - CA",CBC News Toronto (CA)
 https://jmp2.uk/stvp-CA1500002Q4
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Toronto Blue Jays - 10/5/25, 8:09:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",New York Yankees @ Toronto Blue Jays - 10/5/25 - 8:09:00 PM UTC HD
-https://e5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=Sp0H3h3I2JdI4mrXme3Slw&expires=1759719001&user_id=RGdUd2xtNExHejNWMzdBbERLUlBkMVdYY3BSQXBxWG9FSU0zMDhtcQ==
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Toronto Blue Jays - 10/5/25, 8:09:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",New York Yankees @ Toronto Blue Jays - 10/5/25 - 8:09:00 PM UTC SD
-https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=qsLAGe853S8S1GvuteYCHw&expires=1759718996&user_id=RGdUd2xtNExHejNWMzdBbERLUlBkMVdYY3BSQXBxWG9FSU0zMDhtcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Toronto Raptors - 10/7/25, 2:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Denver Nuggets @ Toronto Raptors - 10/7/25 - 2:10:00 AM UTC HD
+https://v12.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=MacuPQjZk0dW_vxAsXp5CA&expires=1759808938&user_id=eFZPWHdDWHY1RTFUSTY2dGRwWk95and5R0ZJdGg3Y3oxVXE3SjVYbQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Toronto Raptors - 10/7/25, 2:10:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="TheTVApp - NBA",Denver Nuggets @ Toronto Raptors - 10/7/25 - 2:10:00 AM UTC SD
+https://v12.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=4509Q6yRggXg3yVazXt6uA&expires=1759808933&user_id=eFZPWHdDWHY1RTFUSTY2dGRwWk95and5R0ZJdGg3Y3oxVXE3SjVYbQ==
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Toronto Blue Jays (10/05 4:09 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Toronto Blue Jays (10/05 4:09 Pm Et)
-https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Toronto Raptors (10/06 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Denver Nuggets @ Toronto Raptors (10/06 10:10 Pm Et)
+https://tvpass.org/live/tsn1/sd
 --
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Toronto Blue Jays (10/05 4:09 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Toronto Blue Jays (10/05 4:09 Pm Et)
-https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Toronto Raptors (10/06 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Denver Nuggets @ Toronto Raptors (10/06 10:10 Pm Et)
+https://tvpass.org/live/tsn1/sd
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -163,7 +160,7 @@ https://tvpass.org/live/FoxSports1/sd
 #EXTINF:-1 tvg-id="unknown" tvg-name="Mundotoro TV Spain" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
-#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD (FHD)" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="PT: ONETORO TV HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT SPORT",ONETORO TV HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117776
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (FHD)
