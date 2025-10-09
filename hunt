@@ -117,23 +117,68 @@ https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1  tvg-name="Sportsman Channel" tvg-id="Sportsman.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" group-title="MoveOnJoy" radio="false",Sportsman Channel
 https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 --
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29c4fec6-9511-4368-9b02-5788f3eff6b1/Dog_the_Bounty_Hunter_WHT_Logo_1500x1000-_Ethan_Maisel.png" group-title="PlexTV",Dog the Bounty Hunter
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Ghost Hunters Channel" tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="PlexTV - Australia",Ghost Hunters Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8
 --
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6825374-e7ca-4fc3-8714-ba6752a8b286/DPWorldTour_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="PlexTV",DP World Tour
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Hunter" tvg-id="5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV - Australia",Hunter
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8
 --
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="PlexTV",Ghost Hunters Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Dog the Bounty Hunter" tvg-id="647f8d22a2fc3fadb4721685-6729199a7f55143b23b66c4d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/be4bf9a4-925e-4fe0-9836-8439ee2b0b52/Dog_The_Bounty_Hunter_WHITE_Logo_RDX.png" group-title="PlexTV - Canada",Dog the Bounty Hunter
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6729199a7f55143b23b66c4d.m3u8
 --
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV",Hunter
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="DP World Tour" tvg-id="647f8d22a2fc3fadb4721685-67858517d3749c9bdd4d2ecf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6825374-e7ca-4fc3-8714-ba6752a8b286/DPWorldTour_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="PlexTV - Canada",DP World Tour
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67858517d3749c9bdd4d2ecf.m3u8
 --
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" group-title="PlexTV",ONE Championship TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Ghost Hunters Channel" tvg-id="647f8d22a2fc3fadb4721685-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="PlexTV - Canada",Ghost Hunters Channel
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64e405b42b16ff56feb98444.m3u8
 --
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png" group-title="PlexTV",Triton Poker
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe95d389daa346544d501.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Hunter" tvg-id="647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV - Canada",Hunter
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b.m3u8
+--
+#EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="647f8d22a2fc3fadb4721685-6785867ad3749c9bdd4d2ed1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" group-title="PlexTV - Canada",ONE Championship TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6785867ad3749c9bdd4d2ed1.m3u8
+--
+#EXTINF:-1  tvg-name="Triton Poker" tvg-id="647f8d22a2fc3fadb4721685-678fe95d389daa346544d501" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png" group-title="PlexTV - Canada",Triton Poker
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe95d389daa346544d501.m3u8
+--
+#EXTINF:-1  tvg-name="Hunter" tvg-id="6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV - France",Hunter
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b.m3u8
+--
+#EXTINF:-1  tvg-name="Hunter" tvg-id="608049aefa2b8ae93c2c3a63-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV - Mexico",Hunter
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66f6b6baac1a1890ef197a4b.m3u8
+--
+#EXTINF:-1  tvg-name="Ghost Hunters Channel" tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="PlexTV - New Zealand",Ghost Hunters Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8
+--
+#EXTINF:-1  tvg-name="Hunter" tvg-id="5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV - New Zealand",Hunter
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8
+--
+#EXTINF:-1  tvg-name="Hunter" tvg-id="643054b1fc3be59477853717-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV - Spain",Hunter
+https://jmp2.uk/plex-643054b1fc3be59477853717-66f6b6baac1a1890ef197a4b.m3u8
+--
+#EXTINF:-1  tvg-name="Dog the Bounty Hunter" tvg-id="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29c4fec6-9511-4368-9b02-5788f3eff6b1/Dog_the_Bounty_Hunter_WHT_Logo_1500x1000-_Ethan_Maisel.png" group-title="PlexTV - United States",Dog the Bounty Hunter
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a.m3u8
+--
+#EXTINF:-1  tvg-name="DP World Tour" tvg-id="5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6825374-e7ca-4fc3-8714-ba6752a8b286/DPWorldTour_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="PlexTV - United States",DP World Tour
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf.m3u8
+--
+#EXTINF:-1  tvg-name="F1 Channel" tvg-id="5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="PlexTV - United States",F1 Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a.m3u8
+--
+#EXTINF:-1  tvg-name="Ghost Hunters Channel" tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="PlexTV - United States",Ghost Hunters Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8
+--
+#EXTINF:-1  tvg-name="Hunter" tvg-id="5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="PlexTV - United States",Hunter
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b.m3u8
+--
+#EXTINF:-1  tvg-name="MotoGP Channel" tvg-id="5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5b19340-b4d9-498d-8f89-2a69bc30fc4b/MotoGPChannel_1500x1000_logo_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="PlexTV - United States",MotoGP Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0b0d0f2989364c9c17265.m3u8
+--
+#EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" group-title="PlexTV - United States",ONE Championship TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1.m3u8
+--
+#EXTINF:-1  tvg-name="Triton Poker" tvg-id="5e20b730f2f8d5003d739db7-678fe95d389daa346544d501" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png" group-title="PlexTV - United States",Triton Poker
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-678fe95d389daa346544d501.m3u8
 --
 #EXTINF:-1  tvg-name="Dog The Bounty Hunter" tvg-id="6540fee72cf13100085d5a18" tvg-logo="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/colorLogoPNG.png" tvg-chno="453" group-title="PlutoTV - Canada",Dog The Bounty Hunter
 https://jmp2.uk/plu-6540fee72cf13100085d5a18.m3u8
@@ -172,9 +217,9 @@ https://jmp2.uk/stvp-GBBA3300038UZ
 https://jmp2.uk/stvp-US900002IH
 --
 #EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://v2.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=poKK4t5bJktWFJciT9FmLg&expires=1759977600&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://v18.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=tl_F4oW8m_s1qRAxeIbQww&expires=1760064063&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 #EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://v12.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=8eOayCNYf_JB6YYCCD8bEw&expires=1759977591&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://v8.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=t55EFvsrMEfVmm92EKZ7iQ&expires=1760064053&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 --
 #EXTINF:-1  tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Dog the Bounty Hunter
 https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8
@@ -215,6 +260,8 @@ https://s8.imageshub.pro/ma/D2S0q29gLJ4hFUIhqTIxYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",GERMANY-GENERAL_Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 --
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_Sportsman Channel
+https://fl25.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",INDIA-SPORT_Sportsman Channel
 https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 --

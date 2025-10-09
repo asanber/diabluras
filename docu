@@ -472,16 +472,27 @@ https://fl7.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",National Geographic Wild
 https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 --
-#EXTINF:-1  tvg-name="AMCNESP" tvg-id="5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="PlexTV",AMC en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-#EXTINF:-1  tvg-name="AMCRSH" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="PlexTV",AMC Thrillers
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Crimen Y Historia" tvg-id="643054b1fc3be59477853717-67200026769d5ec4bf51d63e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0902ab10-e394-4ff0-9c94-506bc528e901/Logo_Crimen_Historia_1500x1000_DarkBackground_-_Belen_Bruno.png" group-title="PlexTV - Spain",Crimen Y Historia
+https://jmp2.uk/plex-643054b1fc3be59477853717-67200026769d5ec4bf51d63e.m3u8
 --
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" group-title="PlexTV",Portlandia
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Historia Y Vida" tvg-id="643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d93cbfe7-324c-46eb-8c7a-6d959837e20c/Logo_Historia_Vida_1500x1000_DarkBackground_-_Belen_Bruno.png" group-title="PlexTV - Spain",Historia Y Vida
+https://jmp2.uk/plex-643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a.m3u8
+#EXTINF:-1  tvg-name="Historias de Ultratumba" tvg-id="643054b1fc3be59477853717-686457b84051ba2be659baaa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07e53e33-126e-464e-86ec-cfdc5add8b85/Historias_de_Ultratumba_whiteRDX.png" group-title="PlexTV - Spain",Historias de Ultratumba
+https://jmp2.uk/plex-643054b1fc3be59477853717-686457b84051ba2be659baaa.m3u8
 --
-#EXTINF:-1  tvg-name="TWDU" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="PlexTV",The Walking Dead Universe
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="AMC en Español" tvg-id="5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="PlexTV - United States",AMC en Español
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8
+#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="PlexTV - United States",AMC Thrillers
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
+--
+#EXTINF:-1  tvg-name="Portlandia" tvg-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" group-title="PlexTV - United States",Portlandia
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512.m3u8
+--
+#EXTINF:-1  tvg-name="Stories by AMC" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="PlexTV - United States",Stories by AMC
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba.m3u8
+--
+#EXTINF:-1  tvg-name="The Walking Dead Universe" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png" group-title="PlexTV - United States",The Walking Dead Universe
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8
 --
 #EXTINF:-1  tvg-name="Sala de Emergencias: Historias InÃ©ditas" tvg-id="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" tvg-chno="4455" group-title="PlutoTV - United Kingdom",Sala de Emergencias: Historias InÃ©ditas
 https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
@@ -508,18 +519,18 @@ https://jmp2.uk/stvp-USBD7000017L
 https://jmp2.uk/stvp-US2600019IC
 --
 #EXTINF:-1  tvg-name="AMC HD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TheTVApp",AMC HD
-https://e5.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=WEKBU1C0mRZUB17IOxOYpA&expires=1759976071&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://v3.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=9Vo8sxn4gyDVYtbef49Vkw&expires=1760062533&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 #EXTINF:-1  tvg-name="AMC SD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TheTVApp",AMC SD
-https://v8.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=mEIhd9nKSDj7bjCjBEO4mA&expires=1759976061&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://e2.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=_v71K9mA7nlgcUdB7ZnMvw&expires=1760062524&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 --
 #EXTINF:-1  tvg-name="Nat Geo WILD HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD HD
-https://e4.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=HiQpCVZsWMIW8wEQ6Q-g1g&expires=1759977411&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=-8J844GMoKe1UOUY4w0dWQ&expires=1760063874&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 #EXTINF:-1  tvg-name="Nat Geo WILD SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD SD
-https://v16.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=16vPLtgdjFtkaGDlvgU-nA&expires=1759977402&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=bHh55bgmNeBvSIoCRkZEuA&expires=1760063865&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 #EXTINF:-1  tvg-name="National Geographic HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",National Geographic HD
-https://v14.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=YM_eW55P096go891h0jPcw&expires=1759977430&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://v12.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=dwur_U-H02TByN_Y5pywSg&expires=1760063893&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 #EXTINF:-1  tvg-name="National Geographic SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic SD
-https://v3.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=PvwIjyOljiC-vI1RJ9dgPQ&expires=1759977421&user_id=c1o5QlA0bXdCa1FuclQ5M0JxRTFQclA3OFVYVGs4ZjJYUWFNcnhrZw==
+https://v13.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=yxWTtrHeYGb_PHa-bU_zoA&expires=1760063884&user_id=aEJWaXJnYk91aUVTamw4UjdjQVUwamp1UUFDMjNneWI1YThYV1NySw==
 --
 #EXTINF:-1  tvg-name="AMC Eastern Feed HD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed HD
 https://tvpass.org/live/AMCEast/hd
