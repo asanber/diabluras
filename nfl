@@ -198,7 +198,7 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/87091
 #EXTINF:-1 tvg-id="" tvg-name="NFL 10 Dallas Cowboys vs Denver Broncos" tvg-logo="" group-title="USA NFL",NFL 10 Dallas Cowboys vs Denver Broncos
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/87092
-#EXTINF:-1 tvg-id="" tvg-name="NFL 11 Tennessee Titans vs Indianapolis" tvg-logo="" group-title="USA NFL",NFL 11 Tennessee Titans vs Indianapolis
+#EXTINF:-1 tvg-id="" tvg-name="NFL 11 Tennessee Titans vs Indianapolis colts" tvg-logo="" group-title="USA NFL",NFL 11 Tennessee Titans vs Indianapolis colts
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/87093
 #EXTINF:-1 tvg-id="" tvg-name="NFL 12 Green Bay Packers vs Pittsburgh Steelers" tvg-logo="" group-title="USA NFL",NFL 12 Green Bay Packers vs Pittsburgh Steelers
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/87094
@@ -253,6 +253,9 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 --
 #EXTINF:-1 tvg-id="" tvg-name="MX: NFL Network" tvg-logo="" group-title="Mexico Izzy",MX: NFL Network
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110698
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR_ NFL TV" tvg-logo="" group-title="BRAZIL-",BR_ NFL TV
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/128609
 --
 #EXTINF:-1 tvg-id="" tvg-name="[Rogers-CA] NFLNET" tvg-logo="" group-title="Canada SD",[Rogers-CA] NFLNET
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/107515
@@ -398,9 +401,6 @@ https://jmp2.uk/plu-66f1331f9409630008077623.m3u8
 #EXTINF:-1  tvg-name="NFL Channel" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" tvg-chno="2800" group-title="PlutoTV - United States",NFL Channel
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bb9720a5d6d1af234af28f74170fbf34-thumbnail.jpg" group-title="PPVLand - NFL Action",Miami Dolphins vs. Atlanta Falcons
-#EXTVLCOPT:http-origin=https://ppv.to
---
 #EXTINF:-1  tvg-id="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250428T223450SQUARE.png" tvg-chno="2310" group-title="SamsungTVPlus - USA",NFL Channel (USA)
 https://jmp2.uk/stvp-US2600007WJ
 #EXTINF:-1  tvg-id="US2600008FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600008FU_20250729T010450SQUARE.png" tvg-chno="2311" group-title="SamsungTVPlus - USA",NFL Preseason All Access (USA)
@@ -409,34 +409,52 @@ https://jmp2.uk/stvp-US2600008FU
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Alabama Crimson Tide vs. South Carolina Gamecocks" tvg-logo="None" group-title="StreamedSU - American Football",Alabama Crimson Tide vs. South Carolina Gamecocks
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buffalo Bills vs. Carolina Panthers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4hslkNfoXgEVvZDNEMBjhDkIzzsAAmzp7WZvacQdbmwQz8bnh6dGAsCg6SQrRx5GCJoUIQQA.webp" group-title="StreamedSU - American Football",Buffalo Bills vs. Carolina Panthers
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Alabama Crimson Tide vs. South Carolina Gamecocks" tvg-logo="None" group-title="StreamedSU - American Football",Alabama Crimson Tide vs. South Carolina Gamecocks
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chicago Bears vs. Baltimore Ravens" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEn0cIFiBDAAJiGYcrN1sAhkQiWpIivyFhbWiISWthbYNnacrPwwwHh6dGAsCh6SQrSJ5GAp7m4QQA.webp" group-title="StreamedSU - American Football",Chicago Bears vs. Baltimore Ravens
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona State vs Houston" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2IgCZkdNbw9PUtlrswYUjtdA.webp" group-title="StreamedSU - American Football",Arizona State vs Houston
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cincinnati vs Baylor" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyT8QAiCCgkQ3EDoAmWkIkQ6dfEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - American Football",Cincinnati vs Baylor
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Atlanta Falcons vs Miami Dolphins" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOpQy8MABMQ3EBFw69IRCRAwQFiYRjAmfFFzDqi80Q6a0wTsaIhA.webp" group-title="StreamedSU - American Football",Atlanta Falcons vs Miami Dolphins
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cleveland Browns vs. New England Patriots" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNhEYOZY4Q2QiA4hyTxA5B2QDmF8+SbiLRO9M4MIEKI5BAgpvwwwHh6dGAsCpb+WAliYCnAlkIQQA.webp" group-title="StreamedSU - American Football",Cleveland Browns vs. New England Patriots
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baltimore Ravens vs Chicago Bears" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTtc6kiETcQAExAoQR-XyMhNiA4RjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Baltimore Ravens vs Chicago Bears
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dallas Cowboys vs. Denver Broncos" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4gQwACYWQLEFYYhsjxNggXgH+x8aP6DjjWIB6EQeSIluaMkqoEMMB4enRgLAoQnKxYiWJgqV5ZEEA.webp" group-title="StreamedSU - American Football",Dallas Cowboys vs. Denver Broncos
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baylor vs Cincinnati" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmuYE0KISIbiB1q+ukDBBmj5ghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - American Football",Baylor vs Cincinnati
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Georgia Tech vs Syracuse" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwMHTAkQMEChDcQ2gCYgIIRIlN8juAhSZ8UXLeXrzRzprTBaxoiCA.webp" group-title="StreamedSU - American Football",Georgia Tech vs Syracuse
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baylor vs Cincinnati" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmuYE0KISIbiB1q+ukDBBmj5ghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - American Football",Baylor vs Cincinnati
+#EXTVLCOPT:http-origin=https://embedsports.top
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="BYU vs Iowa State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0k7MCGBgeIbiBIgAJqpCJEJmAZAoCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - American Football",BYU vs Iowa State
+#EXTVLCOPT:http-origin=https://embedsports.top
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="BYU vs Iowa State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0k7MCGBgeIbiBIgAJqpCJEJmAZAoCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - American Football",BYU vs Iowa State
+#EXTVLCOPT:http-origin=https://embedsports.top
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers vs Buffalo Bills" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATCjkQCc3ECRC79IEBBAoQMXGoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Carolina Panthers vs Buffalo Bills
+#EXTVLCOPT:http-origin=https://embedsports.top
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cincinnati Bengals vs New York Jets" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3BIQKXJTohuIACYgYIPupAkQiCPuMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Cincinnati Bengals vs New York Jets
+#EXTVLCOPT:http-origin=https://embedsports.top
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Denver Broncos vs Dallas Cowboys" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7Vw8ciRDcQEEFpghDOkLiMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp" group-title="StreamedSU - American Football",Denver Broncos vs Dallas Cowboys
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers vs. Pittsburgh Steelers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIDubFCWIchBCGQzO3cQXHVkCGy16II4QrMBeYsF2YWwEMMB4enRgLArBkkK08eRgSaEhEEA.webp" group-title="StreamedSU - American Football",Green Bay Packers vs. Pittsburgh Steelers
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Cougars vs. Arizona State Sun Devils" tvg-logo="None" group-title="StreamedSU - American Football",Houston Cougars vs. Arizona State Sun Devils
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans vs San Francisco 49ers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxheq+nxAATENxAkQiFAaMgtiHCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Houston Texans vs San Francisco 49ers
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indiana vs UCLA" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oQQMBqR4huIEiAAmIPjvUgUIRPoMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Indiana vs UCLA
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Illinois vs Washington" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp" group-title="StreamedSU - American Football",Illinois vs Washington
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Iowa State vs BYU" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQU+uZmHXcQAExAQQOnSAMgU5kHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="StreamedSU - American Football",Iowa State vs BYU
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Illinois vs Washington" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoEbMCVUgt3HSAAmICCESI+IPVYIUmfFF03l680Q6a0wmsaIhA.webp" group-title="StreamedSU - American Football",Illinois vs Washington
+#EXTVLCOPT:http-origin=https://embedsports.top
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indianapolis Colts vs Tennessee Titans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAQQ4FOJDcQJbbvWqQfEIhMATAhSZ9NbMGXhF5ozU1pgHY0RCA.webp" group-title="StreamedSU - American Football",Indianapolis Colts vs Tennessee Titans
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kentucky vs Tennessee" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwKIEHCQgUIbiBIgAJiAirzJvhtwEKTPii5gya+vNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Kentucky vs Tennessee
@@ -445,68 +463,56 @@ https://jmp2.uk/stvp-US2600008FU
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Louisville vs Boston College" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlJmYACYheabSBIgtEEIkQGtMECAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Louisville vs Boston College
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Memphis vs South Florida" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCI4OUQBNg+ENxAkQmkBFVnjKMyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Memphis vs South Florida
-#EXTVLCOPT:http-origin=https://embedsports.top
---
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami (FL) vs Stanford" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMABMwA4GBAhuIEiE2qQiRGb4WQKAhSZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="StreamedSU - American Football",Miami (FL) vs Stanford
-#EXTVLCOPT:http-origin=https://embedsports.top
---
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins vs. Atlanta Falcons" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBwgzhcyxDMb5CAwsgOF4fRAATF88aIYUmZm2B7YAYzeqgQBeHp0YCwKjpJCtLHkYAnAjkIQQA.webp" group-title="StreamedSU - American Football",Miami Dolphins vs. Atlanta Falcons
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Michigan State vs Michigan" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQAqEhBw+qkABMDRxDG1GUBghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - American Football",Michigan State vs Michigan
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Mississippi State vs Texas" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTAkYFNhBwUIbiBIgAJiAghEiE3xC7lhGMCZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="StreamedSU - American Football",Mississippi State vs Texas
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Missouri vs Vanderbilt" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiShoOEAxDcQJEABMQEEIkR8QMEOZgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Missouri vs Vanderbilt
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants vs. Philadelphia Eagles" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBZmQIBjhCJyjcnc6dewCM4AmUy+4gg-7vQgzA5uILTu5h78MMB4enRgLArukkK08eRgSW6sbkA.webp" group-title="StreamedSU - American Football",New York Giants vs. Philadelphia Eagles
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Missouri vs Vanderbilt" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiShoOEAxDcQJEABMQEEIkR8QMEOZgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Missouri vs Vanderbilt
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Jets vs. Cincinnati Bengals" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQEEJKGJ6IQhbIhsMXm9tX7Y8yBDk7HH7OIKZSgS4gLJH8MMB4enRgLAoQnKxYcWJgScCpQhBAA.webp" group-title="StreamedSU - American Football",New York Jets vs. Cincinnati Bengals
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots vs Cleveland Browns" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhhuYMgBMw4FCG4gIuEDBB6jORCDMEKTPii4by9eaMdNaYDWNEQgA.webp" group-title="StreamedSU - American Football",New England Patriots vs Cleveland Browns
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="North Carolina vs Virginia" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzMwAEw0MQMENxDqQEPSZBHzx9QQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - American Football",North Carolina vs Virginia
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints vs Tampa Bay Buccaneers" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxiAJhXpgQ3ECRCI+IYzhggUINeYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",New Orleans Saints vs Tampa Bay Buccaneers
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Oklahoma vs Ole Miss" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg+IesFi4Q3ECRAATDSESJjBgzAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Oklahoma vs Ole Miss
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Oklahoma State vs Texas Tech" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwJgSEBBAkQ3fSBW6QiRKZDndBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="StreamedSU - American Football",Oklahoma State vs Texas Tech
+#EXTVLCOPT:http-origin=https://embedsports.top
+--
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Oklahoma State vs Texas Tech" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwJgSEBBAkQ3fSBW6QiRKZDndBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="StreamedSU - American Football",Oklahoma State vs Texas Tech
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Oregon vs Wisconsin" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwAAwhwUARBDcQJECpB7EiPvpAp9BCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="StreamedSU - American Football",Oregon vs Wisconsin
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="San Francisco 49ers vs. Houston Texans" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLwYgIIQhakATG-cv3stsYkT3JQliFr0rwuT+tJYgID7+HPwwwHh6dGAsChCcrFixYmCJwClCEEA.webp" group-title="StreamedSU - American Football",San Francisco 49ers vs. Houston Texans
-#EXTVLCOPT:http-origin=https://embedsports.top
---
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tampa Bay Buccaneers vs. New Orleans Saints" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYhEhEFZidgEEBGAATa1PrWzZsrxCuPtg4gXiAM3k6S5By8rPy2eHp0YCwKEaxYwAnkYMn26RBAA.webp" group-title="StreamedSU - American Football",Tampa Bay Buccaneers vs. New Orleans Saints
-#EXTVLCOPT:http-origin=https://embedsports.top
---
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tennessee Titans vs. Indianapolis Colts" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJgxCEQLEBBCJHjV0+COYd4fV7fEvuaSHLycIBY4ILSSVhb8MMB4enRgLAoQnKxYiWJgqR5ZEEA.webp" group-title="StreamedSU - American Football",Tennessee Titans vs. Indianapolis Colts
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles vs New York Giants" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcHDhkYIbiAi4QiFSBMp9IEiBQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - American Football",Philadelphia Eagles vs New York Giants
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Texas A&M Aggies vs. LSU Tigers" tvg-logo="None" group-title="StreamedSU - American Football",Texas A&M Aggies vs. LSU Tigers
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Texas Tech vs Oklahoma State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wKNmAFQIIbiBIgAJiF2JEJw4hgEKTPhs1l4ReaI1NaYMKKl0gA.webp" group-title="StreamedSU - American Football",Texas Tech vs Oklahoma State
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Texas vs Mississippi State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QAE0ggQxUN1W4QMEIkTqQ+lCYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Texas vs Mississippi State
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Vanderbilt vs Missouri" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphg8QJECFLAAJiG7qQeiCESI9iGKYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Vanderbilt vs Missouri
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Texas vs Mississippi State" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QAE0ggQxUN1W4QMEIkTqQ+lCYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Texas vs Mississippi State
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders vs. Kansas City Chiefs" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKzbglB4S+binZgi8FgoINSNDoYqsIQA.webp" group-title="StreamedSU - American Football",Washington Commanders vs. Kansas City Chiefs
 #EXTVLCOPT:http-origin=https://embedsports.top
 --
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington vs Illinois" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphn8xYfiG4gSIACYgIIRIgMwQ55YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Washington vs Illinois
-#EXTVLCOPT:http-origin=https://embedsports.top
---
 #EXTINF:-1  tvg-name="NFL Network HD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network HD
-https://e3.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=YwBfTzHUwJXAIPS5h6M19g&expires=1761359935&user_id=ZkdtZnl0NnJBZkJSSlByVHVCNTlnS1BLZ1h0Q2VEeGJmVmlRUmR2ZA==
+https://v16.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=lnJmpUfprLoqXGHcdw9Lsw&expires=1761446255&user_id=V084VGRqYnVaUkJKSXYwVW1SWG9PUzN2QW9zV0VQQWNMTW1pQnJuQQ==
 #EXTINF:-1  tvg-name="NFL Network SD" tvg-id="nfl-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="TheTVApp",NFL Network SD
-https://e4.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=OvBCfUb7fY2YtyymTBHWBA&expires=1761359926&user_id=ZkdtZnl0NnJBZkJSSlByVHVCNTlnS1BLZ1h0Q2VEeGJmVmlRUmR2ZA==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=3GTetZF6Hm-By9JYOmKrGw&expires=1761446246&user_id=V084VGRqYnVaUkJKSXYwVW1SWG9PUzN2QW9zV0VQQWNMTW1pQnJuQQ==
 #EXTINF:-1  tvg-name="NFL Red Zone HD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone HD
-https://v2.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=jvBD7lNf_lwYHnmmxisXHg&expires=1761359954&user_id=ZkdtZnl0NnJBZkJSSlByVHVCNTlnS1BLZ1h0Q2VEeGJmVmlRUmR2ZA==
+https://v3.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=g83XZQsayWIF3jbPjwz7sw&expires=1761446274&user_id=V084VGRqYnVaUkJKSXYwVW1SWG9PUzN2QW9zV0VQQWNMTW1pQnJuQQ==
 #EXTINF:-1  tvg-name="NFL Red Zone SD" tvg-id="nfl-redzone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="TheTVApp",NFL Red Zone SD
-https://v5.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=91YTUtLc9Tsk4TvFNv5uBg&expires=1761359945&user_id=ZkdtZnl0NnJBZkJSSlByVHVCNTlnS1BLZ1h0Q2VEeGJmVmlRUmR2ZA==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=JMkmXtpUUUg0SzWp20NAGA&expires=1761446264&user_id=V084VGRqYnVaUkJKSXYwVW1SWG9PUzN2QW9zV0VQQWNMTW1pQnJuQQ==
 --
 #EXTINF:-1  tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",NFL Channel
 https://live-manifest.production-public.tubi.io/live/222becf3-ff56-40cd-bca5-fbbafebe8b0d/playlist.m3u8
@@ -543,14 +549,16 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed4
 --
 #EXTINF:-1 group-title="SHAREEXT SPORT",NFL NETWORK (SD)
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",NFL Network UHD (FHD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",NFL Network UHD
 http://supersonictv.live:8080/Bobby1/Bobby1/40412
 --
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Mala_influencia_poster.jpg/250px-Mala_influencia_poster.jpg",Mala influencia-Dram-Gerilim-Romantik (2025) [28.06.2025]
-https://vidmody.com/mm/tt23558084/main/index.m3u8
---
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_NFL Network
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_INDIA-SPORT_NFL Network
 https://fl25.moveonjoy.com/NFL_NETWORK/index.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",INDIA-SPORT_NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",INDIA-SPORT_NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",USA-SPORT_NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6

@@ -247,9 +247,9 @@ https://jmp2.uk/stvp-GBBA3300038UZ
 https://jmp2.uk/stvp-US900002IH
 --
 #EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://v8.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=T06MpUFweqe2GN68oRd4Jg&expires=1761360049&user_id=ZkdtZnl0NnJBZkJSSlByVHVCNTlnS1BLZ1h0Q2VEeGJmVmlRUmR2ZA==
+https://v5.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=cqPVf3fiNfheHBe-C8NhKw&expires=1761446369&user_id=V084VGRqYnVaUkJKSXYwVW1SWG9PUzN2QW9zV0VQQWNMTW1pQnJuQQ==
 #EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://v5.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=AbIGPpIElGjkKdMM81Ra7Q&expires=1761360040&user_id=ZkdtZnl0NnJBZkJSSlByVHVCNTlnS1BLZ1h0Q2VEeGJmVmlRUmR2ZA==
+https://e4.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=6cKikNc_0rqifopwk-5LUw&expires=1761446359&user_id=V084VGRqYnVaUkJKSXYwVW1SWG9PUzN2QW9zV0VQQWNMTW1pQnJuQQ==
 --
 #EXTINF:-1  tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Dog the Bounty Hunter
 https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8
@@ -276,9 +276,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchanne
 #EXTINF:-1 cuid="859" tvg-chno="859" tvg-name="Ghost Hunters 🇺🇸" tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="Paranormal 👽",Ghost Hunters 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 --
-#EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://turkcealtyazi.org/film/200/0119217.jpg",(🌟8.3)Can Dostum :Good Will Hunting(Dram-Romantik)(1997) [28.06.2025]
-https://vidmody.com/mm/tt0119217/main/index.m3u8
---
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/adalet-birligi-x-rwby-super-kahramanlar-ve-avcilar-bolum-bir-justice-league-x-rwby-super-heroes-and-huntsmen-part-one-57986.jpg",Adalet Birliği x RWBY: Süper Kahramanlar ve Avcılar, Bölüm Bir [28.06.2025]
 https://s21.pixtures.art/mw/FaImqTywMF5ZMJSaqJHhHyqPJF5GqKOypv5VMKWiMKZhLJ5xYxu1oaEmoJIhYyOupaDhG25yYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxpTy4qUIlMKZhLKW0s0xi21vr1
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/adalet-birligi-x-rwby-super-kahramanlar-ve-avcilar-bolum-iki-justice-league-x-rwby-super-heroes-and-huntsmen-part-two-85648.jpg",Adalet Birliği x RWBY: Süper Kahramanlar ve Avcılar, Bölüm İki [28.06.2025]
@@ -296,6 +293,9 @@ https://s8.imageshub.pro/ma/D2S0q29gLJ4hFUIhqTIxYwVjZwVhDzk1pzS5YwRjBQOjYxEIDHjd
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện",GERMANY-GENERAL_Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",INDIA-SPORT_Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="http://image.tmdb.org/t/p/w154/cngw1BffJyZgze2PCKsZmJPSEZ6.jpg",Manhunter.1986 [21.10.2025 10:13]
 http://asdfk.xtreamtvplus.net:8080/movie/MND5s3awK8/Dk22jMoTTKkGX18kl/11783.mp4
