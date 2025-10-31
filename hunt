@@ -246,10 +246,13 @@ https://jmp2.uk/stvp-GBBA3300038UZ
 #EXTINF:-1  tvg-id="US900002IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20250805T005756SQUARE.png" tvg-chno="1966" group-title="SamsungTVPlus - USA",Dog the Bounty Hunter (USA)
 https://jmp2.uk/stvp-US900002IH
 --
-#EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
-https://v14.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=DjENd-9CAkILM--MaDh4EQ&expires=1761878467&user_id=Qjh0aXNkaXBqZlBPclhjTHFhZG5KZzBQak56M3JwQ29BSzhZaDVPaQ==
-#EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
-https://v1.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=etPeUM6mSg_BVbXnTKCfSQ&expires=1761878457&user_id=Qjh0aXNkaXBqZlBPclhjTHFhZG5KZzBQak56M3JwQ29BSzhZaDVPaQ==
+#EXTINF:-1  tvg-name="Outdoor Channel SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",Outdoor Channel HD
+https://e5.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=R0GLuzyfVwyrDQTH_GgsQw&expires=1761965017&user_id=dGJRQlZkVkVzNHp3REdqZnc0SHN0Ym5ad29qbTM5YUVOd1ZzNlZwUw==
+#EXTINF:-1  tvg-name="Nicktoons HD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TheTVApp",Outdoor Channel SD
+https://e5.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=Vy93_1fhVYXjBktBTYc9Ig&expires=1761965007&user_id=dGJRQlZkVkVzNHp3REdqZnc0SHN0Ym5ad29qbTM5YUVOd1ZzNlZwUw==
+--
+#EXTINF:-1  tvg-name="Outdoor Channel HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TheTVApp",OWN SD
+https://e2.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8?token=R2pq4_BWnfXUcJbuGA-Ynw&expires=1761965026&user_id=dGJRQlZkVkVzNHp3REdqZnc0SHN0Ym5ad29qbTM5YUVOd1ZzNlZwUw==
 --
 #EXTINF:-1  tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/NhkSkf4JPn8YsA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Dog the Bounty Hunter
 https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8
