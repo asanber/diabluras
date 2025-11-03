@@ -164,9 +164,9 @@ https://jmp2.uk/rok-e08aa3af93f95c9db062ce237e90f6d1.m3u8
 https://jmp2.uk/stvp-USBB400000145
 --
 #EXTINF:-1  tvg-name="Golf Channel HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel HD
-https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=NfWxBxNjKWvtJJvycrAVsg&expires=1762136905&user_id=bjBFYkN6MjN1b1FsamxwZXY3N0RDSnFPYnVzRmlzWXIwMnZHa1NYag==
+https://v14.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=_j2S_tNR8kd_0JwEhC-M1w&expires=1762223427&user_id=VUNQamlQT1hiUzJ2Q3RvNDhKWmpSWGpPMlczeXBSb3dsSnNmdnRNTw==
 #EXTINF:-1  tvg-name="Golf Channel SD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TheTVApp",Golf Channel SD
-https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=XliEdUvsRMTQzFYocj7A7g&expires=1762136896&user_id=bjBFYkN6MjN1b1FsamxwZXY3N0RDSnFPYnVzRmlzWXIwMnZHa1NYag==
+https://v15.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=yF1nUWgUc4OgD4V5buoaLw&expires=1762223417&user_id=VUNQamlQT1hiUzJ2Q3RvNDhKWmpSWGpPMlczeXBSb3dsSnNmdnRNTw==
 --
 #EXTINF:-1  tvg-name="Golf Channel USA HD" tvg-id="golf-channel-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="TVPass",Golf Channel USA HD
 https://tvpass.org/live/GolfChannel/hd
@@ -270,10 +270,10 @@ http://supersonictv.live:8080/006779/439866/40401
 #EXTINF:-1 tvg-id="" tvg-name="ES:M GOLF FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M GOLF FHD (SD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115853
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",The Golf Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",The Golf Channel (FHD)
 http://supersonictv.live:8080/006779/439866/40434
 --
-#EXTINF:-1 tvg-id="" tvg-name="DK: V SPORT GOLF HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",V SPORT GOLF HD (HD)
+#EXTINF:-1 tvg-id="" tvg-name="DK: V SPORT GOLF HD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",V SPORT GOLF HD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
 --
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL:ZIGGO GOLF HD BACKUP (FHD)" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT SPORT",ZIGGO GOLF HD BACKUP (FHD)
@@ -328,16 +328,12 @@ http://mains.services/live/bshorty/Zv5le07a0J/fee6ed9a-b095-43c0-a39e-a4e1a52f28
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
 http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 --
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-title="Thể Thao" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png",Sky Sports Golf FHD
-https://a1xs.vip/2000009
-#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
-http://supersonictv.live:8080/Bobby1/Bobby1/78151
 #EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
 http://supersonictv.live:8080/006779/439866/78151
+#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78151
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" group-title="Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-hz-uk.png?raw=true",Sky Sports Golf UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium70%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://i.imgur.com/RKUHQi8.png",Sky Sports Golf- HD
-https://7pal.short.gy/ssportsgf
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",SkySports Golf
 http://tvmate.icu:8080/69NpyV/884735/35238
