@@ -108,7 +108,7 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:TOROS FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",TOROS FHD (SD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115869
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT SPORT",TOROS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="SHAREEXT SPORT",TOROS TV (FHD)
 http://supersonictv.live:8080/006779/439866/7720
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",My Neighbor Totoro [28.06.2025]
@@ -116,25 +116,16 @@ https://vidmody.com/mm/tt0096283/main/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="http://image.tmdb.org/t/p/w154/rem87AyEochEuhn9VvAGoMQpigz.jpg",My.Neighbor.Totoro.1988 [21.10.2025]
 http://asdfk.xtreamtvplus.net:8080/movie/MND5s3awK8/Dk22jMoTTKkGX18kl/10461.mp4
 --
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/36d1cfeecfce85db78788aadabbf5c93.png",06h00 ngày 30/11 Charlotte Hornets vs Toronto Raptors [BLV HENRY] (Socolive) flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/55af744c34d915de21372bfd084dcfba.png",06h00 ngày 01/12 New York Knicks vs Toronto Raptors [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 --
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/36d1cfeecfce85db78788aadabbf5c93.png",06h00 ngày 30/11 Charlotte Hornets vs Toronto Raptors [BLV HENRY] (Socolive) hdFlv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/55af744c34d915de21372bfd084dcfba.png",06h00 ngày 01/12 New York Knicks vs Toronto Raptors [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 --
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/36d1cfeecfce85db78788aadabbf5c93.png",06h00 ngày 30/11 Charlotte Hornets vs Toronto Raptors [BLV HENRY] (Socolive) hdM3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/55af744c34d915de21372bfd084dcfba.png",06h00 ngày 01/12 New York Knicks vs Toronto Raptors [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 --
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/36d1cfeecfce85db78788aadabbf5c93.png",06h00 ngày 30/11 Charlotte Hornets vs Toronto Raptors [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
---
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/36d1cfeecfce85db78788aadabbf5c93.png",06h00 ngày 30/11 Charlotte Hornets vs Toronto Raptors [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
---
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/36d1cfeecfce85db78788aadabbf5c93.png",06h00 ngày 30/11 Charlotte Hornets vs Toronto Raptors [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
---
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/36d1cfeecfce85db78788aadabbf5c93.png",06h00 ngày 30/11 Charlotte Hornets vs Toronto Raptors [CHAN SENA] (Socolive) m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20251129/55af744c34d915de21372bfd084dcfba.png",06h00 ngày 01/12 New York Knicks vs Toronto Raptors [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 --
 #EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2" tvg-logo="https://i.ibb.co/XxQhJJFR/CTV2.png" group-title="CA Channels",CTV 2
