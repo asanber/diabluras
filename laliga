@@ -43,13 +43,13 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4319
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="daznlaliga.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 - Mallorca vs Osasuna 8AM EST" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 01 - Mallorca vs Osasuna 8AM EST
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 01 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1572
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 - Barcelona vs Deportivo Alavés 10:15AM EST" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 02 - Barcelona vs Deportivo Alavés 10:15AM EST
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 02 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1571
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 - Levante vs Athletic Club 12:30PM EST" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 03 - Levante vs Athletic Club 12:30PM EST
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 03 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1573
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 - Levante vs Athletic Club 3PM EST" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 04 - Levante vs Athletic Club 3PM EST
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 04 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/2881
 #EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Nov 29)",La Liga 05 -
 http://cdn1host.online:2999/xman2/hhqgjFfHXF/1575
@@ -281,7 +281,7 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",BeIN Sports LaLiga (FHD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",BeIN Sports LaLiga
 http://supersonictv.live:8080/006779/439866/22196
 --
 #EXTINF:-1 tvg-logo="http://195.154.136.206/Bein/New/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SHAREEXT SPORT",ESP beIN LaLiga UHD
@@ -290,7 +290,7 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/19547
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",HYPER LA LIGA 2 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD (SD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD (HD)
@@ -303,7 +303,7 @@ https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
 http://supersonictv.live:8080/Bobby1/Bobby1/22196
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga (FHD)
 http://supersonictv.live:8080/006779/439866/22196
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD
@@ -316,9 +316,9 @@ http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 https://tvjrflix.appsjr.pro/temporal/redirect.php?url=http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/281171.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
