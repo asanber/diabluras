@@ -77,8 +77,17 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9596
 #EXTINF:-1 tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9597
 --
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 12:00 PNC Championship: Day 1 (L)" tvg-logo="https://res.cloudinary.com/pgatour-prod/d_tournaments:logos:S000.png/tournaments/logos/S600.png" group-title="EVENTOS PPV",Golf | 12:00 PNC Championship: Day 1 (L)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/162153
+--
 #EXTINF:-1 tvg-id="" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/8202
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP - CANAL GOLF F(M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - CANAL GOLF F(M)(720)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161933
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTARr GOLF F(M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - MOVISTARr GOLF F(M)(720)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161954
 --
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Golf (T)(720)" tvg-logo="http://23.153.216.121:25461/images/133d4e7f4eca063588f263c218275565.png" group-title="CANADA PREMIUM",CAN-Golf (T)(720)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/7967
@@ -201,7 +210,7 @@ http://51.89.166.17:3002/index.php?id=Agolf
 --
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT SPORT",GOLF CHANNEL (FHD)
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/121606
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT SPORT",GOLF CHANNEL (HD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7tknt9p/shareext-soccer.jpg" group-title="SHAREEXT SPORT",GOLF CHANNEL (FHD)
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/121607
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg" group-title="SHAREEXT SPORT",GOLF CHANNEL (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -214,13 +223,13 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",Golf UHD (FHD)
 http://supersonictv.live:8080/006779/439866/40401
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:M GOLF FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M GOLF FHD (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:M GOLF FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M GOLF FHD (SD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115853
 --
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-golf-uk.png" group-title="SHAREEXT SPORT",SKYSPORTS GOLF php (SD)
 http://51.89.166.17:3002/index.php?id=tiankonggolf
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT SPORT",SkySport Golf FHD (HD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT SPORT",SkySport Golf FHD
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/107882
 --
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",The Golf Channel (FHD)
@@ -236,9 +245,9 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14902
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",INDIA-SPORT_Golf Channel
 https://fl41.moveonjoy.com/GOLF/index.m3u8
