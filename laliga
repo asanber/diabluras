@@ -426,9 +426,9 @@ http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
@@ -444,6 +444,9 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 --
 #EXTINF:-1 tvg-id="LA.LIGA.za" group-title="Thể Thao" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",Supersport_Laliga-HD
 https://7pal.short.gy/sperspllg
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://195.154.136.206/Bein/New/bein_SPORTS_FTA_DIGITAL_Mono.png",US beIN SPORTS La Liga
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/108607
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://undergroundservice.xyz:8080/images/t6s7xn0v30CDcGEVlgq8Lg_UQvgTIf8mpjcARB8C6cBPVYlMboyn21ZGiaHHFNSJ66a5rXxqY1JUSXBPQP_0zA.png",USA: BEIN SPORTS LALIGA
 http://fhh54d.vidacristiana.info:80/Yiyo573usa/LDDbkLKRUrt9/595867.ts
