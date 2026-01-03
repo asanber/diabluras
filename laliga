@@ -84,6 +84,15 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/156162
 #EXTINF:-1 tvg-id="" tvg-name="PPV - LaLiga: Dazn F1. (TV)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - LaLiga: Dazn F1. (TV)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/156164
 --
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/164158
+--
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga 14:00 Rayo Vallecano vs Getafe (L)" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LaLiga 14:00 Rayo Vallecano vs Getafe (L)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/164162
+--
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank 13:30 Eibar vs Mirandés (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EVENTOS PPV",LaLiga SmartBank 13:30 Eibar vs Mirandés (L)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/164165
+--
 #EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - BEIN LALIGA 1 (M)(720)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161871
 #EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - BEIN SPORTS LA LIGA (M)(720)
@@ -379,12 +388,12 @@ http://supersonictv.live:8080/006779/439866/22196
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",HYPER LA LIGA 2 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD (SD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD (HD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858
-#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA FHD (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
 --
 #EXTINF:-1 tvg-logo="http://195.154.136.206/Bein/New/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SHAREEXT SPORT",US beIN SPORTS La Liga
@@ -428,9 +437,9 @@ http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://181.78.109.48:9998/play/a06r/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://181.78.109.48:9998/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
