@@ -160,6 +160,14 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA-FHD: NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="USA FHD",USA-FHD: NAT GEO
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60308
 --
+#EXTINF:-1 tvg-id="" tvg-name="YT: AMC" tvg-logo="" group-title="TESYT",YT: AMC
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/130670
+--
+#EXTINF:-1 tvg-id="" tvg-name="YT: NatGeo" tvg-logo="" group-title="TESYT",YT: NatGeo
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/130696
+#EXTINF:-1 tvg-id="" tvg-name="YT: NatGeoWild" tvg-logo="" group-title="TESYT",YT: NatGeoWild
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/130697
+--
 #EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Canada HD",CA: AMC
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5197
 --
@@ -428,7 +436,7 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9786
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9787
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DOC-Discovery Theater (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-BzAhrKSxP3M/Xaukgj6CHCI/AAAAAAAAAgc/GsnF0u2sAvI-wB4L3yFhac_zhO8mg50hgCLcBGAsYHQ/s200/8.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Theater (M)(1080)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9824
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Theater (Z)(1080) -" tvg-logo="https://1.bp.blogspot.com/-BzAhrKSxP3M/Xaukgj6CHCI/AAAAAAAAAgc/GsnF0u2sAvI-wB4L3yFhac_zhO8mg50hgCLcBGAsYHQ/s200/8.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Theater (Z)(1080) -
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Theater (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-BzAhrKSxP3M/Xaukgj6CHCI/AAAAAAAAAgc/GsnF0u2sAvI-wB4L3yFhac_zhO8mg50hgCLcBGAsYHQ/s200/8.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Theater (Z)(1080)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9788
 #EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (L)(1080)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9825
@@ -498,8 +506,6 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9845
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9802
 #EXTINF:-1 tvg-id="" tvg-name="DOC-Mas Chic (Z)(720)" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="CANALES-DOCUMENTALES",DOC-Mas Chic (Z)(720)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9803
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Nasa TV (Z)(1080)" tvg-logo="https://static.epg.best/rs/Nasa.rs.png" group-title="CANALES-DOCUMENTALES",DOC-Nasa TV (Z)(1080)
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9804
 #EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CANALES-DOCUMENTALES",DOC-NatGeo (M)(1080)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9847
 #EXTINF:-1 tvg-id="National.Geographic.co" tvg-name="DOC-NatGeo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CANALES-DOCUMENTALES",DOC-NatGeo (TV)(720)
@@ -516,7 +522,7 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9849
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9850
 #EXTINF:-1 tvg-id="" tvg-name="DOC-Smithsonian Channel (Z)" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" group-title="CANALES-DOCUMENTALES",DOC-Smithsonian Channel (Z)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9808
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Tastemade (Z)(720)" tvg-logo="https://i.imgur.com/XDMqqSs.png" group-title="CANALES-DOCUMENTALES",DOC-Tastemade (Z)(720)
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Tastemade (W)(720)" tvg-logo="https://i.imgur.com/XDMqqSs.png" group-title="CANALES-DOCUMENTALES",DOC-Tastemade (W)(720)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9809
 #EXTINF:-1 tvg-id="" tvg-name="DOC-TLC (Z)(1080)" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CANALES-DOCUMENTALES",DOC-TLC (Z)(1080)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9810

@@ -376,14 +376,23 @@ https://is.gd/P9HFAg?LaligaInside.m3u8
 #EXTINF:-1 tvg-logo="4️⃣🇰 🇺 🇭 🇩" group-title="SHAREEXT SPORT",AF SUPERSPORT LALIGA
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/4431
 --
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",BeIN Sports LaLiga
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SHAREEXT SPORT",BeIN Sports LaLiga (FHD)
 http://supersonictv.live:8080/006779/439866/22196
+--
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT SPORT",Dazn laliga hypermotion 1 (SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+--
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT SPORT",Dazn laliga hypermotion 2 (SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 --
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",HYPER LA LIGA 2 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD (SD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848
+--
+#EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",Laliga Hypermotion (SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 --
 #EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD (HD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858
@@ -408,7 +417,7 @@ http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/4431
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
 http://supersonictv.live:8080/Bobby1/Bobby1/22196
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga (FHD)
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
 http://supersonictv.live:8080/006779/439866/22196
 --
 #EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png",DEPORTES - SKY Sports La liga (TV)(720)
