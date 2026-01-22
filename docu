@@ -160,6 +160,9 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA-FHD: NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="USA FHD",USA-FHD: NAT GEO
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60308
 --
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA-FHD: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="USA FHD",USA-FHD: AMC
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60289
+--
 #EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Canada HD",CA: AMC
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5197
 --
@@ -2273,18 +2276,6 @@ http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/39822.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amcPz3KtJa67sFU8fWm6293wKn1.jpg" group-title="SERIES-SUSPENSO",Truth Be Told S01 E02
 http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/40331.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMoIdnLnwzeF6amCjuz7mCEpEet.jpg" group-title="SERIES-UNIVERSO DC",Arrow S01 E06
-http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/42294.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Lucifer S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg" group-title="SERIES-UNIVERSO DC",Lucifer S02 E06
-http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/42881.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IGaMcsrFmSaFS8zuYSmEYqk61w.jpg" group-title="SERIES-UNIVERSO DC",Smallville S08 E20
-http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/43147.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El Señor de los Cielos S04 E45" tvg-logo="https://image.tmdb.org/t/p/w300/hAmCCOp1XSrZsnKUan7sCsLo7Cr.jpg" group-title="SERIES-NARCO",El Señor de los Cielos S04 E45
-http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/44169.mp4
---
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
@@ -2377,6 +2368,204 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 --
 #EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Nat Geo Wild USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
 --
 #EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
 https://a1xs.vip/1000033
