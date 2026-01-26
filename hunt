@@ -619,6 +619,13 @@ http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/73450.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cVUtbuqtCQ21w2hRNm3CAMVfSP.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E13
 http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/73451.mp4
 --
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E01
+http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/130715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E02
+http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/130716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E03
+http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/130717.mkv
+--
 #EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Caza & Pesca 🎣",Hunt Fish TV 🇺🇸
 https://jmp2.uk/str-5747.m3u8
 --
@@ -636,10 +643,10 @@ https://s21.pixtures.art/mw/FaImqTywMF5ZMJSaqJHhHyqPJF5GqKOypv5VMKWiMKZhLJ5xYxu1
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/adalet-birligi-x-rwby-super-kahramanlar-ve-avcilar-bolum-iki-justice-league-x-rwby-super-heroes-and-huntsmen-part-two-85648.jpg",Adalet Birliği x RWBY: Süper Kahramanlar ve Avcılar, Bölüm İki [28.06.2025]
 https://s18.imglink.info/mb/FaImqTywMF5ZMJSaqJHhrP5FI0WMYyA1pTIlYxuypz9ypl5uozDhFUIhqUAgMJ4hHTSlqP5Hq28hZwNlZl5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5cozMis0xi18vr1
 --
-#EXTINF:-1 tvg-id="" group-title="Phim truyện",CC Catwoman Hunted (2022) [21.10.2025]
-http://asdfk.xtreamtvplus.net:8080/movie/MND5s3awK8/Dk22jMoTTKkGX18kl/9725.mp4
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="http://image.tmdb.org/t/p/w154/pf8lHZusuQoTr3dCD5EwM2nw9Gi.jpg",CC Catwoman Hunted (2022) [21.10.2025]
 http://asdfk.xtreamtvplus.net:8080/movie/MND5s3awK8/Dk22jMoTTKkGX18kl/9719.mp4
+#EXTINF:-1 tvg-id="" group-title="Phim truyện",CC Catwoman Hunted (2022) [21.10.2025]
+http://asdfk.xtreamtvplus.net:8080/movie/MND5s3awK8/Dk22jMoTTKkGX18kl/9725.mp4
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org/t/p/w500/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg",Catwoman: Hunted [28.06.2025]
 https://vidmody.com/mm/tt15248702/main/index.m3u8
