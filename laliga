@@ -94,21 +94,11 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/165484
 #EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 3 (i)(720) " tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 3 (i)(720) 
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/165485
 --
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 07:00 Atletico de Madrid vs.RCD Mallorca" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 07:00 Atletico de Madrid vs.RCD Mallorca
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/170705
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 09:15 Barcelona vs.Real Oviedo" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 09:15 Barcelona vs.Real Oviedo
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/170706
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 11:30 Real Sociedad vs.Celta de Vigo" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 11:30 Real Sociedad vs.Celta de Vigo
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/170707
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 14:00 D.Alaves vs.Real Betis" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 14:00 D.Alaves vs.Real Betis
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/170708
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 14:00 Girona FC vs.Getafe CF" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 14:00 Girona FC vs.Getafe CF
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/172734
 --
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank | 7:00 FC Andorra vs Huesca" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",LaLiga SmartBank | 7:00 FC Andorra vs Huesca
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/170734
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank | 9:15 Eibar vs Almería" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",LaLiga SmartBank | 9:15 Eibar vs Almería
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/170735
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartBank | 14:00 Deportivo La Coruna vs.Racing Santander" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",LaLiga SmartBank | 14:00 Deportivo La Coruna vs.Racing Santander
-http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/170736
+#EXTINF:-1 tvg-id="" tvg-name="Segunda División España | 13:30 Ceuta vs. Cultural Leonesa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="EVENTOS PPV",Segunda División España | 13:30 Ceuta vs. Cultural Leonesa
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/172740
 --
 #EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - BEIN LALIGA 1 (M)(720)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161871
@@ -408,13 +398,13 @@ http://supersonictv.live:8080/006779/439866/22196
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",HYPER LA LIGA 2 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD (SD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD (SD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGATV BAR FHD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",LALIGATV BAR FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848
 --
 #EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",Laliga Hypermotion (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 --
-#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD (HD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD (HD)
+#EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA BAR HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA BAR HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858
 #EXTINF:-1 tvg-id="" tvg-name="ES:M LALIGA FHD (FHD)" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT SPORT",M LALIGA FHD (FHD)
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
@@ -430,7 +420,7 @@ http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/4431
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
 http://supersonictv.live:8080/Bobby1/Bobby1/22196
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga (FHD)
 http://supersonictv.live:8080/006779/439866/22196
 --
 #EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png",DEPORTES - SKY Sports La liga (TV)(720)
