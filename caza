@@ -208,6 +208,9 @@ http://tv.zapping.life:8080/movie/milagrosherrera/syETesGFmN/123764.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvC2D7sX894lJYOzBdndI52Jz6Y.jpg" group-title="VOD-NETFLIX",Cazador de demonios (2009)
 http://tv.zapping.life:8080/movie/milagrosherrera/syETesGFmN/165351.mkv
 --
+#EXTINF:-1 tvg-id="" tvg-name="Cazador blanco, corazón negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAOByNe1uQsuIJVQsC4yssXIHpA.jpg" group-title="VOD APPLE TV",Cazador blanco, corazón negro
+http://tv.zapping.life:8080/movie/milagrosherrera/syETesGFmN/173650.mkv
+--
 #EXTINF:-1 tvg-id="" tvg-name="La frontera azul S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/dfNCAZAFLF0z0fO9bFjIlwuudQ7.jpg" group-title="SERIES-ACCION",La frontera azul S02 E05
 http://tv.zapping.life:8080/series/milagrosherrera/syETesGFmN/14465.mkv
 --
@@ -505,6 +508,9 @@ http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/7339.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvC2D7sX894lJYOzBdndI52Jz6Y.jpg" group-title="VOD-NETFLIX",Cazador de demonios (2009)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/165351.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador blanco, corazón negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAOByNe1uQsuIJVQsC4yssXIHpA.jpg" group-title="VOD APPLE TV",Cazador blanco, corazón negro
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/173650.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="ESP - IBERALIA (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - IBERALIA (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161905.m3u8
