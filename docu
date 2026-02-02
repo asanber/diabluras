@@ -76,40 +76,6 @@ https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 --
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="http://lonewolftvpr.com/logos/amc.png" group-title="USA",USA | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/209
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA | AMC +" tvg-logo="https://i.ibb.co/4Y3Z4P1/amcplus.png" group-title="USA",USA | AMC +
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1602
---
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="USA",USA | Discovery Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/184
---
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | Nat Geo" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" group-title="USA",USA | Nat Geo
-https://cdn1host.online:443/xman2/hhqgjFfHXF/141
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA | Nat Geo Wild" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" group-title="USA",USA | Nat Geo Wild
-https://cdn1host.online:443/xman2/hhqgjFfHXF/140
---
-#EXTINF:-1 tvg-id="" tvg-name="MX FHD | AMC" tvg-logo="" group-title="Latinos HD/FHD",MX FHD | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/66463
---
-#EXTINF:-1 tvg-id="" tvg-name="MX FHD | NatGeo" tvg-logo="" group-title="Latinos HD/FHD",MX FHD | NatGeo
-https://cdn1host.online:443/xman2/hhqgjFfHXF/66473
---
-#EXTINF:-1 tvg-id="I18.90852.schedulesdirect.org" tvg-name="MX | AMC" tvg-logo="https://i.imgur.com/dcOciyn.png" group-title="Latinamerica",MX | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/78
---
-#EXTINF:-1 tvg-id="I180.25788.schedulesdirect.org" tvg-name="MX | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="Latinamerica",MX | Discovery Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/60
---
-#EXTINF:-1 tvg-id="" tvg-name="CA | AMC" tvg-logo="" group-title="Canada",CA | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/46678
---
-#EXTINF:-1 tvg-id="" tvg-name="CA | NAT GEO WILD" tvg-logo="" group-title="Canada",CA | NAT GEO WILD
-https://cdn1host.online:443/xman2/hhqgjFfHXF/46794
---
-#EXTINF:-1 tvg-id="" tvg-name="PE | AMC" tvg-logo="" group-title="Peru",PE | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1741
---
 #EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA HD ",US: AMC HD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1527
 --
@@ -125,211 +91,6 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 --
 #EXTINF:-1 tvg-id="amcplus.us" tvg-name="US: AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMC%2B_logo.png/220px-AMC%2B_logo.png" group-title="USA HD ",US: AMC+
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2073
---
-#EXTINF:-1 tvg-id="" tvg-name="USA2: AMC Network" tvg-logo="" group-title="USA BU",USA2: AMC Network
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100838
---
-#EXTINF:-1 tvg-id="" tvg-name="USA2: Nat Geo Wild" tvg-logo="" group-title="USA BU",USA2: Nat Geo Wild
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100929
---
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US-sd: AMC" tvg-logo="" group-title="USA SD ",US-sd: AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110228
---
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US-sd: DISCOVERY CHANNEL" tvg-logo="" group-title="USA SD ",US-sd: DISCOVERY CHANNEL
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110248
---
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US-sd: NAT GEO" tvg-logo="" group-title="USA SD ",US-sd: NAT GEO
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110285
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US-sd: NAT GEO WILD" tvg-logo="" group-title="USA SD ",US-sd: NAT GEO WILD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110286
---
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA-FHD AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMC%2B_logo.png/220px-AMC%2B_logo.png" group-title="USA FHD",USA-FHD AMC+
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/88976
---
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="USA-FHD: AMC THRILLERS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/ThrillerMax_2016.png" group-title="USA FHD",USA-FHD: AMC THRILLERS
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60353
---
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA-FHD: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="USA FHD",USA-FHD: DISCOVERY CHANNEL
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60311
---
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic (Canada)" tvg-logo="" group-title="Canada HD",National Geographic (Canada)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/124462
---
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA-FHD: NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="USA FHD",USA-FHD: NAT GEO WILD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60309
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA-FHD: NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="USA FHD",USA-FHD: NAT GEO
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60308
---
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA-FHD: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="USA FHD",USA-FHD: AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60289
---
-#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Canada HD",CA: AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5197
---
-#EXTINF:-1 tvg-id="" tvg-name="CA:  DISCOVERY CHANNEL" tvg-logo="" group-title="Canada HD",CA:  DISCOVERY CHANNEL
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60977
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Canada HD",CA: NATIONAL GEOGRAPHIC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/61031
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="Canada HD",CA: NATIONAL GEOGRAPHIC WILD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/68475
---
-#EXTINF:-1 tvg-id="" tvg-name="247_: AMC Thrillers" tvg-logo="" group-title="247s.",247_: AMC Thrillers
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114492
---
-#EXTINF:-1 tvg-id="" tvg-name="247s AMC Thrillers" tvg-logo="" group-title="247s.",247s AMC Thrillers
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/130766
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP: AMC" tvg-logo="" group-title="Spanish HD",ESP: AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/29441
---
-#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX HD *" tvg-logo="" group-title="Dutch/German",DE: DMAX HD *
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83446
---
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL HD *" tvg-logo="" group-title="Dutch/German",DE: DISCOVERY CHANNEL HD *
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83478
-#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD *" tvg-logo="" group-title="Dutch/German",DE: NATIONAL GEOGRAPHIC HD *
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83479
-#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD (*)" tvg-logo="" group-title="Dutch/German",DE: NATIONAL GEOGRAPHIC HD (*)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83480
-#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD *" tvg-logo="" group-title="Dutch/German",DE: NAT GEO WILD HD *
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83481
-#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD (local)" tvg-logo="" group-title="Dutch/German",DE: NAT GEO WILD HD (local)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83482
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: AMC HD 720P" tvg-logo="" group-title="Spanish HD",SP: AMC HD 720P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46776
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD HD 720P" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD HD 720P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46805
---
-#EXTINF:-1 tvg-id="" tvg-name="SP2 Discovery Channel" tvg-logo="" group-title="Spain-L",SP2 Discovery Channel
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/103538
---
-#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="UK HD",UK: NATIONAL GEOGRAPHIC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/6493
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: AMC HD 1080P" tvg-logo="" group-title="Spanish HD",SP: AMC HD 1080P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46775
-#EXTINF:-1 tvg-id="" tvg-name="SP: AMC SD" tvg-logo="" group-title="Spanish HD",SP: AMC SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46777
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC HD 1080P" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC HD 1080P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46801
-#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC HD 720P" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC HD 720P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46802
-#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46803
-#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD HD 1080P" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD HD 1080P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46804
-#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD SD" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46806
-#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: HISTORIA HD 1080P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46807
-#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA HD 720P" tvg-logo="" group-title="Spanish HD",SP: HISTORIA HD 720P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46808
-#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA SD" tvg-logo="" group-title="Spanish HD",SP: HISTORIA SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46809
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: DISCOVERY CHANNEL HD 1080P" tvg-logo="" group-title="Spanish HD",SP: DISCOVERY CHANNEL HD 1080P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46812
-#EXTINF:-1 tvg-id="" tvg-name="SP: DISCOVERY CHANNEL SD" tvg-logo="" group-title="Spanish HD",SP: DISCOVERY CHANNEL SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46813
-#EXTINF:-1 tvg-id="" tvg-name="SP: ODISEA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: ODISEA HD 1080P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46815
-#EXTINF:-1 tvg-id="" tvg-name="SP: ODISEA SD" tvg-logo="" group-title="Spanish HD",SP: ODISEA SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46816
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: Odisea" tvg-logo="" group-title="Spain Local",Sp_tvup: Odisea
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114809
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114824
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: Historia" tvg-logo="" group-title="Spain Local",Sp_tvup: Historia
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114850
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC Break" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC Break
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114853
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC Crime" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC Crime
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114860
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Amc HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Amc HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114932
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Discovery Channel HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Discovery Channel HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114970
---
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="" group-title="Brazilian HD",BR: AMC HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121509
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD" tvg-logo="" group-title="Portuguese ",PT: AMC HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121971
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery Channel HD" tvg-logo="" group-title="Portuguese ",PT: Discovery Channel HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121982
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nat Geo Wild HD" tvg-logo="" group-title="Portuguese ",PT: Nat Geo Wild HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121984
-#EXTINF:-1 tvg-id="" tvg-name="PT: Historia" tvg-logo="" group-title="Portuguese ",PT: Historia
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121985
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Crime HD" tvg-logo="" group-title="Portuguese ",PT: AMC Crime HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121988
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Break HD" tvg-logo="" group-title="Portuguese ",PT: AMC Break HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121993
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: AMC" tvg-logo="" group-title="Mexico Izzy",MX: AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110546
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Channel" tvg-logo="" group-title="Mexico Izzy",MX: Discovery Channel
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110593
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: National Geographic" tvg-logo="" group-title="Mexico Izzy",MX: National Geographic
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110695
---
-#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="UK HD",UK: DISCOVERY CHANNEL
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/6534
---
-#EXTINF:-1 tvg-id="" tvg-name="ABC28 (KAMC) Lubbock  (A)" tvg-logo="" group-title="USA Locals",ABC28 (KAMC) Lubbock  (A)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101844
---
-#EXTINF:-1 tvg-id="" tvg-name="[Rogers-CA] AMC" tvg-logo="" group-title="Canada SD",[Rogers-CA] AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/107448
---
-#EXTINF:-1 tvg-id="" tvg-name="[Rogers-CA] NATGEOW" tvg-logo="" group-title="Canada SD",[Rogers-CA] NATGEOW
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/107512
---
-#EXTINF:-1 tvg-id="" tvg-name="CA- amc" tvg-logo="" group-title="Canada SD",CA- amc
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/111601
---
-#EXTINF:-1 tvg-id="" tvg-name="CA- discovery channel" tvg-logo="" group-title="Canada SD",CA- discovery channel
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/111619
---
-#EXTINF:-1 tvg-id="" tvg-name="CA- nat geo wild" tvg-logo="" group-title="Canada SD",CA- nat geo wild
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/111653
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD AMC" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD AMC
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112716
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD National Geographic" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD National Geographic
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112806
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD National Geographic Wild" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD National Geographic Wild
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112807
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD Historia" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Historia
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112913
---
-#EXTINF:-1 tvg-id="" tvg-name="CANa AMC Canada HD" tvg-logo="" group-title="Canada FHD",CANa AMC Canada HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114126
-#EXTINF:-1 tvg-id="" tvg-name="CANa AMC+ CANADA" tvg-logo="" group-title="Canada FHD",CANa AMC+ CANADA
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114127
---
-#EXTINF:-1 tvg-id="" tvg-name="CANa National Geographic" tvg-logo="" group-title="Canada FHD",CANa National Geographic
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114178
 --
 #EXTINF:0 type="favorites" channelId="-1" name="C/S• AMC (HD) »2«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg", C/S• AMC (HD) »2«
 http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/105
@@ -2655,127 +2416,6 @@ http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/44169.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rosario Tijeras S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ofi3f70a24I2BKUN4hhXO3amcu.jpg" group-title="NOVELAS-MEXICANAS",Rosario Tijeras S03 E03
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/55102.mp4
 --
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E01
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E02
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E03
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E04
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E05
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E06
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E07
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E08
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E09
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E10
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E11
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E12
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E13
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E14
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E15
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E16
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E17
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E18
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E19
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E20
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E21
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E22
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E23
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E24
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E25
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E26
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E27
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E28
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E29
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E30
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E31
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E32
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E33
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E34
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E35
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E36
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E37
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E38
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E39
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E40
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E41
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E42
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E43
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E44
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E45
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E46
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E47
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E48
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E49
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E50
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E51
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E52
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E53
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E54
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E55
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E56
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E57
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E58
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E59
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias Clasificadas S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7YOAeJmBsmpX0In8cLabEOjm8o.jpg" group-title="NOVELAS-COLOMBIANAS",Historias Clasificadas S01 E60
-http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/58745.mp4
---
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
@@ -2868,6 +2508,204 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 --
 #EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Nat Geo Wild USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+https://a1xs.vip/1000033
+--
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
 --
 #EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
 https://a1xs.vip/1000033

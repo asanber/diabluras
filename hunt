@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="VISION+",Outdoor Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="http://lonewolftvpr.com/logos/outdoor.png" group-title="USA",USA | Outdoor Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/292
---
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA | Sportsman Channel" tvg-logo="https://i.ibb.co/xCbkT75/sportsman.png" group-title="USA",USA | Sportsman Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/54385
---
 #EXTINF:-1 tvg-id="" tvg-name="US: Hunt Channel" tvg-logo="https://bama-q.tv/wp-content/uploads/2017/10/HuntChannel-copy.png" group-title="USA HD ",US: Hunt Channel
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2054
 --
@@ -18,59 +12,6 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 --
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US: SPORTSMAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sportsman_Channel_logo.png/220px-Sportsman_Channel_logo.png" group-title="USA SPORTS HD",US: SPORTSMAN CHANNEL
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/9670
---
-#EXTINF:-1 tvg-id="" tvg-name="USA2: Outdoor Channel" tvg-logo="" group-title="USA BU",USA2: Outdoor Channel
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100949
---
-#EXTINF:-1 tvg-id="" tvg-name="USA2: Sportsman Channel" tvg-logo="" group-title="USA BU",USA2: Sportsman Channel
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100971
---
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US-sd: OUTDOOR CHANNEL" tvg-logo="" group-title="USA SD ",US-sd: OUTDOOR CHANNEL
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110294
---
-#EXTINF:-1 tvg-id="" tvg-name="US-SD: Sportsman Channel" tvg-logo="" group-title="USA SD ",US-SD: Sportsman Channel
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123582
---
-#EXTINF:-1 tvg-id="" tvg-name="247_: Hunter x Hunter" tvg-logo="" group-title="247s.",247_: Hunter x Hunter
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114495
---
-#EXTINF:-1 tvg-id="" tvg-name="247_: Ghost Hunters" tvg-logo="" group-title="247s.",247_: Ghost Hunters
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114577
---
-#EXTINF:-1 tvg-id="" tvg-name="247_: Dog The Bounty Hunter" tvg-logo="" group-title="247s.",247_: Dog The Bounty Hunter
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114605
---
-#EXTINF:-1 tvg-id="" tvg-name="247s Bargain Hunt" tvg-logo="" group-title="247s.",247s Bargain Hunt
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/130652
---
-#EXTINF:-1 tvg-id="" tvg-name="AL Huntsville NBC WAFF" tvg-logo="" group-title="USA Locals",AL Huntsville NBC WAFF
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101130
---
-#EXTINF:-1 tvg-id="" tvg-name="WV Huntington NBC WSAZ" tvg-logo="" group-title="USA Locals",WV Huntington NBC WSAZ
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101320
---
-#EXTINF:-1 tvg-id="" tvg-name="AL Huntsville FOX WZDX" tvg-logo="" group-title="USA Locals",AL Huntsville FOX WZDX
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101362
---
-#EXTINF:-1 tvg-id="" tvg-name="ABC31 (WAAY) Huntsville  (A)" tvg-logo="" group-title="USA Locals",ABC31 (WAAY) Huntsville  (A)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101854
-#EXTINF:-1 tvg-id="" tvg-name="abc31 (WAAY) Huntsville (V)" tvg-logo="" group-title="USA Locals",abc31 (WAAY) Huntsville (V)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101855
---
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WAAY ABC 31 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WAAY ABC 31 HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113830
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WHNT CBS 19 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WHNT CBS 19 HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113831
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WZDX FOX 54 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WZDX FOX 54 HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113832
-#EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WAFF NBC 48 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WAFF NBC 48 HD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113833
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD Sportsman Channel" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Sportsman Channel
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112866
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7: Bargain Hunt" tvg-logo="" group-title="247s.",24/7: Bargain Hunt
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114310
 --
 #EXTINF:-1 tvg-id="" tvg-name="USA-SPORTSMAN CHANNEL (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/qg4vRhyQcrmwSVRTvXE73mtC2qnBOgocGI-eAtyNnZZOelJpCUWjXpCHe4cYHPIgUSs3ZTr91d1uo2W6VEIzsIo2sq4IkDlP1LIm1TU3hTU.png" group-title="USA-SPORTS",USA-SPORTSMAN CHANNEL (L)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/162586.m3u8
@@ -483,3 +424,15 @@ https://vidmody.com/vs/tt15248702/
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmMyYjYxZmYtNjgzZi00NzU0LThlZmMtZWZiZTUxMWNlMWRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",The Last Manhunt -Vahşi Batı (2022) [31.01.2026 16:35]
 https://vidmody.com/vs/tt11399896/
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260131/50292a66a10bb7d08569db7b7c8f2721.png",06h00 ngày 02/02 Miami Heat vs Chicago Bulls [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260131/50292a66a10bb7d08569db7b7c8f2721.png",06h00 ngày 02/02 Miami Heat vs Chicago Bulls [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260131/50292a66a10bb7d08569db7b7c8f2721.png",06h00 ngày 02/02 Miami Heat vs Chicago Bulls [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260131/50292a66a10bb7d08569db7b7c8f2721.png",06h00 ngày 02/02 Miami Heat vs Chicago Bulls [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
