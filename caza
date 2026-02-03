@@ -11,6 +11,19 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126210
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://static.wixstatic.com/media/150734_4efdf679eb6c4da59d2c37d18d1f2a66~mv2.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126273
 --
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES | Caza y Pezca" tvg-logo="https://i.imgur.com/7zrGmp7.png" group-title="Espana",ES | Caza y Pezca
+https://cdn1host.online:443/xman2/hhqgjFfHXF/1228
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 720P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 720P
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46818
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 1080P
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46817
+#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA SD" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA SD
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46819
+#EXTINF:-1 tvg-id="" tvg-name="SP: IBERALIA TV SD" tvg-logo="" group-title="Spanish HD",SP: IBERALIA TV SD
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46821
+--
 #EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg" group-title="VOD-COMEDIA",Los Cazafantasmas (1984)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/7339.mkv
 --
@@ -30,6 +43,9 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161956.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Caza y Pesca (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Caza y Pesca (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161974.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/lStohEROE7obb8DmTvtGbC6wELq.jpg" group-title="24/7 RETRO",24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/174840.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="A la caza del lobo rojo (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ly21ihtCecagHpcaiUNBq516Ck.jpg" group-title="VOD-AMAZON PRIME",A la caza del lobo rojo (1989)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/150898.mkv
@@ -500,21 +516,3 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_c
 --
 #EXTINF:-1 cuid="943" tvg-chno="943" tvg-name="Waypoint TV 🇺🇸" tvg-id="plex.tv.Waypoint.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" group-title="Caza & Pesca 🎣  🎣",Waypoint TV 🇺🇸
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991358
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES EUROSPORT 1 (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="SHAREEXT SPORT",ES EUROSPORT 1 (FHD)
-http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/281
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES FHD M VAMOS (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="SHAREEXT SPORT",ES FHD M VAMOS (FHD)
-http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/632
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="SHAREEXT SPORT",ES HD DAZN 1
-http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/128935
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD DAZN LALIGA (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SHAREEXT SPORT",ES HD DAZN LALIGA (FHD)
-http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/243
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD M DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="SHAREEXT SPORT",ES HD M DEPORTES
-http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/128951
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES HD M LIGA DE CAMPEONES (HD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SHAREEXT SPORT",ES HD M LIGA DE CAMPEONES (HD)
-http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/264
---
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES M DEPORTES 2 (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="SHAREEXT SPORT",ES M DEPORTES 2 (FHD)
-http://vipketseyket.top:8080/VIP016871739205623335/b5126fd73df3/288
