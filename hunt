@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="VISION+",Outdoor Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 --
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="http://lonewolftvpr.com/logos/outdoor.png" group-title="USA",USA | Outdoor Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/292
---
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA | Sportsman Channel" tvg-logo="https://i.ibb.co/xCbkT75/sportsman.png" group-title="USA",USA | Sportsman Channel
 https://cdn1host.online:443/xman2/hhqgjFfHXF/54385
+--
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="http://lonewolftvpr.com/logos/outdoor.png" group-title="USA",USA | Outdoor Channel
+https://cdn1host.online:443/xman2/hhqgjFfHXF/292
 --
 #EXTINF:-1 tvg-id="" tvg-name="US: Hunt Channel" tvg-logo="https://bama-q.tv/wp-content/uploads/2017/10/HuntChannel-copy.png" group-title="USA HD ",US: Hunt Channel
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2054
@@ -519,6 +519,111 @@ http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/72037.mkv
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/72038.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MINDHUNTER S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysv8mCXwZPZJSRkTUTfI22qHDDd.jpg" group-title="SERIES-CRIMEN",MINDHUNTER S02 E09
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/72039.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5T0T6PAxlzwCpJrphrEjpMnqPj.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E01
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2flS53afUz8Sjr0K0wfDH0uZTa.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E02
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfQrhLSjpBSMeJdlsi8Whl8UTkS.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wygpMg8so7HMjgrxtIZLiJ0Jfls.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E04
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqKxG2mPYxBNyIPUPX7gnQwvot4.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E05
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMHMYzxNXhsSRGmCEQaZoF4njCt.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E06
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPBpdsy7Oz3aCjOj2yXlRb79Ds7.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E07
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVUNujnRrx7csNVXASKiWAdGLum.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E08
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mK7VqDwg2L47eaScft8aspG5TTD.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E09
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVbpnoDnCa2IrsKEqcJrvT3uIOE.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E10
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7RSQoO8lmQ29cgc3JCun7XjZfx.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E11
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQddESfd1vf12xeBa25ieg9BMOz.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E12
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qILM7TnkwLbc0qTkqfqHI9jM7Lt.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E13
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQivM3MFSL0tfGj25DJS44wZZIr.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E14
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJT8QLVeV1ttUEx7vvGVx921NAw.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E15
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky7Kr62ChSbTwdviILQzJ8fzHu.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E16
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcthKyvdbtlDViDKZJ8utmCz4wO.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E17
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0fdcdLXaePlWqUemgwN3uGFLwt.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E18
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzQlFHIjoMm2eE84WeaB7LWAXYS.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E19
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQIAKv5WiHYjX37q756hzl1BplN.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E20
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM1U7pC0X9oTLDP7WoQySOdGJxm.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E21
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQSPuiJWbEw2P67HDkep3LhPxPJ.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E22
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eejOnpnuvy2bMJGPXQii5pO03zO.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E23
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFL7LQUNKp2CUKQ1l4sYMY0SHcg.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E24
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKCcS5VmkXURPrFjfWKXmWMLBy9.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E25
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbVmBWi1nvuCV17K9ILsNp6b7Tk.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S01 E26
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1k8X9Asyd1V3iNG7cKrvPb596B.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E01
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm9MjBe2JaMU7mB8VmnfSPo9HoW.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E02
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQsQc5hzrPiPPw3tVFlVuvqHRME.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieY3vP1e2vijYvKrMdWU9FBpmar.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E04
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPe1FZfgIQ2L2aQQT4mKGriZfnA.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E05
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ohP73kPVTvtN5RmGTPNX2kdTMb.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E06
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nhI89L56JC8OgkRNST5bCXci9o.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E07
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pu28q7oQsKNiqZxLJEyx0nJNTUN.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E08
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwF8mr29ZQ472G0zzFD0k7udb8i.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E09
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ie6opyTMvgL3SouMyT9YipwhaA.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E10
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8osSyIsSUoPtbmqEklwV2uv6Pq.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E11
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAuQyCRwbgg71nP9vk7Ywo4HjNM.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E12
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kArL6SlXh2xtG5YVQnQySjyy3rh.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S02 E13
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QCzkGaoTQ5raFDap2jjuPVRpul.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E01
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDw71Fawts2ajif608ZYPh3vMBB.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E02
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LbYSzQBhMk6a3Djisgh0O1aaCM.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/663P8fqrJ8LyOVTvI0YeWTCYte2.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E04
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tkRUcJRAFZcKzzpT70XQ2MJHpo.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E05
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRKdotipCEEk4msVRKZ1VxpVIRd.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E06
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7BXH7KeAalXAm4Hipc0ZGiL87j.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E07
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHIKhYycBhpqQmYhBX44xIE9r5t.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E08
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PQgx9EReVj99VAI52ynCj2tHxk.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E09
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nVyrm48txxCcz6JGNzSiDXSC7l.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E10
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Kl8SzlUmKVuoZy3hXlt24UbW5q.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E11
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Cn4EDjzdsABckj0dWUN8pSiSD.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E12
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters: Relatos de Arcadia S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cVUtbuqtCQ21w2hRNm3CAMVfSP.jpg" group-title="SERIES-INFANTILES",Trollhunters: Relatos de Arcadia S03 E13
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/73451.mp4
 --
 #EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Caza & Pesca 🎣",Hunt Fish TV 🇺🇸
 https://jmp2.uk/str-5747.m3u8
