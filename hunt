@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="VISION+",Outdoor Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 --
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA | Sportsman Channel" tvg-logo="https://i.ibb.co/xCbkT75/sportsman.png" group-title="USA",USA | Sportsman Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/54385
---
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="http://lonewolftvpr.com/logos/outdoor.png" group-title="USA",USA | Outdoor Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/292
---
 #EXTINF:-1 tvg-id="" tvg-name="US: Hunt Channel" tvg-logo="https://bama-q.tv/wp-content/uploads/2017/10/HuntChannel-copy.png" group-title="USA HD ",US: Hunt Channel
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2054
 --
@@ -81,7 +75,153 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchanne
 #EXTINF:-1 cuid="859" tvg-chno="859" tvg-name="Ghost Hunters 🇺🇸" tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="Paranormal 👽",Ghost Hunters 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 --
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/outdoor-channel-logo.png",ช่อง Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+--
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
+#EXTVLCOPT:http-referrer=https://github.com/
+--
+#EXTINF:-1 group-title="SoFast TV" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg",ช่อง Hunt Fish TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+--
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",ช่อง History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+--
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png",ช่อง Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-fetchtvau/playlist.m3u8
+--
+#EXTINF:-1 group-title="RAKUTEN" tvg-logo="https://i1.wp.com/rakuten.today/wp-content/uploads/2018/06/one_logo.jpg?fit=2000%2C1350&ssl=1",Channel History Hunters (SD)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+--
+#EXTINF:-1 group-title="SoFast TV" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg",Channel Hunt Fish TV (SD)
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+--
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/outdoor-channel-logo.png",Channel Outdoor Channel (SD)
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="TRAVEL  LIVING CH" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png",Channel Outdoor Channel (SD)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-fetchtvau/playlist.m3u8
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",Channel Outdoor Channel (HD)
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",Channel Outdoor Channel (FHD)
+#EXTVLCOPT:http-referrer=https://github.com/
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",Channel Sportsman Channel (HD)
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",CA: SPORTSMAN CHANNEL
+http://2atv.xyz:83/live/os4124/os1234/761488.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsman-channel-ca.png",CA: SPORTSMAN CHANNEL
+http://lunar.pm:8080/live/Stephanie/time44/67078.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Flo Sports 152: 2025 Miles College vs Alabama Huntsville - Doubleheader - 23/04 17:00 - 04/23 20:00 ET
+http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/707633.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://51.158.145.100/picons/logos/USA/SPORTSMAN-CHANNEL.png",SP - SPORTSMAN CHANNEL HD
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/487662.m3u8
+--
+#EXTINF:-1 tvg-id="Sportsman.Channel.us2" group-title="Thể Thao",SPORTSMAN CHANNEL
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/mpegts
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co/6ncvHKp/hunt-channel-logo.png",SPORTSMAN CHANNEL
+http://hardcoremedia.xyz/live/evhbaehp/4765328881/129954.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ILNOuVs.png",SPORTSMAN CHANNEL CA
+http://allone8k.info:8080/live/mai/mai1234/485214.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORTSMAN CHANNEL FHD US
+http://allone8k.info:8080/live/mai/mai1234/485044.m3u8
+--
 #EXTINF:-1 tvg-id="9b959c71-2276-44cb-9146-6a094d0649fe" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/bdcc9fb3f2916bce31a8fbaca9b7a847",Sportsman Channel
 https://fifabangladesh.site/?id=9b959c71-2276-44cb-9146-6a094d0649fe
 #EXTINF:-1 tvg-id="SportsmanChannel.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/CXauv8M.png",Sportsman Channel
 https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logo.koditvepg.com/US/sportsman.us.png",US Sportsman Channel
+http://hdhd.tk:80/live/Amanda1/Frechette1/31.m3u8
+#EXTINF:-1 tvg-id="Sportsman.Channel.us" group-title="Thể Thao",US Sportsman Channel (A)
+http://cord-cutter.net:8080/bn80NG/909467/79913
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US Sportsman Channel (A)
+http://fortv.cc:8080/live/dmalcolmgb/entlive/79913.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US Sportsman Channel (A)
+http://xxip25.top:8080/live/7656691303/chrisbolden765@icloud.com/79913.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US Sportsman Channel (A)
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/79913.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US Sportsman Channel (A)
+http://tvmate.icu:8080/live/chrisbu0064@gmail.com1/28uzUTHmVn/79913.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US Sportsman Channel (A)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/79913.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US Sportsman Channel (A)
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/79913.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US-SD | Sportsman Channel
+http://hardcoremedia.xyz/live/evhbaehp/4765328881/257275.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: BALLY SPORTS OHIO 9 (CHARLESTON HUNTINGTON FEED) (A)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505912.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: BALLY SPORTS OHIO 9 (CHARLESTON HUNTINGTON FEED) (A)
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/505912.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/SPORTSMANHD.png",US: SPORTSMAN CHANNEL
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282830.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/SPORTSMANHD.png",US: SPORTSMAN CHANNEL
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/282830.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (A)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505772.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (A)
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/505772.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (F)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505771.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (F)
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/505771.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (H)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/506031.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (H)
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/506031.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (S)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505691.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: SPORTSMAN CHANNEL (S)
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/505691.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12263.png?58600",US: SPORTSMAN CHANNEL HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325044.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: Sportsman Channel
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/239006.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: Sportsman Channel
+http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/239006.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: Sportsman Channel
+http://104.254.194.191:8080/live/fusatr284/dGzg2dniyD/239006.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: THE SPORTSMAN CHANNEL
+http://canal-pro.xyz:8080/live/54923073/b48ygdD8d/23895.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",US: THE SPORTSMAN CHANNEL
+http://fastream.xyz:8080/live/940246862tv/12ws79/23895.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://212.102.60.73/logos/The%20Sportsman%20Channel.png",USA - The Sportsman Channel
+http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/1178.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://static.epg.best/us/SportsmanChannel.us.png",USA SD | SPORTSMAN CHANNEL
+http://hardcoremedia.xyz/live/evhbaehp/4765328881/243367.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",USA SPORTSMAN CHANNEL SD
+http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/97483.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://puddintap.click/ico/USA-Color/sportsmanchannel.png",USA: SPORTSMAN CHANNEL
+http://2atv.xyz:83/live/os4124/os1234/814381.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://www.dropbox.com/s/6ax5mp8qyrf69pc/sportsman%20channel.jpg?dl=1",USA: SPORTSMAN CHANNEL
+http://supersonictv.live:8080/live/873912/632262/22149.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://fanc.tmsimg.com/assets/s49030_ll_h3_ae.png",USA: Sportsman Channel
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/271054.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",USA: Sportsman Channel HD
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/131231.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://infinity-logo.ddns.net/images/flag/usa.jpg",|USA| SPORTSMAN CHANNEL
+http://wyveep.com:8080/live/5HsrtuaWus99ZWPh/OUwJVymugl/1209800.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | SPORTSMAN CHANNEL
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/140796.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Sportsman_Channel_logo.png",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | SPORTSMAN Channell (HVEC)
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/162127.m3u8

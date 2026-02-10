@@ -43,27 +43,6 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4319
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="daznlaliga.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 --
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 01 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 01 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1572
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 02 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 02 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1571
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 03 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 03 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1573
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 04 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 04 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/2881
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 05 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 05 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1575
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 06 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 06 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1576
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 07 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 07 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/83805
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 08 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 08 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/83806
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 09 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 09 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/83807
-#EXTINF:-1 tvg-id="" tvg-name="La Liga 10 -" tvg-logo="https://i.ibb.co/GFRhM1s/laliga.png" group-title="Soccer (Worldwide Soccer Leagues/Feb 08)",La Liga 10 -
-https://cdn1host.online:443/xman2/hhqgjFfHXF/83808
---
 #EXTINF:-1 tvg-id="360north.us" tvg-name="ES: BEIN EXTRA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/team_logos/bein-laliga_c.png" group-title="World Sports",ES: BEIN EXTRA
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/9769
 --
@@ -257,6 +236,15 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 --
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[La Liga] 02h45 10/02 Villarreal vs Espanyol [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Spanish La Liga] Villarreal CF vs RCD Espanyol de Barcelona lúc 03:32 ngày 10/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein_sports/bein-sports-laliga-int.png",(US) beIN SPORTS La Liga
+http://lunar.pm:8080/live/Stephanie/time44/108607.m3u8
+--
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/51-copa-del-rey.png?q=75&w=50",02/05 Soccer 03:00pm Real Betis vs Atlético Madrid = SkySportsLaLiga (Z)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/175721.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportsLaliga.png",038. SkySportsLaliga
@@ -264,6 +252,15 @@ https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="4️⃣🇰 🇺 🇭 🇩",AF SUPERSPORT LALIGA
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/4431
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",AF: SUPERSPORT LALIGA [Live During Events Only]
+http://lunar.pm:8080/live/Stephanie/time44/121375.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",AF: SuperSport La Liga HD
+http://allone8k.info:8080/live/mai/mai1234/522722.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/MCDgj9f.png",BEIN SPORTS LA LIGA USA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/319442.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
 http://supersonictv.live:8080/Bobby1/Bobby1/22196
@@ -279,10 +276,34 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/164158.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",DEPORTES - SKY Sports LaLiga (Z)(720)
 http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/164158
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/super-sport-logo-png-transparent.png",DSTV |  SUPERSPORT LA LIGA
+http://hardcoremedia.xyz/live/evhbaehp/4765328881/33412.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--S--/supersportlaliga.png",DSTV: SUPER SPORTS LALIGA HD
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/455688.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--S--/supersportlaliga.png",DSTV: SUPERSPORT LA LIGA FHD
+http://promaxhd.com:8080/live/Asfhjnjjjukfidadflmx/FlvkNHEy90/375319.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DStv | SuperSport La Liga
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/173576.m3u8
+--
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD
 http://extra-terestrial-vision.net:80/live/kevindoran/ksX5oYT0V1/163752.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png",ES Bein Sports La Liga HD
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/163752
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ES: beIN SPORTS LaLiga
+http://lunar.pm:8080/live/Stephanie/time44/67452.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ES: beINSport LaLiga HD
+http://lunar.pm:8080/live/Stephanie/time44/67450.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png",ES:BEIN SPORTS LA LIGA HD
+http://canal-pro.xyz:8080/live/54923073/b48ygdD8d/12301.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png",ES:BEIN SPORTS LA LIGA HD
+http://fastream.xyz:8080/live/940246862tv/12ws79/12301.m3u8
+--
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161872.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
@@ -293,10 +314,13 @@ http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/167997
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",LaLiga SmartBank | 9:15 Eibar vs Sporting Gijón
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/174674.m3u8
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MX | Sky Sports LaLiga
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/175382.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://45.5.117.57:8200/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://167.250.223.26:8085/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
@@ -305,12 +329,59 @@ http://181.78.109.48:9998/play/a06r/index.m3u8
 http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://167.250.223.26:8085/play/a00d/index.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsportslaliga.png",SP - BEIN SPORTS LA LIGA HD
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/551771.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/lDemn2q.png",Sky Sports La Liga
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/319508.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",Sky Sports La Liga OPC 2
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/319509.m3u8
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://mundo2.pro:80/images/9b522a6209596c2b7b32657412962238.png",Skysports LaLiga HD
 http://streamingtv.vip:80//live/PqaWkKz2/XtxFA3Jme/406837.ts
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png",Sports | SKY SPORTS LA LIGA HD
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/145437.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png",SuperSport La Liga
+http://lunar.pm:8080/live/Stephanie/time44/70937.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/WsijYCw.jpg",Supersport La Liga
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/319619.m3u8
+--
 #EXTINF:-1 tvg-id="LA.LIGA.za" group-title="Thể Thao" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",Supersport_Laliga-HD
 https://7pal.short.gy/sperspllg
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://103.176.90.118/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png",UK - PREMIER SPORT LALIGA TV FHD
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/577961.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://logo.protv.cc/piconsnew/premiersport.png",UK - PREMIER SPORT LALIGA TV UHD
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/577983.m3u8
+--
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://195.154.136.206/Bein/New/bein_SPORTS_FTA_DIGITAL_Mono.png",US beIN SPORTS La Liga
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/108607
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",USA BeIN Sports LaLiga
+http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/5308.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://1.bp.blogspot.com/-dap7C2FgLvs/WYN1uDz4VqI/AAAAAAAAEYE/HD1j1CV1fIQmZPyd4GYwKafoVXDy1ifngCLcBGAs/s1600/beIN-Sports-LaLiga.jpg",USA BeIN Sports LaLiga
+http://supersonictv.live:8080/live/873912/632262/22196.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",USA beIN SPORTS La Liga
+http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/90427.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co/KVd7hc7/beinsportslaliga.png",USA | BEIN SPORTS LALIGA TV
+http://hardcoremedia.xyz/live/evhbaehp/4765328881/141453.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ZA: SuperSport  LaLiga
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37620.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",|.UK.|_VIAPLAY SPORT LALIGA TV red
+http://allone8k.info:8080/live/mai/mai1234/346436.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png",ᴸᴵᴳᴬ ᴹˣ | Claro SPORTS (La Liga) MX®
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/161000.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/07/16/vix-juegos-exclusivos-futbol-mexicano-1.jpg",ᴸᴵᴳᴬ ᴹˣ | VIX SPORTS (La Liga) MX®
+http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/162334.m3u8

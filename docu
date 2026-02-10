@@ -76,35 +76,6 @@ https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 --
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA | Nat Geo Wild" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" group-title="USA",USA | Nat Geo Wild
-https://cdn1host.online:443/xman2/hhqgjFfHXF/140
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | Nat Geo" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" group-title="USA",USA | Nat Geo
-https://cdn1host.online:443/xman2/hhqgjFfHXF/141
---
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="USA",USA | Discovery Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/184
---
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="http://lonewolftvpr.com/logos/amc.png" group-title="USA",USA | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/209
---
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA | AMC +" tvg-logo="https://i.ibb.co/4Y3Z4P1/amcplus.png" group-title="USA",USA | AMC +
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1602
---
-#EXTINF:-1 tvg-id="I180.25788.schedulesdirect.org" tvg-name="MX | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="Latinamerica",MX | Discovery Channel
-https://cdn1host.online:443/xman2/hhqgjFfHXF/60
---
-#EXTINF:-1 tvg-id="I18.90852.schedulesdirect.org" tvg-name="MX | AMC" tvg-logo="https://i.imgur.com/dcOciyn.png" group-title="Latinamerica",MX | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/78
---
-#EXTINF:-1 tvg-id="" tvg-name="CA | AMC" tvg-logo="" group-title="Canada",CA | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/46678
---
-#EXTINF:-1 tvg-id="" tvg-name="CA | NAT GEO WILD" tvg-logo="" group-title="Canada",CA | NAT GEO WILD
-https://cdn1host.online:443/xman2/hhqgjFfHXF/46794
---
-#EXTINF:-1 tvg-id="" tvg-name="PE | AMC" tvg-logo="" group-title="Peru",PE | AMC
-https://cdn1host.online:443/xman2/hhqgjFfHXF/1741
---
 #EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA HD ",US: AMC HD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1527
 --
@@ -470,8 +441,88 @@ https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="unknown" tvg-name="Nat Geo Wild USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Nat Geo Wild USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
+#EXTINF:-1 group-title="Знания", National Geographic
+http://158.160.149.81:8080/43/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+--
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsU4PaCdaRGwHat-j2wvw9nLN2DPX_yjRg5Q&s",ช่อง AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+--
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPheBHJ0E3ix72_H2kSWP5iMm-R19w5L9UQ&s",ช่อง National Geographic Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+--
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",ช่อง Discovery Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+--
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE2dt4633tYXuzPbm3ebeaupczrghZ-WoRw&s",ช่อง Discovery Channel
+#EXTVLCOPT:http-referrer=https://github.com/
+--
+#EXTINF:-1 group-title="PLEX TV" tvg-logo="https://i.ytimg.com/vi/mw5gJifg1G0/hqdefault.jpg",ช่อง AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง AMC
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง National Geographic
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง National Geographic Wild
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Stories by AMC
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+--
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง National Geographic
+https://tvpass.org/live/NationalGeographicEast/hd
+--
+#EXTINF:-1 group-title="tvpass" tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/hd
+--
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/600x600.webp?type=color_onBlack",ช่อง Stories by AMC
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+--
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/WickedTuna/showimages/f77c1071dd7b82916caa59ea9b0b2f17/1600x900-Q90_f77c1071dd7b82916caa59ea9b0b2f17.jpg",ช่อง The Wicked Tuna Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-fetchtvau/playlist.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",Channel AMC (HD)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsU4PaCdaRGwHat-j2wvw9nLN2DPX_yjRg5Q&s",Channel AMC Absolute Reality (SD)
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+--
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE2dt4633tYXuzPbm3ebeaupczrghZ-WoRw&s",Channel Discovery Channel (SD)
+#EXTVLCOPT:http-referrer=https://github.com/
+--
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",Channel Discovery Channel Japan (SD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",Channel National Geographic (HD)
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPheBHJ0E3ix72_H2kSWP5iMm-R19w5L9UQ&s",Channel National Geographic Japan (SD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",Channel National Geographic Wild (HD)
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+--
+#EXTINF:-1 group-title="moveonjoy TV" tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",Channel Stories by AMC (HD)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+--
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/WickedTuna/showimages/f77c1071dd7b82916caa59ea9b0b2f17/1600x900-Q90_f77c1071dd7b82916caa59ea9b0b2f17.jpg",Channel The Wicked Tuna Channel (SD)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-fetchtvau/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Kênh VTV" tvg-logo="4️⃣🇰 🇺 🇭 🇩",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" group-title="solution62000_live",=======4K-UHD======= - 5801P
+http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/1996.m3u8
+--
 #EXTINF:-1 tvg-id="DDSports.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png",DD SPORTS HD (1080p) - 1080P
 http://103.78.149.54:8000/play/a02i/index.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://7logos.top/logos/sportvfhdmax.png",SPORTV FHD MAX²
+http://7semfronteiras.cc/live/3947938/128192899/65744.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://7logos.top/logos/sportvfhdmax.png",SPORTV FHD MAX¹
+http://7semfronteiras.cc/live/3947938/128192899/54377.m3u8
 --
 #EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
 https://a1xs.vip/1000033
