@@ -15,6 +15,14 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/131094
 #EXTINF:-1 tvg-id="" tvg-name="ONE Championship TV (Canada)" tvg-logo="" group-title="Canada HD",ONE Championship TV (Canada)
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123946
+#EXTINF:-1 tvg-id="" tvg-name="Concachampions | 19:00 Cruz Azul vs Vancouver FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CONCACAF_Champions_Cup.png/1076px-CONCACAF_Champions_Cup.png" group-title="EVENTOS PPV",Concachampions | 19:00 Cruz Azul vs Vancouver FC
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Women's Champions League | 11:45 Wolfsburg vs. Juventus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png" group-title="EVENTOS PPV",UEFA Women's Champions League | 11:45 Wolfsburg vs. Juventus
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UEFA Women's Champions League | 14:00 Atlético Madrid vs. Man. United" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png" group-title="EVENTOS PPV",UEFA Women's Champions League | 14:00 Atlético Madrid vs. Man. United
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Queen - We Are The Champions - Final Live In Japan (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG4csxpqulkbpYPCGsdJ35n35qA.jpg" group-title="VOD-CONCIERTOS",Queen - We Are The Champions - Final Live In Japan (1992)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/41135.mkv
 #EXTINF:-1 cuid="1175" tvg-chno="1175" tvg-name="One Championship tv 🇧🇷🇺🇸" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Canales De Combates 🥊",One Championship tv 🇧🇷🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 cuid="1188" tvg-chno="1188" tvg-name="Hard Knock Fighting 🇺🇸" tvg-id="UK:.Hard.Knocks.Fighting.Championship.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Canales De Combates 🥊",Hard Knock Fighting 🇺🇸
@@ -55,39 +63,5 @@ http://127.0.0.1:6878/ace/getstream?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e&
 http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd&.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11", ML Campeones 13 SD  bdfe
 http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804&.mp4
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="[Championship] Sheffield United vs Middlesbrough (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[Championship] Sheffield United vs Middlesbrough (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.Dummy.us" tvg-name="[England Championship] Sheffield United vs Middlesbrough (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[England Championship] Sheffield United vs Middlesbrough (SPORT9)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[English Football League Championship] Sheffield United vs Middlesbrough lúc 03:32 ngày 10/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png",(FLSP 658) | varsity: 2026 CHEERSPORT National All Star Cheerleading Championship (CHEERSPORT Nationals) (2026-02-13 15:00:15)
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336724.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",(FLSP 662) | varsity: 2026 CHEERSPORT National All Star Cheerleading Championship (CHEERSPORT Nationals) (2026-02-13 15:00:00)
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/267086.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",(FLSP 662) | varsity: 2026 CHEERSPORT National All Star Cheerleading Championship (CHEERSPORT Nationals) (2026-02-13 15:00:00)
-http://2atv.xyz:83/live/os4124/os1234/823447.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png",D+ (UK) Events 27: Motorsports | European Rally Championship | Wed 31 Jul 15:30
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/990490.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png",D+ (UK) Events 50: Motorsports | European Rally Championship | Wed 31 Jul 21:30
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/990513.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://w7.pngwing.com/pngs/510/46/png-transparent-italian-rally-championship-aci-sport-s-p-a-italian-motor-sports-commission-world-rally-championship-others.png",F1 GP | ACI Sport Motor Racing Fᴴᴰ
-http://00322.xyz:8000/live/Miyagi_ezR3stream/9307590414/162512.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Flo Sports 113: 2025 CLAW US Open Wrestling Championships - 23/04 13:00 - 04/23 20:00 ET
-http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/707594.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Flo Sports 30: 2025 SCIAC Womens Water Polo Championship - First Round - 22/04 07:56 - 04/22 20:00 ET
-http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/707511.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://103.176.90.118/picons/logos/ELEVEN-SPORTS-HD.png",IT| ELEVEN SPORT DCL DRONE CHAMPIONS LEAGUE LIVE + REPLICA
-http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692329.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Matchroom Event 06 | Quals: World Championship - Table 1 |  English Institute of Sport, Sheffield | snooker | Thu 07 Apr 8:30:00 AM
-http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/101961.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Matchroom Event 07 | Quals: World Championship - Table 2 |  English Institute of Sport, Sheffield | snooker | Thu 07 Apr 8:30:00 A
-http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/101960.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Matchroom Event 12 | Quals: World Championship - Table 1 |  English Institute of Sport, Sheffield | snooker | Fri 08 Apr 8:30:00 AM
-http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/101955.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Matchroom Event 13 | Quals: World Championship - Table 2 |  English Institute of Sport, Sheffield | snooker | Fri 08 Apr 8:30:00 AM
-http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/101954.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Matchroom Event 18 | Quals: World Championship - Table 2 |  English Institute of Sport, Sheffield | snooker | Sat 09 Apr 8:30:00 AM
-http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/101949.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Matchroom Event 19 | Quals: World Championship - Table 1 |  English Institute of Sport, Sheffield | snooker | Sat 09 Apr 8:30:00 AM
-http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/101948.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Champions Cup] Cruz Azul vs Vancouver FC (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2298.png" group-title="Live Events",[CONCACAF Champions Cup] Cruz Azul vs Vancouver FC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
