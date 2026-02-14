@@ -70,11 +70,11 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/227318f510fb320fafbdac770f16dcb4.png" group-title="ESPAÑA",ESP - Mundo Toros (TV)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/8217.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="CAN-City Toronto (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-City Toronto (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/45824.m3u8
---
 #EXTINF:-1 tvg-id="" tvg-name="ESP - TOROS (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - TOROS (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161948.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CAN-City Toronto (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-City Toronto (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/45824.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="Alvin y las Ardillas 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OMxfeZq7TtoRoHaQVaNaq9FqOu.jpg" group-title="VOD-INFANTILES",Alvin y las Ardillas 2 (2009)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/2709.mkv
@@ -103,6 +103,26 @@ http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/117900.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Lobo Adolescente S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diU8ZwCnHrXu2iJcALntoRohf52.jpg" group-title="SERIES-TERROR",Lobo Adolescente S06 E12
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/41623.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BaI9NeywOr6Ryr8kKSJmAOc47.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E01
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r8bRcrf80yYsYN2ULpwXgiV4RN.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E02
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcahKugkhxhXno6gUvOMZ4NhAA3.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Og8wdSUf2AWGkxPcVgT9HV6eLK.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E04
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bLiL38YD0olc0aYyEf4gYeYodV.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E05
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/182bbFIeiRSIgU6QyEE8Ua5x38Z.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E06
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHjG00GZHynWcYWMa8q02jx9zve.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E07
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gabinete de curiosidades de Guillermo del Toro S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/686Nn6vzOSovfUvv9vqLwH0VvEF.jpg" group-title="SERIES-MISTERIO",El gabinete de curiosidades de Guillermo del Toro S01 E08
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/87191.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6br33VonYKPwpLY51v0ZTOrOXLF.jpg" group-title="SERIES-AMAZON PRIME",Hanna S01 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/120022.mkv
 --
 #EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz

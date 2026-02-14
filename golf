@@ -74,9 +74,6 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/9596.m3u8
 #EXTINF:-1 tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/9597.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="CAN-Golf (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/133d4e7f4eca063588f263c218275565.png" group-title="CANADA PREMIUM",CAN-Golf (TV)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/7967.m3u8
---
 #EXTINF:-1 tvg-id="" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/8202.m3u8
 --
@@ -86,22 +83,25 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161933.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTARr GOLF F(M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - MOVISTARr GOLF F(M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161954.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 10:30 PGA TOUR AT&T Pebble Beach Pro-Am Main Feed (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 10:30 PGA TOUR AT&T Pebble Beach Pro-Am Main Feed (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 10:45 PGA TOUR AT&T Pebble Beach Pro-Am Marquee Group (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 10:45 PGA TOUR AT&T Pebble Beach Pro-Am Marquee Group (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 11:15 PGA TOUR AT&T Pebble Beach Pro-Am Featured Holes #5 #7 #12 & #17 (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 11:15 PGA TOUR AT&T Pebble Beach Pro-Am Featured Holes #5 #7 #12 & #17 (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 12:15 PGA TOUR AT&T Pebble Beach Pro-Am Featured Groups (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 12:15 PGA TOUR AT&T Pebble Beach Pro-Am Featured Groups (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Group 2 (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Group 2 (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Group 1 (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Group 1 (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #7 (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #7 (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #17 (First Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #17 (First Round)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Golf (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/133d4e7f4eca063588f263c218275565.png" group-title="CANADA PREMIUM",CAN-Golf (TV)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/7967.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 10:45 PGA TOUR AT&T Pebble Beach Pro-Am Main Feed (Second Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 10:45 PGA TOUR AT&T Pebble Beach Pro-Am Main Feed (Second Round)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 11:15 PGA TOUR AT&T Pebble Beach Pro-Am Scheffler Marquee Group" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 11:15 PGA TOUR AT&T Pebble Beach Pro-Am Scheffler Marquee Group
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 11:30 PGA TOUR AT&T Pebble Beach Pro-Am Featured Holes #5 #7 #12 & #17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 11:30 PGA TOUR AT&T Pebble Beach Pro-Am Featured Holes #5 #7 #12 & #17
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 12:15 PGA TOUR AT&T Pebble Beach Pro-Am Schauffele & McIlroy Featured Groups" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 12:15 PGA TOUR AT&T Pebble Beach Pro-Am Schauffele & McIlroy Featured Groups
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #17 (Second Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #17 (Second Round)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #7 (Second Round)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Featured Hole #7 (Second Round)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Scheffler Featured Group" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am Scheffler Featured Group
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am McIlroy Featured Group" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/AT%26T_Pebble_Beach_Pro-Am_logo.png" group-title="EVENTOS PPV",Golf | 14:00 PGA TOUR AT&T Pebble Beach Pro-Am McIlroy Featured Group
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/177976.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="La dama y el vagabundo 2: Las aventuras de Golfillo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjD9v91ig7WZnyr1VcilPg9nBmy.jpg" group-title="VOD-DISNEY ",La dama y el vagabundo 2: Las aventuras de Golfillo
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/41242.mkv
@@ -111,6 +111,20 @@ http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/136626.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHbJW7Kbg8C5TF8Ke6TL8goLFPe.jpg" group-title="SERIES-ANIME",Naruto Shippuden S09 E20
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/90203.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sticks: Cracks del golf S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rA2nDNE8theQJ0RBihZqBLDgsms.jpg" group-title="SERIES-APPLE TV",Sticks: Cracks del golf S01 E01
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/126796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sticks: Cracks del golf S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ckT9fJ46zKR5cSvEkBVOyl437Zi.jpg" group-title="SERIES-APPLE TV",Sticks: Cracks del golf S01 E02
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/126797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sticks: Cracks del golf S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/w71OU0cSKdB6PygSsslUcVBOPTj.jpg" group-title="SERIES-APPLE TV",Sticks: Cracks del golf S01 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/126798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sticks: Cracks del golf S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zOmjR7zgLpRx0u4ybWT9G8vwP2O.jpg" group-title="SERIES-APPLE TV",Sticks: Cracks del golf S01 E04
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/128268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sticks: Cracks del golf S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ajusjRpRrW2vUrAqisyZB0Js1cJ.jpg" group-title="SERIES-APPLE TV",Sticks: Cracks del golf S01 E05
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/128269.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="One Piece (1999) S09 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gOlFxzGBeEAWKtLk307D3641da.jpg" group-title="SERIES-ANIME",One Piece (1999) S09 E63
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/166769.mkv
 --
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png" group-title="UNITED STATES",GOLF Channel USA
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -208,7 +222,7 @@ https://7pal.short.gy/ssportsg
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="4️⃣🇰 🇺 🇭 🇩",AF SUPERSPORT GOLF
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/4429
 --
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_720P.png",DE SKYSPORT GOLF  720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_720P.png",DE SKYSPORT GOLF  720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P
 http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/135342
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
@@ -222,6 +236,8 @@ http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 --
 #EXTINF:-1 tvg-id="b2d5d52b-a280-41da-b95c-8a53bef2fc1b" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/bfb81d3b07ce417ba65ecb5132c9f7c3",Sky Sports GOLF
 https://fifabangladesh.site/?id=b2d5d52b-a280-41da-b95c-8a53bef2fc1b
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-title="Thể Thao" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png",Sky Sports Golf FHD
+https://a1xs.vip/2000009
 #EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
 http://supersonictv.live:8080/Bobby1/Bobby1/78151
 #EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
@@ -234,13 +250,8 @@ http://tvmate.icu:8080/69NpyV/884735/35238
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1024px-Sky_Sport_Golf_-_Logo_2018.svg.png",SkySports Golf FHD
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35240
 --
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="4️⃣🇰 🇺 🇭 🇩",SuperSport Golf HD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/112485
---
 #EXTINF:-1 tvg-id="sky.sports.golf.gb" group-title="Thể Thao",UK Sky Sports Golf FHD
 http://fortv.cc:8080/TJ6258608/5066258608/35240
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png",UK SkySports Golf HD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/100
 #EXTINF:-1 tvg-id="skysportsgolf.uk" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",UK: SKY SPORTS GOLF FHD
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47199
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",UK_gs: Sky Sports Golf

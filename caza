@@ -32,6 +32,9 @@ http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/173650.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazador blanco, corazón negro (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAOByNe1uQsuIJVQsC4yssXIHpA.jpg" group-title="VOD-PARAMOUNT+",Cazador blanco, corazón negro (1990)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/174104.mkv
 --
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/lStohEROE7obb8DmTvtGbC6wELq.jpg" group-title="24/7 RETRO",24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/174840.m3u8
+--
 #EXTINF:-1 tvg-id="" tvg-name="ESP - IBERALIA (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - IBERALIA (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161905.m3u8
 --
@@ -40,9 +43,6 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161956.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Caza y Pesca (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Caza y Pesca (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161974.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/lStohEROE7obb8DmTvtGbC6wELq.jpg" group-title="24/7 RETRO",24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/174840.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="A la caza del lobo rojo (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ly21ihtCecagHpcaiUNBq516Ck.jpg" group-title="VOD-AMAZON PRIME",A la caza del lobo rojo (1989)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/150898.mkv
@@ -484,6 +484,13 @@ http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/36678.mkv
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/36679.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Buffy, la cazavampiros S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRaLZCHG2wvagDY6hPDo6mXqITc.jpg" group-title="SERIES-RETRO",Buffy, la cazavampiros S07 E22
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/36680.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E01
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/130715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E02
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/130716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/130717.mkv
 --
 #EXTINF:-1 cuid="934" tvg-chno="934" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
