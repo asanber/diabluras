@@ -79,6 +79,31 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/45824.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alvin y las Ardillas 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OMxfeZq7TtoRoHaQVaNaq9FqOu.jpg" group-title="VOD-INFANTILES",Alvin y las Ardillas 2 (2009)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/2709.mkv
 --
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre de Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="VOD-AMAZON PRIME",El Hombre de Toronto (2022)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/123759.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla contra Destoroyah (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oilV4OOGCDZvgsd9ouQa7HGUMOH.jpg" group-title="VOD-HBO MAX",Godzilla contra Destoroyah (1995)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/1040.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6RaEAfkIQaolf20axWaRU4h3w.jpg" group-title="VOD-ANIME",Mi vecino Totoro (1988)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6RaEAfkIQaolf20axWaRU4h3w.jpg" group-title="VOD-LAS MEJORES PELICULAS DE LA HISTORIA",Mi vecino Totoro (1988)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/2913.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pepe El Toro (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Vsqen1KolgeTIKzdMzffHJo9oZ.jpg" group-title="VOD-CLASSICO LATINO",Pepe El Toro (1953)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/1316.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Toro salvaje (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPzVvRkPLtttMKS8YQuhhLsp8vF.jpg" group-title="VOD-LAS MEJORES PELICULAS DE LA HISTORIA",Toro salvaje (1980)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/27303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Torok, el Troll (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B7HqThili2vf5dBKBYY2vGb8tB.jpg" group-title="VOD-DRAMA",Torok, el Troll (1986)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/13878.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WWE Elimination Chamber 2025: Toronto (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQWQ3J3tnCKOBtwVtRD9vFUREyb.jpg" group-title="VOD-ESTRENOS 2025",WWE Elimination Chamber 2025: Toronto (2025)
+http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/117900.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Lobo Adolescente S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diU8ZwCnHrXu2iJcALntoRohf52.jpg" group-title="SERIES-TERROR",Lobo Adolescente S06 E12
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/41623.mkv
+--
 #EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
