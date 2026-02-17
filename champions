@@ -1,20 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PPV: EVENTS 1 " tvg-logo="https://www.premierboxingchampions.com/sites/default/files/spence-garcia-final-press-conference.jpg" group-title="PPV HD (LIVE EVENTS)",PPV: EVENTS 1 
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/52955
-#EXTINF:-1 tvg-id="" tvg-name="PPV: PDC DARTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Championship_League_Darts.png" group-title="PPV HD (LIVE EVENTS)",PPV: PDC DARTS 1
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/59188
-#EXTINF:-1 tvg-id="" tvg-name="PPV: Matchroom Boxing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Championship_League_Darts.png" group-title="PPV HD (LIVE EVENTS)",PPV: Matchroom Boxing
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/59189
-#EXTINF:-1 tvg-id="" tvg-name="247_: Champions League Goals" tvg-logo="" group-title="247s.",247_: Champions League Goals
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114561
-#EXTINF:-1 tvg-id="" tvg-name="247_: ONE Championship TV" tvg-logo="" group-title="247s.",247_: ONE Championship TV
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114600
-#EXTINF:-1 tvg-id="" tvg-name="247s Champions League Goals" tvg-logo="" group-title="247s.",247s Champions League Goals
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/130836
-#EXTINF:-1 tvg-id="" tvg-name="247s UEFA Champions League Goals" tvg-logo="" group-title="247s.",247s UEFA Champions League Goals
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/131094
-#EXTINF:-1 tvg-id="" tvg-name="ONE Championship TV (Canada)" tvg-logo="" group-title="Canada HD",ONE Championship TV (Canada)
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123946
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 14:00 Coventry City vs. Middlesbrough" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 14:00 Coventry City vs. Middlesbrough
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/178855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFC Champions League | 12:15 Al Hilal (KSA) vs. Al-Wahda (UAE)" tvg-logo="https://brandlogos.net/wp-content/uploads/2017/02/afc-champions-league-logo.png" group-title="EVENTOS PPV",AFC Champions League | 12:15 Al Hilal (KSA) vs. Al-Wahda (UAE)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/178856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 09:00 Dubai Championship" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",WTA | 09:00 Dubai Championship
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/178897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Queen - We Are The Champions - Final Live In Japan (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG4csxpqulkbpYPCGsdJ35n35qA.jpg" group-title="VOD-CONCIERTOS",Queen - We Are The Champions - Final Live In Japan (1992)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/41135.mkv
 #EXTINF:-1 cuid="1175" tvg-chno="1175" tvg-name="One Championship tv 🇧🇷🇺🇸" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Canales De Combates 🥊",One Championship tv 🇧🇷🇺🇸
@@ -57,3 +47,13 @@ http://127.0.0.1:6878/ace/getstream?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e&
 http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd&.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11", ML Campeones 13 SD  bdfe
 http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804&.mp4
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Coventry vs Middlesbrough (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[English Championship] Coventry vs Middlesbrough (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Coventry vs Middlesbrough 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[English Championship] Coventry vs Middlesbrough 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Coventry vs Middlesbrough 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[English Championship] Coventry vs Middlesbrough 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Coventry vs Middlesbrough HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[English Championship] Coventry vs Middlesbrough HD (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.Dummy.us" tvg-name="English Championship Coventry vs Middlesbrough HD FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",English Championship Coventry vs Middlesbrough HD FAWA
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/

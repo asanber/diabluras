@@ -11,16 +11,6 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126210
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ" tvg-logo="https://static.wixstatic.com/media/150734_4efdf679eb6c4da59d2c37d18d1f2a66~mv2.png" group-title="España: Señales Premium ⭐️",ESP-1: IBERALIA PESCA ᴇsᴘᴀɴᴀ ᴴᴰ
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126273
 --
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 720P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 720P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46818
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 1080P
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46817
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA SD" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46819
-#EXTINF:-1 tvg-id="" tvg-name="SP: IBERALIA TV SD" tvg-logo="" group-title="Spanish HD",SP: IBERALIA TV SD
-http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46821
---
 #EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg" group-title="VOD-COMEDIA",Los Cazafantasmas (1984)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/7339.mkv
 --
@@ -484,6 +474,13 @@ http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/36678.mkv
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/36679.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Buffy, la cazavampiros S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRaLZCHG2wvagDY6hPDo6mXqITc.jpg" group-title="SERIES-RETRO",Buffy, la cazavampiros S07 E22
 http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/36680.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E01
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/130715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E02
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/130716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manhunt: la caza del asesino (2024) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yYFLLXiFWpaTdqmC2pl4sVDEWH6.jpg" group-title="SERIES-APPLE TV",Manhunt: la caza del asesino (2024) S01 E03
+http://tv.zeuspro.xyz:8080/series/Derkai/zAsnLNB8QY/130717.mkv
 --
 #EXTINF:-1 cuid="934" tvg-chno="934" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
