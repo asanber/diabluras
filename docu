@@ -502,6 +502,9 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/9850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOC-TRU TV (L)(1080)" tvg-logo="https://logos.xbots.com.mx/79.png" group-title="CANALES-DOCUMENTALES",DOC-TRU TV (L)(1080)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/9852.m3u8
 --
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Historias Clasificadas (2012)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Historias Clasificadas (2012)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179006.m3u8
+--
 #EXTINF:-1 tvg-id="" tvg-name="ESP - AMC (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/e2c26deb02e0c7fc77a8028e3955dec6.png" group-title="ESPAÑA",ESP - AMC (TV)(1080)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/8140.m3u8
 --
@@ -544,9 +547,6 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/175758.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="La odisea de los giles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5oMn99BVp9IJruztEwpKgvqA2h.jpg" group-title="VOD-CINE LATINO",La odisea de los giles (2019)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/178936.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Historias Clasificadas (2012)" tvg-logo="" group-title="24/7 TELENOVELAS",24/7 Historias Clasificadas (2012)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179006.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="Adultos + 18 - XXX:MIAMI TV MEXICO (i)" tvg-logo="https://iguanet.com:44330/images/RWf4XVPJsjW7kdINShAtc519ApnrQJ--Jk3REaOViXycLDSvVX7VHI4ZMQ8lvyNq3ygl1t7CpeM4dZOFE8tw4c3RhUyamczumyYICxqpQoQ.jpg" group-title="CANALES-ADULTOS +18",Adultos + 18 - XXX:MIAMI TV MEXICO (i)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/164522.m3u8
