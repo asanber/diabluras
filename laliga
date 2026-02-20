@@ -49,21 +49,32 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="Steve y la liga de los monstruos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcXK4JF72yGwPWiom1egCzhN7oS.jpg" group-title="VOD-PARAMOUNT+",Steve y la liga de los monstruos (2021)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/174304.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA | 13:00 Levante UD vs.Villarreal CF" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="EVENTOS PPV",LALIGA | 13:00 Levante UD vs.Villarreal CF
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179256.m3u8
---
 #EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/9601.m3u8
---
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports LaLiga (Z)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/164158.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 1 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 1 (i)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/165483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 2 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 2 (i)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/165484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 3 (i)(720) " tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 3 (i)(720) 
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/165485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - BEIN LALIGA 1 (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161871.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - BEIN SPORTS LA LIGA (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161872.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA 2 TV (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - LA LIGA 2 TV (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV (M)(720) BAR" tvg-logo="" group-title="ESPAÑA",ESP - LA LIGA TV (M)(720) BAR
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="" group-title="ESPAÑA",ESP - LA LIGA TV BAR 1 [LIVE-EVENT]
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161916.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LALIGA (L)(720)" tvg-logo="" group-title="ESPAÑA",ESP - MOVISTAR LALIGA (L)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (L)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar LaLiga (L)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/162017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar LaLiga (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar LaLiga (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/162018.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dazn_LaLiga_logo.svg/1280px-Dazn_LaLiga_logo.svg.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga (L)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/156156.m3u8
@@ -79,30 +90,12 @@ http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/156162.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PPV - LaLiga: Dazn F1. (TV)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - LaLiga: Dazn F1. (TV)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/156164.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - BEIN LALIGA 1 (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - BEIN SPORTS LA LIGA (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161872.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA 2 TV (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - LA LIGA 2 TV (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161875.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV (M)(720) BAR" tvg-logo="" group-title="ESPAÑA",ESP - LA LIGA TV (M)(720) BAR
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161877.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar LaLiga (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161912.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="" group-title="ESPAÑA",ESP - LA LIGA TV BAR 1 [LIVE-EVENT]
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161916.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LALIGA (L)(720)" tvg-logo="" group-title="ESPAÑA",ESP - MOVISTAR LALIGA (L)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161931.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (L)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar LaLiga (L)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/162017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Movistar LaLiga (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/162018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 1 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 1 (i)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/165483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 2 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 2 (i)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/165484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 3 (i)(720) " tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 3 (i)(720) 
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/165485.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="Air Bud: El fichaje de la liga (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZkKhmjy5sEm7jgF1xqFy1tbkjZ.jpg" group-title="VOD-DISNEY ",Air Bud: El fichaje de la liga (1998)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/95784.mkv

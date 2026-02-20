@@ -35,14 +35,13 @@ http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/174104.mkv
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/lStohEROE7obb8DmTvtGbC6wELq.jpg" group-title="24/7 RETRO",24/7 Retro - Buffy la cazavampiros (e)(720)(Dual)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/174840.m3u8
 --
-#EXTINF:-1 tvg-id="" tvg-name="ESP - IBERALIA (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - IBERALIA (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161905.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP - IBERALIA TV (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - IBERALIA TV (M)(720)
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161956.m3u8
---
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Caza y Pesca (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - Caza y Pesca (M)(720)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161974.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ESP - IBERALIA (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - IBERALIA (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP - IBERALIA TV (M)(720)" tvg-logo="" group-title="ESPAÑA",ESP - IBERALIA TV (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161956.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="A la caza del lobo rojo (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ly21ihtCecagHpcaiUNBq516Ck.jpg" group-title="VOD-AMAZON PRIME",A la caza del lobo rojo (1989)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/150898.mkv
