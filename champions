@@ -15,12 +15,10 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/131094
 #EXTINF:-1 tvg-id="" tvg-name="ONE Championship TV (Canada)" tvg-logo="" group-title="Canada HD",ONE Championship TV (Canada)
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123946
-#EXTINF:-1 tvg-id="" tvg-name="Concachampions | 19:00 Sporting San Miguelito vs LA Galaxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CONCACAF_Champions_Cup.png/1076px-CONCACAF_Champions_Cup.png" group-title="EVENTOS PPV",Concachampions | 19:00 Sporting San Miguelito vs LA Galaxy
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA Women's Champions League | 11:45 Juventus vs. Wolfsburg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png" group-title="EVENTOS PPV",UEFA Women's Champions League | 11:45 Juventus vs. Wolfsburg
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA Women's Champions League | 14:00 Man. United vs. Atlético Madrid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/995px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png" group-title="EVENTOS PPV",UEFA Women's Champions League | 14:00 Man. United vs. Atlético Madrid
-http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Championship | 14:00 Blackburn Rovers vs. Preston North End" tvg-logo="https://seeklogo.com/images/S/sky-bet-championship-logo-C4F6910987-seeklogo.com.png" group-title="EVENTOS PPV",Championship | 14:00 Blackburn Rovers vs. Preston North End
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 07:00 WTA Dubai Duty Free Tennis Championships (Semifinal)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 07:00 WTA Dubai Duty Free Tennis Championships (Semifinal)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/179973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Queen - We Are The Champions - Final Live In Japan (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG4csxpqulkbpYPCGsdJ35n35qA.jpg" group-title="VOD-CONCIERTOS",Queen - We Are The Champions - Final Live In Japan (1992)
 http://tv.zeuspro.xyz:8080/movie/Derkai/zAsnLNB8QY/41135.mkv
 #EXTINF:-1 cuid="1175" tvg-chno="1175" tvg-name="One Championship tv 🇧🇷🇺🇸" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Canales De Combates 🥊",One Championship tv 🇧🇷🇺🇸
@@ -63,7 +61,5 @@ http://127.0.0.1:6878/ace/getstream?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e&
 http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd&.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11", ML Campeones 13 SD  bdfe
 http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804&.mp4
-#EXTINF:-1 tvg-chno="121" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Players Championship (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Players Championship (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-chno="202" tvg-id="Live.Event.us" tvg-name="UEFA Women Champions League Manchester Utd W vs Atl Madrid W 2 FAWA (HD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",UEFA Women Champions League Manchester Utd W vs Atl Madrid W 2 FAWA (HD)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.Dummy.us" tvg-name="[England Championship] Blackburn Rovers vs Preston North End (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[England Championship] Blackburn Rovers vs Preston North End (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
