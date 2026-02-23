@@ -202,20 +202,14 @@ http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
 http://127.0.0.1:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&.mp4
 --
-#EXTINF:-1 tvg-chno="101" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Atlético Madrid vs Espanyol (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Atlético Madrid vs Espanyol (iSTRMEAST)
+#EXTINF:-1 tvg-chno="75" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Villarreal vs Valencia (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Villarreal vs Valencia (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 --
-#EXTINF:-1 tvg-chno="102" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Atletico Madrid vs Espanyol (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Atletico Madrid vs Espanyol (STRMBTW)
-#EXTVLCOPT:http-referrer=https://streambtw.live/iframe/ch6.php
+#EXTINF:-1 tvg-chno="294" tvg-id="Soccer.Dummy.us" tvg-name="[Spain La Liga] Villarreal vs Valencia (SPORT9)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spain La Liga] Villarreal vs Valencia (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
 --
-#EXTINF:-1 tvg-chno="103" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Osasuna vs Real Madrid (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Osasuna vs Real Madrid (STRMBTW)
-#EXTVLCOPT:http-referrer=https://streambtw.live/iframe/ch6.php
---
-#EXTINF:-1 tvg-chno="104" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Real Betis vs Rayo Vallecano (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Real Betis vs Rayo Vallecano (STRMBTW)
-#EXTVLCOPT:http-referrer=https://streambtw.live/iframe/ch6.php
---
-#EXTINF:-1 tvg-chno="105" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Real Sociedad vs Real Oviedo (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Real Sociedad vs Real Oviedo (STRMBTW)
-#EXTVLCOPT:http-referrer=https://streambtw.live/iframe/ch6.php
+#EXTINF:-1 tvg-chno="296" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Valencia vs Villarreal (STRMHUB)" tvg-logo="https://livesports4u.net/uploads/categories/1756216923_15.png" group-title="Live Events",[Spanish LALIGA] Valencia vs Villarreal (STRMHUB)
+#EXTVLCOPT:http-referrer=https://storytrench.net/
 --
 #EXTINF:-1, VIX LALIGA 🇲🇽
 http://45.68.35.218:4001/play/a01s/index.m3u8
@@ -250,6 +244,9 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 --
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
+--
+#EXTINF:-1 tvg-chno="312" tvg-id="Soccer.Dummy.us" tvg-name="Spanish LALIGA Valencia vs Villarreal STRMHUB (SD)" tvg-logo="https://livesports4u.net/uploads/categories/1756216923_15.png" group-title="Live Events",Spanish LALIGA Valencia vs Villarreal STRMHUB (SD)
+#EXTVLCOPT:http-referrer=https://storytrench.net/
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/51-copa-del-rey.png?q=75&w=50",02/05 Soccer 03:00pm Real Betis vs Atlético Madrid = SkySportsLaLiga (Z)
 http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/175721.m3u8
