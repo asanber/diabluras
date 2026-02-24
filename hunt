@@ -76,17 +76,5 @@ https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.ytimg.com/vi/981q4g1-ji8/maxresdefault.jpg",ช่อง Sportsman Channel
 https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 --
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/96e1330fe633950e029bc503cb5cf6e2.png",06h30 ngày 23/02 Los Angeles Lakers vs Boston Celtics [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
---
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/96e1330fe633950e029bc503cb5cf6e2.png",06h30 ngày 23/02 Los Angeles Lakers vs Boston Celtics [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
---
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/96e1330fe633950e029bc503cb5cf6e2.png",06h30 ngày 23/02 Los Angeles Lakers vs Boston Celtics [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
---
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260221/96e1330fe633950e029bc503cb5cf6e2.png",06h30 ngày 23/02 Los Angeles Lakers vs Boston Celtics [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
---
 #EXTINF:-1 tvg-id="Sportsman.Channel.us2" group-title="Thể Thao" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8

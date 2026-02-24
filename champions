@@ -55,5 +55,9 @@ http://127.0.0.1:6878/ace/getstream?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e&
 http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd&.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11", ML Campeones 13 SD  bdfe
 http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804&.mp4
-#EXTINF:-1 tvg-chno="290" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Players Championship (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker Players Championship (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="11" tvg-id="Live.Event.us" tvg-name="[CONCACAF Championship U20] Grenada U20 vs Saint Martin U20 (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[CONCACAF Championship U20] Grenada U20 vs Saint Martin U20 (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTINF:-1 tvg-chno="12" tvg-id="Live.Event.us" tvg-name="[CONCACAF Championship U20] Puerto Rico U20 vs St Kitts and Nevis U20 (SPORT9)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[CONCACAF Championship U20] Puerto Rico U20 vs St Kitts and Nevis U20 (SPORT9)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTINF:-1 tvg-id="Strongman.us@Germany" group-title="Thể Thao" tvg-logo="https://i.imgur.com/bVQBF6R.png",Strongman Champions League (720p) (deu2)  (German) (Sports) - 720P
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
