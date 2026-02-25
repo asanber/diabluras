@@ -6,3 +6,113 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA
+http://vlc.shickat.me:8000/pid/cd0188292b6b3876ff66c99bd3d25eab88b41079/stream.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA III
+http://vlc.shickat.me:8000/pid/877eceeaf9f3bd9b392359323d03d0ac3bb27312/stream.mp4
+--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA
+http://vlc.shickat.me:8000/pid/cd0188292b6b3876ff66c99bd3d25eab88b41079/stream.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA III
+http://vlc.shickat.me:8000/pid/877eceeaf9f3bd9b392359323d03d0ac3bb27312/stream.mp4
+--
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="NBA: Toronto Raptors" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1200px-Toronto_Raptors_logo.svg.png" group-title="USA NBA TEAMS",NBA: Toronto Raptors
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/57056
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLS: TORONTO FC" tvg-logo="" group-title="USA MLS TEAMS live events only",MLS: TORONTO FC
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/94176
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB: TORONTO BLUEJAYS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Toronto_Blue_Jays_cap.svg/1024px-Toronto_Blue_Jays_cap.svg.png" group-title="USA MLB Teams",MLB: TORONTO BLUEJAYS
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83797
+--
+#EXTINF:-1 tvg-id="" tvg-name="NHL: TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA NHL Teams",NHL: TORONTO MAPLE LEAFS
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60417
+--
+#EXTINF:-1 tvg-id="" tvg-name="MLB-T2 Toronto Blue Jays" tvg-logo="" group-title="USA MLB T2",MLB-T2 Toronto Blue Jays
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123104
+--
+#EXTINF:-1 tvg-id="cbcatlantic.ca" tvg-name="CA: CBC toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/240px-Current_logo_for_CBC_Television.png" group-title="Canada HD",CA: CBC toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5202
+--
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA: CITY TV EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/220px-Citytv_logo.svg.png" group-title="Canada HD",CA: CITY TV EAST
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5208
+--
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA: CTV TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/200px-CTV_2_2018.svg.png" group-title="Canada HD",CA: CTV TORONTO
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5217
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL NEWS TORONTO" tvg-logo="" group-title="Canada HD",CA: GLOBAL NEWS TORONTO
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/67738
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA] PWHL: Montreal vs. Toronto (2026-03-03 18:58:00)" tvg-logo="" group-title="AMZ CA LIVE EVENTS (search date)",CA] PWHL: Montreal vs. Toronto (2026-03-03 18:58:00)
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/131529
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: TOROS TV HD 720P" tvg-logo="" group-title="Spanish HD",SP: TOROS TV HD 720P
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46823
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="World Sports",ES: Toros TV
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47477
+--
+#EXTINF:-1 tvg-id="" tvg-name="SP: EL TORO TV HD 720P" tvg-logo="" group-title="Spanish HD",SP: EL TORO TV HD 720P
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46839
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: El Toro TV" tvg-logo="" group-title="Spain Local",Sp_tvup: El Toro TV
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114872
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD CBC Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD CBC Toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112735
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD CTV Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD CTV Toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112927
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD Global Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Global Toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113044
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA-HD Citytv Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Citytv Toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113051
+--
+#EXTINF:-1 tvg-id="" tvg-name="CANa Citytv Toronto" tvg-logo="" group-title="Canada FHD",CANa Citytv Toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114140
+--
+#EXTINF:-1 tvg-id="" tvg-name="CANa Global Toronto" tvg-logo="" group-title="Canada FHD",CANa Global Toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114162
+#EXTINF:-1 tvg-id="" tvg-name="CANa Global News Toronto" tvg-logo="" group-title="Canada FHD",CANa Global News Toronto
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114163
+--
+#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg- nombre="El Toro TV",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg- nombre="El Toro TV",El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO. png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="Mundotoro TV Spain" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Mundotoro TV Spain
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
+https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
+--
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
+https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
+--
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
+https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
+--
+#EXTINF:-1 tvg-chno="50" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees @ Toronto Blue Jays (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees @ Toronto Blue Jays (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+--
+#EXTINF:-1 tvg-chno="50" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB New York Yankees  Toronto Blue Jays TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB New York Yankees  Toronto Blue Jays TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+--
+#EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2" tvg-logo="https://i.ibb.co/XxQhJJFR/CTV2.png" group-title="CA Channels",CTV 2
+https://a1xs.vip/610003
