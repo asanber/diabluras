@@ -49,6 +49,9 @@ https://jmp2.uk/stvp-US1000004YJ
 #EXTINF:-1 tvg-id="PremierSportsRugby"group-title="🎎|Selection Sport|🎎"tvg-logo="",Premier Sports Rugby
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
 --
+#EXTINF:-1 tvg-chno="81" tvg-id="Live.Event.us" tvg-name="[France Rugby Pro D2] Angouleme vs Valence Romans (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[France Rugby Pro D2] Angouleme vs Valence Romans (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+--
 #EXTINF:-1 tvg-id="PremierSportsRugby"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",Premier Sports Rugby (SD)
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
 --

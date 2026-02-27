@@ -194,6 +194,12 @@ https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
 #EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
 http://watchindia.net:8880/live/65138/11733/2096.ts
 --
+#EXTINF:-1 tvg-id="XUMO_99951462"tvg-logo="https://image.xumo.com/v1/channels/channel/99951462/300x300.webp?type=color_onBlack"group-title="🎎|Selection Sport|🎎",GOLFPASS
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951462/hls/master.m3u8?ads.xumo_channelId=99951462&ads.asnw=535279&ads.afid=440667964&ads.sfid=23817285&ads.csid=xumo_[PLATFORM]_versantgolfpass_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumoplay&ads.xumo_contentId=4292&ads.xumo_contentName=VersantGOLFPASS&ads.xumo_providerId=4292&ads.xumo_providerName=VersantGOLFPASS&ads.channelId=99951462&ads._fw_ifa_type=[IFA_TYPE]
+--
+#EXTINF:-1 channel-id="USBB400000145"tvg-id="USBB400000145"tvg-chno="2438"tvg-name="GolfPass"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20251209T005933SQUARE.png"group-title="🎎|Selection Sport|🎎",GolfPass
+https://jmp2.uk/stvp-USBB400000145
+--
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Golf
 https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
 --
@@ -202,12 +208,6 @@ https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
 http://watchindia.net:8880/live/65138/11733/2096.ts
---
-#EXTINF:-1 tvg-id="XUMO_99951462"tvg-logo="https://image.xumo.com/v1/channels/channel/99951462/300x300.webp?type=color_onBlack"group-title="🎎|Selection Sport|🎎",GOLFPASS
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951462/hls/master.m3u8?ads.xumo_channelId=99951462&ads.asnw=535279&ads.afid=440667964&ads.sfid=23817285&ads.csid=xumo_[PLATFORM]_versantgolfpass_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumoplay&ads.xumo_contentId=4292&ads.xumo_contentName=VersantGOLFPASS&ads.xumo_providerId=4292&ads.xumo_providerName=VersantGOLFPASS&ads.channelId=99951462&ads._fw_ifa_type=[IFA_TYPE]
---
-#EXTINF:-1 channel-id="USBB400000145"tvg-id="USBB400000145"tvg-chno="2438"tvg-name="GolfPass"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20251209T005933SQUARE.png"group-title="🎎|Selection Sport|🎎",GolfPass
-https://jmp2.uk/stvp-USBB400000145
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
 http://watchindia.net:8880/live/65138/11733/2096.ts
@@ -226,6 +226,9 @@ https://7pal.short.gy/ssportsgf
 --
 #EXTINF:-1 tvg-name="Sky Sports Golf FHD"tvg-id="SkySp.Golf.HD.uk"tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png"group-title="🎎|Selection Sport|🎎"radio="false",SKY SPORTS GOLF
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
+--
+#EXTINF:-1 tvg-chno="82" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA The Genesis Invitational (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA The Genesis Invitational (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 --
 #EXTINF:-1 tvg-id=""tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png"group-title="🎯🔔|Selection Sport|🔔🎯",ASTRO GOLF
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34613
@@ -246,7 +249,10 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
 #EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" group-title="Thể Thao" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",30A Golf Kingdom (eng1)  (English) (Sports)
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 --
-#EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/Lgux6Ik.png",Golf Channel (1080p) [Not 24/7] (eng4)  (English) (Sports) - 1080P - 1080P
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
+--
+#EXTINF:-1 tvg-id="GolfChannel.us@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/Lgux6Ik.png",Golf Channel (1080p) [Not 24/7] (eng4)  (English) (Sports) - 1080P - 1080P - 1080P
 https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png",Golf Channel Latin America (spa3)  (Spanish) (Sports)
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8

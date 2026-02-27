@@ -77,39 +77,11 @@ http://202.169.224.202:8800/udp/239.9.1.9:1234
 http://202.169.224.202:8800/udp/239.9.1.10:1234
 #EXTINF:-1 tvg-id="Champions.TV.3.id"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg"group-title="🎎|Selection Sport|🎎",CHAMPIONS TV 3 (UDP)
 http://202.169.224.202:8800/udp/239.9.1.11:1234
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="[Championship] Stoke City vs Oxford United (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[Championship] Stoke City vs Oxford United (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Stoke City vs Oxford United 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[English Championship] Stoke City vs Oxford United 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-chno="223" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Juventus vs Galatasaray (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[UEFA Champions League] Juventus vs Galatasaray (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-chno="227" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] PSG vs AS Monaco HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[UEFA Champions League] PSG vs AS Monaco HD (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-chno="228" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Paris Saint-Germain vs AS Monaco (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[UEFA Champions League] Paris Saint-Germain vs AS Monaco (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-chno="229" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Real Madrid vs Benfica (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[UEFA Champions League] Real Madrid vs Benfica (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-chno="230" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Real Madrid vs Benfica HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[UEFA Champions League] Real Madrid vs Benfica HD (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-chno="231" tvg-id="Soccer.Dummy.us" tvg-name="[Uefa Champions League] Juventus - Galatasaray (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[Uefa Champions League] Juventus - Galatasaray (EMBEDHD)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTINF:-1 tvg-chno="232" tvg-id="Soccer.Dummy.us" tvg-name="[Uefa Champions League] Paris Saint-Germain - AS Monaco (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[Uefa Champions League] Paris Saint-Germain - AS Monaco (EMBEDHD)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTINF:-1 tvg-chno="233" tvg-id="Soccer.Dummy.us" tvg-name="[Uefa Champions League] Real Madrid - Benfica (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png" group-title="Live Events",[Uefa Champions League] Real Madrid - Benfica (EMBEDHD)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTINF:-1 channel-id="US2600006VY"tvg-id="US2600006VY"tvg-chno="2352"tvg-name="One Championship TV (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",One Championship TV (SD)
 https://jmp2.uk/stvp-US2600006VY
 #EXTINF:-1 tvg-id="XUMO_99951180"tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",Strongman Champions League (SD)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951180/hls/playlist.m3u8?ads.xumo_channelId=99951180&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=RightsBoosterStrongmanChamp&ads.csid=xumo_[PLATFORM]_RightsBoosterStrongmanChamp_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3808&ads.xumo_contentName=RightsBoosterStrongmanChamp&ads.xumo_providerId=3808&ads.xumo_providerName=RightsBoosterStrongmanChamp&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951180&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:-1 tvg-chno="263" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League AS Monaco vs Paris SaintGermain STRMHUB (SD)" tvg-logo="https://livesports4u.net/uploads/categories/1756217385_2.png" group-title="Live Events",UEFA Champions League AS Monaco vs Paris SaintGermain STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTINF:-1 tvg-chno="267" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Benfica vs Real Madrid STRMHUB (SD)" tvg-logo="https://livesports4u.net/uploads/categories/1756217385_2.png" group-title="Live Events",UEFA Champions League Benfica vs Real Madrid STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTINF:-1 tvg-chno="269" tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Galatasaray vs Juventus STRMHUB (SD)" tvg-logo="https://livesports4u.net/uploads/categories/1756217385_2.png" group-title="Live Events",UEFA Champions League Galatasaray vs Juventus STRMHUB (SD)
-#EXTVLCOPT:http-referrer=https://storytrench.net/
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Predator WPA Teams 10-Ball World Championship 2026] Team Japan vs Team Poland lúc 06:24 ngày 26/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Predator WPA Teams 10-Ball World Championship 2026] Team Việt Nam vs TEAM Great Britain lúc 06:24 ngày 26/02/2026 [HLS]
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Predator WPA Teams 10-Ball World Championship 2026] Team Indonesia vs Team Việt Nam lúc 06:23 ngày 27/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Strongman.us@Germany" group-title="Thể Thao" tvg-logo="https://i.imgur.com/bVQBF6R.png",Strongman Champions League (720p) (deu2)  (German) (Sports) - 720P
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
