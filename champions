@@ -77,10 +77,6 @@ http://202.169.224.202:8800/udp/239.9.1.9:1234
 http://202.169.224.202:8800/udp/239.9.1.10:1234
 #EXTINF:-1 tvg-id="Champions.TV.3.id"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg"group-title="🎎|Selection Sport|🎎",CHAMPIONS TV 3 (UDP)
 http://202.169.224.202:8800/udp/239.9.1.11:1234
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.Dummy.us" tvg-name="[English Championship] Bristol City vs Watford 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",[English Championship] Bristol City vs Watford 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.Dummy.us" tvg-name="English Championship Bristol City vs Watford 2 FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Live Events",English Championship Bristol City vs Watford 2 FAWA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTINF:-1 channel-id="US2600006VY"tvg-id="US2600006VY"tvg-chno="2352"tvg-name="One Championship TV (SD)"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png"group-title="🎯🔔|Selection Sport|🔔🎯",One Championship TV (SD)
 https://jmp2.uk/stvp-US2600006VY
 #EXTINF:-1 tvg-id="XUMO_99951180"tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",Strongman Champions League (SD)

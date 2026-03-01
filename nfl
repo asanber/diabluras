@@ -202,9 +202,6 @@ https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://logos-world.net/wp-content/uploads/2025/05/Most-Famous-Media-TV-Brands-and-Logos-in-the-USA.png",ช่อง NFL RedZone
 https://tvpass.org/live/NFLRedZone/hd
 --
-#EXTINF:-1 tvg-name="NFL Channel"tvg-logo="https://images.iptvmate.net/tvglogo/0c2b0b5407e7e6a7d1adeeea840f2feb.png"group-title="🎎|Selection Sport|🎎",NFL Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
---
 #EXTINF:-1 tvg-id="nflnetwork.us"tvg-name="NFL Network"tvg-logo="http://watchindia.net/images/channels/usa/NFL_Network.png"group-title="🎎|Selection Sport|🎎",NFL Network
 http://watchindia.net:8880/live/65138/11733/2165.ts
 #EXTINF:-1 tvg-id="nflredzone.us"tvg-name="NFL RedZone"tvg-logo="https://watchindia.net/images/channels/usa/NFL_RedZone.png"group-title="🎎|Selection Sport|🎎",NFL RedZone
@@ -232,6 +229,15 @@ https://tvpass.org/live/NFLNetwork/sd
 #EXTINF:-1 tvg-id="nfl-redzone"tvg-name="NFL RedZone"group-title="🎎|Selection Sport|🎎",NFL RedZone
 https://tvpass.org/live/NFLRedZone/sd
 --
+#EXTINF:-1 tvg-name="NFL Channel"tvg-logo="https://images.iptvmate.net/tvglogo/0c2b0b5407e7e6a7d1adeeea840f2feb.png"group-title="🎎|Selection Sport|🎎",NFL Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+--
+#EXTINF:-1 tvg-id=""tvg-name="El Conflecto"tvg-logo="https://images.iptvmate.net/tvglogo/ed2a863d199f6abf0fd4e4a917ddd91c.png"group-title="🎎|Selection Sport|🎎",El Conflecto
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+--
+#EXTINF:-1 tvg-name="NFL Channel"tvg-logo="https://images.iptvmate.net/tvglogo/0c2b0b5407e7e6a7d1adeeea840f2feb.png"group-title="🎎|Selection Sport|🎎",NFL Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+--
 #EXTINF:-1 tvg-id="nflnetwork.us"tvg-name="NFL Network"tvg-logo="http://watchindia.net/images/channels/usa/NFL_Network.png"group-title="🎎|Selection Sport|🎎",NFL Network
 http://watchindia.net:8880/live/65138/11733/2165.ts
 #EXTINF:-1 tvg-id="nflredzone.us"tvg-name="NFL RedZone"tvg-logo="https://watchindia.net/images/channels/usa/NFL_RedZone.png"group-title="🎎|Selection Sport|🎎",NFL RedZone
@@ -239,12 +245,6 @@ http://watchindia.net:8880/live/65138/11733/2160.ts
 --
 #EXTINF:-1 tvg-id=""tvg-name="Vadhiyar (2012)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuSjTpCzc66nfLViJlHOh3eAQDO.jpg"group-title="🎎|Selection Sport|🎎",Vadhiyar (2012)
 http://watchindia.net:8880/movie/65138/11733/1652.mkv
---
-#EXTINF:-1 tvg-id=""tvg-name="El Conflecto"tvg-logo="https://images.iptvmate.net/tvglogo/ed2a863d199f6abf0fd4e4a917ddd91c.png"group-title="🎎|Selection Sport|🎎",El Conflecto
-https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
---
-#EXTINF:-1 tvg-name="NFL Channel"tvg-logo="https://images.iptvmate.net/tvglogo/0c2b0b5407e7e6a7d1adeeea840f2feb.png"group-title="🎎|Selection Sport|🎎",NFL Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 --
 #EXTINF:-1 tvg-id="XUMO_99991738"tvg-logo="https://image.xumo.com/v1/channels/channel/99991738/300x300.webp?type=color_onBlack"group-title="🎎|Selection Sport|🎎",NFL Channel
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=[PLATFORM_CHILD]&usprivacy=[CCPA_Value]&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=[IFA]&tmsid=121705&palnonce=&rdid=[IFA]&islat=[IS_LAT]&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=[content_title]
@@ -261,6 +261,9 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyPYisdMY6FKYSoL0-SG5N-Q/.
 #EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png"group-title="🎎|Selection Sport|🎎",NFL REDZONE (PIXEL)
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyIjuPSfdEtru4SRomrzH_7I/.m3u8
 --
+#EXTINF:-1 tvg-chno="288" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NFL] 2026 NFL Combine (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NFL] 2026 NFL Combine (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+--
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Nfl-Logo-PNG-Transparent.png"group-title="🎯🔔|Selection Sport|🔔🎯",NFL (SD)
 http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 #EXTINF:-1 tvg-id="XUMO_99991738"tvg-logo="https://image.xumo.com/v1/channels/channel/99991738/300x300.webp?type=color_onBlack"group-title="🎯🔔|Selection Sport|🔔🎯",NFL Channel (SD)
@@ -273,8 +276,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyPYisdMY6FKYSoL0-SG5N-Q/.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png"group-title="🎯🔔|Selection Sport|🔔🎯",NFL REDZONE PIXEL
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyIjuPSfdEtru4SRomrzH_7I/.m3u8
-#EXTINF:-1 tvg-id="nfl-redzone"tvg-name="NFL RedZone (SD)"group-title="🎯🔔|Selection Sport|🔔🎯",NFL RedZone (SD)
-https://tvpass.org/live/NFLRedZone/sd
 --
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/vxNysPCG/NFL-Network.png" group-title="US Sports",NFL Network
 https://a1xs.vip/40000032
