@@ -108,11 +108,8 @@ https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
 https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 --
-#EXTINF:-1 tvg-chno="158" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New York Knicks @ Toronto Raptors (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] New York Knicks @ Toronto Raptors (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
---
-#EXTINF:-1 tvg-chno="158" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA New York Knicks  Toronto Raptors TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA New York Knicks  Toronto Raptors TVAPP (SD)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTINF:-1 tvg-chno="284" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Toronto Maple Leafs @ New Jersey Devils (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Toronto Maple Leafs @ New Jersey Devils (VOLOKIT)
+#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/toronto-maple-leafs-at-new-jersey-devils-home/
 --
 #EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2" tvg-logo="https://i.ibb.co/XxQhJJFR/CTV2.png" group-title="CA Channels",CTV 2
 https://a1xs.vip/610003

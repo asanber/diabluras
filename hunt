@@ -49,7 +49,10 @@ http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="AL Huntsville FOX WZDX" tvg-logo="https://cdn.diablo.ltd/logos/SCGreenvilleFOXUS.png" group-title="USA Locals",AL Huntsville FOX WZDX
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101362
 --
-#EXTINF:-1 tvg-id="" tvg-name="abc31 (WAAY) Huntsville" tvg-logo="" group-title="USA Locals",abc31 (WAAY) Huntsville
+#EXTINF:-1 tvg-id="" tvg-name="AL Huntsville CBS WHNT" tvg-logo="" group-title="USA Locals",AL Huntsville CBS WHNT
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101773
+--
+#EXTINF:-1 tvg-id="" tvg-name="AL Huntsville abc31 WAAY" tvg-logo="" group-title="USA Locals",AL Huntsville abc31 WAAY
 http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101855
 --
 #EXTINF:-1 tvg-id="" tvg-name="GS-Locals Huntsville, AL WAAY ABC 31 HD" tvg-logo="" group-title="USA LOCALS dtv",GS-Locals Huntsville, AL WAAY ABC 31 HD
@@ -83,4 +86,7 @@ https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 --
 #EXTINF:-1 tvg-chno="136"tvg-id="Sportsman.Channel.us2"tvg-name="Sportsman Channel (HD)"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png"group-title="🎯🔔|Selection Sport|🔔🎯",Sportsman Channel (HD)
+http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
+--
+#EXTINF:-1 tvg-id="Sportsman.Channel.us2" group-title="Thể Thao" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
