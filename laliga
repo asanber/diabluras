@@ -405,40 +405,20 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/
 #EXTINF:-1 tvg-logo=""group-title="🎎|Selection Sport|🎎",SKY La Liga
 http://45.90.106.85:9090/281171_.m3u8
 --
-#EXTINF:-1 tvg-chno="121" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Celta Vigo vs Real Madrid (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Celta Vigo vs Real Madrid (iSTRMEAST)
+#EXTINF:-1 tvg-chno="124" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Athletic Club vs Barcelona (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Athletic Club vs Barcelona (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 --
-#EXTINF:-1 tvg-chno="359" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Real Madrid vs Celta Vigo (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish LALIGA] Real Madrid vs Celta Vigo (STRMSGATE)
-#EXTVLCOPT:http-referrer=https://instreams.click/
+#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Athletic Club vs Barcelona (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Athletic Club vs Barcelona (STRMBTW)
+#EXTVLCOPT:http-referrer=https://streambtw.com/iframe/ch6.php
 --
-#EXTINF:-1 tvg-chno="360" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Celta Vigo vs Real Madrid (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Celta Vigo vs Real Madrid (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="126" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Atlético Madrid vs Real Sociedad (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Atlético Madrid vs Real Sociedad (STRMBTW)
+#EXTVLCOPT:http-referrer=https://streambtw.com/iframe/ch6.php
 --
-#EXTINF:-1 tvg-chno="361" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Celta Vigo vs Real Madrid 2 HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Celta Vigo vs Real Madrid 2 HD (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="127" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Levante vs Girona (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Levante vs Girona (STRMBTW)
+#EXTVLCOPT:http-referrer=https://streambtw.com/iframe/ch6.php
 --
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Celta de Vigo vs Real Madrid (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",[Laliga] Celta de Vigo vs Real Madrid (STRMBTW)
-https://play.streameast.asia/playlist/stream_6.m3u8?md5=vfs-tK8ZEjWU6JB3XxHpwg&expires=1772838975|referer=https://streambtw.live/|origin=https://streambtw.live|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/122.0.0.0%20Safari/537.36
---
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Celta Vigo vs Real Madrid (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish LALIGA] Celta Vigo vs Real Madrid (STGATE)
-https://instreams.live/US/NFLHD4/index.m3u8?st=Uy_vgoXOy_m2TVU6w_gbGA&e=1772847376|referer=https://instreams.click/|origin=https://instreams.click/|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A146.0%29%20Gecko/20100101%20Firefox/146.0
---
-#EXTINF:-1 tvg-chno="99" tvg-id="Soccer.Dummy.us" tvg-name="[La Liga] Real Madrid vs Celta de Vigo (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[La Liga] Real Madrid vs Celta de Vigo (CDNTV)
-https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=a702a67d1556f6a67614cd9c530aa5b4895dbd6bef7674ff122df0b73144510b.1772825456.d456791f3c039a2e6aa6929870b16867.b9ce527590bdbe67b4ff56d120c2bdb8.17d98d1fd1e52bb8f65470bf8499640b&signature=6461f73577acfee4434d41fd245de7d694d6249d3152181164bd1ca7b6efabb6|referer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free|origin=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
-#EXTINF:-1 tvg-chno="100" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Celta Vigo vs Real Madrid (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[LaLiga] Celta Vigo vs Real Madrid (iSTRMEAST)
-https://red7.astrovortex.space/playlist/46446/load-playlist|referer=https://gooz.aapmains.net|origin=https://gooz.aapmains.net|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
---
-#EXTINF:-1 tvg-chno="328" tvg-id="Soccer.Dummy.us" tvg-name="[Spain La Liga] Celta de Vigo vs Real Madrid (SPRTZONE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spain La Liga] Celta de Vigo vs Real Madrid (SPRTZONE)
-https://n12.sanwalyaarpya.com:1686/hls/do6.m3u8?md5=qdsA1R2YuYlyJZ6BMGdihA&expires=1772839847|referer=https://vividmosaica.com/|origin=https://vividmosaica.com/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
---
-#EXTINF:-1 tvg-chno="330" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Celta Vigo vs Real Madrid (WATCHFTY)" tvg-logo="https://api.watchfooty.st/api/v1/poster/4467381" group-title="Live Events",[Spanish LALIGA] Celta Vigo vs Real Madrid (WATCHFTY)
-https://king.spider-on.top/playlist/prime/celta-vigo-real-madrid/3/4467381/playlist.m3u8?hash=9375e44bc78ac37079458fd76d958043|referer=https://spiderembed.top/embed/4467381/celta-vigo-real-madrid/prime/3|origin=https://spiderembed.top/embed/4467381/celta-vigo-real-madrid/prime/3|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
-#EXTINF:-1 tvg-chno="331" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Real Madrid vs Celta Vigo (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish LALIGA] Real Madrid vs Celta Vigo (STRMSGATE)
-https://instreams.live/US/NFLHD4/index.m3u8?st=hGTSHSLKQcDTuEAxkLinjA|referer=https://instreams.click/|origin=https://instreams.click/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
-#EXTINF:-1 tvg-chno="332" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Celta Vigo vs Real Madrid 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Celta Vigo vs Real Madrid 1 (FAWA)
-http://195.178.110.2/hls/KOKOKOQQQQ.m3u8|referer=http://www.fawanews.sc/|origin=http://www.fawanews.sc/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
-#EXTINF:-1 tvg-chno="333" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish La Liga] Celta Vigo vs Real Madrid 2 HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish La Liga] Celta Vigo vs Real Madrid 2 HD (FAWA)
-https://guabo01.xlyouxuan.com/live/1dc83c60adb90f0.m3u8|referer=http://www.fawanews.sc/|origin=http://www.fawanews.sc/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
+#EXTINF:-1 tvg-chno="128" tvg-id="Soccer.Dummy.us" tvg-name="[Laliga] Osasuna vs Mallorca (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Laliga] Osasuna vs Mallorca (STRMBTW)
+#EXTVLCOPT:http-referrer=https://streambtw.com/iframe/ch6.php
 --
 #EXTINF:-1, VIX LALIGA 🇲🇽
 http://45.68.35.218:4001/play/a01s/index.m3u8
@@ -487,15 +467,17 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/
 #EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",SKY La Liga (HD)
 http://45.90.106.85:9090/281171_.m3u8
 --
+#EXTINF:-1 tvg-chno="520" tvg-id="Soccer.Dummy.us" tvg-name="Spanish LALIGA Barcelona vs Athletic Club STRMHUB (SD)" tvg-logo="https://streamhub.pro/uploads/categories/1756216923_15.png" group-title="Live Events",Spanish LALIGA Barcelona vs Athletic Club STRMHUB (SD)
+#EXTVLCOPT:http-referrer=https://storytrench.net/
+--
+#EXTINF:-1 tvg-chno="524" tvg-id="Soccer.Dummy.us" tvg-name="Spanish La Liga Athletic Bilbao vs FC Barcelona HD FAWA" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",Spanish La Liga Athletic Bilbao vs FC Barcelona HD FAWA
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+--
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://45.5.117.57:8200/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://179.60.224.196:8000/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
+http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
+http://167.250.223.26:8085/play/a00d/index.m3u8

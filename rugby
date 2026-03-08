@@ -49,23 +49,8 @@ https://jmp2.uk/stvp-US1000004YJ
 #EXTINF:-1 tvg-id="PremierSportsRugby"group-title="🎎|Selection Sport|🎎"tvg-logo="",Premier Sports Rugby
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
 --
-#EXTINF:-1 tvg-chno="47" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Leigh vs Catalans Dragons (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[English Rugby Super League] Leigh vs Catalans Dragons (FAWA)
+#EXTINF:-1 tvg-chno="82" tvg-id="Live.Event.us" tvg-name="[European Rugby Champions Cup] Rugby SVNS Canada (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[European Rugby Champions Cup] Rugby SVNS Canada (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
---
-#EXTINF:-1 tvg-chno="332" tvg-id="Live.Event.us" tvg-name="[Rugby Six Nations] Ireland vs Wales (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Rugby Six Nations] Ireland vs Wales (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
---
-#EXTINF:-1 tvg-chno="38" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Leigh vs Catalans Dragons (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[English Rugby Super League] Leigh vs Catalans Dragons (FAWA)
-http://195.178.110.37/hls/ZAZAZAQ.m3u8|referer=http://www.fawanews.sc/|origin=http://www.fawanews.sc/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
-#EXTINF:-1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] York RLFC vs Warrington (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[English Rugby Super League] York RLFC vs Warrington (FAWA)
-http://195.178.110.37/hls/HEEEQQQQ.m3u8|referer=http://www.fawanews.sc/|origin=http://www.fawanews.sc/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
---
-#EXTINF:-1 tvg-chno="308" tvg-id="Live.Event.us" tvg-name="[RUGBY] Ireland vs Wales (TOTALSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[RUGBY] Ireland vs Wales (TOTALSPRTK3)
-https://test.testdsaagain.site/simpch26/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyNiIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3MjgyNzI1NiwicmFuZCI6IjhkMWU5NmY2OTcyNmEyZGQifQ.969df77d539c75a68e8b0de22f4ecd27d0181e47d1d3bdab9a9a2c1dea899aaa|referer=https://live3.totalsportekarmy.com/Ireland-vs-Wales/58488|origin=https://live3.totalsportekarmy.com/Ireland-vs-Wales/58488|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
-#EXTINF:-1 tvg-chno="309" tvg-id="Live.Event.us" tvg-name="[Rugby Six Nations] Ireland vs Wales (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Rugby Six Nations] Ireland vs Wales (FAWA)
-http://195.178.110.37/hls/ZAZAZAQQQQ.m3u8|referer=http://www.fawanews.sc/|origin=http://www.fawanews.sc/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
-#EXTINF:-1 tvg-chno="310" tvg-id="Live.Event.us" tvg-name="[Rugby Six Nations] Italy U20 vs England U20 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Rugby Six Nations] Italy U20 vs England U20 (FAWA)
-http://195.178.110.37/hls/CKKKQQQQ.m3u8|referer=http://www.fawanews.sc/|origin=http://www.fawanews.sc/|user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
 --
 #EXTINF:-1 tvg-id="PremierSportsRugby"group-title="🎯🔔|Selection Sport|🔔🎯"tvg-logo="",Premier Sports Rugby (SD)
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
