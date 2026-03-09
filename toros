@@ -44,6 +44,9 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 #EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL NEWS TORONTO" tvg-logo="" group-title="Canada HD",CA: GLOBAL NEWS TORONTO
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/67738
 --
+#EXTINF:-1 tvg-id="" tvg-name="CAFR: ICI TELE TORONTO HD" tvg-logo="" group-title="Canada French",CAFR: ICI TELE TORONTO HD
+http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132330
+--
 #EXTINF:-1 tvg-id="" tvg-name="SP: TOROS TV HD 720P" tvg-logo="" group-title="Spanish HD",SP: TOROS TV HD 720P
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46823
 --
@@ -105,23 +108,56 @@ https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
 https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 --
-#EXTINF:-1 tvg-chno="268" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ Philadelphia Phillies (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Philadelphia Phillies (TVAPP)
+#EXTINF:-1 tvg-chno="21" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Dallas Mavericks at Toronto Raptors (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Dallas Mavericks at Toronto Raptors (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+--
+#EXTINF:-1 tvg-chno="158" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers @ Toronto Blue Jays (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Detroit Tigers @ Toronto Blue Jays (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 --
-#EXTINF:-1 tvg-chno="269" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ Philadelphia Phillies (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Philadelphia Phillies (VOLOKIT)
-#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/toronto-blue-jays-at-philadelphia-phillies-home/
+#EXTINF:-1 tvg-chno="159" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers @ Toronto Blue Jays (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Detroit Tigers @ Toronto Blue Jays (VOLOKIT)
+#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/detroit-tigers-at-toronto-blue-jays-home/
 --
-#EXTINF:-1 tvg-chno="439" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Tampa Bay Lightning @ Toronto Maple Leafs (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Tampa Bay Lightning @ Toronto Maple Leafs (TVAPP)
+#EXTINF:-1 tvg-chno="222" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ Baltimore Orioles (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Baltimore Orioles (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 --
-#EXTINF:-1 tvg-chno="440" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Tampa Bay Lightning @ Toronto Maple Leafs (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Tampa Bay Lightning @ Toronto Maple Leafs (VOLOKIT)
-#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/tampa-bay-lightning-at-toronto-maple-leafs-home/
+#EXTINF:-1 tvg-chno="223" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ Bimore Orioles (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Bimore Orioles (VOLOKIT)
+#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/toronto-blue-jays-at-baltimore-orioles-home/
 --
-#EXTINF:-1 tvg-chno="307" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)
+#EXTINF:-1 tvg-chno="263" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Toronto Raptors vs Dallas Mavericks 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Toronto Raptors vs Dallas Mavericks 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+--
+#EXTINF:-1 tvg-chno="279" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Dallas Mavericks @ Toronto Raptors (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Dallas Mavericks @ Toronto Raptors (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 --
-#EXTINF:-1 tvg-chno="438" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Tampa Bay Lightning  Toronto Maple Leafs TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Tampa Bay Lightning  Toronto Maple Leafs TVAPP (SD)
+#EXTINF:-1 tvg-chno="283" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Dallas Mavericks vs Toronto Raptors (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Dallas Mavericks vs Toronto Raptors (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+--
+#EXTINF:-1 tvg-chno="284" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Dallas Mavericks vs Toronto Raptors (SPRTZONE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Dallas Mavericks vs Toronto Raptors (SPRTZONE)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+--
+#EXTINF:-1 tvg-chno="321" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors - Dallas Mavericks (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors - Dallas Mavericks (EMBEDHD)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+--
+#EXTINF:-1 tvg-chno="322" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors vs Dallas Mavericks (TOTALSPRTK1)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors vs Dallas Mavericks (TOTALSPRTK1)
+#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/Toronto-Raptors-vs-Dallas-Mavericks/64215
+--
+#EXTINF:-1 tvg-chno="324" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors vs Dallas Mavericks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors vs Dallas Mavericks (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+--
+#EXTINF:-1 tvg-chno="465" tvg-id="Live.Event.us" tvg-name="[USA/Canada Major League Soccer] Cincinnati vs Toronto FC (SPRTZONE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[USA/Canada Major League Soccer] Cincinnati vs Toronto FC (SPRTZONE)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+--
+#EXTINF:-1 tvg-chno="180" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Detroit Tigers  Toronto Blue Jays TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Detroit Tigers  Toronto Blue Jays TVAPP (SD)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
+--
+#EXTINF:-1 tvg-chno="251" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Toronto Blue Jays  Baltimore Orioles TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Toronto Blue Jays  Baltimore Orioles TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+--
+#EXTINF:-1 tvg-chno="304" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Dallas Mavericks  Toronto Raptors TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Dallas Mavericks  Toronto Raptors TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+--
+#EXTINF:-1 tvg-chno="308" tvg-id="NBA.Basketball.Dummy.us" tvg-name="NBA Dallas Mavericks vs Toronto Raptors ROXIE (HD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",NBA Dallas Mavericks vs Toronto Raptors ROXIE (HD)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
 --
 #EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2" tvg-logo="https://i.ibb.co/XxQhJJFR/CTV2.png" group-title="CA Channels",CTV 2
 https://a1xs.vip/610003
