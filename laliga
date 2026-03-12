@@ -185,3 +185,287 @@ http://vlc.shickat.me:8000/pid/73094658f0a3ed523c0e188de67a7a690c0d4f93/stream.m
 --
 #EXTINF:-1 tvg-id="360north.us" tvg-name="ES: BEIN EXTRA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/team_logos/bein-laliga_c.png" group-title="World Sports",ES: BEIN EXTRA
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/9769
+--
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga.png" group-title="SPAIN",DAZN LaLiga
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga-2.png" group-title="SPAIN",DAZN LaLiga 2
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laliga-tv-hypermotion.png" group-title="SPAIN",LALIGA TV Hypermotion
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laliga-smartbank.png" group-title="SPAIN",LaLiga SmartBank TV
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="UNITED KINGDOM",LaLigaTV UK
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="MovistarLaLiga(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-laliga.png" group-title="SPAIN",Movistar Laliga
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-laliga.png" group-title="SOUTH AFRICA",SuperSport LaLiga
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+--
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 720 NUEVO  8c8c
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 NUEVO MultiAudio  ec29
+http://192.168.1.90:8008/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&.mp4
+--
+#EXTINF:-1 grupo tvg-id="DAZN LALIGA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-laliga-1.png"- title="DAZN LaLiga" tvg-name="DAZN LaLiga 1080 multiaudio",DAZN LaLiga 1080 multiaudio
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a&.mp4
+#EXTINF:-1 grupo tvg-id="DAZN LALIGA 2" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-laliga-2.png" -title="DAZN LaLiga" tvg-name="DAZN LaLiga 2 1080",DAZN LaLiga 2 1080
+http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10&.mp4
+#EXTINF:-1 grupo tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-laliga-hypermotion-1.png" -title="LaLiga Hypermotion" tvg-name="LaLiga Hypermotion 1080 MultiAudio",LaLiga Hypermotion 1080 MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf&.mp4
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-laliga-hypermotion-2.png" group-title="LaLiga Hypermotion" tvg-name="LaLiga Hypermotion 2 1080",LaLiga Hypermotion 2 1080
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087&.mp4
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-laliga-hypermotion-3.png" group-title="LaLiga Hypermotion" tvg-name="LaLiga Hypermotion 3 1080",LaLiga Hypermotion 3 1080
+http://127.0.0.1:6878/ace/getstream?id=424c89c7c0f251051269b578f40d13d192cf2c2d&.mp4
+--
+#EXTINF:-1 grupo tvg-id="M+ LALIGA TV" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-1.png" -title="M. La Liga" tvg-name="M. La Liga 1080p",M. Liga 1080p
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280&.mp4
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-2.png" group-title="M. La Liga" tvg-name="M. LaLiga 2 1080",M. Liga 2 1080
+http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc&.mp4
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-3.png" group-title="M. La Liga" tvg-name="M. LaLiga 3 1080",M. Liga 3 1080
+http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929&.mp4
+#EXTINF:-1 tvg-id="M+ LALIGA TV 4" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-4.png" group-title="M. La Liga" tvg-name="M. LaLiga 4 1080",M. Liga 4 1080
+http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0&.mp4
+--
+#EXTINF:-1 canal-id="samsung-ESBD4700001T2" tvg-id="ESBD4700001T2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ ESBD4700001T2_20240313T073242SQUARE.png" tvg-chno="4501" group-title="Samsung TV" , La Liga Inside
+https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
+#EXTINF:-1 canal-id="samsung-ESBD3600001Q1" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ ESBD3600001Q1_20231213T103940SQUARE.png_20231213103940.png" tvg-chno="4502" group-title="Samsung TV" , La Liga
+https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
+--
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png " group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46529
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="ZAPEANDO MOVISTAR",ES : DAZN LALIGA
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46530
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES : LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS. png" group-title="ZAPEANDO MOVISTAR",ES : LALIGA TV HYPERMOTION
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46531
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="ES : M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ MLIG1.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV 2
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46532
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES : DAZN LALIGA 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2. png" group-title="ZAPEANDO MOVISTAR",ES : DAZN LALIGA 2
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46533
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES : LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ MLIGS2.png" group-title="ZAPEANDO MOVISTAR",ES : LALIGA TV HYPERMOTION 2
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46534
+--
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="ES : M+ LALIGA TV 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ MLIG2.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV 3
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46624
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : M+ LALIGA TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3. png" group-title="ZAPEANDO MOVISTAR",ES : M+ LALIGA TV 4
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46625
+--
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="ES : LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ MLIGS3.png" group-title="ZAPEANDO MOVISTAR",ES : LALIGA TV HYPERMOTION 3
+http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46627
+--
+#EXTINF:-1 cuid="1080" tvg-chno="1080" tvg-name="La liga Inside 🇪🇸" tvg-id="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",La liga Inside 🇪🇸
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+--
+#EXTINF:-1 cuid="1081" tvg-chno="1081" tvg-name="La Liga tv 🇪🇸" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg" group-title="Streaming Deportivo Gratuito 🏀⚾🏈",La Liga tv 🇪🇸
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+--
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://45.5.117.57:8200/play/a050/index.m3u8
+--
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+--
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://167.250.223.26:8085/play/a00d/index.m3u8
+--
+#EXTINF:-1, S LALIGA 🇿🇦
+https://xfireflix.my.id/Op.m3u8/?id=238479&e=.m3u8
+--
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+--
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
+--
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://181.78.109.48:9998/play/a06r/index.m3u8
+--
+#EXTINF:-1,La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",LALIGA TV Hypermotion
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",LaLiga SmartBank TV
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",LaLigaTV UK
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Movistar Laliga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="DAZN LaLiga" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="DAZN LaLiga 2" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="LaLiga SmartBank TV" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", LaLiga SmartBank TV
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="Movistar Laliga" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", Movistar Laliga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport LaLiga" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="LaLigaTV UK" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", LaLigaTV UK
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 tvg-id="unknown" tvg-name="LALIGA TV Hypermotion" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", LALIGA TV Hypermotion
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+--
+#EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Dazn Sport",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+--
+#EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Dazn Sport",DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+--
+#EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Movistar",Movistar Laliga
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+--
+#EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Supersport",SS LaLiga
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+--
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  94d3
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  d3de
+http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  6d05
+http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 720  1bc4
+http://127.0.0.1:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 1080  83c6
+http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 720  f31a
+http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 1080  ebe1
+http://127.0.0.1:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 720  8356
+http://127.0.0.1:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3", M+ LaLiga 4 1080  6869
+http://127.0.0.1:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  608b
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  94d3
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  110d
+http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  ec29
+http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  6de4
+http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 720  8c8c
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 1080 MultiAudio  97ba
+http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 720 MultiAudio  51db
+http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&.mp4
+--
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", Copa 1080  f6be
+http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4&.mp4
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", Copa 720  b51f
+http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&.mp4
+--
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 1080  b270
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&.mp4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 720  121f
+http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&.mp4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 1080  0cfd
+http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&.mp4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 720  0a33
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&.mp4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
+http://127.0.0.1:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&.mp4
+--
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎎|Selection Sport|🎎",LALIGA
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎎|Selection Sport|🎎",LALIGA
+https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-logo=""group-title="🎎|Selection Sport|🎎",Dazn laliga hypermotion 1
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#EXTINF:-1 tvg-logo=""group-title="🎎|Selection Sport|🎎",Dazn laliga hypermotion 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+--
+#EXTINF:-1, VIX LALIGA 🇲🇽
+http://45.68.35.218:4001/play/a01s/index.m3u8
+--
+#EXTINF:-1, LaLiga TV 🇬🇧 
+https://directplaylive.sbs/live/foot6/chunks.m3u8
+--
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:6060/play/a05i
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:8800/play/a07h
+--
+#EXTINF:-1,LALIGA TV 🇬🇧
+https://windnew.koskoros.ru/wind/premium276/mono.m3u8
+--
+#EXTINF:-1, S LALIGA 🇿🇦
+https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
+--
+#EXTINF:-1, S LALIGA 🇿🇦
+https://wikinew.koskoros.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
+--
+#EXTINF:-1, S LALIGA 🇿🇦
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
+--
+#EXTINF:-1,La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
+--
+#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Dazn laliga hypermotion 1 (SD)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Dazn laliga hypermotion 2 (SD)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+--
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎯🔔|Selection Sport|🔔🎯",LALIGA
+https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎯🔔|Selection Sport|🔔🎯",LALIGA (SD)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DAZN LA LIGA 2 TV HD
+http://canal-pro.xyz:8080/978280496tv3/951r8ui/12304
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Dazn laliga hypermotion 1
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Dazn laliga hypermotion 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://45.5.117.57:8200/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://167.250.223.26:8085/play/a00d/index.m3u8
