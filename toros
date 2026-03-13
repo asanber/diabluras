@@ -123,29 +123,26 @@ https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
 https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 --
-#EXTINF:-1 tvg-chno="12" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Toronto Blue Jays at New York Yankees (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Toronto Blue Jays at New York Yankees (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
---
-#EXTINF:-1 tvg-chno="122" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees - Toronto Blue Jays (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Yankees - Toronto Blue Jays (EMBEDHD)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
---
-#EXTINF:-1 tvg-chno="134" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ New York Yankees (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ New York Yankees (TVAPP)
+#EXTINF:-1 tvg-chno="122" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ Philadelphia Phillies (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Philadelphia Phillies (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 --
-#EXTINF:-1 tvg-chno="135" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ New York Yankees (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ New York Yankees (VOLOKIT)
-#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/toronto-blue-jays-at-new-york-yankees-home/
+#EXTINF:-1 tvg-chno="123" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays @ Philadelphia Phillies (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Philadelphia Phillies (VOLOKIT)
+#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/toronto-blue-jays-at-philadelphia-phillies-home/
 --
-#EXTINF:-1 tvg-chno="158" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New Orleans Pelicans - Toronto Raptors (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] New Orleans Pelicans - Toronto Raptors (EMBEDHD)
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
---
-#EXTINF:-1 tvg-chno="159" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New Orleans Pelicans vs Toronto Raptors (TOTALSPRTK1)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] New Orleans Pelicans vs Toronto Raptors (TOTALSPRTK1)
-#EXTVLCOPT:http-referrer=https://live.totalsportekarmy.com/New-Orleans-Pelicans-vs-Toronto-Raptors/58853
---
-#EXTINF:-1 tvg-chno="165" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors @ New Orleans Pelicans (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors @ New Orleans Pelicans (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
---
-#EXTINF:-1 tvg-chno="166" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors vs New Orleans Pelicans (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors vs New Orleans Pelicans (STRMBTW)
+#EXTINF:-1 tvg-chno="141" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors vs New Orleans Pelicans (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors vs New Orleans Pelicans (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/iframe/nba2.php
+--
+#EXTINF:-1 tvg-chno="159" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Anaheim Ducks @ Toronto Maple Leafs (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Anaheim Ducks @ Toronto Maple Leafs (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+--
+#EXTINF:-1 tvg-chno="160" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Anaheim Ducks @ Toronto Maple Leafs (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Anaheim Ducks @ Toronto Maple Leafs (VOLOKIT)
+#EXTVLCOPT:http-referrer=http://volokit.xyz/lives/anaheim-ducks-at-toronto-maple-leafs-home/
+--
+#EXTINF:-1 tvg-chno="122" tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",MLB Toronto Blue Jays  Philadelphia Phillies TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+--
+#EXTINF:-1 tvg-chno="159" tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Anaheim Ducks  Toronto Maple Leafs TVAPP (SD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",NHL Anaheim Ducks  Toronto Maple Leafs TVAPP (SD)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
 --
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",My Neighbor Totoro [31.01.2026]
 https://vidmody.com/vs/tt0096283/
