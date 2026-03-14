@@ -88,5 +88,17 @@ http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="GB1200002ON" group-title="Phim truyện" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200002ON_20250107T030658SQUARE.png",History Hunters
 https://jmp2.uk/stvp-GB1200002ON
 --
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/43435c2eff0d928d3a2b4835561968ee.png",06h30 ngày 14/03 Toronto Raptors vs Phoenix Suns [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/43435c2eff0d928d3a2b4835561968ee.png",06h30 ngày 14/03 Toronto Raptors vs Phoenix Suns [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/43435c2eff0d928d3a2b4835561968ee.png",06h30 ngày 14/03 Toronto Raptors vs Phoenix Suns [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+--
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260312/43435c2eff0d928d3a2b4835561968ee.png",06h30 ngày 14/03 Toronto Raptors vs Phoenix Suns [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+--
 #EXTINF:-1 tvg-id="470516" group-title="Thể Thao" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
