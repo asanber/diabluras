@@ -436,18 +436,19 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 --
-#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Dazn laliga hypermotion 1 (SD)
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-#EXTINF:-1 tvg-logo=""group-title="🎯🔔|Selection Sport|🔔🎯",Dazn laliga hypermotion 2 (SD)
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Live Events" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",[Spanish LALIGA] Sevilla vs Barcelona (STRMHUB)
+#EXTVLCOPT:http-referrer=https://storytrench.net/
 --
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎯🔔|Selection Sport|🔔🎯",LALIGA (SD)
-https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10"group-title="🎯🔔|Selection Sport|🔔🎯",LALIGA (SD)
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/1vqowr7.png",038. SkySportsLaliga
+https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
 --
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Live Events" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",[Spanish La Liga] Real Madrid vs Elche 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/1vqowr7.png",046. DaznLaliga1
+https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imgur.com/1vqowr7.png",047. DaznLaliga2
+https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",15:00 LaLiga – Real Sociedad vs Osasuna – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
 --
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",DAZN LA LIGA 2 TV HD
 http://canal-pro.xyz:8080/978280496tv3/951r8ui/12304
@@ -457,16 +458,27 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Dazn laliga hypermotion 2
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10",LALIGA
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10",LALIGA
+https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 --
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Movistar LaLiga
+http://canal-pro.xyz:8080/978280496tv3/951r8ui/12380
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",S LALIGA 🇿🇦
+https://xfireflix.my.id/Op.m3u8/?id=238479&e=.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://45.5.117.57:8200/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://45.5.117.57:8200/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://assets.uzunmuhalefet.com/logos/",Serbest Vuruş Pro La Liga
+https://streams.uzunmuhalefet.com/stream/41e3638b-a748-4738-9505-0314ceccbabf.m3u8
