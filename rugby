@@ -43,8 +43,5 @@ https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8
 #EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Supersport",SS RUGBY
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 --
-#EXTINF:-1 channel-id="US1000004YJ"tvg-id="US1000004YJ"tvg-chno="2375"tvg-name="RugbyPass TV"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000004YJ_20250714T223139SQUARE.png"group-title="🎎|Selection Sport|🎎",RugbyPass TV
-https://jmp2.uk/stvp-US1000004YJ
---
 #EXTINF:-1 tvg-id="PremierSportsRugby"group-title="🎎|Selection Sport|🎎"tvg-logo="",Premier Sports Rugby
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
