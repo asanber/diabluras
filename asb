@@ -8,7 +8,7 @@
 "groups":
     [
         {
-         "name": "START_19Mar_0003_Thu2026",
+         "name": "START_20Mar_0003_Fri2026",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -20,7 +20,7 @@
          "stations": [{}] 
         },
         {
-         "name": "GEN_19Mar_0303_Thu2026",
+         "name": "GEN_20Mar_0303_Fri2026",
          "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/idQT8HTpdp8A9QjgS656oH8KGfH.jpg",
          "info": "",
          "stations": [{}] 
@@ -94,6 +94,10 @@
          "info": "",
          "groups": [
              {
+             "name": "Xuperlist",
+             "url": "https://xuperlist2-0.pages.dev/cod_sistema.db"
+             },
+             {
              "name": "Megalista",
              "url": "https://megalista.vercel.app/megalista.w3u"
              },
@@ -102,28 +106,16 @@
              "url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u"
              },
              {
-             "name": "ChukyDeporte1",
-             "url": "https://ghostbin.axel.org/paste/wj6ku/raw"
-             },
-             {
-             "name": "ChukyDeporte2",
+             "name": "ChukyDeporte",
              "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport"
              },
              {
-             "name": "ChukyCine1",
-             "url": "https://ghostbin.axel.org/paste/o3mbx/raw"
-             },
-             {
-             "name": "ChukyCine2",
+             "name": "ChukyCine",
              "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin"
              },
              {
              "name": "Af1cionados",
              "url": "https://af1c1onados.vercel.app/af1cionados.w3u"
-             },
-             {
-             "name": "TV_para_todos",
-             "url": "https://pastebin.com/raw/3tpTDvRg"
              },
              {
              "name": "Mi_TV_telegram",
