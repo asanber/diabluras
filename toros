@@ -1,112 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="2022",El hombre de Toronto (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
 --
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA
-http://vlc.shickat.me:8000/pid/cd0188292b6b3876ff66c99bd3d25eab88b41079/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA III
-http://vlc.shickat.me:8000/pid/877eceeaf9f3bd9b392359323d03d0ac3bb27312/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="2022",Pinocho de Guillermo del Toro (2022)
+http://vod.tuxchannel.mx/peliculas/720/guillermo%20del%20toros%20pinocchio%202022.mkv
 --
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA
-http://vlc.shickat.me:8000/pid/cd0188292b6b3876ff66c99bd3d25eab88b41079/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA III
-http://vlc.shickat.me:8000/pid/877eceeaf9f3bd9b392359323d03d0ac3bb27312/stream.mp4
---
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="NBA: Toronto Raptors" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1200px-Toronto_Raptors_logo.svg.png" group-title="USA NBA TEAMS",NBA: Toronto Raptors
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/57056
---
-#EXTINF:-1 tvg-id="" tvg-name="MLS: TORONTO FC" tvg-logo="" group-title="USA MLS TEAMS live events only",MLS: TORONTO FC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/94176
---
-#EXTINF:-1 tvg-id="" tvg-name="MLB: TORONTO BLUEJAYS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Toronto_Blue_Jays_cap.svg/1024px-Toronto_Blue_Jays_cap.svg.png" group-title="USA MLB Teams",MLB: TORONTO BLUEJAYS
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83797
---
-#EXTINF:-1 tvg-id="" tvg-name="NHL: TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA NHL Teams",NHL: TORONTO MAPLE LEAFS
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60417
---
-#EXTINF:-1 tvg-id="" tvg-name="MLB-T2 Toronto Blue Jays" tvg-logo="" group-title="USA MLB T2",MLB-T2 Toronto Blue Jays
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/123104
---
-#EXTINF:-1 tvg-id="" tvg-name="Amazon-usa: Toronto FC vs. Red Bull New York" tvg-logo="" group-title="AMZ USA LIVE EVENTS (search date)",Amazon-usa: Toronto FC vs. Red Bull New York
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132917
---
-#EXTINF:-1 tvg-id="cbcatlantic.ca" tvg-name="CA: CBC toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/240px-Current_logo_for_CBC_Television.png" group-title="Canada HD",CA: CBC toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5202
---
-#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA: CITY TV EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/220px-Citytv_logo.svg.png" group-title="Canada HD",CA: CITY TV EAST
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5208
---
-#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA: CTV TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/200px-CTV_2_2018.svg.png" group-title="Canada HD",CA: CTV TORONTO
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5217
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL NEWS TORONTO" tvg-logo="" group-title="Canada HD",CA: GLOBAL NEWS TORONTO
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/67738
---
-#EXTINF:-1 tvg-id="" tvg-name="CAFR: ICI TELE TORONTO HD" tvg-logo="" group-title="Canada French",CAFR: ICI TELE TORONTO HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132330
---
-#EXTINF:-1 tvg-id="" tvg-name="Amazon-CA: Toronto Maple Leafs at Montreal Canadiens (2026-03-10 22:58:00)" tvg-logo="" group-title="AMZ CA LIVE EVENTS (search date)",Amazon-CA: Toronto Maple Leafs at Montreal Canadiens (2026-03-10 22:58:00)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132535
---
-#EXTINF:-1 tvg-id="" tvg-name="Amazon-CA: Toronto FC vs. New York Red Bulls (2026-03-14 12:58:00)" tvg-logo="" group-title="AMZ CA LIVE EVENTS (search date)",Amazon-CA: Toronto FC vs. New York Red Bulls (2026-03-14 12:58:00)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132673
---
-#EXTINF:-1 tvg-id="" tvg-name="Amazon-CA: Toronto FC vs. Red Bull New York (2026-03-14 12:58:00)" tvg-logo="" group-title="AMZ CA LIVE EVENTS (search date)",Amazon-CA: Toronto FC vs. Red Bull New York (2026-03-14 12:58:00)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132675
---
-#EXTINF:-1 tvg-id="" tvg-name="Amazon-CA: Seattle Torrent at Toronto Sceptres (2026-03-15 12:58:00)" tvg-logo="" group-title="AMZ CA LIVE EVENTS (search date)",Amazon-CA: Seattle Torrent at Toronto Sceptres (2026-03-15 12:58:00)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132721
---
-#EXTINF:-1 tvg-id="" tvg-name="Amazon-CA: PWHL: Toronto vs. Boston (2026-03-17 18:58:00)" tvg-logo="" group-title="AMZ CA LIVE EVENTS (search date)",Amazon-CA: PWHL: Toronto vs. Boston (2026-03-17 18:58:00)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132746
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: TOROS TV HD 720P" tvg-logo="" group-title="Spanish HD",SP: TOROS TV HD 720P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46823
---
-#EXTINF:-1 tvg-id="" tvg-name="ES: Toros TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="World Sports",ES: Toros TV
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47477
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: EL TORO TV HD 720P" tvg-logo="" group-title="Spanish HD",SP: EL TORO TV HD 720P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46839
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: El Toro TV" tvg-logo="" group-title="Spain Local",Sp_tvup: El Toro TV
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114872
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD CBC Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD CBC Toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112735
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD CTV Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD CTV Toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112927
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD Global Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Global Toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113044
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD Citytv Toronto" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Citytv Toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/113051
---
-#EXTINF:-1 tvg-id="" tvg-name="CANa Citytv Toronto" tvg-logo="" group-title="Canada FHD",CANa Citytv Toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114140
---
-#EXTINF:-1 tvg-id="" tvg-name="CANa Global Toronto" tvg-logo="" group-title="Canada FHD",CANa Global Toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114162
-#EXTINF:-1 tvg-id="" tvg-name="CANa Global News Toronto" tvg-logo="" group-title="Canada FHD",CANa Global News Toronto
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114163
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg" group-title="2022",Tiburón toro (2022)
+http://vod.tuxchannel.mx/peliculas/720/bull%20shark%202022.mkv
 --
 #EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ctv-2.png" group-title="CANADA",CTV 2 Canada
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
---
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg- nombre="El Toro TV",El Toro TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg- nombre="El Toro TV",El Toro TV
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
---
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO. png" group-title="ZAPEANDO MOVISTAR",ES : EL TORO TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 --
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",Mundotoro TV Spain
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -125,3 +31,151 @@ https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 --
 #EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2" tvg-logo="https://i.ibb.co/XxQhJJFR/CTV2.png" group-title="CA Channels",CTV 2
 https://a1xs.vip/610003
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="http://redworld.pro:8880/images/918bc421add07454b436b4a61fcb7f7e.jpg" group-title="⭐️Películas 2022",Pinocho de Guillermo del Toro (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258773.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pepe El Toro (1953)" tvg-logo="http://redworld.pro:8880/images/dd8a70e239ddd8dc6a1a212959de2d2c.jpg" group-title="⭐️Peliculas Mexicanas",Pepe El Toro (1953)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265998.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="http://redworld.pro:8880/images/deddf7567aa10542f88b32179f15107a.jpg" group-title="⭐️Anime",Mi vecino Totoro (1988)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267000.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Bryan Adams - Live in Toronto 2014 (2014)" tvg-logo="http://redworld.pro:8880/images/422516c48af6378bd18d34222e27e3fb.jpg" group-title="⭐️Conciertos",Bryan Adams - Live in Toronto 2014 (2014)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270599.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El Chacal de Nahueltoro (1970)" tvg-logo="http://redworld.pro:8880/images/67f3f90beaeca113921d9fd9a81d6861.jpg" group-title="⭐️Cine Chileno",El Chacal de Nahueltoro (1970)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/279281.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Toro Loco: Sangriento (2015)" tvg-logo="http://redworld.pro:8880/images/acb9efe2d53bc245ccb20d8c757efb8a.jpg" group-title="⭐️Cine Chileno",Toro Loco: Sangriento (2015)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/279326.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 1) ONETORO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/55943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS",ES: TOROLE TV
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/56009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 2) ONETORO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/56010.m3u8
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | GENERAL",ES: EL TORO TV
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25932.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="https://docdog.top/logo/countries/portugal/torostv.png" group-title="PT | PORTUGAL",PT: TOROS TV
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25082.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: NET TORONTO" tvg-logo="https://docdog.top/logo/countries/greece/countrypic.png" group-title="EURO | GREECE",GR: NET TORONTO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/4606.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="" group-title="USA | VIP-A",USA: MLB TORONTO BLUE JAYS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/72202.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TORONTO RAPTORS" tvg-logo="" group-title="USA | VIP-A",USA: NBA TORONTO RAPTORS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/72400.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA | VIP-A",USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/72780.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS" tvg-logo="" group-title="USA | VIP-A",USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/72787.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA | VIP-A",USA: NHL TORONTO MAPLE LEAFS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/72809.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://docdog.top/logo/countries/pakistan/toronto360.png" group-title="ASIA | PAKISTAN",PK: TORONTO 360
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/23680.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="NAME | CA",CA: CBC TORONTO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/23705.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/citytoronto.png" group-title="NAME | CA",CA: CITY TORONTO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/23769.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/globaltoronto.png" group-title="NAME | CA",CA: GLOBAL TORONTO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/23779.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Man from Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="NETFLIX | Action",The Man from Toronto (2022)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/58967.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg" group-title="NETFLIX | Documentary",Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/59421.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ya_no_estoy_aqui_Una_conversacion_entre_Guillermo_del_Toro_y_Alfonso_Cuaron_2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg" group-title="NETFLIX | Documentary",Ya_no_estoy_aqui_Una_conversacion_entre_Guillermo_del_Toro_y_Alfonso_Cuaron_2020
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/59696.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="NETFLIX | Fantasy",Guillermo del Toro's Pinocchio (2022)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/60163.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo Del Toros Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gRQwkM1K9gdBYj74HS5KC8gm8q.jpg" group-title="VOD | GERMANY NEU",Guillermo Del Toros Pinocchio (2022)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/55215.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Man from Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="VOD | ITALIAN",The Man from Toronto (2022)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/54806.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 1) ONETORO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/55943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS",ES: TOROLE TV
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/56009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 2) ONETORO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/56010.m3u8
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | GENERAL",ES: EL TORO TV
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25932.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="https://docdog.top/logo/countries/portugal/torostv.png" group-title="PT | PORTUGAL",PT: TOROS TV
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25082.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: NET TORONTO" tvg-logo="https://docdog.top/logo/countries/greece/countrypic.png" group-title="EURO | GREECE",GR: NET TORONTO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/4606.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="" group-title="USA | VIP-A",USA: MLB TORONTO BLUE JAYS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/72202.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TORONTO RAPTORS" tvg-logo="" group-title="USA | VIP-A",USA: NBA TORONTO RAPTORS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/72400.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA | VIP-A",USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/72780.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS" tvg-logo="" group-title="USA | VIP-A",USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/72787.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA | VIP-A",USA: NHL TORONTO MAPLE LEAFS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/72809.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://docdog.top/logo/countries/pakistan/toronto360.png" group-title="ASIA | PAKISTAN",PK: TORONTO 360
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/23680.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="NAME | CA",CA: CBC TORONTO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/23705.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/citytoronto.png" group-title="NAME | CA",CA: CITY TORONTO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/23769.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/globaltoronto.png" group-title="NAME | CA",CA: GLOBAL TORONTO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/23779.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Man from Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="NETFLIX | Action",The Man from Toronto (2022)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/58967.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg" group-title="NETFLIX | Documentary",Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/59421.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ya_no_estoy_aqui_Una_conversacion_entre_Guillermo_del_Toro_y_Alfonso_Cuaron_2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg" group-title="NETFLIX | Documentary",Ya_no_estoy_aqui_Una_conversacion_entre_Guillermo_del_Toro_y_Alfonso_Cuaron_2020
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/59696.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="NETFLIX | Fantasy",Guillermo del Toro's Pinocchio (2022)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/60163.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo Del Toros Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gRQwkM1K9gdBYj74HS5KC8gm8q.jpg" group-title="VOD | GERMANY NEU",Guillermo Del Toros Pinocchio (2022)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/55215.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Man from Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="VOD | ITALIAN",The Man from Toronto (2022)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/54806.mkv
+--
+#EXTINF:-1 tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-1024x586.jpg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
+acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
+--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA
+http://vlc.shickat.me:8000/pid/cd0188292b6b3876ff66c99bd3d25eab88b41079/stream.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA III
+http://vlc.shickat.me:8000/pid/877eceeaf9f3bd9b392359323d03d0ac3bb27312/stream.mp4

@@ -1,81 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg" group-title="CURIOSIDAD",Historias de Ultratumba
-https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/iMAWgK9Z3C2L0MaI17VqwdZi8bJ.jpg" group-title="2022",Devotion: Historia de honor (2022)
+http://144.217.180.205/Peliculas/Aventura/Ver%20Devotion.%20Una%20historia%20de%20h%c3%a9roes%20(2022)%20Online%20Cuevana%203.mp4
 --
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/featuredImage.jpg" group-title="CURIOSIDAD",Pluto Historia
-https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/wfvbHUjkwmrZvT1NxzroCalArb1.jpg" group-title="2022",Franklin: Historia de un billete (2022)
+http://144.217.180.205/Peliculas/Accion/Ver%20Franklin,%20historia%20de%20un%20billete%20(2022)%20Online%20Cuevana%203.mp4
 --
-#EXTINF:-1 tvg-id="Dejate.TV" tvg-logo="https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Déjate de Historias TV",Déjate de Historias TV
-https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/WC1pBBTiUIvj2jfUI82Z3XheZK.jpg" group-title="2022",Los ladrones: La verdadera historia del robo del siglo (2022)
+http://vod.tuxchannel.mx/peliculas/720/los%20ladrones%20la%20verdadera%20historia%20del%20robo%20del%20siglo%202022.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/8SfE02RXRTJ6gtrlObFqXJSk6Oe.jpg" group-title="2022",Una navideña historia de Navidad (2022)
+http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20story%20christmas%202022.mkv
 --
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV
-https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/lfpbXm5B2cW3SrcNIQ379vooxjB.jpg" group-title="2022",Weird: La historia de Al Yankovic (2022) SUB
+http://vod.tuxchannel.mx/peliculas/720/weird%20the%20al%20yankovic%20story%202022.mkv
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/6/w1280/rjOfp2pBnsmzDLURatBgaRDDapC.jpg" group-title="2021",Jack el destripador: La historia no contada (2021)
+http://vod.tuxchannel.mx/peliculas/720/ripper%20untold%202021.mkv
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
-https://kusnadipepenk.github.io/ntn/disc.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/dOOXS3qemomdzBWNwv9tgI9MkCd.jpg" group-title="2021",La clásica historia de terror (2021)
+http://vod.tuxchannel.mx/peliculas/720/a%20classic%20horror%20story%202021.mkv
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
-https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/6/w1280/hzCzL2dyl4RFtXxgHbsIvACxt6l.jpg" group-title="2021",Left for dead: La historia de Ashley Reeves (2021)
+https://archive.org/download/01_20220605_20220605_1903/01.mp4
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE",National Geographic
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/10/w1280/ixlGLeLtkmoKvJUY0nq9sk3zauR.jpg" group-title="2020",Historias del barrio negro 3 (2020)
+http://vod.tuxchannel.mx/peliculas/720/tales%20from%20the%20hood%203%202020.mkv
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE",National Geographic (*)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/12/w1280/9Iwt4GoRYP86z4dMGiR2ETKqJ0E.jpg" group-title="2020",La increible historia de la Isla de las Rosas (2020)
+http://vod.tuxchannel.mx/peliculas/720/lincredibile%20storia%20dell%20isola%20delle%20rose%202020.mkv
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE",National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/8/w1280/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg" group-title="2019",Historias de miedo para contar en la oscuridad (2019)
+http://vod.tuxchannel.mx/peliculas/720/scary%20stories%20to%20tell%20in%20the%20dark%202019.mkv
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE",National Geographic Wil
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/8/w1280/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg" group-title="2019",La odisea de los giles (2019)
+http://vod.tuxchannel.mx/peliculas/720/la%20odisea%20de%20los%20giles%202019.mkv
 --
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE",National Geographic Wild (*)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/11/w1280/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" group-title="2019",La verdadera historia de Ned Kelly (2019)
+http://vod.tuxchannel.mx/peliculas/720/true%20history%20of%20the%20kelly%20gang%202019.mkv
 --
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/discovery%20channel.png?raw=true" group-title="KNOWLEDGE",Discovery Channel
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/A5urWIklagQnAaJ8ZfNuq1KyPEu.jpg" group-title="2017",Historia de fantasmas (2017)
+http://vod.tuxchannel.mx/peliculas/720/a%20ghost%20story.mkv
 --
-#EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/discovery%20channel.png?raw=true" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/10/w1280/1Bd9ItSLT13u8Na0PApQAMcW1Jw.jpg" group-title="2016",El contador (2016)
+http://vod.tuxchannel.mx/peliculas/720/the%20accountant.mkv
 --
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
---
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
-https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="KNOWLEDGE",Dmax (HD)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="KNOWLEDGE",Dmax
-https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
---
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", AMC
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
---
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD" group-title="MOVISTAR", AMC HD --> NUEVA ERA
-http://vlc.shickat.me:8000/pid/55ff9ee631af351f365f51cf3601695bf1fd20f3/stream.mp4
---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD --> NUEVA ERA
-http://vlc.shickat.me:8000/pid/670519ffe8db1e20d0c753d4f756c009e71173d8/stream.mp4
---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD" group-title="MOVISTAR", MOVISTAR DOCUMENTALES FHD --> NUEVA ERA VI
-http://vlc.shickat.me:8000/pid/b3fc9b5647c5933b101c0b6b64322590c68587b9/stream.mp4
---
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD" group-title="MOVISTAR", AMC HD --> NUEVA ERA
-http://vlc.shickat.me:8000/pid/55ff9ee631af351f365f51cf3601695bf1fd20f3/stream.mp4
---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD --> NUEVA ERA
-http://vlc.shickat.me:8000/pid/670519ffe8db1e20d0c753d4f756c009e71173d8/stream.mp4
---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD" group-title="MOVISTAR", MOVISTAR DOCUMENTALES FHD --> NUEVA ERA VI
-http://vlc.shickat.me:8000/pid/b3fc9b5647c5933b101c0b6b64322590c68587b9/stream.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="2016",Rogue one: Una historia de Star Wars (2016)
+http://vod.tuxchannel.mx/peliculas/720/rogue%20one%20a%20star%20wars%20story.mkv
 --
 #EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA HD ",US: AMC HD
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1527
@@ -89,202 +59,6 @@ http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/1641
 #EXTINF:-1 tvg-id="natgeo.us" tvg-name="US: NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="USA HD ",US: NATIONAL GEOGRAPHIC
 http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2065
---
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="US: AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMC%2B_logo.png/220px-AMC%2B_logo.png" group-title="USA HD ",US: AMC+
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/2073
---
-#EXTINF:-1 tvg-id="" tvg-name="USA2: AMC Network" tvg-logo="" group-title="USA BU",USA2: AMC Network
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100838
---
-#EXTINF:-1 tvg-id="" tvg-name="USA2: Nat Geo Wild" tvg-logo="" group-title="USA BU",USA2: Nat Geo Wild
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/100929
---
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US-sd: AMC" tvg-logo="" group-title="USA SD ",US-sd: AMC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110228
---
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US-sd: DISCOVERY CHANNEL" tvg-logo="" group-title="USA SD ",US-sd: DISCOVERY CHANNEL
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110248
---
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US-sd: NAT GEO" tvg-logo="" group-title="USA SD ",US-sd: NAT GEO
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110285
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US-sd: NAT GEO WILD" tvg-logo="" group-title="USA SD ",US-sd: NAT GEO WILD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110286
---
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA-FHD AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMC%2B_logo.png/220px-AMC%2B_logo.png" group-title="USA FHD",USA-FHD AMC+
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/88976
---
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="USA-FHD: AMC THRILLERS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/ThrillerMax_2016.png" group-title="USA FHD",USA-FHD: AMC THRILLERS
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60353
---
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA-FHD: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="USA FHD",USA-FHD: DISCOVERY CHANNEL
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60311
---
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic (Canada)" tvg-logo="" group-title="Canada HD",National Geographic (Canada)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/124462
---
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA-FHD: NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="USA FHD",USA-FHD: NAT GEO WILD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60309
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA-FHD: NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="USA FHD",USA-FHD: NAT GEO
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60308
---
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA-FHD: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="USA FHD",USA-FHD: AMC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60289
---
-#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="Canada HD",CA: AMC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/5197
---
-#EXTINF:-1 tvg-id="" tvg-name="CA:  DISCOVERY CHANNEL" tvg-logo="" group-title="Canada HD",CA:  DISCOVERY CHANNEL
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/60977
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Canada HD",CA: NATIONAL GEOGRAPHIC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/61031
---
-#EXTINF:-1 tvg-id="" tvg-name="CA: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="Canada HD",CA: NATIONAL GEOGRAPHIC WILD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/68475
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-FR | Historia" tvg-logo="" group-title="Canada French",CA-FR | Historia
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132237
---
-#EXTINF:-1 tvg-id="" tvg-name="CAFR: HISTORIA FHD" tvg-logo="" group-title="Canada French",CAFR: HISTORIA FHD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/132278
---
-#EXTINF:-1 tvg-id="" tvg-name="247_: AMC Thrillers" tvg-logo="" group-title="247s.",247_: AMC Thrillers
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114492
---
-#EXTINF:-1 tvg-id="" tvg-name="247s AMC Thrillers" tvg-logo="" group-title="247s.",247s AMC Thrillers
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/130766
---
-#EXTINF:-1 tvg-id="" tvg-name="ESP: AMC" tvg-logo="" group-title="Spanish HD",ESP: AMC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/29441
---
-#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX HD *" tvg-logo="" group-title="Dutch/German",DE: DMAX HD *
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83446
---
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL HD *" tvg-logo="" group-title="Dutch/German",DE: DISCOVERY CHANNEL HD *
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83478
-#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD *" tvg-logo="" group-title="Dutch/German",DE: NATIONAL GEOGRAPHIC HD *
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83479
-#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD (*)" tvg-logo="" group-title="Dutch/German",DE: NATIONAL GEOGRAPHIC HD (*)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83480
-#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD *" tvg-logo="" group-title="Dutch/German",DE: NAT GEO WILD HD *
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83481
-#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD (local)" tvg-logo="" group-title="Dutch/German",DE: NAT GEO WILD HD (local)
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/83482
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: AMC HD 720P" tvg-logo="" group-title="Spanish HD",SP: AMC HD 720P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46776
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD HD 720P" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD HD 720P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46805
---
-#EXTINF:-1 tvg-id="" tvg-name="SP2 Discovery Channel" tvg-logo="" group-title="Spain-L",SP2 Discovery Channel
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/103538
---
-#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="UK HD",UK: NATIONAL GEOGRAPHIC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/6493
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: AMC HD 1080P" tvg-logo="" group-title="Spanish HD",SP: AMC HD 1080P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46775
-#EXTINF:-1 tvg-id="" tvg-name="SP: AMC SD" tvg-logo="" group-title="Spanish HD",SP: AMC SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46777
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC HD 1080P" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC HD 1080P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46801
-#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC HD 720P" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC HD 720P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46802
-#EXTINF:-1 tvg-id="" tvg-name="SP: NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="Spanish HD",SP: NATIONAL GEOGRAPHIC SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46803
-#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD HD 1080P" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD HD 1080P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46804
-#EXTINF:-1 tvg-id="" tvg-name="SP: NAT GEO WILD SD" tvg-logo="" group-title="Spanish HD",SP: NAT GEO WILD SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46806
-#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: HISTORIA HD 1080P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46807
-#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA HD 720P" tvg-logo="" group-title="Spanish HD",SP: HISTORIA HD 720P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46808
-#EXTINF:-1 tvg-id="" tvg-name="SP: HISTORIA SD" tvg-logo="" group-title="Spanish HD",SP: HISTORIA SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46809
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: DISCOVERY CHANNEL HD 1080P" tvg-logo="" group-title="Spanish HD",SP: DISCOVERY CHANNEL HD 1080P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46812
-#EXTINF:-1 tvg-id="" tvg-name="SP: DISCOVERY CHANNEL SD" tvg-logo="" group-title="Spanish HD",SP: DISCOVERY CHANNEL SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46813
-#EXTINF:-1 tvg-id="" tvg-name="SP: ODISEA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: ODISEA HD 1080P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46815
-#EXTINF:-1 tvg-id="" tvg-name="SP: ODISEA SD" tvg-logo="" group-title="Spanish HD",SP: ODISEA SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46816
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: Odisea" tvg-logo="" group-title="Spain Local",Sp_tvup: Odisea
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114809
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114824
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: Historia" tvg-logo="" group-title="Spain Local",Sp_tvup: Historia
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114850
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC Break" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC Break
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114853
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_tvup: AMC Crime" tvg-logo="" group-title="Spain Local",Sp_tvup: AMC Crime
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114860
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Amc HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Amc HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114932
---
-#EXTINF:-1 tvg-id="" tvg-name="Sp_Mega: Discovery Channel HD" tvg-logo="" group-title="Mexico (on-demand)",Sp_Mega: Discovery Channel HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114970
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD" tvg-logo="" group-title="Portuguese ",PT: AMC HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121971
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery Channel HD" tvg-logo="" group-title="Portuguese ",PT: Discovery Channel HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121982
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nat Geo Wild HD" tvg-logo="" group-title="Portuguese ",PT: Nat Geo Wild HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121984
-#EXTINF:-1 tvg-id="" tvg-name="PT: Historia" tvg-logo="" group-title="Portuguese ",PT: Historia
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121985
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Crime HD" tvg-logo="" group-title="Portuguese ",PT: AMC Crime HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121988
---
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Break HD" tvg-logo="" group-title="Portuguese ",PT: AMC Break HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/121993
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: AMC" tvg-logo="" group-title="Mexico Izzy",MX: AMC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110546
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Channel" tvg-logo="" group-title="Mexico Izzy",MX: Discovery Channel
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110593
---
-#EXTINF:-1 tvg-id="" tvg-name="MX: National Geographic" tvg-logo="" group-title="Mexico Izzy",MX: National Geographic
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/110695
---
-#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="UK HD",UK: DISCOVERY CHANNEL
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/6534
---
-#EXTINF:-1 tvg-id="" tvg-name="ABC28 (KAMC) Lubbock" tvg-logo="" group-title="USA Locals",ABC28 (KAMC) Lubbock
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/101844
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD AMC" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD AMC
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112716
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD National Geographic" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD National Geographic
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112806
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD National Geographic Wild" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD National Geographic Wild
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112807
---
-#EXTINF:-1 tvg-id="" tvg-name="CA-HD Historia" tvg-logo="" group-title="Canada FHD/HD new!! ",CA-HD Historia
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112913
---
-#EXTINF:-1 tvg-id="" tvg-name="CANa AMC Canada HD" tvg-logo="" group-title="Canada FHD",CANa AMC Canada HD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114126
-#EXTINF:-1 tvg-id="" tvg-name="CANa AMC+ CANADA" tvg-logo="" group-title="Canada FHD",CANa AMC+ CANADA
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114127
---
-#EXTINF:-1 tvg-id="" tvg-name="CANa National Geographic" tvg-logo="" group-title="Canada FHD",CANa National Geographic
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114178
 --
 #EXTINF:0 type="favorites" channelId="-1" name="C/S• AMC (HD) »2«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg", C/S• AMC (HD) »2«
 http://ultrapremium.cloud:8080/966372544tv/Lq7Ds53m/105
@@ -349,106 +123,6 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 --
-#EXTINF:-1 canal-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" tvg-chno="4229" group-title="Samsung TV" , Documentales - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
---
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES : M+ DOCUMENTALES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="ZAPEANDO MOVISTAR",ES : M+ DOCUMENTALES
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46497
---
-#EXTINF:-1 grupo tvg-id="AMC" tvg-name="ES: AMC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png"- title="ZAPEANDO MOVISTAR",ES : AMC
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46522
---
-#EXTINF:-1 tvg-id="NAT GEOGRAPH" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="ZAPEANDO MOVISTAR",ES : NATIONAL GEOGRAPHIC
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46564
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES : NAT GEO WILD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW. png" group-title="ZAPEANDO MOVISTAR",ES : NAT GEO WILD
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46565
-#EXTINF:-1 grupo tvg-id="HISTORIA" tvg-name="ES : HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png"- title="ZAPEANDO MOVISTAR",ES : HISTORIA
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46566
---
-#EXTINF:-1 grupo tvg-id="CANAL ODISEA" tvg-name="ES : ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png" -title="ZAPEANDO MOVISTAR",ES : ODISEA
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46568
-#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES : AMC BREAK" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ZAPEANDO MOVISTAR",ES : AMC BREAK
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46569
-#EXTINF:-1 grupo tvg-id="DMAX" tvg-name="ES : DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png"- title="ZAPEANDO MOVISTAR",ES : DMAX
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46570
-#EXTINF:-1 tvg-id="AMC CRIMEN" tvg-name="ES: AMC CRIMEN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png" group-title="ZAPEANDO MOVISTAR",ES : AMC CRIME
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46571
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/63d7b6ea5957f2001315fd02/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Top Cine" tvg-chno="", Una historia del Bronx
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63d7b6ea5957f2001315fd02.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/60d0435128f1d30013ed3406/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Mujeres Protagonistas" tvg-chno="", Historia de una pasión
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0435128f1d30013ed3406.m3u8
---
-#EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="Series Y Shows De Tv",Stories By AMC  🇺🇸
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
---
-#EXTINF:-1 cuid="727" tvg-chno="727" tvg-name="Sala de Emergencias: Historias Inéditas 🇲🇽" tvg-id="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" group-title="Series Y Shows De Tv",Sala de Emergencias: Historias Inéditas 🇲🇽
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
---
-#EXTINF:-1 cuid="829" tvg-chno="829" tvg-name="AMC Thrillers 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Canales De Terror 😱 ",AMC Thrillers 🇺🇸
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
---
-#EXTINF:-1 cuid="893" tvg-chno="893" tvg-name="CGTN Documentary 🇺🇸" tvg-id="UK:.CGTN.Documentary.en" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CGTN-Documentary.webp" group-title="Historia Y Documentales 🏛️",CGTN Documentary 🇺🇸
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
---
-#EXTINF:-1 cuid="894" tvg-chno="894" tvg-name="Biography The Icons 🇺🇸" tvg-id="US26000201N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20240826T235527SQUARE.png" group-title="Historia Y Documentales 🏛️",Biography The Icons 🇺🇸
-https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8
---
-#EXTINF:-1 cuid="895" tvg-chno="895" tvg-name="Music Legends 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10fa00f9-1e92-4991-ac14-e391416f6a7c/Music_Legends_artwork_horizontalrdx2.jpg" group-title="Historia Y Documentales 🏛️",Music Legends 🇺🇸 (vᴘɴ 🇺🇸)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MVSK7xh_LKaeJg6sWTT7
---
-#EXTINF:-1 cuid="896" tvg-chno="896" tvg-name="PBS Digital Studios 🇺🇸" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="Historia Y Documentales 🏛️",PBS Digital Studios 🇺🇸
-https://d1nlhbqjulacw7.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-ams-aws/dbf93f0f-884f-4732-88d4-3099312fe274/4.m3u8
---
-#EXTINF:-1 cuid="897" tvg-chno="897" tvg-name="PBS Digital Studios 🇺🇸" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="Historia Y Documentales 🏛️",PBS Digital Studios 🇺🇸
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_pbsdigitalstudios_002.m3u8
---
-#EXTINF:-1 cuid="898" tvg-chno="898" tvg-name="House of Docs 🇮🇹" tvg-id="ITBD1100001B7" tvg-logo="https://images.pluto.tv/channels/6536608b4f123d000876b78b/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",House of Docs 🇮🇹
-https://stitcher.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927a
---
-#EXTINF:-1 cuid="899" tvg-chno="899" tvg-name="WBTV Mysteries Worlds" tvg-logo="https://canvas.tubitv.com/opts/Mp7hCTYVBwW1MQ==/418647ca-40a0-41bf-be9b-936ab3ed08db/CIACEPACOgUxLjEuMg==" group-title="Historia Y Documentales 🏛️",WBTV Mysteries Worlds
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8
---
-#EXTINF:-1 cuid="900" tvg-chno="900" tvg-name="Beyond History 🇺🇸" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",Beyond History 🇺🇸
-https://is.gd/6YJJ6Q?62fb9844db5a4a0007ebc2a3.m3u8
---
-#EXTINF:-1 cuid="901" tvg-chno="901" tvg-name="World War TV 🇺🇸" tvg-id="6319ee0cf78bb10007ee5e6b" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20241106T143033SQUARE.png" group-title="Historia Y Documentales 🏛️",World War TV 🇺🇸
-https://is.gd/q0oEG2?6319ee0cf78bb10007ee5e6b.m3u8
---
-#EXTINF:-1 cuid="902" tvg-chno="902" tvg-name="Wonder tv 🇺🇸" tvg-id="INBA4900011UB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900011UB_20220427T054723SQUARE.png_20220427054724.png" group-title="Historia Y Documentales 🏛️",Wonder tv 🇺🇸
-https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
---
-#EXTINF:-1 cuid="903" tvg-chno="903" tvg-name="Inwonder tv 🇺🇸" tvg-id="USBA300023G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20240520T214553SQUARE.png" group-title="Historia Y Documentales 🏛️",Inwonder tv 🇺🇸
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
---
-#EXTINF:-1 cuid="904" tvg-chno="904" tvg-name="Smithsonian Channel Selects 🇺🇸" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels//5f21ea08007a49000762d349/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",Smithsonian Channel Selects 🇺🇸
-https://bit.ly/4b3JR5d?profile=/5f21ea08007a49000762d349.m3u8
---
-#EXTINF:-1 cuid="905" tvg-chno="905" tvg-name="Doc+ 🇺🇸" tvg-id="CABC2300019UD" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png" group-title="Historia Y Documentales 🏛️",Doc+ 🇺🇸
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
---
-#EXTINF:-1 cuid="906" tvg-chno="906" tvg-name="Documentary+ 🇨🇦" tvg-id="CABC2300019UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300019UD_20240730T012840SQUARE.png" group-title="Historia Y Documentales 🏛️",Documentary+ 🇨🇦
-https://d1m3onyj8k8btx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-51sz7lei1ddj6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CABC2300019UD
---
-#EXTINF:-1 cuid="907" tvg-chno="907" tvg-name="Documentary+ 🇺🇸" tvg-id="plex.tv.Documentary+.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png" group-title="Historia Y Documentales 🏛️",Documentary+ 🇺🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
---
-#EXTINF:-1 cuid="908" tvg-chno="908" tvg-name="History Hit 🇺🇸" tvg-id="GBBA2200005ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900010X3_20220824T022304SQUARE.png_20220824022305.png" group-title="Historia Y Documentales 🏛️",History Hit 🇺🇸
-https://bit.ly/3Ocb6Rn?profile=GBBA2200005ZA.m3u8
---
-#EXTINF:-1 cuid="909" tvg-chno="909" tvg-name="Historias de Ultratumba 🇲🇽" tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",Historias de Ultratumba 🇲🇽
-https://bit.ly/39vxTpZ?profile=5f4d3696d938c900072679fd.m3u8
---
-#EXTINF:-1 cuid="910" tvg-chno="910" tvg-name="History 🇲🇽" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",History 🇲🇽
-https://bit.ly/3y5kHCd?profile=5a4d35dfa5c02e717a234f86.m3u8
---
-#EXTINF:-1 cuid="911" tvg-chno="911" tvg-name="History 🇺🇸" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="Historia Y Documentales 🏛️",History 🇺🇸
-https://bit.ly/historypluto?profile=5d4af1803e7983b391d73b13.m3u8
---
-#EXTINF:-1 cuid="912" tvg-chno="912" tvg-name="Autentic History 🇺🇸" tvg-logo="https://www.autentic.com/images/authentic_website/index.gif" group-title="Historia Y Documentales 🏛️",Autentic History 🇺🇸
-https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
---
 #EXTINF:-1 tvg-id="unknown" tvg-name="AMC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png", AMC USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 --
@@ -470,9 +144,6 @@ http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 tvg-id="SunBangla.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"group-title="🎎|Selection Sport|🎎",Sun Bangla (576p)
 http://103.182.170.32:8888/play/a01v
 --
-#EXTINF:-1 tvg-id="SunBangla.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"group-title="🎎|Selection Sport|🎎",Sun Bangla (720p)
-http://103.161.153.165:8000/play/a03k/index.m3u8
---
 #EXTINF:-1 tvg-id="SunBangla.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"group-title="🎎|Selection Sport|🎎",Sun Bangla (576p)
 http://103.182.170.32:8888/play/a01v
 --
@@ -483,31 +154,39 @@ http://103.182.170.32:8888/play/a01v
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
 udp://@225.1.4.24:30120
+--
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 --
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="Giải Trí" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg",Discovery Channel FHD
-https://a1xs.vip/300034
---
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",Discovery Channel
 http://supersonictv.live:8080/611366/682256/22074
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="Giải Trí" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg",Discovery Channel FHD
+https://a1xs.vip/300034
 #EXTINF:-1 tvg-id="DISCOVERY HD" group-title="Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel FHD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23009.ts
+http://sinalprivado.info:80/live/1sg141g7/6m6sm685/23009.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD" group-title="Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23010.ts
+http://sinalprivado.info:80/live/1sg141g7/6m6sm685/23010.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD" group-title="Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23011.ts
+http://sinalprivado.info:80/live/1sg141g7/6m6sm685/23011.m3u8
 --
 #EXTINF:-1 tvg-id="discoveryph1" group-title="Giải Trí" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",DISCOVERY CHANNEL(test)
 http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+#EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 --
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="Giải Trí" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",Discovery Channel
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",DISCOVERY CHANNEL
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/264
+#EXTINF:-1 tvg-id="discoverychannel.tr" group-title="Giải Trí" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/10/0926268422105eb7f426_op_0_XL.webp",DISCOVERY CHANNEL
+https://goldvod.site/live/hpgdiscoo/123456/503.m3u8
 --
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" group-title="Giải Trí" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",National Geographic HD (eng6) (English) (Documentary)
+http://116.90.120.151:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Giải Trí" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",National Geographic
@@ -515,23 +194,1367 @@ http://supersonictv.live:8080/611366/682256/22124
 --
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",National geographic
 https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="Giải Trí" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
 #EXTINF:-1 tvg-id="" group-title="Giải Trí",NATIONAL GEOGRAPHIC HD
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/286
+#EXTINF:-1 tvg-id="nationalgeographic.tr" group-title="Giải Trí" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/NGCHD.png",National Geographic SD
+https://goldvod.site/live/hpgdiscoo/123456/10533.m3u8
 --
-#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",Sony Sports Ten 1 HD (1080p) (eng8)  (English) (Sports) - 1080P
-http://103.121.6.5:8000/play/a05w/35259902.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",Sony Sports Ten 1 HD (1080p) - 1080P
+http://103.121.6.5:8000/play/a05w/index.m3u8
 --
-#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",Sony Sports Ten 2 HD (1080p) (eng8)  (English) (Sports) - 1080P
-http://103.229.254.25:7001/play/a02t/86800677.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",Sony Sports Ten 2 HD (1080p) (eng8) (English) (Sports) - 1080P
+http://103.229.254.25:7001/play/a02t/index.m3u8
 --
-#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",Sony Sports Ten 5 HD (1080p) (eng8)  (English) (Sports) - 1080P
-http://103.229.254.25:7001/play/a0dw/46901638.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",Sony Sports Ten 5 HD (1080p) - 1080P
+http://103.229.254.25:7001/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",Sony Sports Ten 5 HD (1080p) (eng8) (English) (Sports) - 1080P
+http://116.90.120.151:8000/play/a0hb/index.m3u8
 --
-#EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",Star Sports 2 HD (1080p) (eng8)  (English) (Sports) - 1080P
-http://103.121.6.5:8000/play/a05u/36491311.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",Star Sports 2 HD (1080p) - 1080P
+http://103.121.6.5:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",Star Sports 2 HD (1080p) (eng8) (English) (Sports) - 1080P
+http://116.90.120.151:8000/play/a0jb/index.m3u8
 --
 #EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
 https://a1xs.vip/1000033
 --
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
 https://a1xs.vip/300034
+--
+#EXTINF:-1 tvg-id="" tvg-name="Franklin: Historia de un billete (2022)" tvg-logo="http://redworld.pro:8880/images/69a7d9bb09f80ee4fd364dba57dd9ec8.jpg" group-title="⭐️Películas 2022",Franklin: Historia de un billete (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258516.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia de honor (2022)" tvg-logo="http://redworld.pro:8880/images/6c6960a2d3263ce494871f47587bcb09.jpg" group-title="⭐️Películas 2022",Historia de honor (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258544.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los ladrones: la verdadera historia del robo del siglo (2022)" tvg-logo="http://redworld.pro:8880/images/5a87e5e6864cf906f25b51447a18fb4e.jpg" group-title="⭐️Películas 2022",Los ladrones: la verdadera historia del robo del siglo (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258663.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los Tigres del Norte: Historias que contar (2022)" tvg-logo="http://redworld.pro:8880/images/4b09e0e785c6be29f5b41fc4fd83209a.jpg" group-title="⭐️Películas 2022",Los Tigres del Norte: Historias que contar (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258670.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mickey: La historia de un ratón (2022)" tvg-logo="http://redworld.pro:8880/images/e699d3805ca62f3d5b3fa21d2d428115.jpg" group-title="⭐️Películas 2022",Mickey: La historia de un ratón (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258700.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Orgasm Inc: La historia de OneTaste (2022)" tvg-logo="http://redworld.pro:8880/images/4d47aa5495488aabb656cd000fdefa4e.jpg" group-title="⭐️Películas 2022",Orgasm Inc: La historia de OneTaste (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258759.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Una navideña historia de Navidad (2022)" tvg-logo="http://redworld.pro:8880/images/be22dd2ffb31ae913ba927bd91510896.jpg" group-title="⭐️Películas 2022",Una navideña historia de Navidad (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258939.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Weird: La Historia de Al Yankovic (2022)" tvg-logo="http://redworld.pro:8880/images/b73d4b16f33969f008e460cb7f1ce8e3.jpg" group-title="⭐️Películas 2022",Weird: La Historia de Al Yankovic (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258977.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2021)" tvg-logo="http://redworld.pro:8880/images/690f1b6badeffc1c5fd1ce004a122368.jpg" group-title="⭐️Películas 2021",Historias lamentables (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259251.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Jack, El Destripador La Historia no Contada (2021)" tvg-logo="http://redworld.pro:8880/images/4657595be1c337e54df23b31f1a035ac.jpg" group-title="⭐️Películas 2021",Jack, El Destripador La Historia no Contada (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259267.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars: Historias Aterradoras (2021)" tvg-logo="http://redworld.pro:8880/images/9993c3286ccd2372a85382e97023fbb9.jpg" group-title="⭐️Películas 2021",LEGO Star Wars: Historias Aterradoras (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259329.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pamela: Una historia de amor (2023)" tvg-logo="http://redworld.pro:8880/images/b7c99f31ff815137b0ba36223c90b720.jpg" group-title="⭐️Películas 2023",Pamela: Una historia de amor (2023)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259621.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Truman Show: Historia de una vida (1998)" tvg-logo="http://redworld.pro:8880/images/6cde1672c5556ff23d2d629e89d8d448.jpg" group-title="⭐️Drama",The Truman Show: Historia de una vida (1998)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259747.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados: Una historia verdadera (2018)" tvg-logo="http://redworld.pro:8880/images/039d91880b8467873fb6cc8853f60313.jpg" group-title="⭐️Drama",Atrapados: Una historia verdadera (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259827.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La historia más grande jamás contada (1965)" tvg-logo="http://redworld.pro:8880/images/9401d327eae6498b27fa51ee3339a06c.jpg" group-title="⭐️Drama",La historia más grande jamás contada (1965)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza: Una historia de amor (2017)" tvg-logo="http://redworld.pro:8880/images/c849acfffa5581f3418b946a9bbd191a.jpg" group-title="⭐️Drama",Venganza: Una historia de amor (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259848.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La historia de David Copperfield (2019)" tvg-logo="http://redworld.pro:8880/images/2079ff0a72b799f34a748a7ee945c9f9.jpg" group-title="⭐️Drama",La historia de David Copperfield (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/260038.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia de fantasmas (2017)" tvg-logo="http://redworld.pro:8880/images/6ae29e345570dd37a5a7a28fe0976393.jpg" group-title="⭐️Romance",Historia de fantasmas (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/260109.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Un gesto fútil y estúpido: La historia de Doug Kenney (2018)" tvg-logo="http://redworld.pro:8880/images/b842782a9f376b802c3548f5adf2427a.jpg" group-title="⭐️Comedía",Un gesto fútil y estúpido: La historia de Doug Kenney (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263359.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Borrar Historial (2013)" tvg-logo="http://redworld.pro:8880/images/d883f92f3c7d2979190052ce79af11a7.jpg" group-title="⭐️Comedía",Borrar Historial (2013)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263616.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El muerto cuenta su historia (2016)" tvg-logo="http://redworld.pro:8880/images/8914867b6b46e7cc0472d5f5551cce1f.jpg" group-title="⭐️Comedía",El muerto cuenta su historia (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263801.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Festival de la canción de Eurovisión: La historia de Fire Saga (2020)" tvg-logo="http://redworld.pro:8880/images/27ada8d90a0fe2c8ef7ce9a33766dcb5.jpg" group-title="⭐️Comedía",Festival de la canción de Eurovisión: La historia de Fire Saga (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263866.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Un gesto fútil y estúpido: La historia de Doug Kenney (2018)" tvg-logo="http://redworld.pro:8880/images/b842782a9f376b802c3548f5adf2427a.jpg" group-title="⭐️Comedía",Un gesto fútil y estúpido: La historia de Doug Kenney (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263921.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2021)" tvg-logo="http://redworld.pro:8880/images/690f1b6badeffc1c5fd1ce004a122368.jpg" group-title="⭐️Comedía",Historias lamentables (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264008.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia Policiaca (1985)" tvg-logo="http://redworld.pro:8880/images/3aa429563c73946f7491881384880b76.jpg" group-title="⭐️Comedía",Historia Policiaca (1985)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264083.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La odisea de los giles (2019)" tvg-logo="http://redworld.pro:8880/images/eacad503ebcaeb9cb1ee036e1c381fa4.jpg" group-title="⭐️Comedía",La odisea de los giles (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264180.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La increíble historia de la Isla de las Rosas (2020)" tvg-logo="http://redworld.pro:8880/images/9181c99d22910b86dcb0d7b25d7749cb.jpg" group-title="⭐️Comedía",La increíble historia de la Isla de las Rosas (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264239.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia policiaca 3 (1992)" tvg-logo="http://redworld.pro:8880/images/776924fa0c8c00d7479b34853bc46ec1.jpg" group-title="⭐️Comedía",Historia policiaca 3 (1992)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264551.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Princesa, una historia verdadera (2018)" tvg-logo="http://redworld.pro:8880/images/0a9142e6c5b9693ca70705ee3867fd31.jpg" group-title="⭐️Comedía",Princesa, una historia verdadera (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264565.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Nuestra Pandilla 2: Historia de un verano (2005)" tvg-logo="http://redworld.pro:8880/images/bc58ac495796ed71c1f186825827c306.jpg" group-title="⭐️Comedía",Nuestra Pandilla 2: Historia de un verano (2005)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264945.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La historia real de un falso asesino (2016)" tvg-logo="http://redworld.pro:8880/images/44ebf43a2cde5404de07e433f221f1a9.jpg" group-title="⭐️Comedía",La historia real de un falso asesino (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Truman Show: Historia de una vida (1998)" tvg-logo="http://redworld.pro:8880/images/6cde1672c5556ff23d2d629e89d8d448.jpg" group-title="⭐️Comedía",The Truman Show: Historia de una vida (1998)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264968.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Una historia diferente (2010)" tvg-logo="http://redworld.pro:8880/images/78485282d39e09f3cfbeee5776324ef5.jpg" group-title="⭐️Comedía",Una historia diferente (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265049.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias de fútbol (1997)" tvg-logo="http://redworld.pro:8880/images/ee280f24f3b6aa88777d897a3dd21fe2.jpg" group-title="⭐️Cine Chileno",Historias de fútbol (1997)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265937.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Y Sus Hermanas En Una Historia De Ponis (2013)" tvg-logo="http://redworld.pro:8880/images/1fcbd2d58a332eee7d087b8de2970914.jpg" group-title="⭐️Infantiles",Barbie Y Sus Hermanas En Una Historia De Ponis (2013)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266233.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Bee Movie: La historia de una abeja (2007)" tvg-logo="http://redworld.pro:8880/images/44a92ed6e765232b35223db0f305c898.jpg" group-title="⭐️Infantiles",Bee Movie: La historia de una abeja (2007)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266237.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest: Tu historia (2019)" tvg-logo="http://redworld.pro:8880/images/d9f86cb28f89547ca8ec52ced258849e.jpg" group-title="⭐️Infantiles",Dragon Quest: Tu historia (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266404.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La Increíble Historia de la Pera Gigante (2017)" tvg-logo="http://redworld.pro:8880/images/2a86dff0c3563d4fdef4166e14d99365.jpg" group-title="⭐️Infantiles",La Increíble Historia de la Pera Gigante (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266468.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin II (1990)" tvg-logo="http://redworld.pro:8880/images/8716d4ccca4fe90593a65039ee53c87d.jpg" group-title="⭐️Infantiles",La Historia sin Fin II (1990)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin III (1994)" tvg-logo="http://redworld.pro:8880/images/73de3eedd42123ec4e3cb5c2c36cd839.jpg" group-title="⭐️Infantiles",La Historia sin Fin III (1994)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266601.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Historias de Asgard (2011)" tvg-logo="http://redworld.pro:8880/images/f3f023d2f0ff3f30c5a7dd322d2dbf19.jpg" group-title="⭐️Infantiles",Thor: Historias de Asgard (2011)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266652.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Suertes, humores y pequeñas historias de la Independencia y de la Revolución. (2010)" tvg-logo="http://redworld.pro:8880/images/ed50cee29c22ee8ad4a4b0a438a24684.jpg" group-title="⭐️Infantiles",Suertes, humores y pequeñas historias de la Independencia y de la Revolución. (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266722.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La increíble historia del niño de piedra (2015)" tvg-logo="http://redworld.pro:8880/images/9358040189cbe2d1ea63f07d089bf24f.jpg" group-title="⭐️Infantiles",La increíble historia del niño de piedra (2015)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266747.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Meñique: La historia de Pulgarcito (2014)" tvg-logo="http://redworld.pro:8880/images/ad88e7202186cb20c7f02eeb538ad5c3.jpg" group-title="⭐️Infantiles",Meñique: La historia de Pulgarcito (2014)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266794.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cigüeñas: La historia que no te contaron (2016)" tvg-logo="http://redworld.pro:8880/images/cedcd1398dd0b20595fc88c257f0ccb5.jpg" group-title="⭐️Infantiles",Cigüeñas: La historia que no te contaron (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266941.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest: Tu historia (2019)" tvg-logo="http://redworld.pro:8880/images/d9f86cb28f89547ca8ec52ced258849e.jpg" group-title="⭐️Aventura",Dragon Quest: Tu historia (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267186.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Han Solo: Una historia de Star Wars (2018)" tvg-logo="http://redworld.pro:8880/images/5648bd8298861e7d1051be3687bb3aa9.jpg" group-title="⭐️Aventura",Han Solo: Una historia de Star Wars (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267264.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La historia sin fin (1984)" tvg-logo="http://redworld.pro:8880/images/387ba59e6579230fc6955f5fa1ccdae0.jpg" group-title="⭐️Aventura",La historia sin fin (1984)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin II (1990)" tvg-logo="http://redworld.pro:8880/images/8716d4ccca4fe90593a65039ee53c87d.jpg" group-title="⭐️Aventura",La Historia sin Fin II (1990)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin III (1994)" tvg-logo="http://redworld.pro:8880/images/73de3eedd42123ec4e3cb5c2c36cd839.jpg" group-title="⭐️Aventura",La Historia sin Fin III (1994)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267334.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2016)" tvg-logo="http://redworld.pro:8880/images/4ba1ccfe4fc0c25967d4a1d7d0f54ac9.jpg" group-title="⭐️Aventura",La Odisea (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267346.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Historias de Asgard (2011)" tvg-logo="http://redworld.pro:8880/images/f3f023d2f0ff3f30c5a7dd322d2dbf19.jpg" group-title="⭐️Aventura",Thor: Historias de Asgard (2011)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267722.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Secuestrada: La Historia de Mary Stauffer (2019)" tvg-logo="http://redworld.pro:8880/images/fc01c71ce4e15cbea13be14cdfeffa0e.jpg" group-title="⭐️Terror",Secuestrada: La Historia de Mary Stauffer (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267907.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Drácula: La Historia Jamás Contada (2014)" tvg-logo="http://redworld.pro:8880/images/4b0f6aad603da5f8b483d034d61bf019.jpg" group-title="⭐️Terror",Drácula: La Historia Jamás Contada (2014)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268075.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El muerto cuenta su historia (2016)" tvg-logo="http://redworld.pro:8880/images/8914867b6b46e7cc0472d5f5551cce1f.jpg" group-title="⭐️Terror",El muerto cuenta su historia (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268112.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias de fantasmas (2020)" tvg-logo="http://redworld.pro:8880/images/6668558210552ee5aa15dab4f448921c.jpg" group-title="⭐️Terror",Historias de fantasmas (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268176.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba (2018)" tvg-logo="http://redworld.pro:8880/images/02aeff360a938fa029da87876c38a89f.jpg" group-title="⭐️Terror",Historias de Ultratumba (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268214.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias de miedo para contar en la oscuridad (2019)" tvg-logo="http://redworld.pro:8880/images/d120d878a849e02acb7a3c495f846274.jpg" group-title="⭐️Terror",Historias de miedo para contar en la oscuridad (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268500.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias del barrio negro (1995)" tvg-logo="http://redworld.pro:8880/images/b416385f721974c7e0be8f8016953b73.jpg" group-title="⭐️Terror",Historias del barrio negro (1995)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias del barrio negro 2 (2018)" tvg-logo="http://redworld.pro:8880/images/865392fb2eb30461ef14e86ee4882817.jpg" group-title="⭐️Terror",Historias del barrio negro 2 (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias del Barrio Negro 3 (2020)" tvg-logo="http://redworld.pro:8880/images/13f3050bf6e9e697795ece1bc6b79304.jpg" group-title="⭐️Terror",Historias del Barrio Negro 3 (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268549.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2019)" tvg-logo="http://redworld.pro:8880/images/654dd6ef51f79757f0a1d9d12e8b51ae.jpg" group-title="⭐️Western",La verdadera historia de la banda de Kelly (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268784.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Una historia de navidad (1983)" tvg-logo="http://redworld.pro:8880/images/9c98fbc97a4ec4d6063f7e0ac8d7711b.jpg" group-title="⭐️Navidad 2025",Una historia de navidad (1983)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268989.avi
+--
+#EXTINF:-1 tvg-id="" tvg-name="La historia de Ruth (1960)" tvg-logo="http://redworld.pro:8880/images/55441810cea9011deb7abf66f3e2d089.jpg" group-title="⭐️Semana Santa",La historia de Ruth (1960)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269047.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia policiaca 5 (2004)" tvg-logo="http://redworld.pro:8880/images/6ba60e5c2928ca4047ccadbdc7fcbde1.jpg" group-title="⭐️Artes Marciales",Historia policiaca 5 (2004)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269169.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia Policiaca 2 (1988)" tvg-logo="http://redworld.pro:8880/images/9678605b786dd810c34fcb11d1d5b636.jpg" group-title="⭐️Artes Marciales",Historia Policiaca 2 (1988)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269175.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="100 días de soledad (2018)" tvg-logo="http://redworld.pro:8880/images/420db5f2a71ff9297a93f5a370cfb8ab.jpg" group-title="⭐️Documentales",100 días de soledad (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A la conquista del congreso (2019)" tvg-logo="http://redworld.pro:8880/images/9a25fc15ffb35ef41ac1bf4b03e17154.jpg" group-title="⭐️Documentales",A la conquista del congreso (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alexis Viera, Una historia de superación (2019)" tvg-logo="http://redworld.pro:8880/images/75eaf6ba914b7a9d93a05d7c22d989c7.jpg" group-title="⭐️Documentales",Alexis Viera, Una historia de superación (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Factory (2019)" tvg-logo="http://redworld.pro:8880/images/ffea1dcaec33c69aa5bdc75bd579ce27.jpg" group-title="⭐️Documentales",American Factory (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antes que sea tarde (2016)" tvg-logo="http://redworld.pro:8880/images/40e7af3bbbb1c43e914e7f3ff4d6cb8c.jpg" group-title="⭐️Documentales",Antes que sea tarde (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apolo 11 (2019)" tvg-logo="http://redworld.pro:8880/images/72e77c6c2ecd8dafa2eadab8e0c49e56.jpg" group-title="⭐️Documentales",Apolo 11 (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avicii: True Stories (2017)" tvg-logo="http://redworld.pro:8880/images/0300285707b3f38000b3280d829116d5.jpg" group-title="⭐️Documentales",Avicii: True Stories (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bischofferode. Das Treuhand Trauma (2018)" tvg-logo="http://redworld.pro:8880/images/210903f8648c0b93b1a3a7e97f56fde4.jpg" group-title="⭐️Documentales",Bischofferode. Das Treuhand Trauma (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chivas: La película (2018)" tvg-logo="http://redworld.pro:8880/images/8f639f7a094afabfde110cb568f4e4b8.jpg" group-title="⭐️Documentales",Chivas: La película (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Circus of Books (2019)" tvg-logo="http://redworld.pro:8880/images/6b6029138dccb1e48a00884e6f6b8434.jpg" group-title="⭐️Documentales",Circus of Books (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contragolpe (2017)" tvg-logo="http://redworld.pro:8880/images/cc3822d3dd51d658a7e53013d4cff3b1.jpg" group-title="⭐️Documentales",Contragolpe (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creciendo libres (2016)" tvg-logo="http://redworld.pro:8880/images/cfdfce4d7340c24776ac25d5cb136f6c.jpg" group-title="⭐️Documentales",Creciendo libres (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dentro del volcán (2016)" tvg-logo="http://redworld.pro:8880/images/eda6c10410a2d0892b625433ba627464.jpg" group-title="⭐️Documentales",Dentro del volcán (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Derren Brown: Sacrifice (2018)" tvg-logo="http://redworld.pro:8880/images/a0cc9cbdb179f77ff0835b5c8ddf096c.jpg" group-title="⭐️Documentales",Derren Brown: Sacrifice (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De sicario a Youtuber (2018)" tvg-logo="http://redworld.pro:8880/images/7e911d0e78ac4980a72e4c96f2df5972.jpg" group-title="⭐️Documentales",De sicario a Youtuber (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diciembres (2018)" tvg-logo="http://redworld.pro:8880/images/16836f3d7b4785d16521c2c14141c30b.jpg" group-title="⭐️Documentales",Diciembres (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diego Maradona (2019)" tvg-logo="http://redworld.pro:8880/images/ce91a80cec21a5feb00fcddbc59e79b4.jpg" group-title="⭐️Documentales",Diego Maradona (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dream Big: Creando nuestro mundo (2017)" tvg-logo="http://redworld.pro:8880/images/a7dad6b020c742ae0529d1c99c4560c8.jpg" group-title="⭐️Documentales",Dream Big: Creando nuestro mundo (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nada es Privado (2019)" tvg-logo="http://redworld.pro:8880/images/fd2e08d3bf1afe2ab9e4630f910fd282.jpg" group-title="⭐️Documentales",Nada es Privado (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salud a la venta (2018)" tvg-logo="http://redworld.pro:8880/images/9580f767220348dc23c646ff63b1a207.jpg" group-title="⭐️Documentales",Salud a la venta (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The President's Book of Secrets (2010)" tvg-logo="http://redworld.pro:8880/images/4ef621604244ab16ac446330e9cb1998.jpg" group-title="⭐️Documentales",The President's Book of Secrets (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269223.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Pepe, una vida suprema (2019)" tvg-logo="http://redworld.pro:8880/images/db1bccfab75044721c147c480f52c7f1.jpg" group-title="⭐️Documentales",El Pepe, una vida suprema (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El testigo: Caín y Abel (2018)" tvg-logo="http://redworld.pro:8880/images/ae066763980d21c478dfc68a5e47a2d5.jpg" group-title="⭐️Documentales",El testigo: Caín y Abel (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Em Refúgio (2018)" tvg-logo="http://redworld.pro:8880/images/eee6e3bd11d6539402c25070c81680a2.jpg" group-title="⭐️Documentales",Em Refúgio (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esta es mi familia (2019)" tvg-logo="http://redworld.pro:8880/images/fa1c6cc8b44b3b545e25b17139036037.jpg" group-title="⭐️Documentales",Esta es mi familia (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esto no es un golpe (2018)" tvg-logo="http://redworld.pro:8880/images/b97efa5f034308acbb4b03204a14cce6.jpg" group-title="⭐️Documentales",Esto no es un golpe (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Farruko: En letra de oro (2019)" tvg-logo="http://redworld.pro:8880/images/ea98d166770259740e366e5461200470.jpg" group-title="⭐️Documentales",Farruko: En letra de oro (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise en llamas (2019)" tvg-logo="http://redworld.pro:8880/images/cab7da2bc7784a192f8581641851da2b.jpg" group-title="⭐️Documentales",Paradise en llamas (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Free Solo (2018)" tvg-logo="http://redworld.pro:8880/images/c10c38d9e83c01ee34c57171ab4a7978.jpg" group-title="⭐️Documentales",Free Solo (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hell Fest: Juegos Diabólicos (2018)" tvg-logo="http://redworld.pro:8880/images/29c92a4e7344d4047c0f5ebaa937b4b7.jpg" group-title="⭐️Documentales",Hell Fest: Juegos Diabólicos (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo Soy Durán (2019)" tvg-logo="http://redworld.pro:8880/images/0c2e34866749897d160b37941ee56afa.jpg" group-title="⭐️Documentales",Yo Soy Durán (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ÍCARO (2017)" tvg-logo="http://redworld.pro:8880/images/fe493e2d2b9de1fe1326be0ec024c22b.jpg" group-title="⭐️Documentales",ÍCARO (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La música del silencio (2017)" tvg-logo="http://redworld.pro:8880/images/482ef10a45d7cfc60bc0d0269b604c9e.jpg" group-title="⭐️Documentales",La música del silencio (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tyler Perry's Madea's Big Happy Family - The Play (2010)" tvg-logo="http://redworld.pro:8880/images/f3ea393f7da2251b3965c97d6833ed7e.jpg" group-title="⭐️Documentales",Tyler Perry's Madea's Big Happy Family - The Play (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269237.avi
+#EXTINF:-1 tvg-id="" tvg-name="McLaren (2016)" tvg-logo="http://redworld.pro:8880/images/f43ae3a9590bdefd75fc36283675ee2c.jpg" group-title="⭐️Documentales",McLaren (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mercury 13 (2018)" tvg-logo="http://redworld.pro:8880/images/f0e9625f57cb3007c010449abec8c354.jpg" group-title="⭐️Documentales",Mercury 13 (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michelle & Obama (2016)" tvg-logo="http://redworld.pro:8880/images/4e89a23d4fb5f1f4def72a8f65e062c3.jpg" group-title="⭐️Documentales",Michelle & Obama (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269240.avi
+#EXTINF:-1 tvg-id="" tvg-name="Morir para contar (2019)" tvg-logo="http://redworld.pro:8880/images/d05ed604ea2a126680d4f745a69740c3.jpg" group-title="⭐️Documentales",Morir para contar (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nacidos para ser libres (2011)" tvg-logo="http://redworld.pro:8880/images/cac8c734a16a026b8fedead1133bca27.jpg" group-title="⭐️Documentales",Nacidos para ser libres (2011)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269242.avi
+#EXTINF:-1 tvg-id="" tvg-name="Nadie dice juicios de la prensa libre (2017)" tvg-logo="http://redworld.pro:8880/images/ed81028541083e45b71b77f356239214.jpg" group-title="⭐️Documentales",Nadie dice juicios de la prensa libre (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oil Capital Underground: The Genesis & Evolution of Punk Rock in Tulsa-Late 70's to Mid 90's (2018)" tvg-logo="http://redworld.pro:8880/images/80d4a2ef95716bae45078877e9f55ffe.jpg" group-title="⭐️Documentales",Oil Capital Underground: The Genesis & Evolution of Punk Rock in Tulsa-Late 70's to Mid 90's (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, ángel o demonio (2008)" tvg-logo="http://redworld.pro:8880/images/1a056fd6e6f0029d1b481cc6e4dbc7e8.jpg" group-title="⭐️Documentales",Pablo Escobar, ángel o demonio (2008)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perú: Tesoro Escondido (2017)" tvg-logo="http://redworld.pro:8880/images/75596346c3825ad2dced24f73297593f.jpg" group-title="⭐️Documentales",Perú: Tesoro Escondido (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reina de elefantes (2019)" tvg-logo="http://redworld.pro:8880/images/464a6e4893a1f117c9082e2069aa3cfe.jpg" group-title="⭐️Documentales",Reina de elefantes (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Residente (2017)" tvg-logo="http://redworld.pro:8880/images/1febcac443c41b83bb489538a5c3a86a.jpg" group-title="⭐️Documentales",Residente (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="River, el más grande siempre (2019)" tvg-logo="http://redworld.pro:8880/images/20958cd057d59216e2597df365355843.jpg" group-title="⭐️Documentales",River, el más grande siempre (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una decisión difícil (2017)" tvg-logo="http://redworld.pro:8880/images/34da822e430049bb9201b5730baddd55.jpg" group-title="⭐️Documentales",Una decisión difícil (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shirkers (2018)" tvg-logo="http://redworld.pro:8880/images/0d21aa49e0ec63e6ffa7f2389fb9bdce.jpg" group-title="⭐️Documentales",Shirkers (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Social Animals (2018)" tvg-logo="http://redworld.pro:8880/images/d254403b984a902df93820933b320303.jpg" group-title="⭐️Documentales",Social Animals (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spielberg (2017)" tvg-logo="http://redworld.pro:8880/images/092121e990da385578813b536ebdcd91.jpg" group-title="⭐️Documentales",Spielberg (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superheroes (2011)" tvg-logo="http://redworld.pro:8880/images/2367da51174ab4bd68216563fbcc5d9c.jpg" group-title="⭐️Documentales",Superheroes (2011)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269254.avi
+#EXTINF:-1 tvg-id="" tvg-name="Take Every Wave: La vida de Laird Hamilton (2017)" tvg-logo="http://redworld.pro:8880/images/ba8dc74862ec477dfa7835733fffc436.jpg" group-title="⭐️Documentales",Take Every Wave: La vida de Laird Hamilton (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Kleptocrats (2018)" tvg-logo="http://redworld.pro:8880/images/5b8194ed081920ea2622a8cf936217d6.jpg" group-title="⭐️Documentales",The Kleptocrats (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tres Idénticos Desconocidos (2018)" tvg-logo="http://redworld.pro:8880/images/128192d0cdc2525ea36236627f7bd095.jpg" group-title="⭐️Documentales",Tres Idénticos Desconocidos (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wig (2019)" tvg-logo="http://redworld.pro:8880/images/157711cad9d4ca87a6427900eca61a01.jpg" group-title="⭐️Documentales",Wig (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo no me llamo Rubén Blades (2018)" tvg-logo="http://redworld.pro:8880/images/6e0e85fb78982af3701864c49ba91e94.jpg" group-title="⭐️Documentales",Yo no me llamo Rubén Blades (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HERMANOS LEONES De cachorros a reyes Documental de animales de Africa" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",HERMANOS LEONES De cachorros a reyes Documental de animales de Africa
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HUECOS DE VIDa EUROPA  Alpes Suizos Buhos pajaro carpintero ardillas martas" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",HUECOS DE VIDa EUROPA  Alpes Suizos Buhos pajaro carpintero ardillas martas
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IBERIA SALVAJE Otoño Naturaleza de Espana" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",IBERIA SALVAJE Otoño Naturaleza de Espana
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA BATALLA DE LOS MANDRILES ALFA Selva tropical de Gabon Africa" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",LA BATALLA DE LOS MANDRILES ALFA Selva tropical de Gabon Africa
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA IMPORTANCIA DEL LOBO Parque Nacional de Yellowstone Estados Unidos" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",LA IMPORTANCIA DEL LOBO Parque Nacional de Yellowstone Estados Unidos
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ISLA DE LOS MONOS Historia de una madre  Sri Lanka" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",LA ISLA DE LOS MONOS Historia de una madre  Sri Lanka
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAS ISLAS BALEARES Las islas perdidas de Darwin" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",LAS ISLAS BALEARES Las islas perdidas de Darwin
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOBOS BLANCOS Fantasmas del Artico  Naturaleza salvaje de CANADA" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",LOBOS BLANCOS Fantasmas del Artico  Naturaleza salvaje de CANADA
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los manantiales secretos AMUR EL AMAZONAS DE ASIA" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",Los manantiales secretos AMUR EL AMAZONAS DE ASIA
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS MONTES TATRAS La vida al limite  Documental de naturaleza de Europa HD Rebeco lince" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",LOS MONTES TATRAS La vida al limite  Documental de naturaleza de Europa HD Rebeco lince
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NACIDOS PARA CORRER Migracion de nus en Africa Guepardos hienas y leones" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",NACIDOS PARA CORRER Migracion de nus en Africa Guepardos hienas y leones
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NACIDOS PARA MATAR Documental de depredadores Jaguar caiman leones  tiburones" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",NACIDOS PARA MATAR Documental de depredadores Jaguar caiman leones  tiburones
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SALVAJE Y VIVO El festin de la temporada  Documental HD" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",SALVAJE Y VIVO El festin de la temporada  Documental HD
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SUDAFRICA  En busca de agua   Jirafas elefantes rinocerontes antilopes cebras" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",SUDAFRICA  En busca de agua   Jirafas elefantes rinocerontes antilopes cebras
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAILANDIA Macacos rabones" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",TAILANDIA Macacos rabones
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una vida entre monos  Documental Macacos de Sri lanka" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",Una vida entre monos  Documental Macacos de Sri lanka
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ZAMBIA INDOMITA El bucle de la acacia  Documental HD de fauna salvaje de la sabana Africana" tvg-logo="http://redworld.pro:8880/images/e20a4175e02d5fcb95bc6fc7db01e0ef.jpeg" group-title="⭐️Documentales de Animales",ZAMBIA INDOMITA El bucle de la acacia  Documental HD de fauna salvaje de la sabana Africana
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269277.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Becoming: Mi historia (2020)" tvg-logo="http://redworld.pro:8880/images/3fc9d8b7cb87f6f1a356b4ca4f0e72d3.jpg" group-title="⭐️Netflix(DUAL)",Becoming: Mi historia (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269604.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El amor es una historia (2015)" tvg-logo="http://redworld.pro:8880/images/032f4963c988de403824711546bb67f6.jpg" group-title="⭐️Netflix(DUAL)",El amor es una historia (2015)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269679.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Festival de la canción de Eurovisión: La historia de Fire Saga (2020)" tvg-logo="http://redworld.pro:8880/images/27ada8d90a0fe2c8ef7ce9a33766dcb5.jpg" group-title="⭐️Netflix(DUAL)",Festival de la canción de Eurovisión: La historia de Fire Saga (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269748.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia de un matrimonio (2019)" tvg-logo="http://redworld.pro:8880/images/a5eaf88635bd9755a06d123d7390d10e.jpg" group-title="⭐️Netflix(DUAL)",Historia de un matrimonio (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269783.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los ladrones: la verdadera historia del robo del siglo (2022)" tvg-logo="http://redworld.pro:8880/images/5a87e5e6864cf906f25b51447a18fb4e.jpg" group-title="⭐️Netflix(DUAL)",Los ladrones: la verdadera historia del robo del siglo (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269857.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Malditos, la historia de Fiskales Ad-Hok (2004)" tvg-logo="http://redworld.pro:8880/images/47e4419aecc0a9d03457aaabe09c9287.jpg" group-title="⭐️Conciertos",Malditos, la historia de Fiskales Ad-Hok (2004)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270652.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="CESAR COSTA - LA HISTORIA DE TOMMY \[Karaoke\] Miguel Lobo" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",CESAR COSTA - LA HISTORIA DE TOMMY \[Karaoke\] Miguel Lobo
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/271944.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia de un amor (1956)" tvg-logo="http://redworld.pro:8880/images/ab9421aa38d446ecc1115cb00665a570.jpg" group-title="⭐️Karaokes",Historia de un amor (1956)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historia de un Amor \(con letra\) - Luis Miguel \(Karaoke\)-ZWDqS5StgHk" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",Historia de un Amor \(con letra\) - Luis Miguel \(Karaoke\)-ZWDqS5StgHk
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historia De Un Taxi - Multikaraoke" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",Historia De Un Taxi - Multikaraoke
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Taxi, con letra - Ricardo Arjona Karaoke" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",Historias de Taxi, con letra - Ricardo Arjona Karaoke
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272107.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Karaokanta - Alfredo Olivas - La mejor de las historias" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",Karaokanta - Alfredo Olivas - La mejor de las historias
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272175.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mi Historia Entre Tus Dedos  Al Estilo De Gianluca Grignani  Karaoke K-Box-VMIfuq-gL" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",Mi Historia Entre Tus Dedos  Al Estilo De Gianluca Grignani  Karaoke K-Box-VMIfuq-gL
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272690.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="ricardo arjona - historias de taxi.mpg karaoke \(bajaryoutube.com\)" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",ricardo arjona - historias de taxi.mpg karaoke \(bajaryoutube.com\)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272959.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Martin - Dame Más \(karaoke\)- aMcApN0Ork" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",Ricky Martin - Dame Más \(karaoke\)- aMcApN0Ork
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272966.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias de fútbol (1997)" tvg-logo="http://redworld.pro:8880/images/ee280f24f3b6aa88777d897a3dd21fe2.jpg" group-title="⭐️Cine Chileno",Historias de fútbol (1997)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/279288.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia policiaca 3 (1992)" tvg-logo="http://redworld.pro:8880/images/776924fa0c8c00d7479b34853bc46ec1.jpg" group-title="⭐️Acción",Historia policiaca 3 (1992)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/283984.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2019)" tvg-logo="http://redworld.pro:8880/images/654dd6ef51f79757f0a1d9d12e8b51ae.jpg" group-title="⭐️Acción",La verdadera historia de la banda de Kelly (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/284010.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin II (1990)" tvg-logo="http://redworld.pro:8880/images/8716d4ccca4fe90593a65039ee53c87d.jpg" group-title="⭐️Ciencia Ficción",La Historia sin Fin II (1990)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/284549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin III (1994)" tvg-logo="http://redworld.pro:8880/images/015ca9221186dcbc6529076a232a9ae9.jpg" group-title="⭐️Ciencia Ficción",La Historia sin Fin III (1994)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/284550.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias cruzadas (2011)" tvg-logo="http://redworld.pro:8880/images/8efc767dcbe37166436dd2836ae74dad.jpg" group-title="⭐️Drama",Historias cruzadas (2011)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/286210.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Festival de la canción de Eurovisión: La historia de Fire Saga (2020)" tvg-logo="http://redworld.pro:8880/images/27ada8d90a0fe2c8ef7ce9a33766dcb5.jpg" group-title="⭐️Peliculas Musicales",Festival de la canción de Eurovisión: La historia de Fire Saga (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/287277.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Temple Grandin (2010)" tvg-logo="http://redworld.pro:8880/images/f87bd492f34343c227206b72f334b28b.jpg" group-title="⭐️Documentales",Temple Grandin (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/289752.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Air: La historia detrás del logo (2023)" tvg-logo="http://redworld.pro:8880/images/4ceb47df9536d0a058758d00b958ffa6.jpg" group-title="⭐️Películas 2023",Air: La historia detrás del logo (2023)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/291426.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="2001: Odisea Espacial (1968)" tvg-logo="http://redworld.pro:8880/images/83c1a572176b6b324c687bbef74f137a.jpg" group-title="⭐️Peliculas Internet Lentos",2001: Odisea Espacial (1968)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/293889.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Atrapada en el Manicomio: La Historia de Nellie Bly (2019)" tvg-logo="http://redworld.pro:8880/images/dd8276759cb95cde66e17aa2de662c82.jpg" group-title="⭐️Peliculas Internet Lentos",Atrapada en el Manicomio: La Historia de Nellie Bly (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294071.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados: Una historia verdadera (2018)" tvg-logo="http://redworld.pro:8880/images/039d91880b8467873fb6cc8853f60313.jpg" group-title="⭐️Peliculas Internet Lentos",Atrapados: Una historia verdadera (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294074.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Bee Movie: La historia de una abeja (2007)" tvg-logo="http://redworld.pro:8880/images/44a92ed6e765232b35223db0f305c898.jpg" group-title="⭐️Peliculas Internet Lentos",Bee Movie: La historia de una abeja (2007)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294117.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody: La Historia de Freddie Mercury (2018)" tvg-logo="http://redworld.pro:8880/images/1f600539ed51bd30d0e05687cb11c958.jpg" group-title="⭐️Peliculas Internet Lentos",Bohemian Rhapsody: La Historia de Freddie Mercury (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294156.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest: Tu historia (2019)" tvg-logo="http://redworld.pro:8880/images/d9f86cb28f89547ca8ec52ced258849e.jpg" group-title="⭐️Peliculas Internet Lentos",Dragon Quest: Tu historia (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294368.mp4
+--
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | ENTRETENIMIENTO",ES: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5553.m3u8
+--
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | ENTRETENIMIENTO",ES: AMC BREAK
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5564.m3u8
+--
+#EXTINF:-1 tvg-id="Dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | CULTURA",ES: DMAX
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5601.m3u8
+--
+#EXTINF:-1 tvg-id="0" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | CULTURA",ES: HISTORIA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5618.m3u8
+--
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | CULTURA",ES: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5714.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | CULTURA",ES: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5715.m3u8
+--
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | CULTURA",ES: ODISEA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5724.m3u8
+--
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | CULTURA",ES: AMC BREAK
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25926.m3u8
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | CULTURA",ES: AMC CRIME
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25927.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | CULTURA",ES: M+ DOCUMENTALES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57284.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | PORTUGAL",PT: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/24989.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/discoverychannel.png" group-title="PT | PORTUGAL",PT: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25019.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="https://docdog.top/logo/countries/portugal/historia.png" group-title="PT | PORTUGAL",PT: HISTORIA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25040.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO" tvg-logo="https://docdog.top/logo/countries/portugal/natgeo.png" group-title="PT | PORTUGAL",PT: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/portugal/natgeowild.png" group-title="PT | PORTUGAL",PT: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25052.m3u8
+--
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="PL: TVP HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/tvphistoria.png" group-title="PL | OGÓLNYL",PL: TVP HISTORIA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10251.m3u8
+--
+#EXTINF:-1 tvg-id="AMC" tvg-name="PL: AMC" tvg-logo="https://docdog.top/logo/countries/poland/amc.png" group-title="PL | FILM",PL: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10107.m3u8
+--
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="PL: NATIONAL GEO" tvg-logo="https://docdog.top/logo/countries/poland/natgeo.png" group-title="PL | DOKUMENTALNE",PL: NATIONAL GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10193.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="PL: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/poland/natgeowild.png" group-title="PL | DOKUMENTALNE",PL: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10195.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="PL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png" group-title="PL | DOKUMENTALNE",PL: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10140.m3u8
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="PL: DISCOVERY HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/discoveryhistoria.png" group-title="PL | DOKUMENTALNE",PL: DISCOVERY HISTORIA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10141.m3u8
+--
+#EXTINF:-1 tvg-id="TVP Historia 2" tvg-name="PL: HISTORY 2" tvg-logo="https://docdog.top/logo/countries/poland/h2.png" group-title="PL | DOKUMENTALNE",PL: HISTORY 2
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10175.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PL: HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: HISTORIA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/60928.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO PEOPLE" tvg-logo="https://docdog.top/logo/countries/poland/natgeopeople.png" group-title="PL | Categorizing",PL: NAT GEO PEOPLE
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/60932.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="https://docdog.top/logo/countries/germany/new/DMAX_HD.png" group-title="DE | DEUTSCHLAND",DE: DMAX
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61094.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="https://docdog.top/logo/countries/germany/new/DMAX_HD.png" group-title="DE | DOKU",DE: DMAX
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61209.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATGEO" tvg-logo="https://docdog.top/logo/countries/germany/new/NATGEO.png" group-title="DE | DOKU",DE: NATGEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/germany/new/NATIONAL_GEOGRAPHIC_HD.png" group-title="DE | DOKU",DE: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/germany/new/NATIONAL_GEOGRAPHIC_WILD_HD.png" group-title="DE | DOKU",DE: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61221.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CZ: AMC" tvg-logo="https://docdog.top/logo/countries/cz/amc.png" group-title="EURO | CZ & SLOVAK",CZ: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8351.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CZ: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/cz/discoverychannel.png" group-title="EURO | CZ & SLOVAK",CZ: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8360.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CZ: NAT GEO" tvg-logo="https://docdog.top/logo/countries/cz/natgeo.png" group-title="EURO | CZ & SLOVAK",CZ: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CZ: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/cz/natgeowild.png" group-title="EURO | CZ & SLOVAK",CZ: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8385.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CRO: AMC" tvg-logo="https://docdog.top/logo/countries/croatia/amcro.png" group-title="EURO | CROATIA",CRO: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8421.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CRO: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/croatia/discoverychannel.png" group-title="EURO | CROATIA",CRO: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8437.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CRO: NAT GEO" tvg-logo="https://docdog.top/logo/countries/croatia/natgeo.png" group-title="EURO | CROATIA",CRO: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRO: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/croatia/natgeowild.png" group-title="EURO | CROATIA",CRO: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8486.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BE: NAT GEO" tvg-logo="https://docdog.top/logo/countries/belgium/natgeo.png" group-title="EURO | BELGIUM",BE: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8563.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: AMC" tvg-logo="https://docdog.top/logo/countries/romania/amc.png" group-title="EURO | ROMANIA",RO: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8713.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/romania/discoverychannel.png" group-title="EURO | ROMANIA",RO: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8744.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO" tvg-logo="https://docdog.top/logo/countries/romania/natgeo.png" group-title="EURO | ROMANIA",RO: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/romania/natgeowild.png" group-title="EURO | ROMANIA",RO: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8791.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BG: AMC" tvg-logo="https://docdog.top/logo/countries/bulgaria/amc.png" group-title="EURO | BULGARIA",BG: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8621.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BG: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/bulgaria/discoverychannel.png" group-title="EURO | BULGARIA",BG: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8640.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BG: NAT GEO" tvg-logo="https://docdog.top/logo/countries/bulgaria/natgeo.png" group-title="EURO | BULGARIA",BG: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/bulgaria/natgeowild.png" group-title="EURO | BULGARIA",BG: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8674.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="https://docdog.top/logo/countries/brazil/amc.png" group-title="LAME | BRAZIL",BR: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10678.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/discoverychannel.png" group-title="LAME | BRAZIL",BR: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10689.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO" tvg-logo="https://docdog.top/logo/countries/brazil/natgeo.png" group-title="LAME | BRAZIL",BR: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO KIDS" tvg-logo="https://docdog.top/logo/countries/brazil/natgeokids.png" group-title="LAME | BRAZIL",BR: NAT GEO KIDS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/brazil/natgeowild.png" group-title="LAME | BRAZIL",BR: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10734.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="https://docdog.top/logo/countries/turkey/dmax.png" group-title="TR | GENERAL",TR: DMAX HD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/62396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HEVC" tvg-logo="" group-title="TR | GENERAL",TR: DMAX HEVC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/62397.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/italy/discovery-channel-it.png" group-title="IT | ITALY",IT: DISCOVERY CHANNEL FHD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/italy/discovery-channel-it.png" group-title="IT | ITALY",IT: DISCOVERY CHANNEL HD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61798.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: DMAX FHD" tvg-logo="https://docdog.top/logo/countries/italy/dmax.png" group-title="IT | ITALY",IT: DMAX FHD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: DMAX HD" tvg-logo="https://docdog.top/logo/countries/italy/dmax.png" group-title="IT | ITALY",IT: DMAX HD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61805.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/italy/natgeowild.png" group-title="IT | ITALY",IT: NAT GEO WILD FHD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO WILD HD" tvg-logo="https://docdog.top/logo/countries/italy/natgeowild.png" group-title="IT | ITALY",IT: NAT GEO WILD HD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61821.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="IT | ITALY",IT: NATIONAL GEOGRAPHIC FHD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/61823.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/greece/countrypic.png" group-title="EURO | GREECE",GR: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/4604.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/greece/discovery-channel-ar.png" group-title="EURO | GREECE",GR: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/4660.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/uk/discoverychannel.png" group-title="UK",UK: VIP DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/29791.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/uk/natgeowild.png" group-title="UK",UK: VIP NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/29801.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP DMAX" tvg-logo="https://docdog.top/logo/countries/uk/dmax.png" group-title="UK",UK: VIP DMAX
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/29827.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP AMC" tvg-logo="https://docdog.top/logo/countries/uk/amc.png" group-title="UK",UK: VIP AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/29836.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP NAT GEO" tvg-logo="https://docdog.top/logo/countries/uk/natgeo.png" group-title="UK",UK: VIP NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/29973.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/sweden/discoverychannel.png" group-title="EURO | SWEDEN",SWE: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5457.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographic.png" group-title="EURO | SWEDEN",SWE: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographicwild.png" group-title="EURO | SWEDEN",SWE: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5511.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AF: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/africa/discoverychannel.png" group-title="AFR | AFRICA",AF: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52246.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AF: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/africa/natgeo.png" group-title="AFR | AFRICA",AF: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/africa/natgeowild.png" group-title="AFR | AFRICA",AF: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52307.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="ARAB | OSN",AR: OSN NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/53150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="ARAB | OSN",AR: OSN NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/53151.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/natgeowild.png" group-title="ARAB | EGYPT",AR: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/53090.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD NAT GEO" tvg-logo="https://docdog.top/logo/countries/arab/natgeo.png" group-title="ARAB",AR: AD NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52695.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/albania/discoverychannel.png" group-title="EURO | ALBANIA",AL: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57613.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AL: NAT GEO" tvg-logo="https://docdog.top/logo/countries/albania/natgeo.png" group-title="EURO | ALBANIA",AL: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57681.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="NO: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/norway/natgeowild.png" group-title="EURO | NORWAY",NO: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8940.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="FI: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/finland/discoverychannel.png" group-title="EURO | FINLAND",FI: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8966.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="FI: NAT GEO WILD [MULTI-SUB]" tvg-logo="https://docdog.top/logo/countries/finland/natgeowild.png" group-title="EURO | FINLAND",FI: NAT GEO WILD [MULTI-SUB]
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8978.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DK: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/denmark/discoverychannel.png" group-title="EURO | DENMARK",DK: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8999.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DK: NAT GEO" tvg-logo="https://docdog.top/logo/countries/denmark/natgeo.png" group-title="EURO | DENMARK",DK: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/9015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/denmark/natgeowild.png" group-title="EURO | DENMARK",DK: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/9016.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC LUBBOCK KAMC" tvg-logo="" group-title="USA | VIP-A",USA: ABC LUBBOCK KAMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/70993.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC EN ESPAÑOL HD [Sᴛᴠ+]" tvg-logo="" group-title="USA | VIP-A",USA: AMC EN ESPAÑOL HD [Sᴛᴠ+]
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/71074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC NETWORK" tvg-logo="" group-title="USA | VIP-A",USA: AMC NETWORK
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/71075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC NETWORK (WEST)" tvg-logo="" group-title="USA | VIP-A",USA: AMC NETWORK (WEST)
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/71076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC PRESENTS" tvg-logo="" group-title="USA | VIP-A",USA: AMC PRESENTS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/71077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC STORIES" tvg-logo="" group-title="USA | VIP-A",USA: AMC STORIES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/71078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC THRILLERS" tvg-logo="" group-title="USA | VIP-A",USA: AMC THRILLERS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/71079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC+" tvg-logo="" group-title="USA | VIP-A",USA: AMC+
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/71080.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NAT GEO WILD" tvg-logo="" group-title="USA | VIP-A",USA: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/72295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="USA | VIP-A",USA: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/72296.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA",ARG: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10071.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="https://docdog.top/logo/countries/hungary/amc.png" group-title="EURO | HUNGARY",HU: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8834.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/hungary/discoverychannel.png" group-title="EURO | HUNGARY",HU: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8853.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: NAT GEO" tvg-logo="https://docdog.top/logo/countries/hungary/natgeo.png" group-title="EURO | HUNGARY",HU: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HU: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/hungary/natgeowild.png" group-title="EURO | HUNGARY",HU: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8893.m3u8
+--
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="FR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_CHANNEL.png" group-title="FR | LA NATURE",FR: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/8017.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/france/natgeowild.png" group-title="FR | DIVERTISSEMENT",FR: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/58394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEO" tvg-logo="https://docdog.top/logo/countries/france/natgeo.png" group-title="FR | DIVERTISSEMENT",FR: NATIONAL GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/58395.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: AMC" tvg-logo="https://docdog.top/logo/countries/exyu/amc.png" group-title="EURO | EX-YU",EX-YU: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/51684.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/exyu/discoverychannel.png" group-title="EURO | EX-YU",EX-YU: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/51719.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: NAT GEO" tvg-logo="https://docdog.top/logo/countries/exyu/natgeo.png" group-title="EURO | EX-YU",EX-YU: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/51780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/exyu/natgeowild.png" group-title="EURO | EX-YU",EX-YU: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/51781.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="SRB: NAT GEO" tvg-logo="https://docdog.top/logo/countries/serbia/natgeo.png" group-title="EURO | SERBIA",SRB: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/9325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SRB: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/serbia/natgeowild.png" group-title="EURO | SERBIA",SRB: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/9326.m3u8
+--
+#EXTINF:-1 tvg-id="Discovery [TV]" tvg-name="NL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/netherlands/discoverychannel.png" group-title="NL | NETHERLANDS",NL: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/9861.m3u8
+--
+#EXTINF:-1 tvg-id="National Geographic [TV]" tvg-name="NL: NAT GEO" tvg-logo="https://docdog.top/logo/countries/netherlands/natgeo.png" group-title="NL | NETHERLANDS",NL: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/9902.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild [TV]" tvg-name="NL: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/netherlands/natgeowild.png" group-title="NL | NETHERLANDS",NL: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/9903.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AT: DMAX" tvg-logo="https://docdog.top/logo/countries/austria/dmax.png" group-title="EURO | AUSTRIA",AT: DMAX
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/10534.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/discoverychannel.png" group-title="LAME | LATINO",LA: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/18398.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: AMC" tvg-logo="https://docdog.top/logo/countries/latino/amc.png" group-title="LAME | LATINO",LA: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/18508.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/latino/natgeowild.png" group-title="LAME | LATINO",LA: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/18527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO" tvg-logo="https://docdog.top/logo/countries/latino/natgeo.png" group-title="LAME | LATINO",LA: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/18528.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AMC" tvg-logo="https://docdog.top/logo/countries/mexico/amc.png" group-title="LAME | MEXICO",MEX: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52476.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/discoverychannel.png" group-title="LAME | MEXICO",MEX: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52508.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO" tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png" group-title="LAME | MEXICO",MEX: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png" group-title="LAME | MEXICO",MEX: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52559.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RUS: AMC" tvg-logo="https://docdog.top/logo/countries/russian/amc.png" group-title="EURO | RUSSIAN",RUS: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/51926.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RUS: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/russian/discoverychannel.png" group-title="EURO | RUSSIAN",RUS: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/51948.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RUS: NAT GEO" tvg-logo="https://docdog.top/logo/countries/russian/natgeo.png" group-title="EURO | RUSSIAN",RUS: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUS: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/russian/natgeowild.png" group-title="EURO | RUSSIAN",RUS: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/52040.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IN: DISCOVERY CHANNEL HINDI" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA",IN: DISCOVERY CHANNEL HINDI
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/53457.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO" tvg-logo="https://docdog.top/logo/countries/india/natgeo.png" group-title="ASIA | INDIA",IN: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/53553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/india/natgeowild.png" group-title="ASIA | INDIA",IN: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/53554.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: AMC" tvg-logo="https://docdog.top/logo/countries/canada/amc.png" group-title="NAME | CA",CA: AMC
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/23701.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO" tvg-logo="https://docdog.top/logo/countries/canada/natgeo.png" group-title="NAME | CA",CA: NAT GEO
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/23725.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/canada/wildtv.png" group-title="NAME | CA",CA: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/23781.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1PwAMCHjQDRDSMRwRJBmAXWRGY.jpg" group-title="VOD | FRANCE",Birds of Prey (1973)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/32521.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="2001: Una odisea del espacio (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sln50uQYigvu5AvN72JfYfu1ckq.jpg" group-title="VOD | SPAIN",2001: Una odisea del espacio (1968)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35158.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Una historia del Bronx (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntJhIHpUzMtwlqLpzvzFtEDr1c3.jpg" group-title="VOD | SPAIN",Una historia del Bronx (1993)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35262.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Aventura en la prehistoria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftEgCKA6Um5V3r7UqbeeK41Npzv.jpg" group-title="VOD | SPAIN",Boonie Bears: Aventura en la prehistoria (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35325.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias de una indecisa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGurwTLbF8i5kacFsRpynWR7XCh.jpg" group-title="VOD | SPAIN",Historias de una indecisa (2017)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historia de un matrimonio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opePIU8Qt1jayldYY3GzuxqSy2J.jpg" group-title="VOD | SPAIN",Historia de un matrimonio (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35740.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="La odisea de los giles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg" group-title="VOD | SPAIN",La odisea de los giles (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35922.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" group-title="VOD | SPAIN",La verdadera historia de la banda de Kelly (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35942.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Maquia: Una historia de amor inmortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg" group-title="VOD | SPAIN",Maquia: Una historia de amor inmortal (2018)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/36031.avi
+--
+#EXTINF:-1 tvg-id="" tvg-name="La increíble historia de David Copperfield (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8bitmrt5jEMmn1GvetRoYXaIl9.jpg" group-title="VOD | SPAIN",La increíble historia de David Copperfield (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/36490.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mrs. Soffel, una historia real (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fT1HUPb74lAnDWyK0v5cBdYk6Qa.jpg" group-title="VOD | SPAIN",Mrs. Soffel, una historia real (1984)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/36581.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Eternamente enamorados (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmcoCfKMLgPYtCXrmzz1wgtSYO9.jpg" group-title="VOD | SPAIN",Eternamente enamorados (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/36602.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="NETFLIX | Action",Army of the Dead (2021)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/58886.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Close - Dem Feind zu nah (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4T3lvy2eJoOAMc16Y465aWfhCi.jpg" group-title="VOD | GERMANY NEU",Close - Dem Feind zu nah (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/54995.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX KURMANCHI" tvg-logo="https://docdog.top/logo/countries/kurdistan/KURDMAXKURMANCHI.jpg" group-title="ASIA | KURDISTAN",KU: KURDMAX KURMANCHI
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/55953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX Sorani" tvg-logo="https://docdog.top/logo/countries/kurdistan/KURDMAXPEPÛLESORANI.jpg" group-title="ASIA | KURDISTAN",KU: KURDMAX Sorani
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/55954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX SHOW SORANI" tvg-logo="https://docdog.top/logo/countries/kurdistan/KURDMAXSHOWSORANI.jpg" group-title="ASIA | KURDISTAN",KU: KURDMAX SHOW SORANI
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/55955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX SHOW" tvg-logo="https://docdog.top/logo/countries/kurdistan/kurdshow.png" group-title="ASIA | KURDISTAN",KU: KURDMAX SHOW
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/55956.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | SPANISH",Bárbaros S01 E01
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/36850.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Close Enough S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1pTS1ATaAmCCcd8cazTqVWYGKu.jpg" group-title="SERIES | SPANISH",Close Enough S01 E04
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/37078.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Night Of S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s4BKwcvYmyc8C4amcd2ZjeLEVq.jpg" group-title="SERIES | SPANISH",The Night Of S01 E08
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38156.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="October Faction S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtHpXLKVwamcOJJhIf01MtAIH0T.jpg" group-title="SERIES | NETFLIX",October Faction S01 E08
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38768.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Scream: The TV Series S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tamCZAYWxt1TPYDh8AU9j0QDTQW.jpg" group-title="SERIES | NETFLIX",Scream: The TV Series S02 E06
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/39911.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="High Maintenance S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PhDAMCCKjZMFBcXY4piXg3nPZe.jpg" group-title="SERIES | HBO",High Maintenance S02 E01
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/40595.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Politician S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwlP4oAmC5WU2McARhuwvJ2G065.jpg" group-title="SERIES | NETFLIX",The Politician S02 E02
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/42358.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amcPz3KtJa67sFU8fWm6293wKn1.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E02
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/42832.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMoIdnLnwzeF6amCjuz7mCEpEet.jpg" group-title="SERIES | NETFLIX",Arrow S01 E06
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/43079.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Barbarians S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | NETFLIX",Barbarians S01 E01
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/43655.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg" group-title="SERIES | NETFLIX",Lucifer S02 E06
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/44994.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Barbares S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | FRANCH",Barbares S01 E01
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/46847.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Barbarians S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | FRANCH",Barbarians S01 E01
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/46853.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me a Story S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NxRAMC2yTmODlguQOGxyGOOueX.jpg" group-title="SERIES | FRANCH",Tell Me a Story S02 E09
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/48359.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Wet Hot American Summer: First Day of Camp S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wx2hKw8xEAmcWMNBvgj4O68WkGD.jpg" group-title="SERIES | FRANCH",Wet Hot American Summer: First Day of Camp S01 E08
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/48941.mkv
+--
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | ENTRETENIMIENTO",ES: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5553.m3u8
+--
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | ENTRETENIMIENTO",ES: AMC BREAK
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5564.m3u8
+--
+#EXTINF:-1 tvg-id="Dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | CULTURA",ES: DMAX
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5601.m3u8
+--
+#EXTINF:-1 tvg-id="0" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | CULTURA",ES: HISTORIA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5618.m3u8
+--
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | CULTURA",ES: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5714.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | CULTURA",ES: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5715.m3u8
+--
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | CULTURA",ES: ODISEA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5724.m3u8
+--
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | CULTURA",ES: AMC BREAK
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25926.m3u8
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | CULTURA",ES: AMC CRIME
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25927.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | CULTURA",ES: M+ DOCUMENTALES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57284.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | PORTUGAL",PT: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/24989.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/discoverychannel.png" group-title="PT | PORTUGAL",PT: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25019.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="https://docdog.top/logo/countries/portugal/historia.png" group-title="PT | PORTUGAL",PT: HISTORIA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25040.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO" tvg-logo="https://docdog.top/logo/countries/portugal/natgeo.png" group-title="PT | PORTUGAL",PT: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/portugal/natgeowild.png" group-title="PT | PORTUGAL",PT: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25052.m3u8
+--
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="PL: TVP HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/tvphistoria.png" group-title="PL | OGÓLNYL",PL: TVP HISTORIA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10251.m3u8
+--
+#EXTINF:-1 tvg-id="AMC" tvg-name="PL: AMC" tvg-logo="https://docdog.top/logo/countries/poland/amc.png" group-title="PL | FILM",PL: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10107.m3u8
+--
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="PL: NATIONAL GEO" tvg-logo="https://docdog.top/logo/countries/poland/natgeo.png" group-title="PL | DOKUMENTALNE",PL: NATIONAL GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10193.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="PL: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/poland/natgeowild.png" group-title="PL | DOKUMENTALNE",PL: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10195.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="PL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png" group-title="PL | DOKUMENTALNE",PL: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10140.m3u8
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="PL: DISCOVERY HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/discoveryhistoria.png" group-title="PL | DOKUMENTALNE",PL: DISCOVERY HISTORIA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10141.m3u8
+--
+#EXTINF:-1 tvg-id="TVP Historia 2" tvg-name="PL: HISTORY 2" tvg-logo="https://docdog.top/logo/countries/poland/h2.png" group-title="PL | DOKUMENTALNE",PL: HISTORY 2
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10175.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PL: HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: HISTORIA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/60928.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO PEOPLE" tvg-logo="https://docdog.top/logo/countries/poland/natgeopeople.png" group-title="PL | Categorizing",PL: NAT GEO PEOPLE
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/60932.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="https://docdog.top/logo/countries/germany/new/DMAX_HD.png" group-title="DE | DEUTSCHLAND",DE: DMAX
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61094.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="https://docdog.top/logo/countries/germany/new/DMAX_HD.png" group-title="DE | DOKU",DE: DMAX
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61209.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATGEO" tvg-logo="https://docdog.top/logo/countries/germany/new/NATGEO.png" group-title="DE | DOKU",DE: NATGEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/germany/new/NATIONAL_GEOGRAPHIC_HD.png" group-title="DE | DOKU",DE: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/germany/new/NATIONAL_GEOGRAPHIC_WILD_HD.png" group-title="DE | DOKU",DE: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61221.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CZ: AMC" tvg-logo="https://docdog.top/logo/countries/cz/amc.png" group-title="EURO | CZ & SLOVAK",CZ: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8351.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CZ: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/cz/discoverychannel.png" group-title="EURO | CZ & SLOVAK",CZ: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8360.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CZ: NAT GEO" tvg-logo="https://docdog.top/logo/countries/cz/natgeo.png" group-title="EURO | CZ & SLOVAK",CZ: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CZ: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/cz/natgeowild.png" group-title="EURO | CZ & SLOVAK",CZ: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8385.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CRO: AMC" tvg-logo="https://docdog.top/logo/countries/croatia/amcro.png" group-title="EURO | CROATIA",CRO: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8421.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CRO: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/croatia/discoverychannel.png" group-title="EURO | CROATIA",CRO: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8437.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CRO: NAT GEO" tvg-logo="https://docdog.top/logo/countries/croatia/natgeo.png" group-title="EURO | CROATIA",CRO: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRO: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/croatia/natgeowild.png" group-title="EURO | CROATIA",CRO: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8486.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BE: NAT GEO" tvg-logo="https://docdog.top/logo/countries/belgium/natgeo.png" group-title="EURO | BELGIUM",BE: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8563.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: AMC" tvg-logo="https://docdog.top/logo/countries/romania/amc.png" group-title="EURO | ROMANIA",RO: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8713.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/romania/discoverychannel.png" group-title="EURO | ROMANIA",RO: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8744.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO" tvg-logo="https://docdog.top/logo/countries/romania/natgeo.png" group-title="EURO | ROMANIA",RO: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/romania/natgeowild.png" group-title="EURO | ROMANIA",RO: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8791.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BG: AMC" tvg-logo="https://docdog.top/logo/countries/bulgaria/amc.png" group-title="EURO | BULGARIA",BG: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8621.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BG: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/bulgaria/discoverychannel.png" group-title="EURO | BULGARIA",BG: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8640.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BG: NAT GEO" tvg-logo="https://docdog.top/logo/countries/bulgaria/natgeo.png" group-title="EURO | BULGARIA",BG: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/bulgaria/natgeowild.png" group-title="EURO | BULGARIA",BG: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8674.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="https://docdog.top/logo/countries/brazil/amc.png" group-title="LAME | BRAZIL",BR: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10678.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/discoverychannel.png" group-title="LAME | BRAZIL",BR: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10689.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO" tvg-logo="https://docdog.top/logo/countries/brazil/natgeo.png" group-title="LAME | BRAZIL",BR: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO KIDS" tvg-logo="https://docdog.top/logo/countries/brazil/natgeokids.png" group-title="LAME | BRAZIL",BR: NAT GEO KIDS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/brazil/natgeowild.png" group-title="LAME | BRAZIL",BR: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10734.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="https://docdog.top/logo/countries/turkey/dmax.png" group-title="TR | GENERAL",TR: DMAX HD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/62396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HEVC" tvg-logo="" group-title="TR | GENERAL",TR: DMAX HEVC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/62397.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/italy/discovery-channel-it.png" group-title="IT | ITALY",IT: DISCOVERY CHANNEL FHD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: DISCOVERY CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/italy/discovery-channel-it.png" group-title="IT | ITALY",IT: DISCOVERY CHANNEL HD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61798.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: DMAX FHD" tvg-logo="https://docdog.top/logo/countries/italy/dmax.png" group-title="IT | ITALY",IT: DMAX FHD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: DMAX HD" tvg-logo="https://docdog.top/logo/countries/italy/dmax.png" group-title="IT | ITALY",IT: DMAX HD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61805.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/italy/natgeowild.png" group-title="IT | ITALY",IT: NAT GEO WILD FHD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO WILD HD" tvg-logo="https://docdog.top/logo/countries/italy/natgeowild.png" group-title="IT | ITALY",IT: NAT GEO WILD HD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61821.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IT: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="IT | ITALY",IT: NATIONAL GEOGRAPHIC FHD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/61823.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/greece/countrypic.png" group-title="EURO | GREECE",GR: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/4604.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/greece/discovery-channel-ar.png" group-title="EURO | GREECE",GR: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/4660.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/uk/discoverychannel.png" group-title="UK",UK: VIP DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/29791.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/uk/natgeowild.png" group-title="UK",UK: VIP NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/29801.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP DMAX" tvg-logo="https://docdog.top/logo/countries/uk/dmax.png" group-title="UK",UK: VIP DMAX
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/29827.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP AMC" tvg-logo="https://docdog.top/logo/countries/uk/amc.png" group-title="UK",UK: VIP AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/29836.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP NAT GEO" tvg-logo="https://docdog.top/logo/countries/uk/natgeo.png" group-title="UK",UK: VIP NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/29973.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/sweden/discoverychannel.png" group-title="EURO | SWEDEN",SWE: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5457.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographic.png" group-title="EURO | SWEDEN",SWE: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographicwild.png" group-title="EURO | SWEDEN",SWE: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5511.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AF: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/africa/discoverychannel.png" group-title="AFR | AFRICA",AF: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52246.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AF: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/africa/natgeo.png" group-title="AFR | AFRICA",AF: NATIONAL GEOGRAPHIC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/africa/natgeowild.png" group-title="AFR | AFRICA",AF: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52307.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="ARAB | OSN",AR: OSN NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/53150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="ARAB | OSN",AR: OSN NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/53151.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/natgeowild.png" group-title="ARAB | EGYPT",AR: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/53090.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD NAT GEO" tvg-logo="https://docdog.top/logo/countries/arab/natgeo.png" group-title="ARAB",AR: AD NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52695.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/albania/discoverychannel.png" group-title="EURO | ALBANIA",AL: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57613.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AL: NAT GEO" tvg-logo="https://docdog.top/logo/countries/albania/natgeo.png" group-title="EURO | ALBANIA",AL: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57681.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="NO: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/norway/natgeowild.png" group-title="EURO | NORWAY",NO: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8940.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="FI: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/finland/discoverychannel.png" group-title="EURO | FINLAND",FI: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8966.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="FI: NAT GEO WILD [MULTI-SUB]" tvg-logo="https://docdog.top/logo/countries/finland/natgeowild.png" group-title="EURO | FINLAND",FI: NAT GEO WILD [MULTI-SUB]
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8978.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DK: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/denmark/discoverychannel.png" group-title="EURO | DENMARK",DK: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8999.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DK: NAT GEO" tvg-logo="https://docdog.top/logo/countries/denmark/natgeo.png" group-title="EURO | DENMARK",DK: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/9015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/denmark/natgeowild.png" group-title="EURO | DENMARK",DK: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/9016.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC LUBBOCK KAMC" tvg-logo="" group-title="USA | VIP-A",USA: ABC LUBBOCK KAMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/70993.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC EN ESPAÑOL HD [Sᴛᴠ+]" tvg-logo="" group-title="USA | VIP-A",USA: AMC EN ESPAÑOL HD [Sᴛᴠ+]
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/71074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC NETWORK" tvg-logo="" group-title="USA | VIP-A",USA: AMC NETWORK
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/71075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC NETWORK (WEST)" tvg-logo="" group-title="USA | VIP-A",USA: AMC NETWORK (WEST)
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/71076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC PRESENTS" tvg-logo="" group-title="USA | VIP-A",USA: AMC PRESENTS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/71077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC STORIES" tvg-logo="" group-title="USA | VIP-A",USA: AMC STORIES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/71078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC THRILLERS" tvg-logo="" group-title="USA | VIP-A",USA: AMC THRILLERS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/71079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC+" tvg-logo="" group-title="USA | VIP-A",USA: AMC+
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/71080.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NAT GEO WILD" tvg-logo="" group-title="USA | VIP-A",USA: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/72295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="USA | VIP-A",USA: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/72296.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA",ARG: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10071.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="https://docdog.top/logo/countries/hungary/amc.png" group-title="EURO | HUNGARY",HU: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8834.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/hungary/discoverychannel.png" group-title="EURO | HUNGARY",HU: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8853.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: NAT GEO" tvg-logo="https://docdog.top/logo/countries/hungary/natgeo.png" group-title="EURO | HUNGARY",HU: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HU: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/hungary/natgeowild.png" group-title="EURO | HUNGARY",HU: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8893.m3u8
+--
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="FR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_CHANNEL.png" group-title="FR | LA NATURE",FR: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/8017.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/france/natgeowild.png" group-title="FR | DIVERTISSEMENT",FR: NATIONAL GEOGRAPHIC WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/58394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEO" tvg-logo="https://docdog.top/logo/countries/france/natgeo.png" group-title="FR | DIVERTISSEMENT",FR: NATIONAL GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/58395.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: AMC" tvg-logo="https://docdog.top/logo/countries/exyu/amc.png" group-title="EURO | EX-YU",EX-YU: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/51684.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/exyu/discoverychannel.png" group-title="EURO | EX-YU",EX-YU: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/51719.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: NAT GEO" tvg-logo="https://docdog.top/logo/countries/exyu/natgeo.png" group-title="EURO | EX-YU",EX-YU: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/51780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/exyu/natgeowild.png" group-title="EURO | EX-YU",EX-YU: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/51781.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="SRB: NAT GEO" tvg-logo="https://docdog.top/logo/countries/serbia/natgeo.png" group-title="EURO | SERBIA",SRB: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/9325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SRB: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/serbia/natgeowild.png" group-title="EURO | SERBIA",SRB: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/9326.m3u8
+--
+#EXTINF:-1 tvg-id="Discovery [TV]" tvg-name="NL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/netherlands/discoverychannel.png" group-title="NL | NETHERLANDS",NL: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/9861.m3u8
+--
+#EXTINF:-1 tvg-id="National Geographic [TV]" tvg-name="NL: NAT GEO" tvg-logo="https://docdog.top/logo/countries/netherlands/natgeo.png" group-title="NL | NETHERLANDS",NL: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/9902.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild [TV]" tvg-name="NL: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/netherlands/natgeowild.png" group-title="NL | NETHERLANDS",NL: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/9903.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="AT: DMAX" tvg-logo="https://docdog.top/logo/countries/austria/dmax.png" group-title="EURO | AUSTRIA",AT: DMAX
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/10534.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/discoverychannel.png" group-title="LAME | LATINO",LA: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/18398.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: AMC" tvg-logo="https://docdog.top/logo/countries/latino/amc.png" group-title="LAME | LATINO",LA: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/18508.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/latino/natgeowild.png" group-title="LAME | LATINO",LA: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/18527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO" tvg-logo="https://docdog.top/logo/countries/latino/natgeo.png" group-title="LAME | LATINO",LA: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/18528.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AMC" tvg-logo="https://docdog.top/logo/countries/mexico/amc.png" group-title="LAME | MEXICO",MEX: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52476.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/discoverychannel.png" group-title="LAME | MEXICO",MEX: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52508.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO" tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png" group-title="LAME | MEXICO",MEX: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png" group-title="LAME | MEXICO",MEX: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52559.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RUS: AMC" tvg-logo="https://docdog.top/logo/countries/russian/amc.png" group-title="EURO | RUSSIAN",RUS: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/51926.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RUS: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/russian/discoverychannel.png" group-title="EURO | RUSSIAN",RUS: DISCOVERY CHANNEL
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/51948.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="RUS: NAT GEO" tvg-logo="https://docdog.top/logo/countries/russian/natgeo.png" group-title="EURO | RUSSIAN",RUS: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUS: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/russian/natgeowild.png" group-title="EURO | RUSSIAN",RUS: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/52040.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IN: DISCOVERY CHANNEL HINDI" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="ASIA | INDIA",IN: DISCOVERY CHANNEL HINDI
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/53457.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO" tvg-logo="https://docdog.top/logo/countries/india/natgeo.png" group-title="ASIA | INDIA",IN: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/53553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/india/natgeowild.png" group-title="ASIA | INDIA",IN: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/53554.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: AMC" tvg-logo="https://docdog.top/logo/countries/canada/amc.png" group-title="NAME | CA",CA: AMC
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/23701.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO" tvg-logo="https://docdog.top/logo/countries/canada/natgeo.png" group-title="NAME | CA",CA: NAT GEO
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/23725.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/canada/wildtv.png" group-title="NAME | CA",CA: NAT GEO WILD
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/23781.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1PwAMCHjQDRDSMRwRJBmAXWRGY.jpg" group-title="VOD | FRANCE",Birds of Prey (1973)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/32521.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="2001: Una odisea del espacio (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sln50uQYigvu5AvN72JfYfu1ckq.jpg" group-title="VOD | SPAIN",2001: Una odisea del espacio (1968)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35158.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Una historia del Bronx (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntJhIHpUzMtwlqLpzvzFtEDr1c3.jpg" group-title="VOD | SPAIN",Una historia del Bronx (1993)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35262.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Aventura en la prehistoria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftEgCKA6Um5V3r7UqbeeK41Npzv.jpg" group-title="VOD | SPAIN",Boonie Bears: Aventura en la prehistoria (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35325.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias de una indecisa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGurwTLbF8i5kacFsRpynWR7XCh.jpg" group-title="VOD | SPAIN",Historias de una indecisa (2017)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historia de un matrimonio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opePIU8Qt1jayldYY3GzuxqSy2J.jpg" group-title="VOD | SPAIN",Historia de un matrimonio (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35740.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="La odisea de los giles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg" group-title="VOD | SPAIN",La odisea de los giles (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35922.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" group-title="VOD | SPAIN",La verdadera historia de la banda de Kelly (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35942.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Maquia: Una historia de amor inmortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg" group-title="VOD | SPAIN",Maquia: Una historia de amor inmortal (2018)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/36031.avi
+--
+#EXTINF:-1 tvg-id="" tvg-name="La increíble historia de David Copperfield (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8bitmrt5jEMmn1GvetRoYXaIl9.jpg" group-title="VOD | SPAIN",La increíble historia de David Copperfield (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/36490.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mrs. Soffel, una historia real (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fT1HUPb74lAnDWyK0v5cBdYk6Qa.jpg" group-title="VOD | SPAIN",Mrs. Soffel, una historia real (1984)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/36581.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Eternamente enamorados (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmcoCfKMLgPYtCXrmzz1wgtSYO9.jpg" group-title="VOD | SPAIN",Eternamente enamorados (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/36602.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="NETFLIX | Action",Army of the Dead (2021)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/58886.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Close - Dem Feind zu nah (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4T3lvy2eJoOAMc16Y465aWfhCi.jpg" group-title="VOD | GERMANY NEU",Close - Dem Feind zu nah (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/54995.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX KURMANCHI" tvg-logo="https://docdog.top/logo/countries/kurdistan/KURDMAXKURMANCHI.jpg" group-title="ASIA | KURDISTAN",KU: KURDMAX KURMANCHI
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/55953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX Sorani" tvg-logo="https://docdog.top/logo/countries/kurdistan/KURDMAXPEPÛLESORANI.jpg" group-title="ASIA | KURDISTAN",KU: KURDMAX Sorani
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/55954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX SHOW SORANI" tvg-logo="https://docdog.top/logo/countries/kurdistan/KURDMAXSHOWSORANI.jpg" group-title="ASIA | KURDISTAN",KU: KURDMAX SHOW SORANI
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/55955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURDMAX SHOW" tvg-logo="https://docdog.top/logo/countries/kurdistan/kurdshow.png" group-title="ASIA | KURDISTAN",KU: KURDMAX SHOW
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/55956.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | SPANISH",Bárbaros S01 E01
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/36850.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Close Enough S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1pTS1ATaAmCCcd8cazTqVWYGKu.jpg" group-title="SERIES | SPANISH",Close Enough S01 E04
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/37078.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Night Of S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s4BKwcvYmyc8C4amcd2ZjeLEVq.jpg" group-title="SERIES | SPANISH",The Night Of S01 E08
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38156.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="October Faction S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtHpXLKVwamcOJJhIf01MtAIH0T.jpg" group-title="SERIES | NETFLIX",October Faction S01 E08
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38768.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Scream: The TV Series S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tamCZAYWxt1TPYDh8AU9j0QDTQW.jpg" group-title="SERIES | NETFLIX",Scream: The TV Series S02 E06
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/39911.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="High Maintenance S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PhDAMCCKjZMFBcXY4piXg3nPZe.jpg" group-title="SERIES | HBO",High Maintenance S02 E01
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/40595.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Politician S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwlP4oAmC5WU2McARhuwvJ2G065.jpg" group-title="SERIES | NETFLIX",The Politician S02 E02
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/42358.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Truth Be Told S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amcPz3KtJa67sFU8fWm6293wKn1.jpg" group-title="SERIES | APPLE TV+",Truth Be Told S01 E02
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/42832.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMoIdnLnwzeF6amCjuz7mCEpEet.jpg" group-title="SERIES | NETFLIX",Arrow S01 E06
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/43079.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Barbarians S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | NETFLIX",Barbarians S01 E01
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/43655.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg" group-title="SERIES | NETFLIX",Lucifer S02 E06
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/44994.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Barbares S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | FRANCH",Barbares S01 E01
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/46847.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Barbarians S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg" group-title="SERIES | FRANCH",Barbarians S01 E01
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/46853.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me a Story S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NxRAMC2yTmODlguQOGxyGOOueX.jpg" group-title="SERIES | FRANCH",Tell Me a Story S02 E09
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/48359.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Wet Hot American Summer: First Day of Camp S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wx2hKw8xEAmcWMNBvgj4O68WkGD.jpg" group-title="SERIES | FRANCH",Wet Hot American Summer: First Day of Camp S01 E08
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/48941.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="Movistar Documentales",Movistar Documentales
+acestream://6cda7d2622bcafd6aef486016238936855927d7d
+--
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD" group-title="MOVISTAR", AMC HD --> NUEVA ERA
+http://vlc.shickat.me:8000/pid/55ff9ee631af351f365f51cf3601695bf1fd20f3/stream.mp4
+--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD --> NUEVA ERA
+http://vlc.shickat.me:8000/pid/670519ffe8db1e20d0c753d4f756c009e71173d8/stream.mp4
+--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD" group-title="MOVISTAR", MOVISTAR DOCUMENTALES FHD --> NUEVA ERA VI
+http://vlc.shickat.me:8000/pid/b3fc9b5647c5933b101c0b6b64322590c68587b9/stream.mp4

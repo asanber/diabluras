@@ -1,80 +1,396 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/featuredImage.jpg" group-title="MARATONES",DOG el Cazarrecompensas
-https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hunt_Caza_al_espaia-825011374-large.jpg" group-title="2023",Operación Hunt (2023)
+https://filemoon.sx/d/2alnlw7bmkfe
 --
-#EXTINF:-1 radio="true" tvg-id="S_Alcazar.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="SER Alcázar",SER Alcázar
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/rC3R4duNxZO0qmcEt7n1RNw4mWR.jpg" group-title="2022",Cazando a Ava Bravo (2022)
+http://vod.tuxchannel.mx/peliculas/720/hunting%20ava%20bravo%202022.mkv
 --
-#EXTINF:-1 radio="true" tvg-id="OC_AlcazardeSanJuan.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Castilla-La Mancha" tvg-name="Onda Cero Alcázar de San Juan",Onda Cero Alcázar de San Juan
-https://atres-live.ondacero.es/live/delegaciones/oc/alcazar/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/zI0rMYcSUx16pHnsegWExPf1kDF.jpg" group-title="2022",Hunt: Caza al espía (2022) SUB
+http://144.217.180.205/Peliculas/Accion/18530.Hunt.2022.1080p.WEBRip.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="2022",La cazadora de Auschwitz (2022) SUB
+http://144.217.180.205/Peliculas/Terror/Ver%20The%20Huntress%20of%20Auschwitz%20(2022)%20Online%20Latino%20HD%20-%20PELI.mp4
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/op2y1gvqKhAh4yAPLwc4PlX3XRv.jpg" group-title="2022",Proyecto caza al lobo (2022) SUB
+http://144.217.180.205/Peliculas/Accion/7399.Project.Wolf.Hunting.2022.1080p.WEBRip.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/yZP6of0dk5eWn3gMGPVxrR9Lq0R.jpg" group-title="2021",Cazafantasmas: Mas allá (2021)
+http://vod.tuxchannel.mx/peliculas/720/ghostbusters%20afterlife%202021.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/9Ft4fgthsbb9qOXa0E0cw0l29MN.jpg" group-title="2021",El cazador de recompensas (2021)
+http://vod.tuxchannel.mx/peliculas/720/a%20soldiers%20revenge%202020.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" group-title="2021",Presas de caza (2021)
+http://vod.tuxchannel.mx/peliculas/720/prey%202021.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/7/w1280/or4yvzAvMt3K8MHyvoB0cZcTWWy.jpg" group-title="2020",Cazador de silencio (2020)
+http://vod.tuxchannel.mx/peliculas/720/the%20silencing%202020.mkv
+--
+#EXTINF:-1 tvg-logo="https://pecime.com.mx/wp-content/uploads/2020/10/A-baby-sitter-691x1024.jpg" group-title="2020",Guia de una niñera para cazar monstruos (2020)
+http://vod.tuxchannel.mx/peliculas/720/a%20babysitters%20guide%20to%20monster%20hunting%202020.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/12/w1280/la7nc6pG4vmPJEzl3gV08jboQWX.jpg" group-title="2020",Monster Hunter: Caza monstruos (2020)
+http://vod.tuxchannel.mx/peliculas/720/monster%20hunter%202020.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/10/w1280/1nxYXbkuzJe5y3flRe7KmqvC0YW.jpg" group-title="2018",Hunter Killer: Caza en las profundidades (2018)
+http://vod.tuxchannel.mx/peliculas/720/hunter%20killer.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/9/w1280/b0zTlAl1FNEdS1Ch4eFY2MKzZ0v.jpg" group-title="2017",Temporada de caza (2017)
+http://vod.tuxchannel.mx/peliculas/720/temporada%20de%20caza.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="2016",Cazafantasmas (2016)
+http://vod.tuxchannel.mx/peliculas/720/ghostbusters%202016.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg" group-title="2015",El ultimo cazador de brujas (2015)
+http://vod.tuxchannel.mx/peliculas/720/el%20ultimo%20cazador%20de%20brujas.mkv
+--
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg" group-title="2015",En la mira: Caza al asesino (2015)
+http://vod.tuxchannel.mx/peliculas/720/the%20gunman.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazando a Ava Bravo (2022)" tvg-logo="http://redworld.pro:8880/images/c6cfd5684b481539db8da210be270f99.jpg" group-title="⭐️Películas 2022",Cazando a Ava Bravo (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258352.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El Cazador de recompensas (2021)" tvg-logo="http://redworld.pro:8880/images/2d470476206055b7174a91069e51dcfd.jpg" group-title="⭐️Películas 2021",El Cazador de recompensas (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259153.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Prey: Presas de caza (2021)" tvg-logo="http://redworld.pro:8880/images/1aac0c26b2e2a74d30b529e0081dc666.jpg" group-title="⭐️Películas 2021",Prey: Presas de caza (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259432.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El Cazador (2020)" tvg-logo="http://redworld.pro:8880/images/4516c4717832cb9f31caeb9ce9bd3e90.jpg" group-title="⭐️Drama",El Cazador (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259702.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El Caza Recompensas (2010)" tvg-logo="http://redworld.pro:8880/images/1624ef066ab1a07ed249e9f8773f5204.jpg" group-title="⭐️Romance",El Caza Recompensas (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/260619.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazamuertos (2019)" tvg-logo="http://redworld.pro:8880/images/9609d399cd38c161f3ee9239b148a2e2.jpg" group-title="⭐️Comedía",Los Cazamuertos (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263681.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas 2 (1989)" tvg-logo="http://redworld.pro:8880/images/478a71320be683f9b43acbb40c56ea1f.jpg" group-title="⭐️Comedía",Los Cazafantasmas 2 (1989)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263939.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazando Salvajes (2016)" tvg-logo="http://redworld.pro:8880/images/efd7e5634a412b0c37e67aa3dd35180b.jpg" group-title="⭐️Comedía",Cazando Salvajes (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264046.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Un Ratoncito duro de Cazar (1997)" tvg-logo="http://redworld.pro:8880/images/584b922f50b765b5265a501763c77236.jpg" group-title="⭐️Comedía",Un Ratoncito duro de Cazar (1997)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264400.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El Caza Recompensas (2010)" tvg-logo="http://redworld.pro:8880/images/1624ef066ab1a07ed249e9f8773f5204.jpg" group-title="⭐️Comedía",El Caza Recompensas (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264825.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="De Caza con Papá (2018)" tvg-logo="http://redworld.pro:8880/images/66a4658f5ff10aeafb0f5bd71fc272ef.jpg" group-title="⭐️Comedía",De Caza con Papá (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264898.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry: Cazadores de tesoros (2006)" tvg-logo="http://redworld.pro:8880/images/ab3e4b1c15a3161f7ea770d0d50fd0fb.jpg" group-title="⭐️Comedía",Tom y Jerry: Cazadores de tesoros (2006)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265007.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los Caza Novias (2005)" tvg-logo="http://redworld.pro:8880/images/7d65c912263923ed09061936b81359ed.jpg" group-title="⭐️Comedía",Los Caza Novias (2005)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265114.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry: Cazadores de tesoros (2006)" tvg-logo="http://redworld.pro:8880/images/a74e1ca401fc20b61682365cee50a56e.jpg" group-title="⭐️Infantiles",Tom y Jerry: Cazadores de tesoros (2006)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266342.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry: Cazadores de tesoros (2006)" tvg-logo="http://redworld.pro:8880/images/ab3e4b1c15a3161f7ea770d0d50fd0fb.jpg" group-title="⭐️Infantiles",Tom y Jerry: Cazadores de tesoros (2006)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266660.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazando Salvajes (2016)" tvg-logo="http://redworld.pro:8880/images/efd7e5634a412b0c37e67aa3dd35180b.jpg" group-title="⭐️Aventura",Cazando Salvajes (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267087.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="http://redworld.pro:8880/images/5aca90482fe659334fc2cef3bf5bca50.jpg" group-title="⭐️Aventura",Cazadores de sombras: Ciudad de hueso (2013)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267136.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="http://redworld.pro:8880/images/7d7e33214352403555162e2396daabca.jpg" group-title="⭐️Aventura",El cazador y la reina de hielo (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267360.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y el cazador (2012)" tvg-logo="http://redworld.pro:8880/images/3746abb4220b5fe13f6231b646a500d5.jpg" group-title="⭐️Aventura",Blancanieves y el cazador (2012)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267587.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry: Cazadores de tesoros (2006)" tvg-logo="http://redworld.pro:8880/images/ab3e4b1c15a3161f7ea770d0d50fd0fb.jpg" group-title="⭐️Aventura",Tom y Jerry: Cazadores de tesoros (2006)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267734.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores de Trolls (2010)" tvg-logo="http://redworld.pro:8880/images/61e9982e4e0537b57882555c09487711.jpg" group-title="⭐️Fantasía",Cazadores de Trolls (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267831.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guía de una niñera para cazar monstruos (2020)" tvg-logo="http://redworld.pro:8880/images/ade0ef284372914122ab302935add2f2.jpg" group-title="⭐️Fantasía",Guía de una niñera para cazar monstruos (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267852.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Blade: Cazador de Vampiros (1998)" tvg-logo="http://redworld.pro:8880/images/48101978e720288b528d9ceeb11f871e.jpg" group-title="⭐️Terror",Blade: Cazador de Vampiros (1998)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267977.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Buffy: La Cazavampiros (1992)" tvg-logo="http://redworld.pro:8880/images/489dec9dc2af382695cc4bd547ce78f3.jpg" group-title="⭐️Terror",Buffy: La Cazavampiros (1992)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267988.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazamuertos (2019)" tvg-logo="http://redworld.pro:8880/images/9609d399cd38c161f3ee9239b148a2e2.jpg" group-title="⭐️Terror",Los Cazamuertos (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268043.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador de sueños (2003)" tvg-logo="http://redworld.pro:8880/images/6733ecbf68565bf3ad90dac64445d3b0.jpg" group-title="⭐️Terror",El cazador de sueños (2003)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268089.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="http://redworld.pro:8880/images/4b6952f9a5427ffa8b69b47ce9eb857b.jpg" group-title="⭐️Terror",Cazador de demonios (2012)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268170.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazando a un fantasma asesino (2016)" tvg-logo="http://redworld.pro:8880/images/29f079793e1560538bd1e4983341f9d1.jpg" group-title="⭐️Terror",Cazando a un fantasma asesino (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268174.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La Cazadora: Runa de los muertos (2022)" tvg-logo="http://redworld.pro:8880/images/656bc07515d31a92c569be3ecb85a84e.jpg" group-title="⭐️Terror",La Cazadora: Runa de los muertos (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268292.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Van Helsing: Cazador de monstruos (2004)" tvg-logo="http://redworld.pro:8880/images/2c924d1a31d270d3f05b317b1d9aafbc.jpg" group-title="⭐️Terror",Van Helsing: Cazador de monstruos (2004)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268705.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guía de una niñera para cazar monstruos (2020)" tvg-logo="http://redworld.pro:8880/images/ade0ef284372914122ab302935add2f2.jpg" group-title="⭐️Netflix(DUAL)",Guía de una niñera para cazar monstruos (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/269775.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="http://redworld.pro:8880/images/7d7e33214352403555162e2396daabca.jpg" group-title="⭐️Acción",El cazador y la reina de hielo (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/283942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Caza Recompensas (2010)" tvg-logo="http://redworld.pro:8880/images/1624ef066ab1a07ed249e9f8773f5204.jpg" group-title="⭐️Acción",El Caza Recompensas (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/283943.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="http://redworld.pro:8880/images/7d7e33214352403555162e2396daabca.jpg" group-title="⭐️Acción",El cazador y la reina de hielo (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/284054.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="http://redworld.pro:8880/images/4b6952f9a5427ffa8b69b47ce9eb857b.jpg" group-title="⭐️Western",Cazador de demonios (2012)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268749.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Blade: Cazador de Vampiros (1998)" tvg-logo="http://redworld.pro:8880/images/48101978e720288b528d9ceeb11f871e.jpg" group-title="⭐️Peliculas Internet Lentos",Blade: Cazador de Vampiros (1998)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294144.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner: El cazador implacable (1982)" tvg-logo="http://redworld.pro:8880/images/e7a08b6f1f8dbf0cf5b026d965fdc5ee.jpg" group-title="⭐️Peliculas Internet Lentos",Blade Runner: El cazador implacable (1982)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294147.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de hombres (1986)" tvg-logo="http://redworld.pro:8880/images/69d425a7aac08ea60293cadec2268775.jpg" group-title="⭐️Peliculas Internet Lentos",Cazador de hombres (1986)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="http://redworld.pro:8880/images/5aca90482fe659334fc2cef3bf5bca50.jpg" group-title="⭐️Peliculas Internet Lentos",Cazadores de sombras: Ciudad de hueso (2013)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="http://redworld.pro:8880/images/c040a660809c4066b9d5d8ac446ebf9b.jpg" group-title="⭐️Peliculas Internet Lentos",Cazafantasmas (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294206.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="De Caza con Papá (2018)" tvg-logo="http://redworld.pro:8880/images/66a4658f5ff10aeafb0f5bd71fc272ef.jpg" group-title="⭐️Peliculas Internet Lentos",De Caza con Papá (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294321.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador y la reina de hielo (2016)" tvg-logo="http://redworld.pro:8880/images/7d7e33214352403555162e2396daabca.jpg" group-title="⭐️Peliculas Internet Lentos",El cazador y la reina de hielo (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Caza Recompensas (2010)" tvg-logo="http://redworld.pro:8880/images/1624ef066ab1a07ed249e9f8773f5204.jpg" group-title="⭐️Peliculas Internet Lentos",El Caza Recompensas (2010)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294423.mp4
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/25125.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57344.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/54668.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57359.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5758.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/54535.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/54532.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57560.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57356.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/54531.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57363.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57367.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5665.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5589.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (HD) DAZN 1
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57475.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5651.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (FHD) M+ DEPORTES
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5643.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5639.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES",ES: EUROSPORT 1
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5607.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5630.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERAL",ES: LA 1
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5622.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: MOVISTAR PLUS+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CULTURA",ES: MOVISTAR PLUS+
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/57285.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: CANAL SUR ANDALUCÍA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | OTHERS",ES: CANAL SUR ANDALUCÍA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5576.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CULTURA",ES: CAZA Y PESCA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5578.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA",ES: IBERALIA TV
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5621.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES",ES: M+ ACCIÓN
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5632.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | CULTURA",ES: CAZAVISIÓN
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/29358.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA",ES: IBERALIA 100% CAZA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/58332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA",ES: IBERALIA 100% PESCA
+http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/58333.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Catwoman: La caza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSkcS5udA01NubLGy6hJt9yUHSi.jpg" group-title="VOD | SPAIN",Catwoman: La caza (2022)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35371.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador blanco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qwYl5cbfv97LwsLiE22ro4rryl.jpg" group-title="VOD | SPAIN",Cazador blanco (2020)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35374.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador de pájaros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsEfDAj1ZF4jZEysmzGfLjK27Et.jpg" group-title="VOD | SPAIN",El cazador de pájaros (2019)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35546.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador contra cazador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpUeO4MppzOy5px8Wn39A1ZkDW.jpg" group-title="VOD | SPAIN",Cazador contra cazador (2020)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35760.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="La caza (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lODWq6rLdcb8hLuQpt9qHSAatW.jpg" group-title="VOD | SPAIN",La caza (1966)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/35871.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores de monstruos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51FDbBDlABFzhMABME1GCRraj8s.jpg" group-title="VOD | SPAIN",Cazadores de monstruos (2018)
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/36083.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El_cazador_de_bufalos_2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg" group-title="AMAZON | 2025",El_cazador_de_bufalos_2025
+http://uu246.neqwcop.top:8080/movie/1761748316851777/182deb976e8f/60689.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPekgRbLEOtLlcxmEEAIsllllA1.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E01
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZg8CD9ySWTEPmyMQdTwxdKWWJm.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E02
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ala8DqFE92ypip5uYojh2PUQCGf.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E03
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF9sNPAYIjiY3EZ6w8omO3tq4Zc.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E04
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlMLybvV36J6SblFaTSF4rbw4yv.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E05
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2j2dZ0u2lubmzEma5yGAXiEtK2.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E06
+http://uu246.neqwcop.top:8080/series/1761748316851777/182deb976e8f/38403.mp4
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/25125.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57344.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/54668.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57359.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5758.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/54535.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/54532.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57560.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57356.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/54531.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57363.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57367.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5665.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5589.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (HD) DAZN 1
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57475.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5651.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (FHD) M+ DEPORTES
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5643.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5639.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES",ES: EUROSPORT 1
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5607.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5630.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERAL",ES: LA 1
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5622.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: MOVISTAR PLUS+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CULTURA",ES: MOVISTAR PLUS+
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/57285.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: CANAL SUR ANDALUCÍA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | OTHERS",ES: CANAL SUR ANDALUCÍA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5576.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CULTURA",ES: CAZA Y PESCA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5578.m3u8
+--
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA",ES: IBERALIA TV
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5621.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES",ES: M+ ACCIÓN
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/5632.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | CULTURA",ES: CAZAVISIÓN
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/29358.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA",ES: IBERALIA 100% CAZA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/58332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA",ES: IBERALIA 100% PESCA
+http://uu246.neqwcop.top:8080/live/8251723372661174/ee9d128eabd9/58333.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Catwoman: La caza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSkcS5udA01NubLGy6hJt9yUHSi.jpg" group-title="VOD | SPAIN",Catwoman: La caza (2022)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35371.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador blanco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qwYl5cbfv97LwsLiE22ro4rryl.jpg" group-title="VOD | SPAIN",Cazador blanco (2020)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35374.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazador de pájaros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsEfDAj1ZF4jZEysmzGfLjK27Et.jpg" group-title="VOD | SPAIN",El cazador de pájaros (2019)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35546.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazador contra cazador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpUeO4MppzOy5px8Wn39A1ZkDW.jpg" group-title="VOD | SPAIN",Cazador contra cazador (2020)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35760.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="La caza (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lODWq6rLdcb8hLuQpt9qHSAatW.jpg" group-title="VOD | SPAIN",La caza (1966)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/35871.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Cazadores de monstruos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51FDbBDlABFzhMABME1GCRraj8s.jpg" group-title="VOD | SPAIN",Cazadores de monstruos (2018)
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/36083.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El_cazador_de_bufalos_2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg" group-title="AMAZON | 2025",El_cazador_de_bufalos_2025
+http://uu246.neqwcop.top:8080/movie/8251723372661174/ee9d128eabd9/60689.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPekgRbLEOtLlcxmEEAIsllllA1.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E01
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZg8CD9ySWTEPmyMQdTwxdKWWJm.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E02
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ala8DqFE92ypip5uYojh2PUQCGf.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E03
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF9sNPAYIjiY3EZ6w8omO3tq4Zc.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E04
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlMLybvV36J6SblFaTSF4rbw4yv.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E05
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cazafortunas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2j2dZ0u2lubmzEma5yGAXiEtK2.jpg" group-title="SERIES | SPANISH",El cazafortunas S01 E06
+http://uu246.neqwcop.top:8080/series/8251723372661174/ee9d128eabd9/38403.mp4
 --
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD HD --> NUEVA ERA
 http://vlc.shickat.me:8000/pid/8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD HD --> NUEVA ERA III
 http://vlc.shickat.me:8000/pid/277a6fb47189db801c5b7b05ad89c690571f3e9c/stream.mp4
---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD HD --> NUEVA ERA
-http://vlc.shickat.me:8000/pid/8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa/stream.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD HD --> NUEVA ERA III
-http://vlc.shickat.me:8000/pid/277a6fb47189db801c5b7b05ad89c690571f3e9c/stream.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 720P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 720P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46818
---
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA HD 1080P" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA HD 1080P
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46817
-#EXTINF:-1 tvg-id="" tvg-name="SP: CAZA Y PESCA SD" tvg-logo="" group-title="Spanish HD",SP: CAZA Y PESCA SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46819
-#EXTINF:-1 tvg-id="" tvg-name="SP: IBERALIA TV SD" tvg-logo="" group-title="Spanish HD",SP: IBERALIA TV SD
-http://jabawalkies.club:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/46821
---
-#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES. png" group-title="ZAPEANDO MOVISTAR",ES : CAZA Y PESCA
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46560
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="ZAPEANDO MOVISTAR",ES : IBERALIA TV
-http://satelital.es:8080/RicardMega/Sypd5X3Xyu/46561
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b801191ee7c001a35afb9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Invasión Alien" tvg-chno="", Cazadores De Ovnis: Los Ufólogos Italianos
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b801191ee7c001a35afb9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b7f99727df0001a5fec08/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Invasión Alien" tvg-chno="", Cazadores De Ovnis II: Cuentos del Universo
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b7f99727df0001a5fec08.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b801191ee7c001a35afb9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Nuevo en Pluto TV" tvg-chno="", Cazadores De Ovnis: Los Ufólogos Italianos
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b801191ee7c001a35afb9.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/653b7f99727df0001a5fec08/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Nuevo en Pluto TV" tvg-chno="", Cazadores De Ovnis II: Cuentos del Universo
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653b7f99727df0001a5fec08.m3u8
---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/60dabf4ab8187f00136b1ef9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q= 75&w=694" group-title="Top Cine" tvg-chno="", La caza
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60dabf4ab8187f00136b1ef9.m3u8
---
-#EXTINF:-1 cuid="934" tvg-chno="934" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
-https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
-#EXTINF:-1 cuid="935" tvg-chno="935" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="Italian.Fishing.TV.ch" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="Caza & Pesca 🎣",Italian Fishing TV 🇮🇹
-http://45.65.112.49:8000/play/a0nq
---
-#EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Caza & Pesca 🎣",Fishing 🇺🇸
-https://bit.ly/Fishing_inspiration_m3u8
---
-#EXTINF:-1 cuid="937" tvg-chno="937" tvg-name="Fishing 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Caza & Pesca 🎣",Hunt Fish TV 🇺🇸
-https://jmp2.uk/str-5747.m3u8
---
-#EXTINF:-1 cuid="936" tvg-chno="936" tvg-name="MeatEater" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://vhx.imgix.net/meateater/assets/a3504dfc-5ae5-4c6a-abdc-b34f03c0ca1f.png" group-title="Caza & Pesca 🎣",MeatEater 🇺🇸
-https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
---
-#EXTINF:-1 cuid="938" tvg-chno="938" tvg-name="Wired2Fish 🇺🇸" tvg-id="Wired2fish.TV.distro" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp" group-title="Caza & Pesca 🎣",Wired2Fish 🇺🇸
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
---
-#EXTINF:-1 cuid="939" tvg-chno="939" tvg-name="Darcizzle Offshore Fishing 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DarcizzleFishing.webp" group-title="Caza & Pesca 🎣",Darcizzle Offshore Fishing 🇺🇸
-https://30a-tv.com/darcizzle.m3u8
---
-#EXTINF:-1 cuid="940" tvg-chno="940" tvg-name="Outdoor Action tv 🇺🇸" tvg-logo="https://play-lh.googleusercontent.com/vg29-dGpzrOGcVy2kmSQX-qlynqJiIp49dB4YZERAsZOlBsN6TzTXKb2SIA4Ac8SBZSc=w0" group-title="Caza & Pesca 🎣",Outdoor Action tv 🇺🇸
-https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
---
-#EXTINF:-1 cuid="941" tvg-chno="941" tvg-name="Outdoor America 🇺🇸" tvg-id="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20240520T220122SQUARE.png" group-title="Caza & Pesca 🎣",Outdoor America 🇺🇸
-https://bit.ly/48Wx5ny?USBD1200020Y4.m3u8
---
-#EXTINF:-1 cuid="942" tvg-chno="942" tvg-name="Pursuit Up 🇺🇸" tvg-id="USBD17000025J" tvg-logo="https://assets.maz.tv/katm23ekcyc7mul347hb5gg3iib4.png" group-title="Caza & Pesca 🎣",Pursuit Up 🇺🇸
-https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_channelId=99991648
---
-#EXTINF:-1 cuid="943" tvg-chno="943" tvg-name="Waypoint TV 🇺🇸" tvg-id="plex.tv.Waypoint.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" group-title="Caza & Pesca 🎣  🎣",Waypoint TV 🇺🇸
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991358
