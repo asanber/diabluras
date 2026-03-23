@@ -346,11 +346,10 @@ http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 tvg-id="SunBangla.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"group-title="🎎|Selection Sport|🎎",Sun Bangla (576p)
 http://103.182.170.32:8888/play/a01v
 --
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
-udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
 udp://@225.1.4.24:30120
---
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
+udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 --
@@ -360,44 +359,36 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 http://supersonictv.live:8080/611366/682256/22074
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg",Discovery Channel FHD
 https://a1xs.vip/300034
---
-#EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel SD
-http://sinalprivado.info:80/live/1sg141g7/6m6sm685/23011.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel FHD
 http://sinalprivado.info:80/live/1sg141g7/6m6sm685/23009.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel HD
 http://sinalprivado.info:80/live/1sg141g7/6m6sm685/23010.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel SD
+http://sinalprivado.info:80/live/1sg141g7/6m6sm685/23011.m3u8
+--
 #EXTINF:-1 tvg-id="discoveryph1" group-title="🎬😜|Giải Trí" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",DISCOVERY CHANNEL(test)
 http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",Discovery Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",DISCOVERY CHANNEL
+http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/264
 --
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",Discovery Channel
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",DISCOVERY CHANNEL
-http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/264
-#EXTINF:-1 tvg-id="discoverychannel.tr" group-title="🎬😜|Giải Trí" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/10/0926268422105eb7f426_op_0_XL.webp",DISCOVERY CHANNEL
-https://goldvod.site/live/hpgdiscoo/123456/503.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.tr" group-title="🎬😜|Giải Trí" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/10/0926268422105eb7f426_op_0_XL.webp",DISCOVERY CHANNEL HD
-https://goldvod.site/live/hpgdiscoo/123456/370.m3u8
 --
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" group-title="🎬😜|Giải Trí" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",National Geographic HD (eng6) (English) (Documentary)
 http://116.90.120.151:8000/play/a0in/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
-http://supersonictv.live:8080/611366/682256/22124
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National geographic
-https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 --
-#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="🎬😜|Giải Trí" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National geographic
+https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
+http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",NATIONAL GEOGRAPHIC HD
 http://96587.premiumstream.in:80/GokselSonmez/MxxnCxr25v9w/286
-#EXTINF:-1 tvg-id="nationalgeographic.tr" group-title="🎬😜|Giải Trí" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/NGCHD.png",National Geographic SD
-https://goldvod.site/live/hpgdiscoo/123456/10533.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="🎬😜|Giải Trí" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
 --
 #EXTINF:-1 tvg-id="31" group-title="⚽🥎| Thể Thao" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOlCtOfxEqpFhV-Ma8QCASB8gaLTSBdZx_ucfRsNTqVENMgtbCDmj5fmYpXFc1uL1YEk9-5NhDZEkMGG3cUkB8U7NzWf-Ib6A9COXZAebGO38YZT8YiJhtTjPVAmCQebSFDiBISTFVRdxgPxqmH1oL66S4COfA0UAbFkaj3mMukWiETlOuKOgZFsqNsvl/s700/SHARJAH%20SPORT.png",SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
@@ -1069,6 +1060,355 @@ http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461729.mp4
 http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461730.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a la Tierra S01 E06" tvg-logo="http://redworld.pro:8880/images/3a1b4a175e7177d34569ca1ee505a734.jpg" group-title="⭐️ Series Documentales",Bienvenidos a la Tierra S01 E06
 http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461731.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E01" tvg-logo="http://redworld.pro:8880/images/eb719eca608b3b6caba42bcd1478a7a9.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461674.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E02" tvg-logo="http://redworld.pro:8880/images/bdd5ed9ba5931c52f4fae911058d7604.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461675.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E03" tvg-logo="http://redworld.pro:8880/images/059eeae7799c5955cdc55acacf18baa1.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461676.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E04" tvg-logo="http://redworld.pro:8880/images/40817c331fba2ed5e56915e661e9ada6.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461677.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E05" tvg-logo="http://redworld.pro:8880/images/3994491e71232b012624d4d4df6ab161.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461678.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E06" tvg-logo="http://redworld.pro:8880/images/aa6648488505c19090ac4e5d8083c407.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461679.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E07" tvg-logo="http://redworld.pro:8880/images/946e1e23b6308dfe81df06ce7fcfc0a8.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E07
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461680.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E08" tvg-logo="http://redworld.pro:8880/images/b0c4c079d334cb4626ead9ecf66eb8f0.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E08
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461681.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E09" tvg-logo="http://redworld.pro:8880/images/685998c4ee9bac33fe8ae5c61b1783cb.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E09
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461682.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E10" tvg-logo="http://redworld.pro:8880/images/6247ec68babd0139b65d257b2fc8ff72.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E10
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461683.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E11" tvg-logo="http://redworld.pro:8880/images/0182a45c44a2777cb36345b58111e749.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E11
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461684.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S01 E12" tvg-logo="http://redworld.pro:8880/images/0182a45c44a2777cb36345b58111e749.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S01 E12
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461685.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E01" tvg-logo="http://redworld.pro:8880/images/88f4577a63c2326cb2b0bb35aa7d88c0.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461686.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E02" tvg-logo="http://redworld.pro:8880/images/d74ebc9fd7dd29a4fbd28c7272bcc3f7.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461687.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E03" tvg-logo="http://redworld.pro:8880/images/5a1088c6d58bd68195dd2fa4f7015e16.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461688.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E04" tvg-logo="http://redworld.pro:8880/images/f315a02571c9f5ca08962f64ec4a8384.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461689.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E05" tvg-logo="http://redworld.pro:8880/images/729a2f81432c452ddddb6474bcb80993.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461690.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E06" tvg-logo="http://redworld.pro:8880/images/f31689760dbbe08ca73f3eed8d08db3a.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461691.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E07" tvg-logo="http://redworld.pro:8880/images/473dd7dc3325a3e643487cb4843d9ab4.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E07
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461692.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E08" tvg-logo="http://redworld.pro:8880/images/a39c0bfe72e9ee018c014f3184b50440.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E08
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461693.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E09" tvg-logo="http://redworld.pro:8880/images/63270adb6ffed16f61ac02412cd71302.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E09
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461694.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E10" tvg-logo="http://redworld.pro:8880/images/82a431fbc31cdd613dd0cc92886591c4.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E10
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461695.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E11" tvg-logo="http://redworld.pro:8880/images/5d9d1f205e827d11c80c294bf9827d31.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E11
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461696.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S02 E12" tvg-logo="http://redworld.pro:8880/images/d66337900e44029441e8663ea8eda9d7.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S02 E12
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461697.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E01" tvg-logo="http://redworld.pro:8880/images/8ce2cdc97e45af9262bd75fe972d1c1c.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461698.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E02" tvg-logo="http://redworld.pro:8880/images/6500db823b259cc15ad2b4708303bb7f.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461699.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E03" tvg-logo="http://redworld.pro:8880/images/5fefc6188a8b47dba5285a9e515ff36a.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461700.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E04" tvg-logo="http://redworld.pro:8880/images/cc17aee3b613e34846cdf240f7acbebd.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461701.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E05" tvg-logo="http://redworld.pro:8880/images/5b49f52df09258198e20856713d86018.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461702.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E06" tvg-logo="http://redworld.pro:8880/images/5303acea0211220306722a63c3d19dc0.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461703.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E07" tvg-logo="http://redworld.pro:8880/images/6f65182508656979d5d0d8f4f30c579c.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E07
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461704.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E08" tvg-logo="http://redworld.pro:8880/images/063ff5503099b4d5e3e33ca96480def1.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E08
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461705.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E09" tvg-logo="http://redworld.pro:8880/images/11cecbd80329ef317200f3a0ea22c2d1.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E09
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461706.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E10" tvg-logo="http://redworld.pro:8880/images/e48639f765ca701f1ead39e2b5932545.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E10
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461707.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E11" tvg-logo="http://redworld.pro:8880/images/9318ca126e419812e1d95dd2968ab238.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E11
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461708.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E12" tvg-logo="http://redworld.pro:8880/images/74bc1d8e76fec4caa6bbae56300d6d58.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E12
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461709.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E13" tvg-logo="http://redworld.pro:8880/images/64242861f1bb3dc5e47216b987a21362.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E13
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461710.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E14" tvg-logo="http://redworld.pro:8880/images/729f0e9e08d5b0c4e5d2128fbabf7cb2.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E14
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461711.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E15" tvg-logo="http://redworld.pro:8880/images/ef902e95881b032915353306ed4a269f.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E15
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461712.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E16" tvg-logo="http://redworld.pro:8880/images/4d4084a35ac8f0c311d0c8efcfc44394.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E16
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461713.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E17" tvg-logo="http://redworld.pro:8880/images/5ac53b4b6b4cc4ed922106159f6c853a.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E17
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461714.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E18" tvg-logo="http://redworld.pro:8880/images/6a6e645ef9f3397448950ed7648f9924.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E18
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461715.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E19" tvg-logo="http://redworld.pro:8880/images/4b1861d55f2f3da643f2689e2959f189.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E19
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461716.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E20" tvg-logo="http://redworld.pro:8880/images/5145e33337c58584bc1baed3006ffaf1.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E20
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461717.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E21" tvg-logo="http://redworld.pro:8880/images/cef57ce1556a7c91620d60fd31c81807.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E21
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461718.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E22" tvg-logo="http://redworld.pro:8880/images/2e2e759c7f85699d5067fe77b5f38289.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E22
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461719.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E23" tvg-logo="http://redworld.pro:8880/images/f1812f118b3a8b05231774f41129d356.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E23
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461720.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E24" tvg-logo="http://redworld.pro:8880/images/0f5476e180bb9a9e7bf4eca9bef2d9ff.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E24
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461721.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E25" tvg-logo="http://redworld.pro:8880/images/0d761b00d82cc205e23b913b8292c341.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E25
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461722.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E26" tvg-logo="http://redworld.pro:8880/images/f71a8de8c5050388703519ea17e43fa4.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E26
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461723.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E27" tvg-logo="http://redworld.pro:8880/images/12f2e94581a59f20f4d169cc5dd0021a.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E27
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461724.avi
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir S03 E28" tvg-logo="http://redworld.pro:8880/images/5147346fdfac1c91c3eb921efdb00203.jpg" group-title="⭐️ Series Documentales",1000 Maneras de morir S03 E28
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461725.avi
+--
+#EXTINF:-1 tvg-id="" tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E01" tvg-logo="http://redworld.pro:8880/images/c1d1a28b7b0ded3b35d615e1640eb48f.jpg" group-title="⭐️ Series Documentales",Selección Argentina, la serie - Camino a Qatar S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E02" tvg-logo="http://redworld.pro:8880/images/1ba0689c43623969252cff6724ebed68.jpg" group-title="⭐️ Series Documentales",Selección Argentina, la serie - Camino a Qatar S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E03" tvg-logo="http://redworld.pro:8880/images/8447eefa03345fd671301cb0b9079f63.jpg" group-title="⭐️ Series Documentales",Selección Argentina, la serie - Camino a Qatar S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E04" tvg-logo="http://redworld.pro:8880/images/4cafb94a5487b36de7a6901b64563f07.jpg" group-title="⭐️ Series Documentales",Selección Argentina, la serie - Camino a Qatar S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E05" tvg-logo="http://redworld.pro:8880/images/9170f221caa7ab4912c60174e26724b8.jpg" group-title="⭐️ Series Documentales",Selección Argentina, la serie - Camino a Qatar S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E06" tvg-logo="http://redworld.pro:8880/images/15fd9f6a5e0a3ff0fcafe39cfdc5acc3.jpg" group-title="⭐️ Series Documentales",Selección Argentina, la serie - Camino a Qatar S01 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461673.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E01" tvg-logo="http://redworld.pro:8880/images/590b2f2bfcfd21eaadf4a61fc22d5ed0.jpg" group-title="⭐️ Series Documentales",The Hot Zone S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E02" tvg-logo="http://redworld.pro:8880/images/b38a15c75d2da50990fa7a58509d0784.jpg" group-title="⭐️ Series Documentales",The Hot Zone S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E03" tvg-logo="http://redworld.pro:8880/images/d135dfbc218a405ca5a357cc37897811.jpg" group-title="⭐️ Series Documentales",The Hot Zone S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E04" tvg-logo="http://redworld.pro:8880/images/5a4b3676ae23887522487b29e40c13a1.jpg" group-title="⭐️ Series Documentales",The Hot Zone S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E05" tvg-logo="http://redworld.pro:8880/images/30d47a971e386120313200077aa8987c.jpg" group-title="⭐️ Series Documentales",The Hot Zone S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E06" tvg-logo="http://redworld.pro:8880/images/5bad165a1423a6248f5f58f194d8a46b.jpg" group-title="⭐️ Series Documentales",The Hot Zone S01 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461667.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El Origen de los Continentes S01 E01" tvg-logo="http://redworld.pro:8880/images/781b034e8f55aab927256d6eb71b0ee5.jpg" group-title="⭐️ Series Documentales",El Origen de los Continentes S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Origen de los Continentes S01 E02" tvg-logo="http://redworld.pro:8880/images/819f149e16dedfed97e2d381720619ac.jpg" group-title="⭐️ Series Documentales",El Origen de los Continentes S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Origen de los Continentes S01 E03" tvg-logo="http://redworld.pro:8880/images/7f2ca3a4af95865aa394ef495d2bb9c3.jpg" group-title="⭐️ Series Documentales",El Origen de los Continentes S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Origen de los Continentes S01 E04" tvg-logo="http://redworld.pro:8880/images/af5597651e0fb834b7aa4efc44d9b4a7.jpg" group-title="⭐️ Series Documentales",El Origen de los Continentes S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Johnny vs Amber: The US Trial S01 E01" tvg-logo="http://redworld.pro:8880/images/07a61b28625da6ca6a7b88d82bf86e83.jpg" group-title="⭐️ Series Documentales",Johnny vs Amber: The US Trial S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Johnny vs Amber: The US Trial S01 E02" tvg-logo="http://redworld.pro:8880/images/59d8d20f5052fd06ed62aefcd44ac1fb.jpg" group-title="⭐️ Series Documentales",Johnny vs Amber: The US Trial S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Men Who Sold The World Cup S01 E01" tvg-logo="http://redworld.pro:8880/images/9b4e612f73a893c0b42f0a7ba98655b8.jpg" group-title="⭐️ Series Documentales",The Men Who Sold The World Cup S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Men Who Sold The World Cup S01 E02" tvg-logo="http://redworld.pro:8880/images/fbc8e3759248fad81d1dc7386296e2a0.jpg" group-title="⭐️ Series Documentales",The Men Who Sold The World Cup S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461655.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E01" tvg-logo="http://redworld.pro:8880/images/4707d9c763122b9e96a76cf63ef7ddee.jpg" group-title="⭐️ Series Documentales",Sin límites con Chris Hemsworth S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E02" tvg-logo="http://redworld.pro:8880/images/c52f71bd6af7fea4e6431e713feb343d.jpg" group-title="⭐️ Series Documentales",Sin límites con Chris Hemsworth S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E03" tvg-logo="http://redworld.pro:8880/images/056667b5e58b3bb6721cb063920af564.jpg" group-title="⭐️ Series Documentales",Sin límites con Chris Hemsworth S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E04" tvg-logo="http://redworld.pro:8880/images/be6fa0c3653c6f8dba97db1e6cfb3080.jpg" group-title="⭐️ Series Documentales",Sin límites con Chris Hemsworth S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E05" tvg-logo="http://redworld.pro:8880/images/097b0d8a7516f48f2f161ca92baf9236.jpg" group-title="⭐️ Series Documentales",Sin límites con Chris Hemsworth S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E06" tvg-logo="http://redworld.pro:8880/images/b74e111c8ac81f74c9aca527c9d915ff.jpg" group-title="⭐️ Series Documentales",Sin límites con Chris Hemsworth S01 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461653.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Battle for Justina Pelletier S01 E01" tvg-logo="http://redworld.pro:8880/images/530bbef7b6181cc046643d787d54330e.jpg" group-title="⭐️ Series Documentales",The Battle for Justina Pelletier S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Battle for Justina Pelletier S01 E02" tvg-logo="http://redworld.pro:8880/images/4ad004d3a1100f12ccf0b4be36fbba1e.jpg" group-title="⭐️ Series Documentales",The Battle for Justina Pelletier S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Battle for Justina Pelletier S01 E03" tvg-logo="http://redworld.pro:8880/images/b7e033540c85b74663e3db7320f5089d.jpg" group-title="⭐️ Series Documentales",The Battle for Justina Pelletier S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Battle for Justina Pelletier S01 E04" tvg-logo="http://redworld.pro:8880/images/1e7b5995a9a3211649d99ef5651fd0c0.jpg" group-title="⭐️ Series Documentales",The Battle for Justina Pelletier S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461647.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E01" tvg-logo="http://redworld.pro:8880/images/dd49b956da1cd310780b99b2ac03ad72.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E02" tvg-logo="http://redworld.pro:8880/images/fe40523afeaa8c6e4c3756c0f4cabaa4.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E03" tvg-logo="http://redworld.pro:8880/images/178b23fc9fa57639fe3925308dffa9b9.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E04" tvg-logo="http://redworld.pro:8880/images/0be539d8100ed3c146e7de2707ff6cce.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E05" tvg-logo="http://redworld.pro:8880/images/a7a27fddd61f612ad45aa87f6483eb0f.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E06" tvg-logo="http://redworld.pro:8880/images/55b1582fbe612573ea34afddc5ad4e81.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E07" tvg-logo="http://redworld.pro:8880/images/e15710daaa44a63ebb0947ef912c14b2.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E07
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E08" tvg-logo="http://redworld.pro:8880/images/25036b3821fd714296c54da5e288ebcb.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E08
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E09" tvg-logo="http://redworld.pro:8880/images/d216e07b6d2ee2e7166ae16bfc30886c.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E09
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E10" tvg-logo="http://redworld.pro:8880/images/a97dcadeffca32ea367a858d05fb7aa1.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E10
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E11" tvg-logo="http://redworld.pro:8880/images/aaca1f68e99ed00e7d6955913ba8c835.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E11
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E12" tvg-logo="http://redworld.pro:8880/images/88b5ea9261aa72e8693c78cf7f293ab1.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E12
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E13" tvg-logo="http://redworld.pro:8880/images/16783e5869582bd9d742710247704a72.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E13
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E14" tvg-logo="http://redworld.pro:8880/images/ba140f5db08ea9e87a815411de0c7b61.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E14
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E15" tvg-logo="http://redworld.pro:8880/images/a007f3dc20629d9ff48d0ac46df2f600.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E15
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E16" tvg-logo="http://redworld.pro:8880/images/6f4735597c45a020c29a8a00431b8fb7.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E16
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E17" tvg-logo="http://redworld.pro:8880/images/0d43b1784de68ca8d83ba5324262f968.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E17
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E18" tvg-logo="http://redworld.pro:8880/images/2e40bc73984a119f62f12b7dad507132.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E18
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E19" tvg-logo="http://redworld.pro:8880/images/96e2ad5b430fa5332514b91f889a834e.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E19
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E20" tvg-logo="http://redworld.pro:8880/images/94972f12a690f6c25aa09f92de92867d.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E20
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E21" tvg-logo="http://redworld.pro:8880/images/867c42de7cacf9fc2fe1629581211623.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E21
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E22" tvg-logo="http://redworld.pro:8880/images/467164cea6ee5f65182d53c776facc9b.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E22
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E23" tvg-logo="http://redworld.pro:8880/images/1dcb53babc30b83e6af4da803233b0db.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E23
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E24" tvg-logo="http://redworld.pro:8880/images/4ab252d3ef60c56ec09fcef8f090e0c7.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E24
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E25" tvg-logo="http://redworld.pro:8880/images/824e048b8204a7ba7e647fcf82278fe5.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E25
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E26" tvg-logo="http://redworld.pro:8880/images/30deb685285cbaaafc0741b19090b6f3.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E26
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E27" tvg-logo="http://redworld.pro:8880/images/01b98caa9cf33fb036e77a2486b096ed.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E27
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E28" tvg-logo="http://redworld.pro:8880/images/626e4bc23a5112bf844779b1cb6759f4.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E28
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E29" tvg-logo="http://redworld.pro:8880/images/130199b5dada7a24b169554abe288f04.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E29
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E30" tvg-logo="http://redworld.pro:8880/images/883cb136f36527e6c43fcf732e96d2b5.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E30
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E31" tvg-logo="http://redworld.pro:8880/images/5eca1d7ea85ac45886b2c985a745a7c6.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E31
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E32" tvg-logo="http://redworld.pro:8880/images/4f1fdb3b6b6df37e868d4bdbff8fe2d6.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E32
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E33" tvg-logo="http://redworld.pro:8880/images/62e792e882cd18803127057efe340fbe.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E33
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E34" tvg-logo="http://redworld.pro:8880/images/ecd2ea320ee233d0f31b5baca65b5824.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E34
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E35" tvg-logo="http://redworld.pro:8880/images/c3d76a9206dc66c94a27dab8e9c87736.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E35
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E36" tvg-logo="http://redworld.pro:8880/images/56842c5ff60463c97cef666c97b204fa.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E36
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E37" tvg-logo="http://redworld.pro:8880/images/14495d6596f05ea25937102d32025578.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E37
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E38" tvg-logo="http://redworld.pro:8880/images/8023480f77f72461e9a89fba14bdc928.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E38
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E39" tvg-logo="http://redworld.pro:8880/images/acee670dd103668f32ea41037f23cf96.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E39
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E40" tvg-logo="http://redworld.pro:8880/images/2dba27fae902ef5fdb7549ac0813870d.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E40
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E41" tvg-logo="http://redworld.pro:8880/images/45759aa0ae3b8932fb22b27ab5e41eb5.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E41
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E42" tvg-logo="http://redworld.pro:8880/images/a4a95cae91eddc8cd28a321a649d20f4.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E42
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E43" tvg-logo="http://redworld.pro:8880/images/f81dda13960a894866834b72aa9f9998.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E43
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E44" tvg-logo="http://redworld.pro:8880/images/ece5ee9c6531cfcbfdc1dadf05f537ba.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E44
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E45" tvg-logo="http://redworld.pro:8880/images/230fa0770461239d0ead9ffc64dd6136.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E45
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E46" tvg-logo="http://redworld.pro:8880/images/d52877ac9e0f6ea714c8a7fbd3d0f3d5.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E46
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E47" tvg-logo="http://redworld.pro:8880/images/7f48bfd58a7c2fc37a404dd8687c13fa.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E47
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E48" tvg-logo="http://redworld.pro:8880/images/7c8ab25c3a45fb224c593c75795e600b.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E48
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E49" tvg-logo="http://redworld.pro:8880/images/1be269be1257d97a785f7b7bfe651587.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E49
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ellas soy yo, Gloria Trevi S01 E50" tvg-logo="http://redworld.pro:8880/images/314fcd8a0aea2d4afa0c7cfbf4b2673e.jpg" group-title="⭐️ Series Documentales",Ellas soy yo, Gloria Trevi S01 E50
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461643.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Predadores S01 E01" tvg-logo="http://redworld.pro:8880/images/69b0e240f13b7e70a81b96b969b6256c.jpg" group-title="⭐️ Series Documentales",Predadores S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predadores S01 E02" tvg-logo="http://redworld.pro:8880/images/9681b8a760985e945bee1e8c79413428.jpg" group-title="⭐️ Series Documentales",Predadores S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predadores S01 E03" tvg-logo="http://redworld.pro:8880/images/6f348dd3eb22c90dec6ef18b076ea70a.jpg" group-title="⭐️ Series Documentales",Predadores S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predadores S01 E04" tvg-logo="http://redworld.pro:8880/images/18636169174ee74d8cf3aaab01ed1bd2.jpg" group-title="⭐️ Series Documentales",Predadores S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predadores S01 E05" tvg-logo="http://redworld.pro:8880/images/2095bdfe086ce11356a54105393e4153.jpg" group-title="⭐️ Series Documentales",Predadores S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461593.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Memorias del 11-S S01 E01" tvg-logo="http://redworld.pro:8880/images/42ca4db1700976fdd4a475353f81d2f6.jpg" group-title="⭐️ Series Documentales",Memorias del 11-S S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorias del 11-S S01 E02" tvg-logo="http://redworld.pro:8880/images/88d454ee99dcb68551748c6458bfd969.jpg" group-title="⭐️ Series Documentales",Memorias del 11-S S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorias del 11-S S01 E03" tvg-logo="http://redworld.pro:8880/images/581593d55369db5e0e693a3e579f00e8.jpg" group-title="⭐️ Series Documentales",Memorias del 11-S S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorias del 11-S S01 E04" tvg-logo="http://redworld.pro:8880/images/e057a4d0db7d7311e253a7209fab5a8d.jpg" group-title="⭐️ Series Documentales",Memorias del 11-S S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorias del 11-S S01 E05" tvg-logo="http://redworld.pro:8880/images/d0b71f37ede689f38dca9eb08309f04c.jpg" group-title="⭐️ Series Documentales",Memorias del 11-S S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorias del 11-S S01 E06" tvg-logo="http://redworld.pro:8880/images/1ac8afae9af2e066a6306d6ea4b54679.jpg" group-title="⭐️ Series Documentales",Memorias del 11-S S01 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461588.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="John Carpenter's Suburban Screams S01 E01" tvg-logo="http://redworld.pro:8880/images/e7bb89f3bb5fda6393dd698e1639db8f.jpg" group-title="⭐️ Series Documentales",John Carpenter's Suburban Screams S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Carpenter's Suburban Screams S01 E02" tvg-logo="http://redworld.pro:8880/images/6445bdb5b626be35043d9587f7dba8a8.jpg" group-title="⭐️ Series Documentales",John Carpenter's Suburban Screams S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Carpenter's Suburban Screams S01 E03" tvg-logo="http://redworld.pro:8880/images/d282fd5b1001ecd7beed83db249fc8a7.jpg" group-title="⭐️ Series Documentales",John Carpenter's Suburban Screams S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Carpenter's Suburban Screams S01 E04" tvg-logo="http://redworld.pro:8880/images/172a277c487036050c531d64e3fa5f3d.jpg" group-title="⭐️ Series Documentales",John Carpenter's Suburban Screams S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Carpenter's Suburban Screams S01 E05" tvg-logo="http://redworld.pro:8880/images/d276b28682ce2fb41367d5b0006e43ba.jpg" group-title="⭐️ Series Documentales",John Carpenter's Suburban Screams S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Carpenter's Suburban Screams S01 E06" tvg-logo="http://redworld.pro:8880/images/42c102088628411aa4ec96295bb05329.jpg" group-title="⭐️ Series Documentales",John Carpenter's Suburban Screams S01 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461582.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El hombre más odiado de internet S01 E01" tvg-logo="http://redworld.pro:8880/images/ddc62ec5975b92941ea1a59c4bb0bec9.jpg" group-title="⭐️ Series Documentales",El hombre más odiado de internet S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hombre más odiado de internet S01 E02" tvg-logo="http://redworld.pro:8880/images/1a793c837781092a5eaaafead0701b9b.jpg" group-title="⭐️ Series Documentales",El hombre más odiado de internet S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hombre más odiado de internet S01 E03" tvg-logo="http://redworld.pro:8880/images/9ab1fa93ca1acd8dcd676e48ccd98c8b.jpg" group-title="⭐️ Series Documentales",El hombre más odiado de internet S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461576.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Si yo fuera Luisa Sonza S01 E01" tvg-logo="http://redworld.pro:8880/images/03fb44e136f3f697edf73dc972686248.jpg" group-title="⭐️ Series Documentales",Si yo fuera Luisa Sonza S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Si yo fuera Luisa Sonza S01 E02" tvg-logo="http://redworld.pro:8880/images/38cc59956bb2ac78aa4661acb85cc72b.jpg" group-title="⭐️ Series Documentales",Si yo fuera Luisa Sonza S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Si yo fuera Luisa Sonza S01 E03" tvg-logo="http://redworld.pro:8880/images/1ac5b37226e8ea13347969a59d0581ae.jpg" group-title="⭐️ Series Documentales",Si yo fuera Luisa Sonza S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/461573.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S01 E01" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S01 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S01 E02" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S01 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S01 E03" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S01 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S01 E04" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S01 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S01 E05" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S01 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E01" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E01
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E02" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E02
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E03" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E03
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E04" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E04
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E05" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E05
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E06" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E06
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E07" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E07
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Desconocido: La Historia del Cholo Adrián S02 E08" tvg-logo="http://redworld.pro:8880/images/ab68bed9cad109c8857551b10b03a9b6.jpg" group-title="⭐️ Series Narcos",El Desconocido: La Historia del Cholo Adrián S02 E08
+http://rlatinop.com:8880/series/jp0x001/wJaThgzBZVjk/459911.mp4
 --
 #EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | ENTRETENIMIENTO",ES: AMC
 http://uu246.neqwcop.top:8080/live/1761748316851777/182deb976e8f/5553.m3u8

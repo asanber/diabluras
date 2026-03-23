@@ -92,27 +92,28 @@ https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 --
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
 udp://@225.1.3.85:30120
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
 udp://@225.1.4.210:30120
-#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
-udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor Channel (1080p) (eng7) (English) (Outdoor) - 1080P
-https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Outdoor Channel
 http://supersonictv.live:8080/611366/682256/22131
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor Channel (1080p) (eng7) (English) (Outdoor) - 1080P
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Outdoor Channel (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Outdoor.Channel.id" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/knowledge/outdoor.jpg",OUTDOOR CHANNEL
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+--
 #EXTINF:-1 tvg-id="Dummy" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/d73Thkh/outdoor-channel-us.png",Outdoor channel(test)
 http://103.244.145.15/live/anita123/anita123/151071.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="Dummy" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/d73Thkh/outdoor-channel-us.png",Outdoor channel
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Outdoor.Channel.id" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/knowledge/outdoor.jpg",OUTDOOR CHANNEL
-https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 --
 #EXTINF:-1 tvg-id="470516" group-title="⚽🥎| Thể Thao" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
