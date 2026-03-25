@@ -179,16 +179,16 @@ http://watchindia.net:8880/live/65138/11733/2160.ts
 #EXTINF:-1 tvg-id=""tvg-name="Vadhiyar (2012)"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuSjTpCzc66nfLViJlHOh3eAQDO.jpg"group-title="🎎|Selection Sport|🎎",Vadhiyar (2012)
 http://watchindia.net:8880/movie/65138/11733/1652.mkv
 --
+#EXTINF:-1 tvg-id="nfl-network"tvg-name="NFL Network"group-title="🎎|Selection Sport|🎎",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-id="nfl-redzone"tvg-name="NFL RedZone"group-title="🎎|Selection Sport|🎎",NFL RedZone
+https://tvpass.org/live/NFLRedZone/sd
+--
 #EXTINF:-1 tvg-id=""tvg-name="El Conflecto"tvg-logo="https://images.iptvmate.net/tvglogo/ed2a863d199f6abf0fd4e4a917ddd91c.png"group-title="🎎|Selection Sport|🎎",El Conflecto
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 --
 #EXTINF:-1 tvg-name="NFL Channel"tvg-logo="https://images.iptvmate.net/tvglogo/0c2b0b5407e7e6a7d1adeeea840f2feb.png"group-title="🎎|Selection Sport|🎎",NFL Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
---
-#EXTINF:-1 tvg-id="nfl-network"tvg-name="NFL Network"group-title="🎎|Selection Sport|🎎",NFL Network
-https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-id="nfl-redzone"tvg-name="NFL RedZone"group-title="🎎|Selection Sport|🎎",NFL RedZone
-https://tvpass.org/live/NFLRedZone/sd
 --
 #EXTINF:-1 tvg-id="XUMO_99991738"tvg-logo="https://image.xumo.com/v1/channels/channel/99991738/300x300.webp?type=color_onBlack"group-title="🎎|Selection Sport|🎎",NFL Channel
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=[PLATFORM_CHILD]&usprivacy=[CCPA_Value]&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=[IFA]&tmsid=121705&palnonce=&rdid=[IFA]&islat=[IS_LAT]&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=[content_title]
@@ -256,80 +256,6 @@ http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259674.mkv
 http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chanfle 2 (1982)" tvg-logo="http://redworld.pro:8880/images/2f3e73e51a8e8231d24b6062c6934609.jpg" group-title="⭐️Comedía",El Chanfle 2 (1982)
 http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263766.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La Influencia (2019)" tvg-logo="http://redworld.pro:8880/images/a879daf918d1d1629810358f82eb65fc.jpg" group-title="⭐️Terror",La Influencia (2019)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268305.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Abajo el telón (1955)" tvg-logo="http://redworld.pro:8880/images/83a28ce218c2aeb833857025994ad2ef.jpg" group-title="⭐️Cine Cantinflas",Abajo el telón (1955)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="http://redworld.pro:8880/images/1a3de20ee078446e8eda1ad4211b76a3.jpg" group-title="⭐️Cine Cantinflas",Ahí está el detalle (1940)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270851.avi
-#EXTINF:-1 tvg-id="" tvg-name="Caballero a la Medida (1954)" tvg-logo="http://redworld.pro:8880/images/06f17443a19b9f67e81b8bc9730c4de0.jpg" group-title="⭐️Cine Cantinflas",Caballero a la Medida (1954)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270852.avi
-#EXTINF:-1 tvg-id="" tvg-name="Don Quijote cabalga de nuevo (1973)" tvg-logo="http://redworld.pro:8880/images/17dd6b36d9fe19387db4b4f2572bbda1.jpg" group-title="⭐️Cine Cantinflas",Don Quijote cabalga de nuevo (1973)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El analfabeto (1961)" tvg-logo="http://redworld.pro:8880/images/cc9eb239a515a812d97b629d962e7956.jpg" group-title="⭐️Cine Cantinflas",El analfabeto (1961)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El barrendero (1982)" tvg-logo="http://redworld.pro:8880/images/f5512176fff6a5af7d43e79c79367378.jpg" group-title="⭐️Cine Cantinflas",El barrendero (1982)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El bolero de Raquel (1957)" tvg-logo="http://redworld.pro:8880/images/5416ea3a51ccc2bed410444c146e639d.jpg" group-title="⭐️Cine Cantinflas",El bolero de Raquel (1957)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Bombero Atómico (1952)" tvg-logo="http://redworld.pro:8880/images/a9d76267114b5260223fed1445c6ccd9.jpg" group-title="⭐️Cine Cantinflas",El Bombero Atómico (1952)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Circo (1943)" tvg-logo="http://redworld.pro:8880/images/fecadc6f26bf9b2c900706cc8252b5bf.jpg" group-title="⭐️Cine Cantinflas",El Circo (1943)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Extra (1962)" tvg-logo="http://redworld.pro:8880/images/54ba36843e1918fdd34320f90fbf7c95.jpg" group-title="⭐️Cine Cantinflas",El Extra (1962)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270859.avi
-#EXTINF:-1 tvg-id="" tvg-name="El fotógrafo (2003)" tvg-logo="http://redworld.pro:8880/images/d593242ae1b7f62b6431b1faf602b9fa.jpg" group-title="⭐️Cine Cantinflas",El fotógrafo (2003)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270862.avi
-#EXTINF:-1 tvg-id="" tvg-name="El Gendarme Desconocido (1941)" tvg-logo="http://redworld.pro:8880/images/592158809c5ce32cd1fb07025672e7c7.jpg" group-title="⭐️Cine Cantinflas",El Gendarme Desconocido (1941)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270882.avi
-#EXTINF:-1 tvg-id="" tvg-name="El Mago (1949)" tvg-logo="http://redworld.pro:8880/images/0226c71323ea7da71cc89fac6735a4f7.jpg" group-title="⭐️Cine Cantinflas",El Mago (1949)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El ministro y yo (1977)" tvg-logo="http://redworld.pro:8880/images/afb9378e8e0132256a38e0b80405f29e.jpg" group-title="⭐️Cine Cantinflas",El ministro y yo (1977)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270907.avi
-#EXTINF:-1 tvg-id="" tvg-name="El padrecito (1964)" tvg-logo="http://redworld.pro:8880/images/e680f270b0137eb06f6613afc9208830.jpg" group-title="⭐️Cine Cantinflas",El padrecito (1964)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Patrullero 777 (1978)" tvg-logo="http://redworld.pro:8880/images/f87349d17ff2ddc09a9297c1dcde66ae.jpg" group-title="⭐️Cine Cantinflas",El Patrullero 777 (1978)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Portero (1950)" tvg-logo="http://redworld.pro:8880/images/528bf496df530309bd5a100d91479a9a.jpg" group-title="⭐️Cine Cantinflas",El Portero (1950)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270910.avi
-#EXTINF:-1 tvg-id="" tvg-name="El Profe (1971)" tvg-logo="http://redworld.pro:8880/images/488bc3f892a926898d25ae09ba2f80b4.jpg" group-title="⭐️Cine Cantinflas",El Profe (1971)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Señor Doctor (1965)" tvg-logo="http://redworld.pro:8880/images/2fafc8c3332dde26880d9ec19962db42.jpg" group-title="⭐️Cine Cantinflas",El Señor Doctor (1965)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="http://redworld.pro:8880/images/70d554f5fad1ddc979c1c394b1c55ced.jpg" group-title="⭐️Cine Cantinflas",El Siete Machos (1951)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270913.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Signo de la Muerte (1939)" tvg-logo="http://redworld.pro:8880/images/c1e34cb36f2c6142aa37a3dd4c80ac42.jpg" group-title="⭐️Cine Cantinflas",El Signo de la Muerte (1939)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270914.avi
-#EXTINF:-1 tvg-id="" tvg-name="El Supersabio (1948)" tvg-logo="http://redworld.pro:8880/images/3f58098ff3e1622d9bb2b53d943c7b30.jpg" group-title="⭐️Cine Cantinflas",El Supersabio (1948)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270915.avi
-#EXTINF:-1 tvg-id="" tvg-name="Festival de la comedia (1939)" tvg-logo="http://redworld.pro:8880/images/209961a6ee9970957b58daec8dfe598c.jpg" group-title="⭐️Cine Cantinflas",Festival de la comedia (1939)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270916.avi
-#EXTINF:-1 tvg-id="" tvg-name="Gran Hotel (1944)" tvg-logo="http://redworld.pro:8880/images/4375019be948ef882cd66c9f6ea0d829.jpg" group-title="⭐️Cine Cantinflas",Gran Hotel (1944)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270939.avi
-#EXTINF:-1 tvg-id="" tvg-name="Los Tres Mosqueteros (1942)" tvg-logo="http://redworld.pro:8880/images/7ac67b9a1e56b92b6f02387f1c95fd8e.jpg" group-title="⭐️Cine Cantinflas",Los Tres Mosqueteros (1942)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270940.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ni sangre ni arena (1941)" tvg-logo="http://redworld.pro:8880/images/de48b2a78bb5e4a2728b2999423e817c.jpg" group-title="⭐️Cine Cantinflas",Ni sangre ni arena (1941)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270941.avi
-#EXTINF:-1 tvg-id="" tvg-name="Romeo y Julieta (1943)" tvg-logo="http://redworld.pro:8880/images/11520195b8aa0a98f8de1636ec3d2718.jpg" group-title="⭐️Cine Cantinflas",Romeo y Julieta (1943)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Si yo fuera diputado (1952)" tvg-logo="http://redworld.pro:8880/images/6c4a15200a4af4ffbf7b072f38e2f546.jpg" group-title="⭐️Cine Cantinflas",Si yo fuera diputado (1952)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soy un prófugo (1946)" tvg-logo="http://redworld.pro:8880/images/1c99b3b4b9e569c5884e59a96b12c5ab.jpg" group-title="⭐️Cine Cantinflas",Soy un prófugo (1946)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un día con el Diablo (1945)" tvg-logo="http://redworld.pro:8880/images/256ac1c0a342c57055f14d66e780e949.jpg" group-title="⭐️Cine Cantinflas",Un día con el Diablo (1945)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un Quijote sin mancha (1969)" tvg-logo="http://redworld.pro:8880/images/56099093b83193a7fd54868191e0b8b4.jpg" group-title="⭐️Cine Cantinflas",Un Quijote sin mancha (1969)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Águila o Sol (1938)" tvg-logo="http://redworld.pro:8880/images/03a9d6c5a3aec6d33a387a531962c5cc.jpg" group-title="⭐️Cine Cantinflas",Águila o Sol (1938)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/270948.avi
---
-#EXTINF:-1 tvg-id="" tvg-name="karaoke influencias - jorge luis chacin ft yasmil marrufo \& jose g. hernandez-FZNvN" tvg-logo="http://redworld.pro:8880/images/644cae39f6840331fb11bd51b0a4a35b.jpg" group-title="⭐️Karaokes",karaoke influencias - jorge luis chacin ft yasmil marrufo \& jose g. hernandez-FZNvN
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/272443.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas (2014)" tvg-logo="http://redworld.pro:8880/images/8971f329c061c79c63ed42a393ad7eeb.jpg" group-title="⭐️Peliculas Internet Lentos",Cantinflas (2014)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/294185.mp4
 --
 #EXTINF:-1 xui-id="6644" tvg-id="" tvg-name="NFL USA" tvg-logo="http://vpns.universof.com:25461/images/ba40793af4a91a9254c0dc2d21d337b4.png" group-title="14b. DEPORTES USA",NFL USA
 https://applan.servehttp.com:26635/play/WmzOObuto9fjiv8rmoabV0aqd9mE87O1CdNvRBnun5s/m3u8
