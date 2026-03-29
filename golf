@@ -111,26 +111,26 @@ http://127.0.0.1:6878/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254ad5&
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎",Sky Sport Golf 🛡️
 https://7pal.short.gy/ssportsg
 --
-#EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
-http://watchindia.net:8880/live/65138/11733/2096.ts
---
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Golf
 https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
---
-#EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Golf
-https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
---
-#EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Golf
-https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
---
-#EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
-http://watchindia.net:8880/live/65138/11733/2096.ts
 --
 #EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
 http://watchindia.net:8880/live/65138/11733/2096.ts
 --
 #EXTINF:-1 tvg-id="XUMO_99951462"tvg-logo="https://image.xumo.com/v1/channels/channel/99951462/300x300.webp?type=color_onBlack"group-title="🎎|Selection Sport|🎎",GOLFPASS
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951462/hls/master.m3u8?ads.xumo_channelId=99951462&ads.asnw=535279&ads.afid=440667964&ads.sfid=23817285&ads.csid=xumo_[PLATFORM]_versantgolfpass_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumoplay&ads.xumo_contentId=4292&ads.xumo_contentName=VersantGOLFPASS&ads.xumo_providerId=4292&ads.xumo_providerName=VersantGOLFPASS&ads.channelId=99951462&ads._fw_ifa_type=[IFA_TYPE]
+--
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Golf
+https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
+--
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Golf
+https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
+--
+#EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
+http://watchindia.net:8880/live/65138/11733/2096.ts
+--
+#EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="Sky Sports Golf"tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png"group-title="🎎|Selection Sport|🎎",Sky Sports Golf
+http://watchindia.net:8880/live/65138/11733/2096.ts
 --
 #EXTINF:-1 tvg-id="GOLF+.ch"tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/sports/golf+.jpg"group-title="🎎|Selection Sport|🎎",GOLF+
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
@@ -147,34 +147,63 @@ https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-name="Sky Sports Golf FHD"tvg-id="SkySp.Golf.HD.uk"tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png"group-title="🎎|Selection Sport|🎎"radio="false",SKY SPORTS GOLF
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
 --
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",C MORE GOLF HD SE
+https://hesen568.useruno.com/iptv_proxy/stream.php?stream=12033/index.m3u8
+--
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",CCTB Golf & Tennis
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 --
 #EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/2560px-Golf_Channel_logo_2025.svg.png",Golf Channel
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418180
-#EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png",Golf Channel
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts
 #EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo=" group-title=",Golf Channel
 https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
+#EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png",Golf Channel
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts
+#EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/2052.png",GOLF CHANNEL
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1038159
+#EXTINF:-1 tvg-id="1036410" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/8232.png",GOLF CHANNEL FHD |FR
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036410
 #EXTINF:-1 tvg-id="470886" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true",Golf Channel HD
-https://e2.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=QG9Z5saoRoPp9lpypPz8yQ&expires=1774653020&user_id=blB0dFd5a1VYTjJsWVNFNVRVM1Q0NVN4ZTE4OW1INENENmNCZW56dA==
+https://v4.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=ceqLdSLI3O_r2mePMwkh9w&expires=1774741446&user_id=a0lvSmVCMU45SXA5WklTeFJKQnRwdFQyUzhwOXVHYVpxU3hMa0NNaA==
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" group-title="⚽🥎| Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",Golf Channel Latin America (spa3) (Spanish) (Sports)
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 #EXTINF:-1 tvg-id="golf-channel-usa" group-title="⚽🥎| Thể Thao" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true",Golf Channel SD
-https://v5.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=4euGhjeEDX0cC8COTSdJaA&expires=1774653010&user_id=blB0dFd5a1VYTjJsWVNFNVRVM1Q0NVN4ZTE4OW1INENENmNCZW56dA==
+https://v5.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=U6l6rWSlWTmrtvgnE2juPg&expires=1774741436&user_id=a0lvSmVCMU45SXA5WklTeFJKQnRwdFQyUzhwOXVHYVpxU3hMa0NNaA==
+#EXTINF:-1 tvg-id="470741" group-title="⚽🥎| Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg",GOLF CHANNEL 🇸🇰
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/Golf-Kingdom-rd.jpg",Golf Kingdom
 https://30a-tv.com/feeds/720p/53.m3u8
-#EXTINF:-1 tvg-id="463810" group-title="⚽🥎| Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/sports/golf+.jpg",GOLF+
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+#EXTINF:-1 tvg-id="65493029ab052400089e9d2f" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/871.png",GOLF PASS.
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1040845
+#EXTINF:-1 tvg-id="65493029ab052400089e9d2f" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/",GOLF PASS...
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039993
 #EXTINF:-1 tvg-id="463810" group-title="⚽🥎| Thể Thao",GOLF+
 http://151.80.18.177:86/GOLF+_HD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",GolfPass (1080p) - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P
+#EXTINF:-1 tvg-id="463810" group-title="⚽🥎| Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/sports/golf+.jpg",GOLF+
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+#EXTINF:-1 tvg-id="1036411" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/8233.png",GOLF+ FHD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036411
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",GolfPass (1080p) - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P
 https://d2icntm6fhxrry.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",GolfPass (1080p) - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",GolfPass (1080p) - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P - 1080P
 https://d2icntm6fhxrry.cloudfront.net/master_5.m3u8
+--
+#EXTINF:-1 tvg-id="1038846" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/7082.png",HR: SPORT KLUB GOLF HD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1038846
+--
+#EXTINF:-1 tvg-id="1036413" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/8244.png",JOURNAL DU GOLF FHD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036413
 --
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",K-Star Golf
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5498
+--
+#EXTINF:-1 tvg-id="1037208" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/76144.png",MX: GOLF CHANNEL LATINOAMERICA
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1037208
+--
+#EXTINF:-1 tvg-id="1040812" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/816.png",NBC GOLF 4K
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1040812
+#EXTINF:-1 tvg-id="1039992" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/",NBC GOLF 4K..
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039992
 --
 #EXTINF:-1 tvg-id="411516" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png",ON Golf
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Golf_du_phong
@@ -183,17 +212,63 @@ https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd
 #EXTINF:-1 tvg-id="ongolf" group-title="⚽🥎| Thể Thao" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnGolf.png",On Golf HD (VTV Prime)
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 --
+#EXTINF:-1 tvg-id="10645" group-title="⚽🥎| Thể Thao",SKY SPORT GOLF
+https://hesen568.useruno.com/iptv_proxy/stream.php?stream=19132/index.m3u8
+--
+#EXTINF:-1 tvg-id="1040775" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/770.jpeg",SKY SPORTS GOLF 4K
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1040775
+#EXTINF:-1 tvg-id="1039990" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/",SKY SPORTS GOLF 4K..
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039990
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png",Sky Sports Golf FHD
 https://a1xs.vip/2000009
+#EXTINF:-1 tvg-id="1032072" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/8838.jpeg",SKY SPORTS GOLF FHD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1032072
+#EXTINF:-1 tvg-id="1039989" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/",SKY SPORTS GOLF FHD..
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039989
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",SKY SPORTS GOLF UK
+https://hesen568.useruno.com/iptv_proxy/stream.php?stream=7344/index.m3u8
+--
+#EXTINF:-1 tvg-id="1040641" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/76628.png",SN+ 12 : TGL: TGL GOLF LOS ANGELES GOLF CLUB VS NEW YORK GOLF CLUB
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1040641
+--
+#EXTINF:-1 tvg-id="497461" group-title="⚽🥎| Thể Thao",Sport Klub Golf HR
+https://hesen568.useruno.com/iptv_proxy/stream.php?stream=7277/index.m3u8
+--
+#EXTINF:-1 tvg-id="1038859" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/7222.png",SRB: SPORT KLUB GOLF
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1038859
 --
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="http://smartillusion.feniks.team:25002/images/uk/ssgolf.png",SS Golf UK
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22931
 --
+#EXTINF:-1 tvg-id="1040760" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/743.jpeg",SUPERSPORT GOLF
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1040760
+#EXTINF:-1 tvg-id="1039991" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/",SUPERSPORT GOLF..
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039991
+--
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",Ziggo Sport Golf NL
+https://hesen568.useruno.com/iptv_proxy/stream.php?stream=2559/index.m3u8
+--
 #EXTINF:-1 tvg-id="beINSports3" group-title="⚽🥎| Thể Thao" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/beINSPORTS3_IVP_LAND_1280x720.jpg",🇮🇩 🔴 08:00-10:00 WIB - TGL S2 : Los Angeles Golf Club Vs Jupiter Links Golf Club [Bein Sports 3 HD]
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1283
 --
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 720p *
-acestream://f60535a458b3c114283e2f433379144345beddd6
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="DEPORTES",ES: M+ GOLF
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="DEPORTES",ES: M+ GOLF 2
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/127.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="SPO: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="SPORT+",SPO: M+ GOLF
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/39464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="SPORT+",SPO: M+ GOLF 2
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/39465.m3u8
+--
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="DEPORTES",ES: M+ GOLF
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="DEPORTES",ES: M+ GOLF 2
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/127.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLF CHANNEL" tvg-logo="http://redworld.pro:8880/images/89b80113c1ed34f36bfe6936fcf5ed20.png" group-title="⭐️ DEPORTE VIP",DEPORTES | GOLF CHANNEL
+http://rlatinop.com:8880/live/jp0x001/wJaThgzBZVjk/167746.m3u8
+--
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 1080p **
 acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 --

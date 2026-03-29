@@ -112,6 +112,29 @@ https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎"tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
 https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
 --
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="GENERALISTAS",ES: EL TORO TV
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/71.m3u8
+--
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="TOROS",ES: (LÍNEA 1) ONETORO
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/406.m3u8
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="TOROS",ES: (LÍNEA 2) ONETORO
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/405.m3u8
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="TOROS",ES: TOROLE TV
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/407.m3u8
+--
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="GENERALISTAS",ES: EL TORO TV
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/71.m3u8
+--
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="TOROS",ES: (LÍNEA 1) ONETORO
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/406.m3u8
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="TOROS",ES: (LÍNEA 2) ONETORO
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/405.m3u8
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="TOROS",ES: TOROLE TV
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/407.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="http://redworld.pro:8880/images/918bc421add07454b436b4a61fcb7f7e.jpg" group-title="⭐️Películas 2022",Pinocho de Guillermo del Toro (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258773.mkv
+--
 #EXTINF:-1 tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-1024x586.jpg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 --

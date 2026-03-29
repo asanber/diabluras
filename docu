@@ -349,44 +349,216 @@ http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 tvg-logo=""group-title="🎎|Selection Sport|🎎",AMC Series HD
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/amc_series_hd/default/index.mpd
 --
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
+udp://@225.1.1.238:30120
+--
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
 udp://@225.1.4.24:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
-udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
---
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Discovery Channel
 http://supersonictv.live:8080/611366/682256/22074
-#EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23010.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23009.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23010.m3u8
 --
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",Discovery Channel
-http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
+#EXTINF:-1 tvg-id="discoverychannel" group-title="🎬😜|Giải Trí" tvg-logo="https://img.dsmartgo.com.tr/content/r/9C/11894/Thumbnail.png",Discovery Channel
+https://skerlerparlak.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Discovery Channel
+https://hesen568.useruno.com/iptv_proxy/stream.php?stream=140/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Discovery Channel HD
+https://hesen568.useruno.com/iptv_proxy/stream.php?stream=227/index.m3u8
+#EXTINF:-1 tvg-id="1039043" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/2409.png",DISCOVERY CHANNEL HD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039043
+#EXTINF:-1 tvg-id="1038918" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/1814.png",DISCOVERY CHANNEL SD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1038918
+--
+#EXTINF:-1 tvg-id="1038448" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/70995.png",DISCOVERY CHANNEL 4K
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1038448
+--
+#EXTINF:-1 tvg-id="1036982" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/75577.jpg",DISCOVERY CHANNEL SD (ES)
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036982
+#EXTINF:-1 tvg-id="1036981" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/75576.jpg",DISCOVERY CHANNEL (HD) (MX)
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036981
+#EXTINF:-1 tvg-id="1036983" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/75578.jpg",DISCOVERY CHANNEL HD (ARG)
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036983
+#EXTINF:-1 tvg-id="1036980" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/75574.jpg",DISCOVERY CHANNEL FHD (CO)
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036980
+#EXTINF:-1 tvg-id="1036865" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/75350.png",DISCOVERY CHANNEL FHD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1036865
+--
+#EXTINF:-1 tvg-id="1035437" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/2206.png",DISCOVERY CHANNEL
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1035437
 --
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.pl@SD" group-title="🎬😜|Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.pl@SD" group-title="🎬😜|Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic (1080p) (eng6) (English) (Documentary) - 1080P
 https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc103/nationalgeographichdraw/nationalgeographichdraw.mpd
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National Geographic
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National geographic
 https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true",National Geographic SD
-https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=Q1AG8GQqKcDQDOW1yn4f-Q&expires=1774653524&user_id=blB0dFd5a1VYTjJsWVNFNVRVM1Q0NVN4ZTE4OW1INENENmNCZW56dA==
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National Geographic
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
 #EXTINF:-1 tvg-id="national-geographic-us-eastern" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true",National Geographic HD
-https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=ZyaME6Fx8PoBdbLFE21qqA&expires=1774653533&user_id=blB0dFd5a1VYTjJsWVNFNVRVM1Q0NVN4ZTE4OW1INENENmNCZW56dA==
+https://e2.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=7GvILbTzEgvncAFlKEeRZg&expires=1774741959&user_id=a0lvSmVCMU45SXA5WklTeFJKQnRwdFQyUzhwOXVHYVpxU3hMa0NNaA==
+#EXTINF:-1 tvg-id="natgeo" group-title="🎬😜|Giải Trí" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg",National Geographic
+https://skerlerparlak.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==
 #EXTINF:-1 tvg-id="NationalGeographic.us" group-title="🎬😜|Giải Trí" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
+#EXTINF:-1 tvg-id="1039075" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/2465.png",NATIONAL GEOGRAPHIC HD
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039075
+#EXTINF:-1 tvg-id="1035484" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/2281.png",NATIONAL GEOGRAPHIC
+https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1035484
 --
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="⚽🥎| Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",Sony Sports Ten 2 HD (1080p) (eng8) (English) (Sports) - 1080P
 http://103.229.254.25:7001/play/a02t/index.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="DOCUMENTALES",ES: M+ DOCUMENTALES
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/80.m3u8
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="DOCUMENTALES",ES: NATIONAL GEOGRAPHIC
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/81.m3u8
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="DOCUMENTALES",ES: NAT GEO WILD
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/82.m3u8
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="DOCUMENTALES",ES: HISTORIA
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/83.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="DOCUMENTALES",ES: DISCOVERY
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/84.m3u8
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="DOCUMENTALES",ES: DMAX
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/85.m3u8
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="DOCUMENTALES",ES: IBERALIA 100% CAZA
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/408.m3u8
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="DOCUMENTALES",ES: IBERALIA 100% PESCA
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/409.m3u8
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/iberalia_original.png" group-title="DOCUMENTALES",ES: IBERALIA TV
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/16645.m3u8
+--
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="CINE Y SERIES",ES: AMC
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/16784.m3u8
+--
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="CINE Y SERIES",ES: AMC CRIME
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/16787.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="DOCUMENTALES",ES: CAZAVISIÓN
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/27046.m3u8
+--
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="DOCUMENTALES",ES: ODISEA
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/29378.m3u8
+--
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="DOCUMENTALES",ES: CAZA Y PESCA
+http://esodette.top:8080/live/es2231754394935290/f25e8a287120/31782.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="DOCUMENTALES",ES: M+ DOCUMENTALES
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/80.m3u8
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="DOCUMENTALES",ES: NATIONAL GEOGRAPHIC
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/81.m3u8
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="DOCUMENTALES",ES: NAT GEO WILD
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/82.m3u8
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="DOCUMENTALES",ES: HISTORIA
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/83.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="DOCUMENTALES",ES: DISCOVERY
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/84.m3u8
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="DOCUMENTALES",ES: DMAX
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/85.m3u8
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="DOCUMENTALES",ES: IBERALIA 100% CAZA
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/408.m3u8
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="DOCUMENTALES",ES: IBERALIA 100% PESCA
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/409.m3u8
+--
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/iberalia_original.png" group-title="DOCUMENTALES",ES: IBERALIA TV
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/16645.m3u8
+--
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="CINE Y SERIES",ES: AMC
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/16784.m3u8
+--
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="CINE Y SERIES",ES: AMC CRIME
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/16787.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="DOCUMENTALES",ES: CAZAVISIÓN
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/27046.m3u8
+--
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="DOCUMENTALES",ES: ODISEA
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/29378.m3u8
+--
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="DOCUMENTALES",ES: CAZA Y PESCA
+http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/31782.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-name="Franklin: Historia de un billete (2022)" tvg-logo="http://redworld.pro:8880/images/69a7d9bb09f80ee4fd364dba57dd9ec8.jpg" group-title="⭐️Películas 2022",Franklin: Historia de un billete (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258516.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia de honor (2022)" tvg-logo="http://redworld.pro:8880/images/6c6960a2d3263ce494871f47587bcb09.jpg" group-title="⭐️Películas 2022",Historia de honor (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258544.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los ladrones: la verdadera historia del robo del siglo (2022)" tvg-logo="http://redworld.pro:8880/images/5a87e5e6864cf906f25b51447a18fb4e.jpg" group-title="⭐️Películas 2022",Los ladrones: la verdadera historia del robo del siglo (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258663.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Los Tigres del Norte: Historias que contar (2022)" tvg-logo="http://redworld.pro:8880/images/4b09e0e785c6be29f5b41fc4fd83209a.jpg" group-title="⭐️Películas 2022",Los Tigres del Norte: Historias que contar (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258670.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mickey: La historia de un ratón (2022)" tvg-logo="http://redworld.pro:8880/images/e699d3805ca62f3d5b3fa21d2d428115.jpg" group-title="⭐️Películas 2022",Mickey: La historia de un ratón (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258700.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Orgasm Inc: La historia de OneTaste (2022)" tvg-logo="http://redworld.pro:8880/images/4d47aa5495488aabb656cd000fdefa4e.jpg" group-title="⭐️Películas 2022",Orgasm Inc: La historia de OneTaste (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258759.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Una navideña historia de Navidad (2022)" tvg-logo="http://redworld.pro:8880/images/be22dd2ffb31ae913ba927bd91510896.jpg" group-title="⭐️Películas 2022",Una navideña historia de Navidad (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258939.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Weird: La Historia de Al Yankovic (2022)" tvg-logo="http://redworld.pro:8880/images/b73d4b16f33969f008e460cb7f1ce8e3.jpg" group-title="⭐️Películas 2022",Weird: La Historia de Al Yankovic (2022)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258977.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2021)" tvg-logo="http://redworld.pro:8880/images/690f1b6badeffc1c5fd1ce004a122368.jpg" group-title="⭐️Películas 2021",Historias lamentables (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259251.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Jack, El Destripador La Historia no Contada (2021)" tvg-logo="http://redworld.pro:8880/images/4657595be1c337e54df23b31f1a035ac.jpg" group-title="⭐️Películas 2021",Jack, El Destripador La Historia no Contada (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259267.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars: Historias Aterradoras (2021)" tvg-logo="http://redworld.pro:8880/images/9993c3286ccd2372a85382e97023fbb9.jpg" group-title="⭐️Películas 2021",LEGO Star Wars: Historias Aterradoras (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259329.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Pamela: Una historia de amor (2023)" tvg-logo="http://redworld.pro:8880/images/b7c99f31ff815137b0ba36223c90b720.jpg" group-title="⭐️Películas 2023",Pamela: Una historia de amor (2023)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259621.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Truman Show: Historia de una vida (1998)" tvg-logo="http://redworld.pro:8880/images/6cde1672c5556ff23d2d629e89d8d448.jpg" group-title="⭐️Drama",The Truman Show: Historia de una vida (1998)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259747.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados: Una historia verdadera (2018)" tvg-logo="http://redworld.pro:8880/images/039d91880b8467873fb6cc8853f60313.jpg" group-title="⭐️Drama",Atrapados: Una historia verdadera (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259827.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La historia más grande jamás contada (1965)" tvg-logo="http://redworld.pro:8880/images/9401d327eae6498b27fa51ee3339a06c.jpg" group-title="⭐️Drama",La historia más grande jamás contada (1965)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza: Una historia de amor (2017)" tvg-logo="http://redworld.pro:8880/images/c849acfffa5581f3418b946a9bbd191a.jpg" group-title="⭐️Drama",Venganza: Una historia de amor (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259848.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="La historia de David Copperfield (2019)" tvg-logo="http://redworld.pro:8880/images/2079ff0a72b799f34a748a7ee945c9f9.jpg" group-title="⭐️Drama",La historia de David Copperfield (2019)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/260038.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historia de fantasmas (2017)" tvg-logo="http://redworld.pro:8880/images/6ae29e345570dd37a5a7a28fe0976393.jpg" group-title="⭐️Romance",Historia de fantasmas (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/260109.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Un gesto fútil y estúpido: La historia de Doug Kenney (2018)" tvg-logo="http://redworld.pro:8880/images/b842782a9f376b802c3548f5adf2427a.jpg" group-title="⭐️Comedía",Un gesto fútil y estúpido: La historia de Doug Kenney (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263359.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Borrar Historial (2013)" tvg-logo="http://redworld.pro:8880/images/d883f92f3c7d2979190052ce79af11a7.jpg" group-title="⭐️Comedía",Borrar Historial (2013)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263616.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="El muerto cuenta su historia (2016)" tvg-logo="http://redworld.pro:8880/images/8914867b6b46e7cc0472d5f5551cce1f.jpg" group-title="⭐️Comedía",El muerto cuenta su historia (2016)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263801.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Festival de la canción de Eurovisión: La historia de Fire Saga (2020)" tvg-logo="http://redworld.pro:8880/images/27ada8d90a0fe2c8ef7ce9a33766dcb5.jpg" group-title="⭐️Comedía",Festival de la canción de Eurovisión: La historia de Fire Saga (2020)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263866.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Un gesto fútil y estúpido: La historia de Doug Kenney (2018)" tvg-logo="http://redworld.pro:8880/images/b842782a9f376b802c3548f5adf2427a.jpg" group-title="⭐️Comedía",Un gesto fútil y estúpido: La historia de Doug Kenney (2018)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263921.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2021)" tvg-logo="http://redworld.pro:8880/images/690f1b6badeffc1c5fd1ce004a122368.jpg" group-title="⭐️Comedía",Historias lamentables (2021)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264008.mkv
 --
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="Movistar Documentales",Movistar Documentales
 acestream://6cda7d2622bcafd6aef486016238936855927d7d
