@@ -91,31 +91,24 @@ https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-chno="136"tvg-id="Sportsman.Channel.us2"tvg-name="Sportsman Channel"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png"group-title="🎎|Selection Sport|🎎",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 --
-#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
-udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
-udp://@225.1.3.85:30120
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 4Mbps)
 udp://@225.1.4.210:30120
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
+udp://@225.1.3.85:30120
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
+udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
+#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Outdoor Channel
+http://supersonictv.live:8080/611366/682256/22131
 #EXTINF:-1 tvg-id="Outdoor.Channel.id" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/knowledge/outdoor.jpg",OUTDOOR CHANNEL
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 --
 #EXTINF:-1 tvg-id="outdoor-channel-us" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true",Outdoor Channel SD
-https://v14.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=DE79PY3d6wqRvNC71xkfZw&expires=1774742120&user_id=a0lvSmVCMU45SXA5WklTeFJKQnRwdFQyUzhwOXVHYVpxU3hMa0NNaA==
---
-#EXTINF:-1 tvg-id="1038971" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/1917.png",OUTDOOR CHANNEL HD
-https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1038971
---
-#EXTINF:-1 tvg-id="1039208" group-title="🎬😜|Giải Trí" tvg-logo="http://tv.max4k.us/misc/logos/320/6520.png",OUTDOOR CHANNEL
-https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039208
+https://v4.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=D0I_EiQzvf6O3ikgLPsX4g&expires=1774843134&user_id=RWliVFg2eVcxb2NqMUtBdXM4YXRpMXVpbHhXQzN1Q1E3T0Z6cjlZSg==
 --
 #EXTINF:-1 tvg-id="470516" group-title="⚽🥎| Thể Thao" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
---
-#EXTINF:-1 tvg-id="1039960" group-title="⚽🥎| Thể Thao" tvg-logo="http://tv.max4k.us/misc/logos/320/7814.jpg",TENNIS 02 : HUNTER S TOWNSEND T VS CHONG E LIANG E-S @
-https://opplex.cworld.fun/stream.php?username=u2082694174xldy53&password=h9y36k&id=1039960
 --
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Jack Hunter Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Jack Hunter Gay
 http://esodette.top:8080/live/es2231754394935290/f25e8a287120/32386.m3u8
@@ -128,3 +121,784 @@ http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258879.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Leyendas del gremio (2021)" tvg-logo="http://redworld.pro:8880/images/e31b7cabb5b8e8613d1144dcd98e845a.jpg" group-title="⭐️Películas 2021",Monster Hunter: Leyendas del gremio (2021)
 http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259375.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Vampire Hunter D (1985)" tvg-logo="http://redworld.pro:8880/images/0a2d864e0685b13d9c844179ad6a6396.jpg" group-title="⭐️Anime",Vampire Hunter D (1985)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267023.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Happy Hunting (2017)" tvg-logo="http://redworld.pro:8880/images/fade81c69472e32761efa148a99e2df7.jpg" group-title="⭐️Terror",Happy Hunting (2017)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268197.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Outdoor Channel
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/25010
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: OUTDOOR CHANNEL" tvg-logo="" group-title="EU | GREECE VIP",GR: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/154410
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/hungary/fishinghunting.png" group-title="EU | HUNGARY VIP",HU: THE FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/3839
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/romania/fishinghunting.png" group-title="EU | ROMANIA VIP",RO: FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/3235
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTINGTON WCHS" tvg-logo="" group-title="USA VIP",USA: ABC HUNTINGTON WCHS
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/154537
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTSVILLE WAAY" tvg-logo="" group-title="USA VIP",USA: ABC HUNTSVILLE WAAY
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/154538
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTINGTON WOWK" tvg-logo="" group-title="USA VIP",USA: CBS HUNTINGTON WOWK
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/154819
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTSVILLE WHNT" tvg-logo="" group-title="USA VIP",USA: CBS HUNTSVILLE WHNT
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/154820
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: DOG THE BOUNTY HUNTER" tvg-logo="" group-title="USA VIP",USA: DOG THE BOUNTY HUNTER
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/155088
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX HUNTSVILLE WZDX" tvg-logo="" group-title="USA VIP",USA: FOX HUNTSVILLE WZDX
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/155421
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 3 (WSAZ) HUNTINGTON" tvg-logo="" group-title="USA VIP",USA: NBC 3 (WSAZ) HUNTINGTON
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156010
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 48 (WAFF) HUNTSVILLE" tvg-logo="" group-title="USA VIP",USA: NBC 48 (WAFF) HUNTSVILLE
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156020
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTINGTON WSAZ" tvg-logo="" group-title="USA VIP",USA: NBC HUNTINGTON WSAZ
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156073
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTSVILLE WAFF" tvg-logo="" group-title="USA VIP",USA: NBC HUNTSVILLE WAFF
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156074
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: OUTDOOR CHANNEL" tvg-logo="" group-title="USA VIP",USA: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156393
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156591
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: THE SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156683
+--
+#EXTINF:-1 tvg-id="" tvg-name="COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4wbG3nAGQhxeYGD2k63td0ha9.jpg" group-title="XXX 18+",COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/139946.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Autumn (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LRuhNLFxN3QGXsqBGM75nwm1Y.jpg" group-title="AMAZON | 2025",The Hunter's Autumn (2025)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/134413.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/134487.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/134564.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="AMAZON | Documentaries",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/138526.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="American Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ3QhpScs4GRtjH9tY8gml6waG9.jpg" group-title="AMAZON | Horror",American Hunt (2019)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/138876.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Demon Hunter (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqKoqa3yQ3EVPOD9jgElaXYffG.jpg" group-title="AMAZON | Horror",Demon Hunter (2005)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/138913.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Night Hunter (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vLZixx4wG2ytwJDmolpaJfA0MA.jpg" group-title="AMAZON | Horror",Night Hunter (1996)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/139025.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghosthunters (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" group-title="AMAZON | Kids And Family",Ghosthunters (2016)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/139224.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Military And War",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/139547.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Movies In English",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/139666.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQKiVg4DrXD4mt5u17dhNEbVypm.jpg" group-title="AMAZON | Romantic Comedies",Hunt (2024)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/139705.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Bounty Hunter (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJPKar0jnAsS09l3xfP6LL8sUkX.jpg" group-title="AMAZON | Romance",The Bounty Hunter (2010)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/142200.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: The Huntress (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upKD8UbH8vQ798aMWgwMxV8t4yk.jpg" group-title="AMAZON | TOP",Sayen: The Huntress (2024)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/142815.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Night of the Hunter (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg" group-title="AMAZON | TOP",The Night of the Hunter (1955)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/142968.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Hunter (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6GOmXzfVEL7bIurNPL7z84BThO.jpg" group-title="AMAZON | Mystery And Thriller",Dragon Hunter (2008)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/143191.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunting with Tigers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6ovFjd6fhq6SEklcxP5axlVJn.jpg" group-title="AMAZON | Mystery And Thriller",Hunting with Tigers (2024)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/143255.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mindhunters (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="AMAZON | Mystery And Thriller",Mindhunters (2004)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/143371.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress of Auschwitz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="AMAZON | Mystery And Thriller",The Huntress of Auschwitz (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/143505.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UrOHqUlzdeXz4SLaQIETaRd2W.jpg" group-title="AMAZON | Science Fiction",Monster Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/143811.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubR6x50z4aLflgzJcw7X7HflKKr.jpg" group-title="AMAZON | Science Fiction",The Hunters (2013)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/143893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Anthology: The Demon Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTC42BByeKWSI8w46Fnllx4zM3C.jpg" group-title="AMAZON | Science Fiction",The Hunter's Anthology: The Demon Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/143894.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Scalphunters (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m82aMr1Pcqt5t0cpSCwq5REdajY.jpg" group-title="AMAZON | Western",The Scalphunters (1968)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/144162.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Virus Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQYMBymSnbPntFSf3Th0099kDAj.jpg" group-title="DISNEY | Geo",Virus Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/136714.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Benji the Hunted (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4mlRGzUKCXfRDUJqSRPY0mKPMC.jpg" group-title="DISNEY | Action/Adventure",Benji the Hunted (1987)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/136917.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWkLnFsgHmV8NeyJMal5yUlpFEN.jpg" group-title="DISNEY | Drama",Hunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/137148.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="DISNEY | Fantasy",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/137732.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="NETFLIX | Action",Badland Hunters (2024)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/132582.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="NETFLIX | Action",City Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/132590.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="NETFLIX | Action",Heart of the Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/132603.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg" group-title="NETFLIX | Anime",Monster Hunter: Legends of the Guild (2021)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/132659.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Nail Bomber: Manhunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iSL0WLl2Y76n9l9FejaoXTaPPE.jpg" group-title="NETFLIX | Documentary",Nail Bomber: Manhunt (2021)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133091.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Trust No One: The Hunt for the Crypto King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="NETFLIX | Documentary",Trust No One: The Hunt for the Crypto King (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133235.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Legacy of a Whitetail Deer Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOHduIbPV196GU0LMB1NFyR3IRl.jpg" group-title="NETFLIX | Drama",The Legacy of a Whitetail Deer Hunter (2018)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133557.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="A Babysitter's Guide to Monster Hunting (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="NETFLIX | Kids",A Babysitter's Guide to Monster Hunting (2020)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133640.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Time to Hunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkuuvDoPkOJpg0ZDzHkUWt8ZG5A.jpg" group-title="NETFLIX | Thriller",Time to Hunt (2020)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133929.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: OUTDOOR CHANNEL" tvg-logo="" group-title="EU | GREECE VIP",GR: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/154410
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/romania/fishinghunting.png" group-title="EU | ROMANIA VIP",RO: FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/3235
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/hungary/fishinghunting.png" group-title="EU | HUNGARY VIP",HU: THE FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/3839
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTINGTON WCHS" tvg-logo="" group-title="USA VIP",USA: ABC HUNTINGTON WCHS
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/154537
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTSVILLE WAAY" tvg-logo="" group-title="USA VIP",USA: ABC HUNTSVILLE WAAY
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/154538
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTINGTON WOWK" tvg-logo="" group-title="USA VIP",USA: CBS HUNTINGTON WOWK
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/154819
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTSVILLE WHNT" tvg-logo="" group-title="USA VIP",USA: CBS HUNTSVILLE WHNT
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/154820
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: DOG THE BOUNTY HUNTER" tvg-logo="" group-title="USA VIP",USA: DOG THE BOUNTY HUNTER
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/155088
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX HUNTSVILLE WZDX" tvg-logo="" group-title="USA VIP",USA: FOX HUNTSVILLE WZDX
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/155421
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 3 (WSAZ) HUNTINGTON" tvg-logo="" group-title="USA VIP",USA: NBC 3 (WSAZ) HUNTINGTON
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156010
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 48 (WAFF) HUNTSVILLE" tvg-logo="" group-title="USA VIP",USA: NBC 48 (WAFF) HUNTSVILLE
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156020
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTINGTON WSAZ" tvg-logo="" group-title="USA VIP",USA: NBC HUNTINGTON WSAZ
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156073
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTSVILLE WAFF" tvg-logo="" group-title="USA VIP",USA: NBC HUNTSVILLE WAFF
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156074
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: OUTDOOR CHANNEL" tvg-logo="" group-title="USA VIP",USA: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156393
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156591
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: THE SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156683
+--
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Outdoor Channel
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/25010
+--
+#EXTINF:-1 tvg-id="" tvg-name="COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4wbG3nAGQhxeYGD2k63td0ha9.jpg" group-title="XXX 18+",COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/139946.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="NETFLIX | Action",Badland Hunters (2024)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/132582.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="NETFLIX | Action",City Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/132590.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="NETFLIX | Action",Heart of the Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/132603.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg" group-title="NETFLIX | Anime",Monster Hunter: Legends of the Guild (2021)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/132659.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Nail Bomber: Manhunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iSL0WLl2Y76n9l9FejaoXTaPPE.jpg" group-title="NETFLIX | Documentary",Nail Bomber: Manhunt (2021)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133091.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Trust No One: The Hunt for the Crypto King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="NETFLIX | Documentary",Trust No One: The Hunt for the Crypto King (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133235.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Legacy of a Whitetail Deer Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOHduIbPV196GU0LMB1NFyR3IRl.jpg" group-title="NETFLIX | Drama",The Legacy of a Whitetail Deer Hunter (2018)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133557.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="A Babysitter's Guide to Monster Hunting (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="NETFLIX | Kids",A Babysitter's Guide to Monster Hunting (2020)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133640.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Time to Hunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkuuvDoPkOJpg0ZDzHkUWt8ZG5A.jpg" group-title="NETFLIX | Thriller",Time to Hunt (2020)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133929.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Autumn (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LRuhNLFxN3QGXsqBGM75nwm1Y.jpg" group-title="AMAZON | 2025",The Hunter's Autumn (2025)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/134413.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/134487.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/134564.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="AMAZON | Documentaries",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/138526.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="American Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ3QhpScs4GRtjH9tY8gml6waG9.jpg" group-title="AMAZON | Horror",American Hunt (2019)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/138876.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Demon Hunter (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqKoqa3yQ3EVPOD9jgElaXYffG.jpg" group-title="AMAZON | Horror",Demon Hunter (2005)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/138913.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Night Hunter (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vLZixx4wG2ytwJDmolpaJfA0MA.jpg" group-title="AMAZON | Horror",Night Hunter (1996)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/139025.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghosthunters (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" group-title="AMAZON | Kids And Family",Ghosthunters (2016)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/139224.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Military And War",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/139547.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Movies In English",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/139666.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQKiVg4DrXD4mt5u17dhNEbVypm.jpg" group-title="AMAZON | Romantic Comedies",Hunt (2024)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/139705.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Bounty Hunter (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJPKar0jnAsS09l3xfP6LL8sUkX.jpg" group-title="AMAZON | Romance",The Bounty Hunter (2010)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/142200.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: The Huntress (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upKD8UbH8vQ798aMWgwMxV8t4yk.jpg" group-title="AMAZON | TOP",Sayen: The Huntress (2024)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/142815.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Night of the Hunter (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg" group-title="AMAZON | TOP",The Night of the Hunter (1955)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/142968.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Hunter (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6GOmXzfVEL7bIurNPL7z84BThO.jpg" group-title="AMAZON | Mystery And Thriller",Dragon Hunter (2008)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/143191.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunting with Tigers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6ovFjd6fhq6SEklcxP5axlVJn.jpg" group-title="AMAZON | Mystery And Thriller",Hunting with Tigers (2024)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/143255.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mindhunters (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="AMAZON | Mystery And Thriller",Mindhunters (2004)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/143371.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress of Auschwitz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="AMAZON | Mystery And Thriller",The Huntress of Auschwitz (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/143505.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UrOHqUlzdeXz4SLaQIETaRd2W.jpg" group-title="AMAZON | Science Fiction",Monster Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/143811.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubR6x50z4aLflgzJcw7X7HflKKr.jpg" group-title="AMAZON | Science Fiction",The Hunters (2013)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/143893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Anthology: The Demon Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTC42BByeKWSI8w46Fnllx4zM3C.jpg" group-title="AMAZON | Science Fiction",The Hunter's Anthology: The Demon Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/143894.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Scalphunters (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m82aMr1Pcqt5t0cpSCwq5REdajY.jpg" group-title="AMAZON | Western",The Scalphunters (1968)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/144162.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Virus Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQYMBymSnbPntFSf3Th0099kDAj.jpg" group-title="DISNEY | Geo",Virus Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/136714.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Benji the Hunted (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4mlRGzUKCXfRDUJqSRPY0mKPMC.jpg" group-title="DISNEY | Action/Adventure",Benji the Hunted (1987)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/136917.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWkLnFsgHmV8NeyJMal5yUlpFEN.jpg" group-title="DISNEY | Drama",Hunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/137148.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="DISNEY | Fantasy",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/137732.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: OUTDOOR CHANNEL" tvg-logo="" group-title="EU | GREECE VIP",GR: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/154410
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/romania/fishinghunting.png" group-title="EU | ROMANIA VIP",RO: FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/3235
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/hungary/fishinghunting.png" group-title="EU | HUNGARY VIP",HU: THE FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/3839
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTINGTON WCHS" tvg-logo="" group-title="USA VIP",USA: ABC HUNTINGTON WCHS
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/154537
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTSVILLE WAAY" tvg-logo="" group-title="USA VIP",USA: ABC HUNTSVILLE WAAY
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/154538
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTINGTON WOWK" tvg-logo="" group-title="USA VIP",USA: CBS HUNTINGTON WOWK
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/154819
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTSVILLE WHNT" tvg-logo="" group-title="USA VIP",USA: CBS HUNTSVILLE WHNT
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/154820
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: DOG THE BOUNTY HUNTER" tvg-logo="" group-title="USA VIP",USA: DOG THE BOUNTY HUNTER
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/155088
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX HUNTSVILLE WZDX" tvg-logo="" group-title="USA VIP",USA: FOX HUNTSVILLE WZDX
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/155421
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 3 (WSAZ) HUNTINGTON" tvg-logo="" group-title="USA VIP",USA: NBC 3 (WSAZ) HUNTINGTON
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156010
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 48 (WAFF) HUNTSVILLE" tvg-logo="" group-title="USA VIP",USA: NBC 48 (WAFF) HUNTSVILLE
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156020
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTINGTON WSAZ" tvg-logo="" group-title="USA VIP",USA: NBC HUNTINGTON WSAZ
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156073
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTSVILLE WAFF" tvg-logo="" group-title="USA VIP",USA: NBC HUNTSVILLE WAFF
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156074
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: OUTDOOR CHANNEL" tvg-logo="" group-title="USA VIP",USA: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156393
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156591
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: THE SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156683
+--
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Outdoor Channel
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/25010
+--
+#EXTINF:-1 tvg-id="" tvg-name="COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4wbG3nAGQhxeYGD2k63td0ha9.jpg" group-title="XXX 18+",COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/139946.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="NETFLIX | Action",Badland Hunters (2024)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/132582.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="NETFLIX | Action",City Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/132590.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="NETFLIX | Action",Heart of the Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/132603.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg" group-title="NETFLIX | Anime",Monster Hunter: Legends of the Guild (2021)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/132659.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Nail Bomber: Manhunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iSL0WLl2Y76n9l9FejaoXTaPPE.jpg" group-title="NETFLIX | Documentary",Nail Bomber: Manhunt (2021)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133091.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Trust No One: The Hunt for the Crypto King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="NETFLIX | Documentary",Trust No One: The Hunt for the Crypto King (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133235.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Legacy of a Whitetail Deer Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOHduIbPV196GU0LMB1NFyR3IRl.jpg" group-title="NETFLIX | Drama",The Legacy of a Whitetail Deer Hunter (2018)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133557.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="A Babysitter's Guide to Monster Hunting (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="NETFLIX | Kids",A Babysitter's Guide to Monster Hunting (2020)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133640.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Time to Hunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkuuvDoPkOJpg0ZDzHkUWt8ZG5A.jpg" group-title="NETFLIX | Thriller",Time to Hunt (2020)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133929.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Autumn (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LRuhNLFxN3QGXsqBGM75nwm1Y.jpg" group-title="AMAZON | 2025",The Hunter's Autumn (2025)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/134413.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/134487.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/134564.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="AMAZON | Documentaries",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/138526.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="American Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ3QhpScs4GRtjH9tY8gml6waG9.jpg" group-title="AMAZON | Horror",American Hunt (2019)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/138876.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Demon Hunter (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqKoqa3yQ3EVPOD9jgElaXYffG.jpg" group-title="AMAZON | Horror",Demon Hunter (2005)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/138913.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Night Hunter (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vLZixx4wG2ytwJDmolpaJfA0MA.jpg" group-title="AMAZON | Horror",Night Hunter (1996)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/139025.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghosthunters (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" group-title="AMAZON | Kids And Family",Ghosthunters (2016)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/139224.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Military And War",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/139547.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Movies In English",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/139666.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQKiVg4DrXD4mt5u17dhNEbVypm.jpg" group-title="AMAZON | Romantic Comedies",Hunt (2024)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/139705.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Bounty Hunter (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJPKar0jnAsS09l3xfP6LL8sUkX.jpg" group-title="AMAZON | Romance",The Bounty Hunter (2010)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/142200.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: The Huntress (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upKD8UbH8vQ798aMWgwMxV8t4yk.jpg" group-title="AMAZON | TOP",Sayen: The Huntress (2024)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/142815.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Night of the Hunter (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg" group-title="AMAZON | TOP",The Night of the Hunter (1955)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/142968.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Hunter (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6GOmXzfVEL7bIurNPL7z84BThO.jpg" group-title="AMAZON | Mystery And Thriller",Dragon Hunter (2008)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/143191.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunting with Tigers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6ovFjd6fhq6SEklcxP5axlVJn.jpg" group-title="AMAZON | Mystery And Thriller",Hunting with Tigers (2024)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/143255.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mindhunters (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="AMAZON | Mystery And Thriller",Mindhunters (2004)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/143371.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress of Auschwitz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="AMAZON | Mystery And Thriller",The Huntress of Auschwitz (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/143505.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UrOHqUlzdeXz4SLaQIETaRd2W.jpg" group-title="AMAZON | Science Fiction",Monster Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/143811.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubR6x50z4aLflgzJcw7X7HflKKr.jpg" group-title="AMAZON | Science Fiction",The Hunters (2013)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/143893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Anthology: The Demon Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTC42BByeKWSI8w46Fnllx4zM3C.jpg" group-title="AMAZON | Science Fiction",The Hunter's Anthology: The Demon Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/143894.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Scalphunters (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m82aMr1Pcqt5t0cpSCwq5REdajY.jpg" group-title="AMAZON | Western",The Scalphunters (1968)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/144162.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Virus Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQYMBymSnbPntFSf3Th0099kDAj.jpg" group-title="DISNEY | Geo",Virus Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/136714.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Benji the Hunted (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4mlRGzUKCXfRDUJqSRPY0mKPMC.jpg" group-title="DISNEY | Action/Adventure",Benji the Hunted (1987)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/136917.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWkLnFsgHmV8NeyJMal5yUlpFEN.jpg" group-title="DISNEY | Drama",Hunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/137148.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="DISNEY | Fantasy",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/137732.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Outdoor Channel
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/25010
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: OUTDOOR CHANNEL" tvg-logo="" group-title="EU | GREECE VIP",GR: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/154410
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/hungary/fishinghunting.png" group-title="EU | HUNGARY VIP",HU: THE FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/3839
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/romania/fishinghunting.png" group-title="EU | ROMANIA VIP",RO: FISHING & HUNTING
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/3235
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTINGTON WCHS" tvg-logo="" group-title="USA VIP",USA: ABC HUNTINGTON WCHS
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/154537
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTSVILLE WAAY" tvg-logo="" group-title="USA VIP",USA: ABC HUNTSVILLE WAAY
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/154538
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTINGTON WOWK" tvg-logo="" group-title="USA VIP",USA: CBS HUNTINGTON WOWK
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/154819
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTSVILLE WHNT" tvg-logo="" group-title="USA VIP",USA: CBS HUNTSVILLE WHNT
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/154820
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: DOG THE BOUNTY HUNTER" tvg-logo="" group-title="USA VIP",USA: DOG THE BOUNTY HUNTER
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/155088
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX HUNTSVILLE WZDX" tvg-logo="" group-title="USA VIP",USA: FOX HUNTSVILLE WZDX
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/155421
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 3 (WSAZ) HUNTINGTON" tvg-logo="" group-title="USA VIP",USA: NBC 3 (WSAZ) HUNTINGTON
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156010
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 48 (WAFF) HUNTSVILLE" tvg-logo="" group-title="USA VIP",USA: NBC 48 (WAFF) HUNTSVILLE
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156020
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTINGTON WSAZ" tvg-logo="" group-title="USA VIP",USA: NBC HUNTINGTON WSAZ
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156073
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTSVILLE WAFF" tvg-logo="" group-title="USA VIP",USA: NBC HUNTSVILLE WAFF
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156074
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: OUTDOOR CHANNEL" tvg-logo="" group-title="USA VIP",USA: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156393
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156591
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: THE SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156683
+--
+#EXTINF:-1 tvg-id="" tvg-name="COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4wbG3nAGQhxeYGD2k63td0ha9.jpg" group-title="XXX 18+",COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/139946.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Autumn (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LRuhNLFxN3QGXsqBGM75nwm1Y.jpg" group-title="AMAZON | 2025",The Hunter's Autumn (2025)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/134413.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/134487.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/134564.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="AMAZON | Documentaries",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/138526.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="American Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ3QhpScs4GRtjH9tY8gml6waG9.jpg" group-title="AMAZON | Horror",American Hunt (2019)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/138876.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Demon Hunter (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqKoqa3yQ3EVPOD9jgElaXYffG.jpg" group-title="AMAZON | Horror",Demon Hunter (2005)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/138913.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Night Hunter (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vLZixx4wG2ytwJDmolpaJfA0MA.jpg" group-title="AMAZON | Horror",Night Hunter (1996)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/139025.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghosthunters (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" group-title="AMAZON | Kids And Family",Ghosthunters (2016)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/139224.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Military And War",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/139547.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Movies In English",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/139666.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQKiVg4DrXD4mt5u17dhNEbVypm.jpg" group-title="AMAZON | Romantic Comedies",Hunt (2024)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/139705.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Bounty Hunter (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJPKar0jnAsS09l3xfP6LL8sUkX.jpg" group-title="AMAZON | Romance",The Bounty Hunter (2010)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/142200.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: The Huntress (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upKD8UbH8vQ798aMWgwMxV8t4yk.jpg" group-title="AMAZON | TOP",Sayen: The Huntress (2024)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/142815.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Night of the Hunter (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg" group-title="AMAZON | TOP",The Night of the Hunter (1955)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/142968.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Hunter (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6GOmXzfVEL7bIurNPL7z84BThO.jpg" group-title="AMAZON | Mystery And Thriller",Dragon Hunter (2008)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/143191.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunting with Tigers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6ovFjd6fhq6SEklcxP5axlVJn.jpg" group-title="AMAZON | Mystery And Thriller",Hunting with Tigers (2024)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/143255.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mindhunters (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="AMAZON | Mystery And Thriller",Mindhunters (2004)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/143371.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress of Auschwitz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="AMAZON | Mystery And Thriller",The Huntress of Auschwitz (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/143505.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UrOHqUlzdeXz4SLaQIETaRd2W.jpg" group-title="AMAZON | Science Fiction",Monster Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/143811.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubR6x50z4aLflgzJcw7X7HflKKr.jpg" group-title="AMAZON | Science Fiction",The Hunters (2013)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/143893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Anthology: The Demon Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTC42BByeKWSI8w46Fnllx4zM3C.jpg" group-title="AMAZON | Science Fiction",The Hunter's Anthology: The Demon Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/143894.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Scalphunters (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m82aMr1Pcqt5t0cpSCwq5REdajY.jpg" group-title="AMAZON | Western",The Scalphunters (1968)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/144162.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Virus Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQYMBymSnbPntFSf3Th0099kDAj.jpg" group-title="DISNEY | Geo",Virus Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/136714.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Benji the Hunted (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4mlRGzUKCXfRDUJqSRPY0mKPMC.jpg" group-title="DISNEY | Action/Adventure",Benji the Hunted (1987)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/136917.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWkLnFsgHmV8NeyJMal5yUlpFEN.jpg" group-title="DISNEY | Drama",Hunt (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/137148.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="DISNEY | Fantasy",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/137732.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="NETFLIX | Action",Badland Hunters (2024)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/132582.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="NETFLIX | Action",City Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/132590.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="NETFLIX | Action",Heart of the Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/132603.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg" group-title="NETFLIX | Anime",Monster Hunter: Legends of the Guild (2021)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/132659.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Nail Bomber: Manhunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iSL0WLl2Y76n9l9FejaoXTaPPE.jpg" group-title="NETFLIX | Documentary",Nail Bomber: Manhunt (2021)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133091.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Trust No One: The Hunt for the Crypto King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="NETFLIX | Documentary",Trust No One: The Hunt for the Crypto King (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133235.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Legacy of a Whitetail Deer Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOHduIbPV196GU0LMB1NFyR3IRl.jpg" group-title="NETFLIX | Drama",The Legacy of a Whitetail Deer Hunter (2018)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133557.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="A Babysitter's Guide to Monster Hunting (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="NETFLIX | Kids",A Babysitter's Guide to Monster Hunting (2020)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133640.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Time to Hunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkuuvDoPkOJpg0ZDzHkUWt8ZG5A.jpg" group-title="NETFLIX | Thriller",Time to Hunt (2020)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133929.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="GR: OUTDOOR CHANNEL" tvg-logo="" group-title="EU | GREECE VIP",GR: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/154410
+--
+#EXTINF:-1 tvg-id="" tvg-name="RO: FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/romania/fishinghunting.png" group-title="EU | ROMANIA VIP",RO: FISHING & HUNTING
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/3235
+--
+#EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING" tvg-logo="https://docdog.top/logo/countries/hungary/fishinghunting.png" group-title="EU | HUNGARY VIP",HU: THE FISHING & HUNTING
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/3839
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTINGTON WCHS" tvg-logo="" group-title="USA VIP",USA: ABC HUNTINGTON WCHS
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/154537
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HUNTSVILLE WAAY" tvg-logo="" group-title="USA VIP",USA: ABC HUNTSVILLE WAAY
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/154538
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTINGTON WOWK" tvg-logo="" group-title="USA VIP",USA: CBS HUNTINGTON WOWK
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/154819
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HUNTSVILLE WHNT" tvg-logo="" group-title="USA VIP",USA: CBS HUNTSVILLE WHNT
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/154820
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: DOG THE BOUNTY HUNTER" tvg-logo="" group-title="USA VIP",USA: DOG THE BOUNTY HUNTER
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/155088
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX HUNTSVILLE WZDX" tvg-logo="" group-title="USA VIP",USA: FOX HUNTSVILLE WZDX
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/155421
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 3 (WSAZ) HUNTINGTON" tvg-logo="" group-title="USA VIP",USA: NBC 3 (WSAZ) HUNTINGTON
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156010
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC 48 (WAFF) HUNTSVILLE" tvg-logo="" group-title="USA VIP",USA: NBC 48 (WAFF) HUNTSVILLE
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156020
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTINGTON WSAZ" tvg-logo="" group-title="USA VIP",USA: NBC HUNTINGTON WSAZ
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156073
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HUNTSVILLE WAFF" tvg-logo="" group-title="USA VIP",USA: NBC HUNTSVILLE WAFF
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156074
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: OUTDOOR CHANNEL" tvg-logo="" group-title="USA VIP",USA: OUTDOOR CHANNEL
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156393
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156591
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE SPORTSMAN CHANNEL" tvg-logo="" group-title="USA VIP",USA: THE SPORTSMAN CHANNEL
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156683
+--
+#EXTINF:-1 tvg-id="" tvg-name="COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4wbG3nAGQhxeYGD2k63td0ha9.jpg" group-title="XXX 18+",COLLEGERUES-Young_Girls_On_The_Hunt_For_COCK_cr
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/139946.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Outdoor Channel
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/25010
+--
+#EXTINF:-1 tvg-id="" tvg-name="Badland Hunters (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="NETFLIX | Action",Badland Hunters (2024)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/132582.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="NETFLIX | Action",City Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/132590.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="NETFLIX | Action",Heart of the Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/132603.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Legends of the Guild (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg" group-title="NETFLIX | Anime",Monster Hunter: Legends of the Guild (2021)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/132659.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Nail Bomber: Manhunt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iSL0WLl2Y76n9l9FejaoXTaPPE.jpg" group-title="NETFLIX | Documentary",Nail Bomber: Manhunt (2021)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133091.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Trust No One: The Hunt for the Crypto King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="NETFLIX | Documentary",Trust No One: The Hunt for the Crypto King (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133235.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Legacy of a Whitetail Deer Hunter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOHduIbPV196GU0LMB1NFyR3IRl.jpg" group-title="NETFLIX | Drama",The Legacy of a Whitetail Deer Hunter (2018)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133557.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="A Babysitter's Guide to Monster Hunting (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="NETFLIX | Kids",A Babysitter's Guide to Monster Hunting (2020)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133640.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Time to Hunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkuuvDoPkOJpg0ZDzHkUWt8ZG5A.jpg" group-title="NETFLIX | Thriller",Time to Hunt (2020)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133929.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Autumn (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LRuhNLFxN3QGXsqBGM75nwm1Y.jpg" group-title="AMAZON | 2025",The Hunter's Autumn (2025)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/134413.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/134487.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="KPop Demon Hunters (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22AouvwlhlXbe3nrFcjzL24bvWH.jpg" group-title="AMAZON | 2025",KPop Demon Hunters (2025)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/134564.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="AMAZON | Documentaries",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/138526.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="American Hunt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ3QhpScs4GRtjH9tY8gml6waG9.jpg" group-title="AMAZON | Horror",American Hunt (2019)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/138876.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Demon Hunter (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqKoqa3yQ3EVPOD9jgElaXYffG.jpg" group-title="AMAZON | Horror",Demon Hunter (2005)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/138913.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Night Hunter (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vLZixx4wG2ytwJDmolpaJfA0MA.jpg" group-title="AMAZON | Horror",Night Hunter (1996)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/139025.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Ghosthunters (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" group-title="AMAZON | Kids And Family",Ghosthunters (2016)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/139224.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Military And War",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/139547.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="AMAZON | Movies In English",WarHunt (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/139666.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQKiVg4DrXD4mt5u17dhNEbVypm.jpg" group-title="AMAZON | Romantic Comedies",Hunt (2024)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/139705.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Bounty Hunter (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJPKar0jnAsS09l3xfP6LL8sUkX.jpg" group-title="AMAZON | Romance",The Bounty Hunter (2010)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/142200.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: The Huntress (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upKD8UbH8vQ798aMWgwMxV8t4yk.jpg" group-title="AMAZON | TOP",Sayen: The Huntress (2024)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/142815.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Night of the Hunter (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg" group-title="AMAZON | TOP",The Night of the Hunter (1955)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/142968.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Hunter (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6GOmXzfVEL7bIurNPL7z84BThO.jpg" group-title="AMAZON | Mystery And Thriller",Dragon Hunter (2008)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/143191.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunting with Tigers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6ovFjd6fhq6SEklcxP5axlVJn.jpg" group-title="AMAZON | Mystery And Thriller",Hunting with Tigers (2024)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/143255.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mindhunters (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="AMAZON | Mystery And Thriller",Mindhunters (2004)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/143371.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress of Auschwitz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="AMAZON | Mystery And Thriller",The Huntress of Auschwitz (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/143505.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UrOHqUlzdeXz4SLaQIETaRd2W.jpg" group-title="AMAZON | Science Fiction",Monster Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/143811.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Hunters (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubR6x50z4aLflgzJcw7X7HflKKr.jpg" group-title="AMAZON | Science Fiction",The Hunters (2013)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/143893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunter's Anthology: The Demon Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTC42BByeKWSI8w46Fnllx4zM3C.jpg" group-title="AMAZON | Science Fiction",The Hunter's Anthology: The Demon Hunter (2024)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/143894.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="The Scalphunters (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m82aMr1Pcqt5t0cpSCwq5REdajY.jpg" group-title="AMAZON | Western",The Scalphunters (1968)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/144162.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Virus Hunters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQYMBymSnbPntFSf3Th0099kDAj.jpg" group-title="DISNEY | Geo",Virus Hunters (2020)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/136714.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Benji the Hunted (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4mlRGzUKCXfRDUJqSRPY0mKPMC.jpg" group-title="DISNEY | Action/Adventure",Benji the Hunted (1987)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/136917.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWkLnFsgHmV8NeyJMal5yUlpFEN.jpg" group-title="DISNEY | Drama",Hunt (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/137148.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" group-title="DISNEY | Fantasy",Monster Hunter (2020)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/137732.mkv

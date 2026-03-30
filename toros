@@ -135,6 +135,12 @@ http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/407.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="http://redworld.pro:8880/images/918bc421add07454b436b4a61fcb7f7e.jpg" group-title="⭐️Películas 2022",Pinocho de Guillermo del Toro (2022)
 http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258773.mkv
 --
+#EXTINF:-1 tvg-id="" tvg-name="Pepe El Toro (1953)" tvg-logo="http://redworld.pro:8880/images/dd8a70e239ddd8dc6a1a212959de2d2c.jpg" group-title="⭐️Peliculas Mexicanas",Pepe El Toro (1953)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265998.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="Mi vecino Totoro (1988)" tvg-logo="http://redworld.pro:8880/images/deddf7567aa10542f88b32179f15107a.jpg" group-title="⭐️Anime",Mi vecino Totoro (1988)
+http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267000.mp4
+--
 #EXTINF:-1 tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-1024x586.jpg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 --
@@ -142,3 +148,288 @@ acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 http://vlc.shickat.me:8000/pid/cd0188292b6b3876ff66c99bd3d25eab88b41079/stream.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NUEVA ERA III
 http://vlc.shickat.me:8000/pid/877eceeaf9f3bd9b392359323d03d0ac3bb27312/stream.mp4
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="CANADA VIP",CA: CBC TORONTO
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/5418
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/citytoronto.png" group-title="CANADA VIP",CA: CITY TORONTO
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/5424
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/globaltoronto.png" group-title="CANADA VIP",CA: GLOBAL TORONTO
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/5460
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://docdog.top/logo/countries/pakistan/toronto360.png" group-title="ASIA | PAKISTAN VIP",PK: TORONTO 360
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/7619
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: MUNDOTORO TV" tvg-logo="" group-title="PT | OTHERS",PT: MUNDOTORO TV
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/129331
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/631
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/37678
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/38816
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | NEWS VIP",ES: EL TORO TV
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/783
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN onetoro tv" tvg-logo="" group-title="UK VIP NEW",UK: DAZN onetoro tv
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/146902
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="" group-title="USA VIP",USA: MLB TORONTO BLUE JAYS
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/155764
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TORONTO RAPTORS" tvg-logo="" group-title="USA VIP",USA: NBA TORONTO RAPTORS
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/155962
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156342
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS" tvg-logo="" group-title="USA VIP",USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156349
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/156371
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="AMAZON | Documentaries",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/138080.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg" group-title="NETFLIX | Documentary",Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133010.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BWxL6O64eRfEYIYL8fezu2A4F8.jpg" group-title="NETFLIX | Documentary",I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133267.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="NETFLIX | Fantasy",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/133625.mkv
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/631
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/37678
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/38816
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | NEWS VIP",ES: EL TORO TV
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/783
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: MUNDOTORO TV" tvg-logo="" group-title="PT | OTHERS",PT: MUNDOTORO TV
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/129331
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN onetoro tv" tvg-logo="" group-title="UK VIP NEW",UK: DAZN onetoro tv
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/146902
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="CANADA VIP",CA: CBC TORONTO
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/5418
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/citytoronto.png" group-title="CANADA VIP",CA: CITY TORONTO
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/5424
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/globaltoronto.png" group-title="CANADA VIP",CA: GLOBAL TORONTO
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/5460
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="" group-title="USA VIP",USA: MLB TORONTO BLUE JAYS
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/155764
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TORONTO RAPTORS" tvg-logo="" group-title="USA VIP",USA: NBA TORONTO RAPTORS
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/155962
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156342
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS" tvg-logo="" group-title="USA VIP",USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156349
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/156371
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://docdog.top/logo/countries/pakistan/toronto360.png" group-title="ASIA | PAKISTAN VIP",PK: TORONTO 360
+http://vipwzcppcmr.top:8080/VIP014901749838374486/902896e075e8/7619
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg" group-title="NETFLIX | Documentary",Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133010.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BWxL6O64eRfEYIYL8fezu2A4F8.jpg" group-title="NETFLIX | Documentary",I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133267.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="NETFLIX | Fantasy",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/133625.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="AMAZON | Documentaries",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP014901749838374486/902896e075e8/138080.mkv
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/631
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/37678
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/38816
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | NEWS VIP",ES: EL TORO TV
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/783
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: MUNDOTORO TV" tvg-logo="" group-title="PT | OTHERS",PT: MUNDOTORO TV
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/129331
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN onetoro tv" tvg-logo="" group-title="UK VIP NEW",UK: DAZN onetoro tv
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/146902
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="CANADA VIP",CA: CBC TORONTO
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/5418
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/citytoronto.png" group-title="CANADA VIP",CA: CITY TORONTO
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/5424
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/globaltoronto.png" group-title="CANADA VIP",CA: GLOBAL TORONTO
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/5460
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="" group-title="USA VIP",USA: MLB TORONTO BLUE JAYS
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/155764
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TORONTO RAPTORS" tvg-logo="" group-title="USA VIP",USA: NBA TORONTO RAPTORS
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/155962
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156342
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS" tvg-logo="" group-title="USA VIP",USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156349
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/156371
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://docdog.top/logo/countries/pakistan/toronto360.png" group-title="ASIA | PAKISTAN VIP",PK: TORONTO 360
+http://vipwzcppcmr.top:8080/VIP01783171783028183/3f3af45dd354/7619
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg" group-title="NETFLIX | Documentary",Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133010.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BWxL6O64eRfEYIYL8fezu2A4F8.jpg" group-title="NETFLIX | Documentary",I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133267.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="NETFLIX | Fantasy",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/133625.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="AMAZON | Documentaries",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP01783171783028183/3f3af45dd354/138080.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="CANADA VIP",CA: CBC TORONTO
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/5418
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/citytoronto.png" group-title="CANADA VIP",CA: CITY TORONTO
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/5424
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/globaltoronto.png" group-title="CANADA VIP",CA: GLOBAL TORONTO
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/5460
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://docdog.top/logo/countries/pakistan/toronto360.png" group-title="ASIA | PAKISTAN VIP",PK: TORONTO 360
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/7619
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: MUNDOTORO TV" tvg-logo="" group-title="PT | OTHERS",PT: MUNDOTORO TV
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/129331
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/631
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/37678
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/38816
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | NEWS VIP",ES: EL TORO TV
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/783
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN onetoro tv" tvg-logo="" group-title="UK VIP NEW",UK: DAZN onetoro tv
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/146902
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="" group-title="USA VIP",USA: MLB TORONTO BLUE JAYS
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/155764
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TORONTO RAPTORS" tvg-logo="" group-title="USA VIP",USA: NBA TORONTO RAPTORS
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/155962
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156342
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS" tvg-logo="" group-title="USA VIP",USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156349
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/VIP018641764429980139/995f1986fa88/156371
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="AMAZON | Documentaries",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/138080.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg" group-title="NETFLIX | Documentary",Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133010.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BWxL6O64eRfEYIYL8fezu2A4F8.jpg" group-title="NETFLIX | Documentary",I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133267.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="NETFLIX | Fantasy",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/VIP018641764429980139/995f1986fa88/133625.mkv
+--
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/631
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/37678
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/38816
+--
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | NEWS VIP",ES: EL TORO TV
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/783
+--
+#EXTINF:-1 tvg-id="" tvg-name="PT: MUNDOTORO TV" tvg-logo="" group-title="PT | OTHERS",PT: MUNDOTORO TV
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/129331
+--
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN onetoro tv" tvg-logo="" group-title="UK VIP NEW",UK: DAZN onetoro tv
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/146902
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/cbctoronto.png" group-title="CANADA VIP",CA: CBC TORONTO
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/5418
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/citytoronto.png" group-title="CANADA VIP",CA: CITY TORONTO
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/5424
+--
+#EXTINF:-1 tvg-id="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="https://docdog.top/logo/countries/canada/globaltoronto.png" group-title="CANADA VIP",CA: GLOBAL TORONTO
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/5460
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="" group-title="USA VIP",USA: MLB TORONTO BLUE JAYS
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/155764
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TORONTO RAPTORS" tvg-logo="" group-title="USA VIP",USA: NBA TORONTO RAPTORS
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/155962
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL 01 06:30 PM DETROIT RED WINGS VS TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156342
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS" tvg-logo="" group-title="USA VIP",USA: NHL 05 07:00 PM TORONTO MAPLE LEAFS VS FLORIDA PANTHERS
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156349
+--
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL TORONTO MAPLE LEAFS" tvg-logo="" group-title="USA VIP",USA: NHL TORONTO MAPLE LEAFS
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/156371
+--
+#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://docdog.top/logo/countries/pakistan/toronto360.png" group-title="ASIA | PAKISTAN VIP",PK: TORONTO 360
+http://vipwzcppcmr.top:8080/vip4031768081697/c137481f488d/7619
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgsYXaUmmKXNUePmxxgx99n2cPS.jpg" group-title="NETFLIX | Documentary",Guillermo del Toro's Pinocchio: Handcarved Cinema (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133010.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BWxL6O64eRfEYIYL8fezu2A4F8.jpg" group-title="NETFLIX | Documentary",I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón (2020)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133267.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="NETFLIX | Fantasy",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/133625.mkv
+--
+#EXTINF:-1 tvg-id="" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="AMAZON | Documentaries",Guillermo del Toro's Pinocchio (2022)
+http://vipwzcppcmr.top:8080/movie/vip4031768081697/c137481f488d/138080.mkv
+--
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NEW ERA
+acestream://cd0188292b6b3876ff66c99bd3d25eab88b41079
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro" group-title="MOVISTAR", ONETORO FHD --> NEW ERA III
+acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
