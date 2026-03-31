@@ -354,41 +354,37 @@ udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 4Mbps)
 udp://@225.1.4.24:30120
 --
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
+#EXTINF:-1 tvg-id="524042" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",Discovery Channel
+#EXTINF:-1 tvg-id="524042" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Discovery Channel
-http://supersonictv.live:8080/611366/682256/22074
 --
+#EXTINF:-1 tvg-id="492679" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel HD
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23010.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel FHD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23009.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY HD" group-title="🎬😜|Giải Trí" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",Discovery Channel HD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23010.m3u8
 --
-#EXTINF:-1 tvg-id="discoverychannel" group-title="🎬😜|Giải Trí" tvg-logo="https://img.dsmartgo.com.tr/content/r/9C/11894/Thumbnail.png",Discovery Channel
-https://sokarim.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ytimg.com/vi/9KsR81OJa1A/hqdefault.jpg",DISCOVERY CHANNEL
-http://schedule-statutory-latex-colored.trycloudflare.com/vavo.php?ID=307999590110e9e6b78254
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",Discovery Channel
+#EXTINF:-1 tvg-id="524042" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ibb.co/30nTC1p/discovery.png",Discovery Channel
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418001
+#EXTINF:-1 tvg-id="524042" group-title="🎬😜|Giải Trí" tvg-logo="https://img.dsmartgo.com.tr/content/r/9C/11894/Thumbnail.png",Discovery Channel
+https://sokarim.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
 --
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",National Geographic
+#EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.pl@SD" group-title="🎬😜|Giải Trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic (1080p) (eng6) (English) (Documentary) - 1080P
 https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc103/nationalgeographichdraw/nationalgeographichdraw.mpd
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National Geographic
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",National geographic
-https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
+#EXTINF:-1 tvg-id="463692" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
-#EXTINF:-1 tvg-id="natgeo" group-title="🎬😜|Giải Trí" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg",National Geographic
-https://sokarim.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí" tvg-logo="https://i.ytimg.com/vi/9KsR81OJa1A/hqdefault.jpg",NATIONAL GEOGRAPHIC +
-http://schedule-statutory-latex-colored.trycloudflare.com/vavo.php?ID=1514492628e405abe4a48e
-#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="🎬😜|Giải Trí" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true",National Geographic SD
+https://v4.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=H8AjHfT5MUibimYrJPTRWw&expires=1774920233&user_id=RXdqRHlxRDVhQ2dERmxoMVBKTTRuaklGOFh6YnNrR1k4VWE1dmdFeg==
+#EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí",National Geographic
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+#EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí",National geographic
+https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+#EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png",National Geographic
 http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/418006
+#EXTINF:-1 tvg-id="516394" group-title="🎬😜|Giải Trí" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg",National Geographic
+https://sokarim.testworker0y.workers.dev/channel/TmF0aW9uYWwgR2VvZ3JhcGhpYw==
 --
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="⚽🥎| Thể Thao" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",Sony Sports Ten 2 HD (1080p) (eng8) (English) (Sports) - 1080P
 http://103.229.254.25:7001/play/a02t/index.m3u8
@@ -485,154 +481,6 @@ http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258759.mp4
 --
 #EXTINF:-1 tvg-id="" tvg-name="Una navideña historia de Navidad (2022)" tvg-logo="http://redworld.pro:8880/images/be22dd2ffb31ae913ba927bd91510896.jpg" group-title="⭐️Películas 2022",Una navideña historia de Navidad (2022)
 http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258939.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Weird: La Historia de Al Yankovic (2022)" tvg-logo="http://redworld.pro:8880/images/b73d4b16f33969f008e460cb7f1ce8e3.jpg" group-title="⭐️Películas 2022",Weird: La Historia de Al Yankovic (2022)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258977.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2021)" tvg-logo="http://redworld.pro:8880/images/690f1b6badeffc1c5fd1ce004a122368.jpg" group-title="⭐️Películas 2021",Historias lamentables (2021)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259251.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Jack, El Destripador La Historia no Contada (2021)" tvg-logo="http://redworld.pro:8880/images/4657595be1c337e54df23b31f1a035ac.jpg" group-title="⭐️Películas 2021",Jack, El Destripador La Historia no Contada (2021)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259267.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars: Historias Aterradoras (2021)" tvg-logo="http://redworld.pro:8880/images/9993c3286ccd2372a85382e97023fbb9.jpg" group-title="⭐️Películas 2021",LEGO Star Wars: Historias Aterradoras (2021)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259329.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Pamela: Una historia de amor (2023)" tvg-logo="http://redworld.pro:8880/images/b7c99f31ff815137b0ba36223c90b720.jpg" group-title="⭐️Películas 2023",Pamela: Una historia de amor (2023)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259621.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="The Truman Show: Historia de una vida (1998)" tvg-logo="http://redworld.pro:8880/images/6cde1672c5556ff23d2d629e89d8d448.jpg" group-title="⭐️Drama",The Truman Show: Historia de una vida (1998)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259747.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Atrapados: Una historia verdadera (2018)" tvg-logo="http://redworld.pro:8880/images/039d91880b8467873fb6cc8853f60313.jpg" group-title="⭐️Drama",Atrapados: Una historia verdadera (2018)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259827.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La historia más grande jamás contada (1965)" tvg-logo="http://redworld.pro:8880/images/9401d327eae6498b27fa51ee3339a06c.jpg" group-title="⭐️Drama",La historia más grande jamás contada (1965)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venganza: Una historia de amor (2017)" tvg-logo="http://redworld.pro:8880/images/c849acfffa5581f3418b946a9bbd191a.jpg" group-title="⭐️Drama",Venganza: Una historia de amor (2017)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259848.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La historia de David Copperfield (2019)" tvg-logo="http://redworld.pro:8880/images/2079ff0a72b799f34a748a7ee945c9f9.jpg" group-title="⭐️Drama",La historia de David Copperfield (2019)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/260038.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Historia de fantasmas (2017)" tvg-logo="http://redworld.pro:8880/images/6ae29e345570dd37a5a7a28fe0976393.jpg" group-title="⭐️Romance",Historia de fantasmas (2017)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/260109.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Un gesto fútil y estúpido: La historia de Doug Kenney (2018)" tvg-logo="http://redworld.pro:8880/images/b842782a9f376b802c3548f5adf2427a.jpg" group-title="⭐️Comedía",Un gesto fútil y estúpido: La historia de Doug Kenney (2018)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263359.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Borrar Historial (2013)" tvg-logo="http://redworld.pro:8880/images/d883f92f3c7d2979190052ce79af11a7.jpg" group-title="⭐️Comedía",Borrar Historial (2013)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263616.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El muerto cuenta su historia (2016)" tvg-logo="http://redworld.pro:8880/images/8914867b6b46e7cc0472d5f5551cce1f.jpg" group-title="⭐️Comedía",El muerto cuenta su historia (2016)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263801.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Festival de la canción de Eurovisión: La historia de Fire Saga (2020)" tvg-logo="http://redworld.pro:8880/images/27ada8d90a0fe2c8ef7ce9a33766dcb5.jpg" group-title="⭐️Comedía",Festival de la canción de Eurovisión: La historia de Fire Saga (2020)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263866.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Un gesto fútil y estúpido: La historia de Doug Kenney (2018)" tvg-logo="http://redworld.pro:8880/images/b842782a9f376b802c3548f5adf2427a.jpg" group-title="⭐️Comedía",Un gesto fútil y estúpido: La historia de Doug Kenney (2018)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/263921.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2021)" tvg-logo="http://redworld.pro:8880/images/690f1b6badeffc1c5fd1ce004a122368.jpg" group-title="⭐️Comedía",Historias lamentables (2021)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264008.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historia Policiaca (1985)" tvg-logo="http://redworld.pro:8880/images/3aa429563c73946f7491881384880b76.jpg" group-title="⭐️Comedía",Historia Policiaca (1985)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264083.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La odisea de los giles (2019)" tvg-logo="http://redworld.pro:8880/images/eacad503ebcaeb9cb1ee036e1c381fa4.jpg" group-title="⭐️Comedía",La odisea de los giles (2019)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264180.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La increíble historia de la Isla de las Rosas (2020)" tvg-logo="http://redworld.pro:8880/images/9181c99d22910b86dcb0d7b25d7749cb.jpg" group-title="⭐️Comedía",La increíble historia de la Isla de las Rosas (2020)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264239.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historia policiaca 3 (1992)" tvg-logo="http://redworld.pro:8880/images/776924fa0c8c00d7479b34853bc46ec1.jpg" group-title="⭐️Comedía",Historia policiaca 3 (1992)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264551.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Princesa, una historia verdadera (2018)" tvg-logo="http://redworld.pro:8880/images/0a9142e6c5b9693ca70705ee3867fd31.jpg" group-title="⭐️Comedía",Princesa, una historia verdadera (2018)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264565.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Nuestra Pandilla 2: Historia de un verano (2005)" tvg-logo="http://redworld.pro:8880/images/bc58ac495796ed71c1f186825827c306.jpg" group-title="⭐️Comedía",Nuestra Pandilla 2: Historia de un verano (2005)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264945.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La historia real de un falso asesino (2016)" tvg-logo="http://redworld.pro:8880/images/44ebf43a2cde5404de07e433f221f1a9.jpg" group-title="⭐️Comedía",La historia real de un falso asesino (2016)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264967.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Truman Show: Historia de una vida (1998)" tvg-logo="http://redworld.pro:8880/images/6cde1672c5556ff23d2d629e89d8d448.jpg" group-title="⭐️Comedía",The Truman Show: Historia de una vida (1998)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/264968.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Una historia diferente (2010)" tvg-logo="http://redworld.pro:8880/images/78485282d39e09f3cfbeee5776324ef5.jpg" group-title="⭐️Comedía",Una historia diferente (2010)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265049.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historias de fútbol (1997)" tvg-logo="http://redworld.pro:8880/images/ee280f24f3b6aa88777d897a3dd21fe2.jpg" group-title="⭐️Cine Chileno",Historias de fútbol (1997)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/265937.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Y Sus Hermanas En Una Historia De Ponis (2013)" tvg-logo="http://redworld.pro:8880/images/1fcbd2d58a332eee7d087b8de2970914.jpg" group-title="⭐️Infantiles",Barbie Y Sus Hermanas En Una Historia De Ponis (2013)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266233.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Bee Movie: La historia de una abeja (2007)" tvg-logo="http://redworld.pro:8880/images/44a92ed6e765232b35223db0f305c898.jpg" group-title="⭐️Infantiles",Bee Movie: La historia de una abeja (2007)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266237.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest: Tu historia (2019)" tvg-logo="http://redworld.pro:8880/images/d9f86cb28f89547ca8ec52ced258849e.jpg" group-title="⭐️Infantiles",Dragon Quest: Tu historia (2019)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266404.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La Increíble Historia de la Pera Gigante (2017)" tvg-logo="http://redworld.pro:8880/images/2a86dff0c3563d4fdef4166e14d99365.jpg" group-title="⭐️Infantiles",La Increíble Historia de la Pera Gigante (2017)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266468.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin II (1990)" tvg-logo="http://redworld.pro:8880/images/8716d4ccca4fe90593a65039ee53c87d.jpg" group-title="⭐️Infantiles",La Historia sin Fin II (1990)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266600.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin III (1994)" tvg-logo="http://redworld.pro:8880/images/73de3eedd42123ec4e3cb5c2c36cd839.jpg" group-title="⭐️Infantiles",La Historia sin Fin III (1994)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266601.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Historias de Asgard (2011)" tvg-logo="http://redworld.pro:8880/images/f3f023d2f0ff3f30c5a7dd322d2dbf19.jpg" group-title="⭐️Infantiles",Thor: Historias de Asgard (2011)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266652.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Suertes, humores y pequeñas historias de la Independencia y de la Revolución. (2010)" tvg-logo="http://redworld.pro:8880/images/ed50cee29c22ee8ad4a4b0a438a24684.jpg" group-title="⭐️Infantiles",Suertes, humores y pequeñas historias de la Independencia y de la Revolución. (2010)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266722.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La increíble historia del niño de piedra (2015)" tvg-logo="http://redworld.pro:8880/images/9358040189cbe2d1ea63f07d089bf24f.jpg" group-title="⭐️Infantiles",La increíble historia del niño de piedra (2015)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266747.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Meñique: La historia de Pulgarcito (2014)" tvg-logo="http://redworld.pro:8880/images/ad88e7202186cb20c7f02eeb538ad5c3.jpg" group-title="⭐️Infantiles",Meñique: La historia de Pulgarcito (2014)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266794.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Cigüeñas: La historia que no te contaron (2016)" tvg-logo="http://redworld.pro:8880/images/cedcd1398dd0b20595fc88c257f0ccb5.jpg" group-title="⭐️Infantiles",Cigüeñas: La historia que no te contaron (2016)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/266941.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest: Tu historia (2019)" tvg-logo="http://redworld.pro:8880/images/d9f86cb28f89547ca8ec52ced258849e.jpg" group-title="⭐️Aventura",Dragon Quest: Tu historia (2019)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267186.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Han Solo: Una historia de Star Wars (2018)" tvg-logo="http://redworld.pro:8880/images/5648bd8298861e7d1051be3687bb3aa9.jpg" group-title="⭐️Aventura",Han Solo: Una historia de Star Wars (2018)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267264.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La historia sin fin (1984)" tvg-logo="http://redworld.pro:8880/images/387ba59e6579230fc6955f5fa1ccdae0.jpg" group-title="⭐️Aventura",La historia sin fin (1984)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin II (1990)" tvg-logo="http://redworld.pro:8880/images/8716d4ccca4fe90593a65039ee53c87d.jpg" group-title="⭐️Aventura",La Historia sin Fin II (1990)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Historia sin Fin III (1994)" tvg-logo="http://redworld.pro:8880/images/73de3eedd42123ec4e3cb5c2c36cd839.jpg" group-title="⭐️Aventura",La Historia sin Fin III (1994)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267334.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2016)" tvg-logo="http://redworld.pro:8880/images/4ba1ccfe4fc0c25967d4a1d7d0f54ac9.jpg" group-title="⭐️Aventura",La Odisea (2016)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267346.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Historias de Asgard (2011)" tvg-logo="http://redworld.pro:8880/images/f3f023d2f0ff3f30c5a7dd322d2dbf19.jpg" group-title="⭐️Aventura",Thor: Historias de Asgard (2011)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267722.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Secuestrada: La Historia de Mary Stauffer (2019)" tvg-logo="http://redworld.pro:8880/images/fc01c71ce4e15cbea13be14cdfeffa0e.jpg" group-title="⭐️Terror",Secuestrada: La Historia de Mary Stauffer (2019)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267907.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Drácula: La Historia Jamás Contada (2014)" tvg-logo="http://redworld.pro:8880/images/4b0f6aad603da5f8b483d034d61bf019.jpg" group-title="⭐️Terror",Drácula: La Historia Jamás Contada (2014)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268075.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="El muerto cuenta su historia (2016)" tvg-logo="http://redworld.pro:8880/images/8914867b6b46e7cc0472d5f5551cce1f.jpg" group-title="⭐️Terror",El muerto cuenta su historia (2016)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268112.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historias de fantasmas (2020)" tvg-logo="http://redworld.pro:8880/images/6668558210552ee5aa15dab4f448921c.jpg" group-title="⭐️Terror",Historias de fantasmas (2020)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268176.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba (2018)" tvg-logo="http://redworld.pro:8880/images/02aeff360a938fa029da87876c38a89f.jpg" group-title="⭐️Terror",Historias de Ultratumba (2018)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268214.mkv
---
-#EXTINF:-1 tvg-id="" tvg-name="Historias de miedo para contar en la oscuridad (2019)" tvg-logo="http://redworld.pro:8880/images/d120d878a849e02acb7a3c495f846274.jpg" group-title="⭐️Terror",Historias de miedo para contar en la oscuridad (2019)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268500.mkv
 --
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="Movistar Documentales",Movistar Documentales
 acestream://6cda7d2622bcafd6aef486016238936855927d7d
@@ -2886,6 +2734,3 @@ https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
 --
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD" group-title="MOVISTAR", AMC HD --> NEW ERA
 acestream://55ff9ee631af351f365f51cf3601695bf1fd20f3
---
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Documentales HD Spain --> NEW LOOP
-acestream://a52f0bf0a381275ccbd65988b803fe4e5930bef7

@@ -111,8 +111,16 @@ http://202.169.224.202:8800/udp/239.9.1.10:1234
 http://202.169.224.202:8800/udp/239.9.1.11:1234
 #EXTINF:-1 tvg-id="b18613696a70"tvg-name="ICC Test Championship Highlights"tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png"group-title="🎎|Selection Sport|🎎",ICC Test Championship Highlights
 https://sm-monirul.top/Toffee/live.php?id=b18613696a70&e=.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",488 UEFA Champions League
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",CBS Champions Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 tvg-id="Strongman.us@Germany" group-title="⚽🥎| Thể Thao" tvg-logo="https://i.imgur.com/bVQBF6R.png",Strongman Champions League (720p) (deu2) (German) (Sports) - 720P
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UEFA.Champions.League.Dummy.us" group-title="⚽🥎| Thể Thao" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",UEFA Champions League
+https://stitcher.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",UEFA Champions League (720p) - 720P
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Champions League (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYCdGMJfonAo7YtsfrvhkLPpjNR.jpg" group-title="AMAZON | Fantasy",The Champions League (2016)
 http://vipwzcppcmr.top:8080/movie/VIP011561755445582563/fac9541a8d34/138720.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escape Room: Tournament of Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg" group-title="AMAZON | TOP",Escape Room: Tournament of Champions (2021)

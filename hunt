@@ -95,20 +95,20 @@ http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 udp://@225.1.4.210:30120
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
 udp://@225.1.3.85:30120
-#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🎬😜|Giải Trí" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
+#EXTINF:-1 tvg-id="491223" group-title="🎬😜|Giải Trí" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
-#EXTINF:-1 tvg-id="" group-title="🎬😜|Giải Trí",Outdoor Channel
+#EXTINF:-1 tvg-id="491223" group-title="🎬😜|Giải Trí",Outdoor Channel
 http://supersonictv.live:8080/611366/682256/22131
-#EXTINF:-1 tvg-id="Outdoor.Channel.id" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/knowledge/outdoor.jpg",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="491223" group-title="🎬😜|Giải Trí" tvg-logo="https://mimipipi22.github.io/logo/knowledge/outdoor.jpg",OUTDOOR CHANNEL
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
---
-#EXTINF:-1 tvg-id="outdoor-channel-us" group-title="🎬😜|Giải Trí" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true",Outdoor Channel SD
-https://v4.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=D0I_EiQzvf6O3ikgLPsX4g&expires=1774843134&user_id=RWliVFg2eVcxb2NqMUtBdXM4YXRpMXVpbHhXQzN1Q1E3T0Z6cjlZSg==
 --
 #EXTINF:-1 tvg-id="470516" group-title="⚽🥎| Thể Thao" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
+--
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",USA Sportsman Channel
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238385.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PHub LGBTQ Jack Hunter Gay" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX 18+",XXX: PHub LGBTQ Jack Hunter Gay
 http://esodette.top:8080/live/es2231754394935290/f25e8a287120/32386.m3u8
@@ -118,15 +118,6 @@ http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/32386.m3u8
 --
 #EXTINF:-1 tvg-id="" tvg-name="The Hunting (2022)" tvg-logo="http://redworld.pro:8880/images/519f19cd5b169ca7dc4fc084e81ce54f.jpg" group-title="⭐️Películas 2022",The Hunting (2022)
 http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/258879.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter: Leyendas del gremio (2021)" tvg-logo="http://redworld.pro:8880/images/e31b7cabb5b8e8613d1144dcd98e845a.jpg" group-title="⭐️Películas 2021",Monster Hunter: Leyendas del gremio (2021)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/259375.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Vampire Hunter D (1985)" tvg-logo="http://redworld.pro:8880/images/0a2d864e0685b13d9c844179ad6a6396.jpg" group-title="⭐️Anime",Vampire Hunter D (1985)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/267023.mp4
---
-#EXTINF:-1 tvg-id="" tvg-name="Happy Hunting (2017)" tvg-logo="http://redworld.pro:8880/images/fade81c69472e32761efa148a99e2df7.jpg" group-title="⭐️Terror",Happy Hunting (2017)
-http://rlatinop.com:8880/movie/jp0x001/wJaThgzBZVjk/268197.mkv
 --
 #EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Outdoor Channel
 http://vipwzcppcmr.top:8080/VIP011561755445582563/fac9541a8d34/25010
