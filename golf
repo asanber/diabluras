@@ -315,8 +315,10 @@ http://esodette.top:8080/live/es4401743867416247/7f7861183c9c/127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLF CHANNEL" tvg-logo="http://redworld.pro:8880/images/89b80113c1ed34f36bfe6936fcf5ed20.png" group-title="⭐️ DEPORTE VIP",DEPORTES | GOLF CHANNEL
 http://rlatinop.com:8880/live/jp0x001/wJaThgzBZVjk/167746.m3u8
 --
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 720p *
-acestream://f60535a458b3c114283e2f433379144345beddd6
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 1080p **
+acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irjqp71744196637.png" group-title="MOVISTAR DEPORTES",M+ Golf 2 1080p **
+acestream://882074140fca664e119a43294afa2fb4a64917ef
 --
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" tvg-id="M+ Golf HD",M. Golf HD
 acestream://872608e734992db636eb79426802cd08f4029afb
@@ -855,5 +857,7 @@ acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf SDp * --> ELCANO
 acestream://f60535a458b3c114283e2f433379144345beddd6
 --
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 720p *
-acestream://f60535a458b3c114283e2f433379144345beddd6
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 1080p **
+acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irjqp71744196637.png" group-title="MOVISTAR DEPORTES",M+ Golf 2 1080p **
+acestream://882074140fca664e119a43294afa2fb4a64917ef
